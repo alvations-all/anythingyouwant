@@ -10,6 +10,18 @@ from threading import Thread
 from Queue import Queue
 
 import lucene
+from java.io import File
+# For Indexing.
+from org.apache.lucene.analysis.standard import StandardAnalyzer
+from org.apache.lucene.document import Document, Field, FieldType
+from org.apache.lucene.index import FieldInfo, IndexWriter, IndexWriterConfig
+from org.apache.lucene.store import FSDirectory
+from org.apache.lucene.util import Version
+# For Querying.
+from org.apache.lucene.index import DirectoryReader
+from org.apache.lucene.queryparser.classic import QueryParser
+from org.apache.lucene.search import IndexSearcher
+
 from nltk.corpus import wordnet as wn
 from nltk import sent_tokenize, word_tokenize
 
