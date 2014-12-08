@@ -18,7 +18,7 @@ from luluwiki import retrieve_wiki
 
 texeval_corpus = TexEval2015()
 
-wiki_index = '/home/alvas/english-wiki'
+wiki_index = '/home/alvas/engwiki/english-wiki'
 lucene.initVM()
 
 def filter_doc(term, doc):
