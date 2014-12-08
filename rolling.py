@@ -45,7 +45,7 @@ def isa_doc(term, doc):
             yield i
 
 
-def build_corpus(sbc):
+def build_corpus(sbc, searcher, analyzer):
     fout = io.open('WIKI_'+sbc, 'w', encoding='utf8')
     for termid, term in texeval_corpus.terms('test', sbc):
         docs = []
@@ -65,11 +65,11 @@ def wrapper(func, arg, queue):
     """" Wrapper class for multi-threaded functions """
     queue.put(func(arg))
 
+n = 0
 sbcs = texeval_corpus.test_subcorpora
-
+sbc = sbcs[n]
 # Hack for parallelizing queries, uses one index per domain.
 directory = FSDirectory.open(File(wiki_index+'-'+sbc))
 searcher = IndexSearcher(DirectoryReader.open(directory))
 analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-
-build_corpus(sbcs[0])
+build_corpus(sbcs[0], searcher, analyzer)
