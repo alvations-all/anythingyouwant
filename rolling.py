@@ -21,6 +21,10 @@ texeval_corpus = TexEval2015()
 wiki_index = '/home/alvas/engwiki/english-wiki'
 lucene.initVM()
 
+directory = FSDirectory.open(File(wiki_index))
+searcher = IndexSearcher(DirectoryReader.open(directory))
+analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
+
 def filter_doc(term, doc):
     for i in sent_tokenize(doc):
         for j in i.split('\n'):
@@ -37,7 +41,7 @@ def build_corpus(sbc):
     fout = io.open('WIKI_'+sbc, 'w', encoding='utf8')
     for termid, term in texeval_corpus.terms('test', sbc):
         docs = []
-        for curl, doc in retrieve_wiki(term, wiki_index):
+        for curl, doc in retrieve_wiki(term, searcher, analyzer):
             for fdoc in filter_doc(term, doc):
                 docs.append(fdoc)
         

@@ -85,12 +85,8 @@ def index_wiki(wiki_xmlfile, index_directory_name):
      
     writer.commit()
     writer.close()
-    
-def retrieve_wiki(text_query, index_directory_name):
-    directory = FSDirectory.open(File(index_directory_name))
-    searcher = IndexSearcher(DirectoryReader.open(directory))
-    analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-    
+
+def retrieve_wiki(text_query, searcher, analyzer):    
     txt =text_query
     try:
         query = QueryParser(Version.LUCENE_CURRENT, "contents", 
