@@ -33,10 +33,6 @@ texeval_corpus = TexEval2015()
 wiki_index = '/home/alvas/engwiki/english-wiki'
 lucene.initVM()
 
-directory = FSDirectory.open(File(wiki_index))
-searcher = IndexSearcher(DirectoryReader.open(directory))
-analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-
 def filter_doc(term, doc):
     for i in sent_tokenize(doc):
         for j in i.split('\n'):
@@ -50,6 +46,10 @@ def isa_doc(term, doc):
 
 
 def build_corpus(sbc):
+    # Hack for parallelizing queries, uses one index per domain.
+    directory = FSDirectory.open(File(wiki_index+'-'+sbc))
+    searcher = IndexSearcher(DirectoryReader.open(directory))
+    analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
     fout = io.open('WIKI_'+sbc, 'w', encoding='utf8')
     for termid, term in texeval_corpus.terms('test', sbc):
         docs = []
