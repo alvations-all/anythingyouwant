@@ -46,10 +46,6 @@ def isa_doc(term, doc):
 
 
 def build_corpus(sbc):
-    # Hack for parallelizing queries, uses one index per domain.
-    directory = FSDirectory.open(File(wiki_index+'-'+sbc))
-    searcher = IndexSearcher(DirectoryReader.open(directory))
-    analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
     fout = io.open('WIKI_'+sbc, 'w', encoding='utf8')
     for termid, term in texeval_corpus.terms('test', sbc):
         docs = []
@@ -71,15 +67,9 @@ def wrapper(func, arg, queue):
 
 sbcs = texeval_corpus.test_subcorpora
 
-q1, q2 = Queue(), Queue()
-q3, q4 =  Queue(), Queue()
-q5 = Queue()
-q6 = Queue()
-Thread(target=wrapper, args=(build_corpus, sbcs[0], q1)).start()
-Thread(target=wrapper, args=(build_corpus, sbcs[1], q2)).start()
-Thread(target=wrapper, args=(build_corpus, sbcs[2], q3)).start()
-Thread(target=wrapper, args=(build_corpus, sbcs[3], q4)).start()
-Thread(target=wrapper, args=(build_corpus, sbcs[4], q5)).start()
-Thread(target=wrapper, args=(build_corpus, sbcs[5], q6)).start()
+# Hack for parallelizing queries, uses one index per domain.
+directory = FSDirectory.open(File(wiki_index+'-'+sbc))
+searcher = IndexSearcher(DirectoryReader.open(directory))
+analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
 
-q1.get(); q2.get(); q3.get(); q4.get(); q5.get() ; q6.get()           
+build_corpus(sbcs[0])
