@@ -92,7 +92,13 @@ def retrieve_wiki(text_query, index_directory_name):
     analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
     
     txt =text_query
-    query = QueryParser(Version.LUCENE_CURRENT, "contents", analyzer).parse(txt)
+    try:
+        query = QueryParser(Version.LUCENE_CURRENT, "contents", 
+                            analyzer).parse(txt)
+    except:
+        qp = QueryParser(Version.LUCENE_CURRENT, "contents", analyzer)
+        txt = qp.escape(txt)
+        query = qp.parse(txt)
     scoreDocs = searcher.search(query, 1000).scoreDocs
     
     for scoreDoc in scoreDocs:
