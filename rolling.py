@@ -72,4 +72,4 @@ sbc = sbcs[n]
 directory = FSDirectory.open(File(wiki_index+'-'+sbc))
 searcher = IndexSearcher(DirectoryReader.open(directory))
 analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-build_corpus(sbcs[0], searcher, analyzer)
+build_corpus(sbcs[n], searcher, analyzer)
