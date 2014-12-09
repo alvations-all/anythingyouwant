@@ -84,9 +84,10 @@ def build_word_vector(n=0, mincount=1):
                     # Single tokenize terms.
                     line.replace(current_term, current_term.replace(' ', '_'))
                 sentences.append(list(tokenize(line)))
-    model = Word2Vec(sentences, size=100, window=5, min_count=mincount, workers=2)
-    model.save(corpus_name+'.singletok.min'+str(mincount)+'.deep')
-    
+    model = Word2Vec(sentences, size=100, window=5, 
+                     min_count=mincount, workers=2, iter=100)
+    model.save(corpus_name+'.100epochs.singletok.min'+str(mincount)+'.deep')
+
 def test_vector(n=0, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
@@ -98,6 +99,18 @@ def test_vector(n=0, mincount=1):
             print termid, term, model[term]
             
 
+def cluster(n=0):
+    sbcs = texeval_corpus.test_subcorpora
+    sbc = sbcs[n]
+    matname = sbc+'.matrix'
+    # Converts matrix to distance triangle.
+    # Agglo cluster.
+    
+def build_taxo(n=0):
+    pass
+    # Parse cluster for hypernyms.
+    # Output to file.
+    
 def main(domain_number, mincount):
     build_word_vector(int(domain_number), int(mincount))
 
