@@ -124,6 +124,9 @@ def get_matrix(n=0):
     matrix = np.array(matrix_lol)
     print matrix
 
+get_matrix()
+
+'''
 def build_taxo(n=0):
     pass
     # Parse cluster for hypernyms.
@@ -135,3 +138,4 @@ def main(domain_number, mincount):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
+'''
