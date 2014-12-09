@@ -117,25 +117,23 @@ def get_matrix(n=0):
         for termid2, term2 in terms:
             term1 = "".join(['_' if ch in string.punctuation or ch == ' ' else ch for ch in term1])
             term2 = "".join(['_' if ch in string.punctuation or ch == ' ' else ch for ch in term2])
-            print term1, term2
+            ##print term1, term2
             similarity = model.n_similarity(term1, term2)
             distance = 2*(1-similarity)
             matrix_lol[termid1][termid2] = distance
     matrix = np.array(matrix_lol)
-    print matrix
+    np.savetxt(sbc+'.matrix', matrix)
 
-get_matrix()
-
-'''
 def build_taxo(n=0):
     pass
     # Parse cluster for hypernyms.
     # Output to file.
 
-def main(domain_number, mincount):
-    build_word_vector(int(domain_number), int(mincount))
+def main(domain_number, mincount=1):
+    #build_word_vector(int(domain_number), int(mincount))
+    get_matrix(int(domain_number))
+    
 
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
-'''
