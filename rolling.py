@@ -84,7 +84,7 @@ def build_word_vector(n=0, mincount=1):
             if line.strip().endswith('.'):
                 if current_term in line:
                     # Single tokenize terms.
-                    depunct_term = [ch if '_' in string.punctuation else ch for ch in current_term]
+                    depunct_term = "".join([ch if '_' in string.punctuation else ch for ch in current_term])
                     line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
@@ -113,8 +113,8 @@ def get_matrix(n=0):
      
     for termid1, term1 in terms:
         for termid2, term2 in terms:
-            term1 = [ch if '_' in string.punctuation else ch for ch in term1]
-            term2 = [ch if '_' in string.punctuation else ch for ch in term2]
+            term1 = "".join([ch if '_' in string.punctuation else ch for ch in term1])
+            term2 = "".join([ch if '_' in string.punctuation else ch for ch in term2])
             similarity = model.n_similarity(term1, term2)
             distance = 2*(1-similarity)
             matrix_lol[termid1][termid2] = distance
