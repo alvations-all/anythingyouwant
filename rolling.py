@@ -110,7 +110,7 @@ def get_matrix(n=0):
     fname = 'WIKI_'+sbc+'.10epochs.singletok.min1'+'.deep'
     model = Word2Vec.load(fname)
     
-    terms = [i.strip().split('\t')[1] for i in texeval_corpus.terms('test', sbc)]
+    terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     matrix_lol = [[0 for x in range(len(terms))] for x in range(len(terms))]
      
     for termid1, term1 in enumerate(terms):
