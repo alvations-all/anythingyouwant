@@ -93,7 +93,7 @@ def test_vector(n=0):
             
 
 def main(domain_number, mincount):
-    build_word_vector(domain_number, mincount)
+    build_word_vector(int(domain_number), int(mincount))
 
 if __name__ == '__main__':
   import sys
