@@ -78,10 +78,7 @@ def build_word_vector(n=0):
         for line in fin:
             if line.strip().endswith('.'):
                 sentences.append(list(tokenize(line)))
-                
-    for s in sentences:
-        print s
-    #model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
-    #model.save(corpus_name+'.deep')
+    model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
+    model.save(corpus_name+'.deep')
     
 build_word_vector(0)
