@@ -110,11 +110,11 @@ def get_matrix(n=0):
     fname = 'WIKI_'+sbc+'.10epochs.singletok.min1'+'.deep'
     model = Word2Vec.load(fname)
     
-    terms = [i for i in texeval_corpus.terms('test', sbc)]
+    terms = [i.strip().split('\t')[1] for i in texeval_corpus.terms('test', sbc)]
     matrix_lol = [[0 for x in range(len(terms))] for x in range(len(terms))]
      
-    for termid1, term1 in terms:
-        for termid2, term2 in terms:
+    for termid1, term1 in enumerate(terms):
+        for termid2, term2 in enumerate(terms):
             term1 = "".join(['_' if ch in string.punctuation or ch == ' ' 
                              else ch for ch in term1])
             term2 = "".join(['_' if ch in string.punctuation or ch == ' ' 
@@ -128,6 +128,7 @@ def get_matrix(n=0):
             matrix_lol[termid1][termid2] = distance
     matrix = np.array(matrix_lol)
     np.savetxt(sbc+'.matrix', matrix)
+    
 
 def build_taxo(n=0):
     pass
