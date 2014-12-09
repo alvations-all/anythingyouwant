@@ -19,6 +19,8 @@ from org.apache.lucene.index import DirectoryReader
 from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.search import IndexSearcher
 
+import numpy as np
+
 from nltk.corpus import wordnet as wn
 from nltk import sent_tokenize, word_tokenize
 
@@ -91,7 +93,7 @@ def build_word_vector(n=0, mincount=1):
 def test_vector(n=0, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'WIKI_'+sbc+'.singletok.min'+str(mincount)+".deep"
+    fname = 'WIKI_'+'.10epochs.singletok.min'+str(mincount)+'.deep'
     model = Word2Vec.load(fname)
     
     for termid, term in texeval_corpus.terms('test', sbc):
@@ -99,21 +101,41 @@ def test_vector(n=0, mincount=1):
             print termid, term, model[term]
             
 
-def cluster(n=0):
+def get_matrix(n=0):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    matname = sbc+'.matrix'
-    # Converts matrix to distance triangle.
-    # Agglo cluster.
+    fname = 'WIKI_'+'.10epochs.singletok.min'+str(mincount)+'.deep'
+    model = Word2Vec.load(fname)
     
+    terms = [i for i in texeval_corpus.terms('test', sbc)]
+    matrix_lol = [[0 for x in range(len(terms))] for x in range(len(terms))]
+     
+    for termid1, term1 in terms:
+        for termid2, term2 in terms:
+            term1 = term1.replace(' ', '_')
+            term2 = term2.replace(' ', '_')
+            similarity = model.n_similarity(term1, term2)
+            distance = 2*(1-similarity)
+            matrix_lol[termid1][termid2] = distance
+    
+    matrix = np.array(matrix_lol)
+    
+    print matrix
+            
+
+get_matrix()
+ 
+'''    
 def build_taxo(n=0):
     pass
     # Parse cluster for hypernyms.
     # Output to file.
-    
+
 def main(domain_number, mincount):
     build_word_vector(int(domain_number), int(mincount))
 
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
+  
+'''
