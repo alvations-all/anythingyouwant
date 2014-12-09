@@ -23,7 +23,7 @@ from nltk.corpus import wordnet as wn
 from nltk import sent_tokenize, word_tokenize
 
 from gensim.utils import tokenize
-from gensim.models import Word2Vec
+from gensim.models import word2vec
 
 from texeval import TexEval2015
 from luluwiki import retrieve_wiki
@@ -80,6 +80,8 @@ def build_word_vector(n=0):
                 continue
             else:
                 sentences.append(list(tokenize(corpus_name)))
+    for s in sentences:
+        print s
     model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
     model.save(corpus_name+'.deep')
     
