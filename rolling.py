@@ -82,7 +82,7 @@ def build_word_vector(n=0):
                 sentences.append(list(tokenize(corpus_name)))
     for s in sentences:
         print s
-    model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
-    model.save(corpus_name+'.deep')
+    #model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
+    #model.save(corpus_name+'.deep')
     
 build_word_vector(0)
