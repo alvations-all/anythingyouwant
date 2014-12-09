@@ -81,4 +81,14 @@ def build_word_vector(n=0):
     model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
     model.save(corpus_name+'.deep')
     
-build_word_vector(0)
+def test_vector(n=0):
+    sbcs = texeval_corpus.test_subcorpora
+    sbc = sbcs[n]
+    fname = 'WIKI_'+sbc+".deep"
+    model = Word2Vec.load(fname)
+    
+    for termid, term in texeval_corpus.terms('test', sbc):
+        if len(term.split()) == 1 and term in model:
+            print termid, model[term]
+            
+test_vector()
