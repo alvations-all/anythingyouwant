@@ -84,7 +84,7 @@ def build_word_vector(n=0, mincount=1):
             if line.strip().endswith('.'):
                 if current_term in line:
                     # Single tokenize terms.
-                    line.replace(current_term, current_term.replace(' ', '_').replace('-', '_').replace(',', '_'))
+                    line.replace(current_term, current_term.replace(' ', '_').replace('-', '_').replace(',', '_').replace("'", '_'))
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
                      min_count=mincount, workers=2, iter=10)
@@ -113,8 +113,8 @@ def get_matrix(n=0):
     for termid1, term1 in terms:
         for termid2, term2 in terms:
             print term1, term2
-            term1 = term1.replace(' ', '_').replace('-', '_').replace(',', '_')
-            term2 = term2.replace(' ', '_').replace('-', '_').replace(',', '_')
+            term1 = term1.replace(' ', '_').replace('-', '_').replace(',', '_').replace("'", '_')
+            term2 = term2.replace(' ', '_').replace('-', '_').replace(',', '_').replace("'", '_')
             similarity = model.n_similarity(term1, term2)
             distance = 2*(1-similarity)
             matrix_lol[termid1][termid2] = distance
