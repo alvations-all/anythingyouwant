@@ -23,7 +23,7 @@ from nltk.corpus import wordnet as wn
 from nltk import sent_tokenize, word_tokenize
 
 from gensim.utils import tokenize
-from gensim.models import word2vec
+from gensim.models import Word2Vec
 
 from texeval import TexEval2015
 from luluwiki import retrieve_wiki
