@@ -84,7 +84,9 @@ def build_word_vector(n=0, mincount=1):
             if line.strip().endswith('.'):
                 if current_term in line:
                     # Single tokenize terms.
-                    depunct_term = "".join(['_' if ch in string.punctuation or ch == ' ' else ch for ch in term1])
+                    depunct_term = "".join(['_' if ch in string.punctuation or 
+                                            ch == ' ' else ch 
+                                            for ch in current_term])
                     line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
