@@ -85,12 +85,12 @@ def build_word_vector(n=0, mincount=1):
                     line.replace(current_term, current_term.replace(' ', '_'))
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, min_count=mincount, workers=2)
-    model.save(corpus_name+'.min'+str(mincount)+'.deep')
+    model.save(corpus_name+'.singletok.min'+str(mincount)+'.deep')
     
-def test_vector(n=0):
+def test_vector(n=0, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'WIKI_'+sbc+".deep"
+    fname = 'WIKI_'+sbc+'.singletok.min'+str(mincount)+".deep"
     model = Word2Vec.load(fname)
     
     for termid, term in texeval_corpus.terms('test', sbc):
