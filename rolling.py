@@ -76,11 +76,10 @@ def build_word_vector(n=0):
     sentences = []
     with io.open(corpus_name, 'r', encoding='utf8') as fin:
         for line in fin:
-            print line
-            if '\t' not in line or not line.endswith('.\n'):
+            if '\t' not in line or not line.strip().endswith('.'):
                 continue
             else:
-                sentences.append(list(tokenize(corpus_name)))
+                sentences.append(list(tokenize(line)))
     for s in sentences:
         print s
     #model = Word2Vec(sentences, size=100, window=5, min_count=5, workers=2)
