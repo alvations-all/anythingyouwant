@@ -69,7 +69,7 @@ def build_corpus(n=0):
     analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
     build_corpus_from_terms_with_wiki(sbc, searcher, analyzer)
 
-def build_word_vector(n=0, mincount=5):
+def build_word_vector(n=0, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     corpus_name = 'WIKI_'+sbc
@@ -79,7 +79,7 @@ def build_word_vector(n=0, mincount=5):
             if line.strip().endswith('.'):
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, min_count=mincount, workers=2)
-    model.save(corpus_name+'.min'+mincount+'.deep')
+    model.save(corpus_name+'.min'+str(mincount)+'.deep')
     
 def test_vector(n=0):
     sbcs = texeval_corpus.test_subcorpora
