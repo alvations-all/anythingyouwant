@@ -2,7 +2,7 @@
 
 from __future__ import unicode_literals
 
-import io, sys
+import io, sys, string
 from itertools import chain
 reload(sys); sys.setdefaultencoding("utf-8")
 
@@ -84,7 +84,7 @@ def build_word_vector(n=0, mincount=1):
             if line.strip().endswith('.'):
                 if current_term in line:
                     # Single tokenize terms.
-                    depunct_term = [ch if ch=='_' else '_' for ch in current_term]
+                    depunct_term = [ch if '_' in string.punctuation else ch for ch in current_term]
                     line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
