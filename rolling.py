@@ -117,6 +117,7 @@ def get_matrix(n=0):
                              else ch for ch in term1])
             term2 = "".join([ch if '_' in string.punctuation 
                              else ch for ch in term2])
+            print term1, term2
             similarity = model.n_similarity(term1, term2)
             distance = 2*(1-similarity)
             matrix_lol[termid1][termid2] = distance
