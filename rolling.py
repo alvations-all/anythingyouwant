@@ -74,9 +74,15 @@ def build_word_vector(n=0, mincount=1):
     sbc = sbcs[n]
     corpus_name = 'WIKI_'+sbc
     sentences = []
+    current_term = ""
     with io.open(corpus_name, 'r', encoding='utf8') as fin:
         for line in fin:
+            if '\t' in line:
+                current_term = line.strip().split('\t')[1]
             if line.strip().endswith('.'):
+                if current_term in line:
+                    # Single tokenize terms.
+                    line.replace(current_term, current_term.replace(' ', '_'))
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, min_count=mincount, workers=2)
     model.save(corpus_name+'.min'+str(mincount)+'.deep')
