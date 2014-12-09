@@ -76,6 +76,7 @@ def build_word_vector(n=0):
     sentences = []
     with io.open(corpus_name, 'r', encoding='utf8') as fin:
         for line in fin:
+            print line
             if '\t' not in line or not line.endswith('.\n'):
                 continue
             else:
