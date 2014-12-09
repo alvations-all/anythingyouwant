@@ -112,6 +112,7 @@ def get_matrix(n=0):
      
     for termid1, term1 in terms:
         for termid2, term2 in terms:
+            print term1, term2
             term1 = term1.replace(' ', '_').replace('-', '_')
             term2 = term2.replace(' ', '_').replace('-', '_')
             similarity = model.n_similarity(term1, term2)
