@@ -115,11 +115,16 @@ def get_matrix(n=0):
      
     for termid1, term1 in terms:
         for termid2, term2 in terms:
-            term1 = "".join(['_' if ch in string.punctuation or ch == ' ' else ch for ch in term1])
-            term2 = "".join(['_' if ch in string.punctuation or ch == ' ' else ch for ch in term2])
-            ##print term1, term2
-            similarity = model.n_similarity(term1, term2)
-            distance = 2*(1-similarity)
+            term1 = "".join(['_' if ch in string.punctuation or ch == ' ' 
+                             else ch for ch in term1])
+            term2 = "".join(['_' if ch in string.punctuation or ch == ' ' 
+                             else ch for ch in term2])
+            print term1, term2
+            try:
+                similarity = model.n_similarity(term1, term2)
+                distance = 2*(1-similarity)
+            except:
+                distance = 1
             matrix_lol[termid1][termid2] = distance
     matrix = np.array(matrix_lol)
     np.savetxt(sbc+'.matrix', matrix)
