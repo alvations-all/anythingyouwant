@@ -85,9 +85,10 @@ def build_word_vector(n=0, mincount=1):
                 if current_term in line:
                     if ' is a ' in line:
                         line.replace(' is a ', ' is_a ')
+                        print line
                     if ' is an ' in line:
                         line.replace(' is an ', ' is_a ')
-                    print line
+                    
                     # Single tokenize terms.
                     depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
