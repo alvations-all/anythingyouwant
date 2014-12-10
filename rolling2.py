@@ -100,7 +100,7 @@ def build_word_vector(n=0, mincount=1):
 def test_vector(n=7, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'WIKI_'+'.100epochs.singletok.min'+str(mincount)+'.deep'
+    fname = 'WIKI_'+sbc+'.100epochs.singletok.min'+str(mincount)+'.deep'
     model = Word2Vec.load(fname)
     
     print model.most_similar(positive=['orange', 'is_a'])
