@@ -84,16 +84,16 @@ def build_word_vector(n=0, mincount=1):
             if line.strip().endswith('.'):
                 if current_term in line:
                     if ' is a ' in line:
-                        line.replace(' is a ', ' is_a ')
+                        line = line.replace(' is a ', ' is_a ')
                         print line
                     if ' is an ' in line:
-                        line.replace(' is an ', ' is_a ')
+                        line = line.replace(' is an ', ' is_a ')
                     
                     # Single tokenize terms.
                     depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
                                             for ch in current_term])
-                    line.replace(current_term, depunct_term)
+                    line = line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
     '''
     model = Word2Vec(sentences, size=100, window=5, 
