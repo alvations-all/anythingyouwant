@@ -99,14 +99,14 @@ def build_word_vector(n=0, mincount=1):
     model.save(corpus_name+'.100epochs.singletok.min'+str(mincount)+'.deep')
     
                 
-def test_vector(n=2, mincount=1):
+def test_vector(n=3, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.10epochs.singletok.min'+str(mincount)+'.deep'
     model = Word2Vec.load(fname)
-    #print model.most_similar(positive=['orange', 'is', 'a'])
+    print model.most_similar(positive=['french_linguistics', 'is_a'])
 
-
+'''
 def build_taxo(n=0):
     pass
     # Parse cluster for hypernyms.
@@ -119,3 +119,4 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
+'''
