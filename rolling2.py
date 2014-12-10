@@ -79,24 +79,27 @@ def build_word_vector(n=0, mincount=1):
     current_term = ""
     with io.open(corpus_name, 'r', encoding='utf8') as fin:
         for line in fin:
-            if ' is a ' in line:
-                line.replace(' is a ', ' is_a ')
-            if ' is an ' in line:
-                line.replace(' is an ', ' is_a ')
             if '\t' in line:
                 current_term = line.strip().split('\t')[1]
             if line.strip().endswith('.'):
                 if current_term in line:
+                    if ' is a ' in line:
+                        line.replace(' is a ', ' is_a ')
+                    if ' is an ' in line:
+                        line.replace(' is an ', ' is_a ')
+                    print line
                     # Single tokenize terms.
                     depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
                                             for ch in current_term])
                     line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
+    '''
     model = Word2Vec(sentences, size=100, window=5, 
-                     min_count=mincount, workers=2, iter=100)
+                     min_count=mincount, workers=2, iter=10)
     model.save(corpus_name+'.10epochs.singletok.min'+str(mincount)+'.deep')
-
+    '''
+                
 def test_vector(n=2, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
@@ -105,10 +108,6 @@ def test_vector(n=2, mincount=1):
     
     print model.most_similar(positive=['orange', 'is', 'a'])
 
-test_vector()
-
-'''
-    
 
 def build_taxo(n=0):
     pass
@@ -122,5 +121,3 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
-
-'''
