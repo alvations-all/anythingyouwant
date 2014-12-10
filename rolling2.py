@@ -85,7 +85,6 @@ def build_word_vector(n=0, mincount=1):
                 if current_term in line:
                     if ' is a ' in line:
                         line = line.replace(' is a ', ' is_a ')
-                        print line
                     if ' is an ' in line:
                         line = line.replace(' is an ', ' is_a ')
                     
@@ -94,7 +93,8 @@ def build_word_vector(n=0, mincount=1):
                                             ch == ' ' else ch 
                                             for ch in current_term])
                     line = line.replace(current_term, depunct_term)
-                sentences.append(list(tokenize(line)))
+                    sentences.append(list(tokenize(line)))
+                    print term, line
     '''
     model = Word2Vec(sentences, size=100, window=5, 
                      min_count=mincount, workers=2, iter=10)
