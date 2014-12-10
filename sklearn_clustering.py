@@ -32,10 +32,21 @@ print model.children_[520]
 print model.children_[1520]
 '''
 l = len(terms)
-'''
+
+#print model.n_components_
+
+#print model.n_leaves_
+
+#print len(model.children_)
+#print model.children_
+
+#for row in model.children_:
+#print row
+
+
 for row in model.children_:
     if int(row[0]) > l or int(row[1]) > l:
-        continue
+        print row
     else:
             
         try:
@@ -44,16 +55,15 @@ for row in model.children_:
             print row, t1, " ||| ", t2
         except:
             continue
+
 '''
-
-
 print n_clusters, len(terms), min(model.labels_), max(model.labels_)
 
 
 # Get clusters.
 for term, clusterid in zip(terms, model.labels_):
     print clusterid, term
-
+'''
 
 
 
