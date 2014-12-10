@@ -94,18 +94,20 @@ def build_word_vector(n=0, mincount=1):
                     line.replace(current_term, depunct_term)
                 sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
-                     min_count=mincount, workers=1, iter=10)
+                     min_count=mincount, workers=2, iter=100)
     model.save(corpus_name+'.10epochs.singletok.min'+str(mincount)+'.deep')
 
-def test_vector(n=0, mincount=1):
+def test_vector(n=7, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+'.100epochs.singletok.min'+str(mincount)+'.deep'
     model = Word2Vec.load(fname)
     
-    for termid, term in texeval_corpus.terms('test', sbc):
-        if len(term.split()) == 1 and term in model:
-            print termid, term, model[term]
+    print model.most_similar(positive=['orange', 'is_a'])
+
+test_vector()
+
+'''
     
 
 def build_taxo(n=0):
@@ -120,3 +122,5 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
+
+'''
