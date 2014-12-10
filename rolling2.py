@@ -97,7 +97,7 @@ def build_word_vector(n=0, mincount=1):
                      min_count=mincount, workers=2, iter=100)
     model.save(corpus_name+'.10epochs.singletok.min'+str(mincount)+'.deep')
 
-def test_vector(n=7, mincount=1):
+def test_vector(n=4, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.100epochs.singletok.min'+str(mincount)+'.deep'
