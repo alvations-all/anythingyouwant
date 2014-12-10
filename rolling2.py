@@ -104,7 +104,12 @@ def test_vector(n=3, mincount=1):
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.10epochs.singletok.min'+str(mincount)+'.deep'
     model = Word2Vec.load(fname)
+    
+    print model['french_linguistics']
+    print model['is_a']
     print model.most_similar(positive=['french_linguistics', 'is_a'])
+    
+test_vector()
 
 '''
 def build_taxo(n=0):
