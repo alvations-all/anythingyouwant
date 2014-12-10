@@ -95,8 +95,8 @@ def build_word_vector(n=0, mincount=1):
                     line = line.replace(current_term, depunct_term)
                     sentences.append(list(tokenize(line)))
     model = Word2Vec(sentences, size=100, window=5, 
-                     min_count=mincount, workers=2, iter=10)
-    model.save(corpus_name+'.10epochs.singletok.min'+str(mincount)+'.deep')
+                     min_count=mincount, workers=2, iter=100)
+    model.save(corpus_name+'.100epochs.singletok.min'+str(mincount)+'.deep')
     
                 
 def test_vector(n=2, mincount=1):
