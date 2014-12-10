@@ -25,7 +25,7 @@ from nltk.corpus import wordnet as wn
 from nltk import sent_tokenize, word_tokenize
 
 from gensim.utils import tokenize
-from gensim.models import Word2Vec
+from gensim.models import Word2Vec, Phrases
 
 from texeval import TexEval2015
 from luluwiki import retrieve_wiki
@@ -94,10 +94,11 @@ def build_word_vector(n=0, mincount=1):
                                             for ch in current_term])
                     line = line.replace(current_term, depunct_term)
                     sentences.append(list(tokenize(line)))
-    model = Word2Vec(sentences, size=100, window=5, 
-                     min_count=mincount, workers=2, iter=100)
-    model.save(corpus_name+'.100epochs.singletok.min'+str(mincount)+'.deep')
-    
+    bigram_transformer = phrases.Phrases(sentences)
+    model = Word2Vec(bigram_transformer[sentences], size=100, window=5, 
+                     min_count=mincount, workers=2, iter=10)
+    model.save(corpus_name+'.10epochs.phrasal.singletok.min'+str(mincount)+'.deep')
+
                 
 def test_vector(n=3, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
@@ -107,11 +108,8 @@ def test_vector(n=3, mincount=1):
     
     print model['french_linguistics']
     print model['is_a']
-    print model.most_similar(positive=['french_linguistics', 'is_a'])
-    
-test_vector()
+    print model.most_similar(positive=['french linguistics', 'is_a'])
 
-'''
 def build_taxo(n=0):
     pass
     # Parse cluster for hypernyms.
@@ -124,4 +122,3 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
-'''
