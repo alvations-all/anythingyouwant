@@ -104,7 +104,7 @@ def build_taxo(n=3, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.10epochs.phrasal.singletok.min'+str(mincount)+'.deep'
-    model = Word2Vec.load(fname)
+    #model = Word2Vec.load(fname)
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
     for term in terms:
@@ -120,12 +120,13 @@ def build_taxo(n=3, mincount=1):
             for word in unpunct_term.split(' '):
                 partial_terms.append(word)
         positive = partial_terms + ['is_a']
-
+        print positive
+'''
         print term
         print model.most_similar(positive=positive)
         print partial_terms
         print
-            
+'''         
 
 build_taxo()
 
