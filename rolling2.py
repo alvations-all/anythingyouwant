@@ -100,21 +100,33 @@ def build_word_vector(n=0, mincount=1):
     model.save(corpus_name+'.100epochs.phrasal.singletok.min'+str(mincount)+'.deep')
 
                 
-def test_vector(n=3, mincount=1):
+def build_taxo(n=3, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'WIKI_'+sbc+'.100epochs.singletok.min'+str(mincount)+'.deep'
-    model = Word2Vec.load(fname)
+    fname = 'WIKI_'+sbc+'.100epochs.phrasal.singletok.min'+str(mincount)+'.deep'
+    #model = Word2Vec.load(fname)
+    terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
-    print model['french_linguistics']
-    print model['is_a']
-    print model.most_similar(positive=['french linguistics', 'is_a'])
+    for term in terms:
+        term_vectors = []
+        try:
+            depunct_term = "".join(['_' if ch in string.punctuation or 
+                                            ch == ' ' else ch 
+                                            for ch in current_term])
+            term_vectors.append(model[depunct_term])
+        except:
+            for word in term.split():
+                term_vectors.append(model[word])
+        positive = term_vector + ['is_a']
 
-def build_taxo(n=0):
-    pass
-    # Parse cluster for hypernyms.
-    # Output to file.
+        for word, score in model.most_similar(positive=positive):
+            if word in terms:
+                print term + '\t' + word
 
+
+build_taxo()
+
+'''
 def main(domain_number, mincount=1):
     build_word_vector(int(domain_number), int(mincount))    
     
@@ -122,3 +134,4 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
+'''
