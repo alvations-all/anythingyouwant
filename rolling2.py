@@ -119,7 +119,7 @@ def build_taxo(n=3, mincount=1):
                                     ch == ' ' else ch for ch in term])
             for word in unpunct_term.split(' '):
                 term_vectors.append(model[word])
-        positive = term_vector + ['is_a']
+        positive = term_vectors + ['is_a']
 
         for word, score in model.most_similar(positive=positive):
             if word in terms:
