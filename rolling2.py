@@ -112,10 +112,12 @@ def build_taxo(n=3, mincount=1):
         try:
             depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
-                                            for ch in current_term])
+                                            for ch in term])
             term_vectors.append(model[depunct_term])
         except:
-            for word in term.split(string.punctuation+' '):
+            unpunct_term = "".join([" " if ch in string.punctuation or 
+                                    ch == ' ' else ch for ch in term])
+            for word in unpunct_term.split(' '):
                 term_vectors.append(model[word])
         positive = term_vector + ['is_a']
 
