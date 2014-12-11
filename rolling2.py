@@ -121,10 +121,11 @@ def build_taxo(n=3, mincount=1):
                 term_vectors.append(model[word])
         positive = term_vectors + ['is_a']
 
-        for word, score in model.most_similar(positive=positive):
-            if word in terms:
-                print term + '\t' + word + '\t' + " ||| ".join(positive)
-
+        print term
+        print model.most_similar(positive=positive)
+        print " ||| ".join(positive)
+        print
+            
 
 build_taxo()
 
