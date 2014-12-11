@@ -96,7 +96,7 @@ def build_word_vector(n=0, mincount=1):
                     sentences.append(list(tokenize(line)))
     bigram_transformer = Phrases(sentences)
     model = Word2Vec(bigram_transformer[sentences], size=100, window=5, 
-                     min_count=mincount, workers=2, iter=100)
+                     min_count=mincount, workers=3, iter=100)
     model.save(corpus_name+'.100epochs.phrasal.singletok.min'+str(mincount)+'.deep')
 
                 
