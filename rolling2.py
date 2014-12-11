@@ -148,8 +148,8 @@ def build_taxo(n=3, mincount=1):
                                   "|||".join(positive_words)) 
 
 def main(domain_number, mincount=1):
-    build_word_vector(int(domain_number), int(mincount))    
-    
+    #build_word_vector(int(domain_number), int(mincount))    
+    build_taxo(int(domain_number))
 
 if __name__ == '__main__':
   import sys
