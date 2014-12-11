@@ -114,16 +114,17 @@ def build_taxo(n=3, mincount=1):
                                             ch == ' ' else ch 
                                             for ch in term])
             term_vectors.append(model[depunct_term])
+            print depunct_term
         except:
             unpunct_term = "".join([" " if ch in string.punctuation or 
                                     ch == ' ' else ch for ch in term])
             for word in unpunct_term.split(' '):
-                term_vectors.append(model[word])
+                term_vectors.append(word)
         positive = term_vectors + ['is_a']
 
         print term
         print model.most_similar(positive=positive)
-        print " ||| ".join(term_vectors + ['is_a'])
+        print term_vectors
         print
             
 
