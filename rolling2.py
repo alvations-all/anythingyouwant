@@ -115,11 +115,11 @@ def build_taxo(n=3, mincount=1):
                                 ch == ' ' else ch for ch in term])
         
         positives = []
-        if model[depunct_term]:
+        if any(model[depunct_term]):
             positives.append(depunct_term)
         else:
             for word in unpunct_term.split(' '):
-                if model[word]:
+                if any(model[word]):
                     positives.append(word)
                     
         positives = positives + ['is_a']
