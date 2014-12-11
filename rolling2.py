@@ -119,22 +119,33 @@ def build_taxo(n=3, mincount=1):
                                 ch == ' ' else ch for ch in term])
         
         positive_words = []
+        # Try to add the full term.
         try:
             any(model[depunct_term])
             positive_words.append(depunct_term)
         except:
-            for word in unpunct_term.split(' '):
-                try:
-                    any(model[word])
-                    positive_words.append(word)
-                except:
-                    pass
+            pass
+            
+        # Try to add partial terms.
+        for word in unpunct_term.split(' '):
+            try:
+                any(model[word])
+                positive_words.append(word)
+            except:
+                pass
+            
         positive_words = positive_words + ['is_a']
         
         deep_relations = "|".join(["#".join([word, str(score)]) for word, score in 
                           model.most_similar(positive=positive_words) 
                           if word in depunct_terms])
-        print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positive_words)) 
+        
+        deep_relations_cosmul = "|".join(["#".join([word, str(score)]) 
+                                          for word, score in 
+                                model.most_similar_cosmul(positive=positive_words) 
+                                if word in depunct_terms])
+        print '{}\t{}\t{}\t{}'.format(term, deep_relations, deep_relations_cosmul, 
+                                  "|||".join(positive_words)) 
 
 build_taxo()
 
