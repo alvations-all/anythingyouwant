@@ -108,25 +108,24 @@ def build_taxo(n=3, mincount=1):
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
     for term in terms:
-        partial_terms = []
-        try:
-            depunct_term = "".join(['_' if ch in string.punctuation or 
+        depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
                                             for ch in term])
-            partial_terms.append(model[depunct_term])
-        except:
-            unpunct_term = "".join([" " if ch in string.punctuation or 
-                                    ch == ' ' else ch for ch in term])
+        unpunct_term = "".join([" " if ch in string.punctuation or 
+                                ch == ' ' else ch for ch in term])
+        
+        positives = []
+        if model[depunct_term]:
+            positives.append(depunct_term)
+        else:
             for word in unpunct_term.split(' '):
-                partial_terms.append(word)
-        positive = partial_terms + ['is_a']
-        print positive
-'''
-        print term
-        print model.most_similar(positive=positive)
-        print partial_terms
-        print
-'''         
+                if model[word]:
+                    positives.append(word)
+                    
+        positives = positives + ['is_a']
+        deep_relations = ["#".join(word, str(score)) for word_score in 
+                          model.most_similar(positive=positive)]
+        print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positives)) 
 
 build_taxo()
 
