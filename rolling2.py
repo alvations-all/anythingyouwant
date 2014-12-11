@@ -115,13 +115,16 @@ def build_taxo(n=3, mincount=1):
                                 ch == ' ' else ch for ch in term])
         
         positive_words = []
-        if any(model[depunct_term]):
+        try:
+            any(model[depunct_term])
             positive_words.append(depunct_term)
-        else:
+        except:
             for word in unpunct_term.split(' '):
-                if any(model[word]):
+                try:
+                    any(model[word])
                     positive_words.append(word)
-                    
+                except:
+                    pass
         positive_words = positive_words + ['is_a']
         
         deep_relations = "|".join(["#".join([word, str(score)]) for word, score in 
