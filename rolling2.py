@@ -123,7 +123,7 @@ def build_taxo(n=3, mincount=1):
 
         for word, score in model.most_similar(positive=positive):
             if word in terms:
-                print term + '\t' + word + '\t' + positive
+                print term + '\t' + word + '\t' + " ||| ".join(positive)
 
 
 build_taxo()
