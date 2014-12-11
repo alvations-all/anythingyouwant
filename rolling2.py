@@ -107,6 +107,10 @@ def build_taxo(n=3, mincount=1):
     model = Word2Vec.load(fname)
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
+    depunct_terms = ["".join(['_' if ch in string.punctuation or 
+                              ch == ' ' else ch for ch in i[1]]) 
+                     for i in texeval_corpus.terms('test', sbc)]
+    
     for term in terms:
         depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
@@ -128,7 +132,8 @@ def build_taxo(n=3, mincount=1):
         positive_words = positive_words + ['is_a']
         
         deep_relations = "|".join(["#".join([word, str(score)]) for word, score in 
-                          model.most_similar(positive=positive_words)])
+                          model.most_similar(positive=positive_words) 
+                          if word in depunct_terms])
         print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positive_words)) 
 
 build_taxo()
