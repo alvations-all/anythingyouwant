@@ -124,7 +124,7 @@ def build_taxo(n=3, mincount=1):
                     
         positives = positives + ['is_a']
         deep_relations = ["#".join(word, str(score)) for word_score in 
-                          model.most_similar(positive=positive)]
+                          model.most_similar(positive=positives)]
         print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positives)) 
 
 build_taxo()
