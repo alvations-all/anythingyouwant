@@ -123,7 +123,7 @@ def build_taxo(n=3, mincount=1):
 
         print term
         print model.most_similar(positive=positive)
-        print " ||| ".join(positive)
+        print " ||| ".join(term_vectors + ['is_a'])
         print
             
 
