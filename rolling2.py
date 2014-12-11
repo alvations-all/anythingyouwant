@@ -114,18 +114,18 @@ def build_taxo(n=3, mincount=1):
         unpunct_term = "".join([" " if ch in string.punctuation or 
                                 ch == ' ' else ch for ch in term])
         
-        positives = []
+        positive_words = []
         if any(model[depunct_term]):
-            positives.append(depunct_term)
+            positive_words.append(depunct_term)
         else:
             for word in unpunct_term.split(' '):
                 if any(model[word]):
-                    positives.append(word)
+                    positive_words.append(word)
                     
-        positives = positives + ['is_a']
-        deep_relations = ["#".join(word, str(score)) for word_score in 
-                          model.most_similar(positive=positives)]
-        print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positives)) 
+        positive_words = positive_words + ['is_a']
+        deep_relations = ["#".join(word, str(score)) for word, score in 
+                          model.most_similar(positive=positive_words)]
+        print '{}\t{}\t{}'.format(term, deep_relations, "|||".join(positive_words)) 
 
 build_taxo()
 
