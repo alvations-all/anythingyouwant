@@ -104,7 +104,7 @@ def build_taxo(n=3, mincount=1):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.10epochs.phrasal.singletok.min'+str(mincount)+'.deep'
-    #model = Word2Vec.load(fname)
+    model = Word2Vec.load(fname)
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
     for term in terms:
@@ -115,13 +115,13 @@ def build_taxo(n=3, mincount=1):
                                             for ch in current_term])
             term_vectors.append(model[depunct_term])
         except:
-            for word in term.split():
+            for word in term.split(string.punctuation+' '):
                 term_vectors.append(model[word])
         positive = term_vector + ['is_a']
 
         for word, score in model.most_similar(positive=positive):
             if word in terms:
-                print term + '\t' + word
+                print term + '\t' + word + '\t' + positive
 
 
 build_taxo()
