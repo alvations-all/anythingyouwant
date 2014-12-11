@@ -92,7 +92,7 @@ def build_word_vector(n=0, mincount=1):
                     depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
                                             for ch in current_term])
-                    line = line.replace(current_term, depunct_term)
+                    line = line.replace(current_term, depunct_term).lower()
                     sentences.append(list(tokenize(line)))
     bigram_transformer = Phrases(sentences)
     model = Word2Vec(bigram_transformer[sentences], size=100, window=5, 
@@ -147,9 +147,6 @@ def build_taxo(n=3, mincount=1):
         print '{}\t{}\t{}\t{}'.format(term, deep_relations, deep_relations_cosmul, 
                                   "|||".join(positive_words)) 
 
-build_taxo()
-
-'''
 def main(domain_number, mincount=1):
     build_word_vector(int(domain_number), int(mincount))    
     
@@ -157,4 +154,3 @@ def main(domain_number, mincount=1):
 if __name__ == '__main__':
   import sys
   main(*sys.argv[1:])
-'''
