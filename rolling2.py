@@ -101,6 +101,7 @@ def build_word_vector(n=0, mincount=1):
 
                 
 def build_taxo(n=3, mincount=1):
+    
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'WIKI_'+sbc+'.10epochs.phrasal.singletok.min'+str(mincount)+'.deep'
@@ -110,7 +111,7 @@ def build_taxo(n=3, mincount=1):
     depunct_terms = ["".join(['_' if ch in string.punctuation or 
                               ch == ' ' else ch for ch in i[1]]) 
                      for i in texeval_corpus.terms('test', sbc)]
-    
+    fout = io.open(sbc+'.taxo.rolling', 'w')
     for term in terms:
         depunct_term = "".join(['_' if ch in string.punctuation or 
                                             ch == ' ' else ch 
@@ -144,8 +145,9 @@ def build_taxo(n=3, mincount=1):
                                           for word, score in 
                                 model.most_similar_cosmul(positive=positive_words) 
                                 if word in depunct_terms])
-        print '{}\t{}\t{}\t{}'.format(term, deep_relations, deep_relations_cosmul, 
-                                  "|||".join(positive_words)) 
+        outline = '{}\t{}\t{}\t{}\n'.format(term, deep_relations, deep_relations_cosmul, 
+                                  "|||".join(positive_words))
+        fout.write(outline)
 
 def main(domain_number, mincount=1):
     #build_word_vector(int(domain_number), int(mincount))    
