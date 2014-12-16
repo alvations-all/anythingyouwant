@@ -107,7 +107,7 @@ def test_vector(n=0, mincount=1):
 def get_matrix(n=0):
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'WIKI_'+sbc+'.10epochs.singletok.min1'+'.deep'
+    fname = 'WIKI_'+sbc+'.100epochs.phrasal.singletok.min1.deep'
     model = Word2Vec.load(fname)
     
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]

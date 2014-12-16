@@ -104,7 +104,7 @@ def build_taxo(n=3, mincount=1):
     
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
-    fname = 'old-models/WIKI_'+sbc+'.10epochs.phrasal.singletok.min'+str(mincount)+'.deep'
+    fname = 'old-models/WIKI_'+sbc+'.100epochs.phrasal.singletok.min1.deep'
     model = Word2Vec.load(fname)
     terms = [i[1] for i in texeval_corpus.terms('test', sbc)]
     
