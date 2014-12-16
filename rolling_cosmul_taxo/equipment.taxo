@@ -1,178 +1,178 @@
 minneapolis-moline	tractor
 atom probe	microprobe
-tower viewer	copyscope,solar_telescope
-mauritius radio telescope	robotic_telescope
-optical telescope	reflecting_telescope,infrared_telescope
-scanning tunneling microscope	fluorescence_microscope
+tower viewer	copyscope,solar telescope
+mauritius radio telescope	robotic telescope
+optical telescope	reflecting telescope,infrared telescope
+scanning tunneling microscope	fluorescence microscope
 schmidt camera	astrograph
-massey ferguson 399	tractor,minneapolis_moline
-nasa infrared telescope facility	infrared_telescope,optical_telescope
-knife-edge scanning microscope	fluorescence_microscope
-indicated airspeed	airspeed_indicator
-wheel conveyor	screw_conveyor
-space solar telescope	optical_telescope,infrared_telescope
-tail-pulse generator	ball_transfer_table
-korsch telescope	optical_telescope
-newtonian telescope	reflecting_telescope,optical_telescope
-subaru telescope	optical_telescope
-hubble space telescope	optical_telescope,infrared_telescope,reflecting_telescope
-chainsaw safety clothing	eye_protection
-reflecting telescope	optical_telescope,newtonian_telescope
-coudé auxiliary telescope	optical_telescope
-stockert radio telescope	optical_telescope
-klevtsov–cassegrain telescope	optical_telescope
-type 60 tracked tractor	artillery_tractor
-m49 telescope	optical_telescope
-racing helmet	stock_car
+massey ferguson 399	tractor,minneapolis moline
+nasa infrared telescope facility	infrared telescope,optical telescope
+knife-edge scanning microscope	fluorescence microscope
+indicated airspeed	airspeed indicator
+wheel conveyor	screw conveyor
+space solar telescope	optical telescope,infrared telescope
+tail-pulse generator	ball transfer table
+korsch telescope	optical telescope
+newtonian telescope	reflecting telescope,optical telescope
+subaru telescope	optical telescope
+hubble space telescope	optical telescope,infrared telescope,reflecting telescope
+chainsaw safety clothing	eye protection
+reflecting telescope	optical telescope,newtonian telescope
+coudé auxiliary telescope	optical telescope
+stockert radio telescope	optical telescope
+klevtsov–cassegrain telescope	optical telescope
+type 60 tracked tractor	artillery tractor
+m49 telescope	optical telescope
+racing helmet	stock car
 galileoscope	astroscan
 airspeed indicator	variometer
-crossley telescope	reflecting_telescope
+crossley telescope	reflecting telescope
 challenger tractor	farmall
 heliometer	astrograph
-current transformer	ball_transfer_table
-james gregory telescope	reflecting_telescope
-phoropter	slit_lamp,monocular
-swedish solar telescope	solar_telescope
+current transformer	ball transfer table
+james gregory telescope	reflecting telescope
+phoropter	slit lamp,monocular
+swedish solar telescope	solar telescope
 spotting scope	finderscope
 hyfrecator	hiboy
-james lick telescope	reflecting_telescope,optical_telescope
-long michelson interferometer	optical_telescope
-mons telescope	optical_telescope
-subsoiler	chemigation_valve
-total internal reflection fluorescence microscope	fluorescence_microscope
-advanced crew escape suit	pressure_suit
-otto struve telescope	optical_telescope,reflecting_telescope
-molonglo observatory synthesis telescope	optical_telescope,infrared_telescope
-bok telescope	optical_telescope
-modified dall–kirkham telescope	astroscan,optical_telescope
-environmental scanning electron microscope	scanning_electron_microscope
-eso 3.6 m telescope	optical_telescope,infrared_telescope
-solar telescope	optical_telescope,infrared_telescope
-noise dosimeter	sound_level_meter
+james lick telescope	reflecting telescope,optical telescope
+long michelson interferometer	optical telescope
+mons telescope	optical telescope
+subsoiler	chemigation valve
+total internal reflection fluorescence microscope	fluorescence microscope
+advanced crew escape suit	pressure suit
+otto struve telescope	optical telescope,reflecting telescope
+molonglo observatory synthesis telescope	optical telescope,infrared telescope
+bok telescope	optical telescope
+modified dall–kirkham telescope	astroscan,optical telescope
+environmental scanning electron microscope	scanning electron microscope
+eso 3.6 m telescope	optical telescope,infrared telescope
+solar telescope	optical telescope,infrared telescope
+noise dosimeter	sound level meter
 permeameter	nephelometer
-large millimeter telescope	optical_telescope,infrared_telescope,reflecting_telescope
+large millimeter telescope	optical telescope,infrared telescope,reflecting telescope
 close helm	kegelhelm
-zenith telescope	optical_telescope,reflecting_telescope
-slat conveyor	roller_conveyor,bucket_conveyor
-carlsberg meridian telescope	optical_telescope,infrared_telescope
-ogs telescope	optical_telescope
+zenith telescope	optical telescope,reflecting telescope
+slat conveyor	roller conveyor,bucket conveyor
+carlsberg meridian telescope	optical telescope,infrared telescope
+ogs telescope	optical telescope
 twist compression tester	hiboy
-very large telescope	optical_telescope
-swedish vacuum solar telescope	solar_telescope,optical_telescope,infrared_telescope
-astrograph	optical_telescope
-achromatic telescope	refracting_telescope,reflecting_telescope,optical_telescope
-tow conveyor	artillery_tractor
-inverted microscope	fluorescence_microscope,optical_microscope
-scanning hall probe microscope	fluorescence_microscope
-refracting telescope	optical_telescope,reflecting_telescope,newtonian_telescope
+very large telescope	optical telescope
+swedish vacuum solar telescope	solar telescope,optical telescope,infrared telescope
+astrograph	optical telescope
+achromatic telescope	refracting telescope,reflecting telescope,optical telescope
+tow conveyor	artillery tractor
+inverted microscope	fluorescence microscope,optical microscope
+scanning hall probe microscope	fluorescence microscope
+refracting telescope	optical telescope,reflecting telescope,newtonian telescope
 mooney viscometer	rheoscope
-nordic optical telescope	optical_telescope
-bridge crane	gantry_crane
-hexapod-telescope	optical_telescope,astroscan
-morris cdsw	artillery_tractor
-farmall	tractor,minneapolis_moline
-great refractor	optical_telescope,refracting_telescope
-cathodoluminescence microscope	fluorescence_microscope,optical_microscope
-pfund telescope	optical_telescope
-vertical conveyor	screw_conveyor,bucket_conveyor
-chute conveyor	bucket_conveyor
-einstein observatory	optical_telescope
-canada–france–hawaii telescope	optical_telescope
-stacker crane	gantry_crane
+nordic optical telescope	optical telescope
+bridge crane	gantry crane
+hexapod-telescope	optical telescope,astroscan
+morris cdsw	artillery tractor
+farmall	tractor,minneapolis moline
+great refractor	optical telescope,refracting telescope
+cathodoluminescence microscope	fluorescence microscope,optical microscope
+pfund telescope	optical telescope
+vertical conveyor	screw conveyor,bucket conveyor
+chute conveyor	bucket conveyor
+einstein observatory	optical telescope
+canada–france–hawaii telescope	optical telescope
+stacker crane	gantry crane
 pilot direction indicator	variometer
-major atmospheric cerenkov experiment telescope	optical_telescope
-reber radio telescope	optical_telescope,reflecting_telescope
-list of agricultural equipment	agricultural_equipment
-víctor m. blanco telescope	optical_telescope,infrared_telescope
-discovery channel telescope	optical_telescope
-jib crane	gantry_crane,cranes
-lurie–houghton telescope	optical_telescope
-microscope	optical_microscope,fluorescence_microscope
-liverpool telescope	optical_telescope
-hale telescope	reflecting_telescope
-anna l. nickel telescope	reflecting_telescope,optical_telescope
-three-mirror anastigmat	optical_telescope
-robotic telescope	optical_telescope,reflecting_telescope
-bulk load containers	intermodal_containers
-astronomical netherlands satellite	infrared_telescope
-esa space debris telescope	infrared_telescope,optical_telescope
-infrared telescope	optical_telescope
-ribchester helmet	newstead_helmet
+major atmospheric cerenkov experiment telescope	optical telescope
+reber radio telescope	optical telescope,reflecting telescope
+list of agricultural equipment	agricultural equipment
+víctor m. blanco telescope	optical telescope,infrared telescope
+discovery channel telescope	optical telescope
+jib crane	gantry crane,cranes
+lurie–houghton telescope	optical telescope
+microscope	optical microscope,fluorescence microscope
+liverpool telescope	optical telescope
+hale telescope	reflecting telescope
+anna l. nickel telescope	reflecting telescope,optical telescope
+three-mirror anastigmat	optical telescope
+robotic telescope	optical telescope,reflecting telescope
+bulk load containers	intermodal containers
+astronomical netherlands satellite	infrared telescope
+esa space debris telescope	infrared telescope,optical telescope
+infrared telescope	optical telescope
+ribchester helmet	newstead helmet
 steamroller	harvester
-vista (telescope)	optical_telescope
+vista (telescope)	optical telescope
 cathetometer	macrometer
-x-ray telescope	optical_telescope,solar_telescope
-space surveillance telescope	infrared_telescope,optical_telescope
+x-ray telescope	optical telescope,solar telescope
+space surveillance telescope	infrared telescope,optical telescope
 stratoscope	astroscan
 pyrheliometer	bathometer,actinometer
-magnetic belt conveyor	screw_conveyor,bucket_conveyor
-chain conveyor	roller_conveyor
-order picker	pallet_jack
-viper telescope	optical_telescope
-microprobe	scientific_instrument,scanning_electron_microscope
-comet seeker	actinometer,reflecting_telescope
-belt dryer	screw_conveyor
-telescope	optical_telescope,reflecting_telescope,infrared_telescope
+magnetic belt conveyor	screw conveyor,bucket conveyor
+chain conveyor	roller conveyor
+order picker	pallet jack
+viper telescope	optical telescope
+microprobe	scientific instrument,scanning electron microscope
+comet seeker	actinometer,reflecting telescope
+belt dryer	screw conveyor
+telescope	optical telescope,reflecting telescope,infrared telescope
 monocular	finderscope
 macrometer	rheoscope
-prompt telescopes	infrared_telescope,telescope,optical_telescope
+prompt telescopes	infrared telescope,telescope,optical telescope
 stroboscope	monocular
-craig telescope	reflecting_telescope,optical_telescope
-pneumatic conveyor	screw_conveyor
+craig telescope	reflecting telescope,optical telescope
+pneumatic conveyor	screw conveyor
 finderscope	monocular
-xo telescope	astroscan,optical_telescope
-conveyor	screw_conveyor
+xo telescope	astroscan,optical telescope
+conveyor	screw conveyor
 rheoscope	macrometer
-tower telescope	solar_telescope,optical_telescope,infrared_telescope
-european extremely large telescope	optical_telescope,infrared_telescope
-mpg/eso telescope	optical_telescope,infrared_telescope
-cerro chajnantor atacama telescope	optical_telescope
+tower telescope	solar telescope,optical telescope,infrared telescope
+european extremely large telescope	optical telescope,infrared telescope
+mpg/eso telescope	optical telescope,infrared telescope
+cerro chajnantor atacama telescope	optical telescope
 cartons	trappist
-balloon-borne telescope	optical_telescope,infrared_telescope
-chandra x-ray observatory	solar_telescope
-effelsberg 100-m radio telescope	optical_telescope,infrared_telescope
-fluorescence microscope	optical_microscope
-small telescope	optical_telescope
-scintillating bolometer	portable_data_terminal
-sysmex xe-2100	automated_analyser
-optical microscope	fluorescence_microscope
-gornergrat infrared telescope	infrared_telescope,optical_telescope
-infinite-axis telescope	optical_telescope
-jacobus kapteyn telescope	optical_telescope
+balloon-borne telescope	optical telescope,infrared telescope
+chandra x-ray observatory	solar telescope
+effelsberg 100-m radio telescope	optical telescope,infrared telescope
+fluorescence microscope	optical microscope
+small telescope	optical telescope
+scintillating bolometer	portable data terminal
+sysmex xe-2100	automated analyser
+optical microscope	fluorescence microscope
+gornergrat infrared telescope	infrared telescope,optical telescope
+infinite-axis telescope	optical telescope
+jacobus kapteyn telescope	optical telescope
 gantry crane	cranes
-farmall cub	tractor,minneapolis_moline
-bradford robotic telescope	optical_telescope
-siding spring 2.3 m telescope	optical_telescope
-mercator telescope	optical_telescope,astroscan
-vlt survey telescope	optical_telescope,infrared_telescope
-motorcycle helmet	bicycle_helmet
-multiphoton fluorescence microscope	fluorescence_microscope,optical_microscope
-kunlun dark universe survey telescope	optical_telescope,infrared_telescope
-laboratory equipment	medical_equipment
-samuel oschin telescope	optical_telescope
-tauchmann telescope	optical_telescope,infrared_telescope
-national large solar telescope	optical_telescope,infrared_telescope,solar_telescope
-turn table	chemigation_valve
-southern astrophysical research telescope	infrared_telescope
+farmall cub	tractor,minneapolis moline
+bradford robotic telescope	optical telescope
+siding spring 2.3 m telescope	optical telescope
+mercator telescope	optical telescope,astroscan
+vlt survey telescope	optical telescope,infrared telescope
+motorcycle helmet	bicycle helmet
+multiphoton fluorescence microscope	fluorescence microscope,optical microscope
+kunlun dark universe survey telescope	optical telescope,infrared telescope
+laboratory equipment	medical equipment
+samuel oschin telescope	optical telescope
+tauchmann telescope	optical telescope,infrared telescope
+national large solar telescope	optical telescope,infrared telescope,solar telescope
+turn table	chemigation valve
+southern astrophysical research telescope	infrared telescope
 hydrometer	viscometer
-bucket conveyor	screw_conveyor
-chinese giant solar telescope	solar_telescope
-vibrating conveyor	sortation_conveyor
-cfa 1.2 m millimeter-wave telescope	optical_telescope
-aec matador	artillery_tractor
+bucket conveyor	screw conveyor
+chinese giant solar telescope	solar telescope
+vibrating conveyor	sortation conveyor
+cfa 1.2 m millimeter-wave telescope	optical telescope
+aec matador	artillery tractor
 tractor-trailer	truck
-gregorian telescope	reflecting_telescope,newtonian_telescope
-operating microscope	optical_microscope
-wolter telescope	optical_telescope
-bicycle helmet	motorcycle_helmet
-razdow telescope	optical_telescope
-petrographic microscope	fluorescence_microscope,scanning_electron_microscope
-schmidt–newton telescope	optical_telescope
-office equipment	agricultural_equipment
-carnegie telescope	optical_telescope,reflecting_telescope
-james webb space telescope	infrared_telescope,optical_telescope
-uppsala southern schmidt telescope	optical_telescope
-40-foot telescope	optical_telescope
+gregorian telescope	reflecting telescope,newtonian telescope
+operating microscope	optical microscope
+wolter telescope	optical telescope
+bicycle helmet	motorcycle helmet
+razdow telescope	optical telescope
+petrographic microscope	fluorescence microscope,scanning electron microscope
+schmidt–newton telescope	optical telescope
+office equipment	agricultural equipment
+carnegie telescope	optical telescope,reflecting telescope
+james webb space telescope	infrared telescope,optical telescope
+uppsala southern schmidt telescope	optical telescope
+40-foot telescope	optical telescope
 ebro trucks	truck
-nasmyth telescope	reflecting_telescope,astroscan
-atacama cosmology telescope	optical_telescope,infrared_telescope
+nasmyth telescope	reflecting telescope,astroscan
+atacama cosmology telescope	optical telescope,infrared telescope
