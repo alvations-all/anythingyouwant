@@ -1,0 +1,612 @@
+storage equipment			storage_equipment|||storage|||equipment|||is_a
+strapping	pressure_suit#0.441155731678		strapping|||strapping|||is_a
+traveling microscope			traveling|||microscope|||is_a
+pallet boxes	pallets#0.512608587742		pallet_boxes|||pallet|||boxes|||is_a
+minneapolis-moline	tractor#0.493867218494	tractor#0.157250910997	minneapolis_moline|||minneapolis|||moline|||is_a
+aerial straps			aerial_straps|||aerial|||straps|||is_a
+atom probe	microprobe#0.574156880379	microprobe#0.201823726296	atom_probe|||atom|||probe|||is_a
+phonodeik			phonodeik|||phonodeik|||is_a
+tower viewer	solar_telescope#0.437501400709|copyscope#0.4338529706	copyscope#0.145087227225|solar_telescope#0.145012021065	tower_viewer|||tower|||viewer|||is_a
+dennis ds series			dennis|||ds|||series|||is_a
+suffa rt-70 radio telescope			suffa|||rt|||radio|||telescope|||is_a
+mauritius radio telescope	robotic_telescope#0.497839689255	robotic_telescope#0.161825731397	mauritius|||radio|||telescope|||is_a
+pressure suit			pressure_suit|||pressure|||suit|||is_a
+optical telescope	reflecting_telescope#0.644475758076|infrared_telescope#0.624111354351	reflecting_telescope#0.262662440538|infrared_telescope#0.260964989662	optical_telescope|||optical|||telescope|||is_a
+scanning tunneling microscope	fluorescence_microscope#0.632855594158	fluorescence_microscope#0.149196147919	scanning_tunneling_microscope|||scanning|||tunneling|||microscope|||is_a
+m4 tractor			tractor|||is_a
+schmidt camera	astrograph#0.544107377529	astrograph#0.184794932604	schmidt_camera|||schmidt|||camera|||is_a
+tracked loader			tracked_loader|||tracked|||loader|||is_a
+clarity meter			clarity_meter|||clarity|||meter|||is_a
+iraqi m80 helmet			iraqi|||helmet|||is_a
+industrial robot			industrial_robot|||industrial|||robot|||is_a
+talkback			talkback|||talkback|||is_a
+impact microscope	optical_microscope#0.478417813778		impact|||microscope|||is_a
+platform truck			platform_truck|||platform|||truck|||is_a
+hand truck			hand_truck|||hand|||truck|||is_a
+creepmeter			creepmeter|||creepmeter|||is_a
+launch entry suit			launch|||entry|||suit|||is_a
+magnetic stripe			magnetic_stripe|||magnetic|||stripe|||is_a
+korea advanced institute of science and technology satellite 4			korea|||advanced|||institute|||of|||science|||and|||technology|||satellite|||is_a
+john deere 5220			john|||deere|||is_a
+pendulum			pendulum|||pendulum|||is_a
+french pressure cell press			french|||pressure|||cell|||press|||is_a
+sunglasses			sunglasses|||sunglasses|||is_a
+massey ferguson 399	tractor#0.483931571245|minneapolis_moline#0.454596430063|farmall#0.446308225393	tractor#0.254103571177|minneapolis_moline#0.252056002617	massey|||ferguson|||is_a
+nasa infrared telescope facility	infrared_telescope#0.680360853672|optical_telescope#0.659743368626	infrared_telescope#0.175782606006|optical_telescope#0.167243883014	nasa|||infrared|||telescope|||facility|||is_a
+knife-edge scanning microscope	fluorescence_microscope#0.537153482437	fluorescence_microscope#0.0567736066878	knife_edge_scanning_microscope|||knife|||edge|||scanning|||microscope|||is_a
+indicated airspeed	airspeed_indicator#0.58805835247	airspeed_indicator#0.202058643103	indicated_airspeed|||indicated|||airspeed|||is_a
+lenco turntables			lenco|||turntables|||is_a
+wheel conveyor	screw_conveyor#0.504081606865	screw_conveyor#0.270390093327	wheel|||conveyor|||is_a
+space solar telescope	optical_telescope#0.617387235165|infrared_telescope#0.612976968288|solar_telescope#0.560836851597	optical_telescope#0.136729285121|infrared_telescope#0.13631567359	space_solar_telescope|||space|||solar|||telescope|||is_a
+seat belt			seat_belt|||seat|||belt|||is_a
+kegelhelm			kegelhelm|||kegelhelm|||is_a
+intercity 250			intercity|||is_a
+tail-pulse generator	ball_transfer_table#0.444605261087	ball_transfer_table#0.152790173888	tail|||pulse|||generator|||is_a
+automatic guided vehicle (agv)			automatic|||guided|||vehicle|||agv|||is_a
+ball transfer table			ball_transfer_table|||ball|||transfer|||table|||is_a
+shuckburgh telescope	reflecting_telescope#0.548917114735|optical_telescope#0.541195511818		shuckburgh|||telescope|||is_a
+truck			truck|||truck|||is_a
+vaccine bath			vaccine|||bath|||is_a
+korsch telescope	optical_telescope#0.654238581657|reflecting_telescope#0.585147440434	optical_telescope#0.376632273197	korsch|||telescope|||is_a
+advanced telescope for high energy astrophysics			advanced|||telescope|||for|||high|||energy|||astrophysics|||is_a
+tote pans			tote_pans|||tote|||pans|||is_a
+timing light			timing_light|||timing|||light|||is_a
+light gas gun			light|||gas|||gun|||is_a
+field emission probes			field_emission_probes|||field|||emission|||probes|||is_a
+ma 51			ma|||is_a
+firefighter's helmet			firefighter_s_helmet|||firefighter|||s|||helmet|||is_a
+newtonian telescope	reflecting_telescope#0.749511837959|optical_telescope#0.687664628029	reflecting_telescope#0.299086689949|optical_telescope#0.280398190022	newtonian_telescope|||newtonian|||telescope|||is_a
+subaru telescope	optical_telescope#0.704752624035|reflecting_telescope#0.574212253094|infrared_telescope#0.56833332777	optical_telescope#0.396706938744	subaru|||telescope|||is_a
+hubble space telescope	optical_telescope#0.655729115009|infrared_telescope#0.62682133913|reflecting_telescope#0.57588416338	optical_telescope#0.232890203595|infrared_telescope#0.222962230444|reflecting_telescope#0.194350391626	hubble|||space|||telescope|||is_a
+chainsaw safety clothing	eye_protection#0.459966719151	eye_protection#0.0911118835211	chainsaw_safety_clothing|||chainsaw|||safety|||clothing|||is_a
+telescopio carlos sánchez			telescopio|||carlos|||sánchez|||is_a
+saccharimeter			saccharimeter|||saccharimeter|||is_a
+reflecting telescope	optical_telescope#0.690663397312|newtonian_telescope#0.656109631062	optical_telescope#0.280289560556|newtonian_telescope#0.254954397678	reflecting_telescope|||reflecting|||telescope|||is_a
+egg hatch assay			egg_hatch_assay|||egg|||hatch|||assay|||is_a
+cranes			cranes|||cranes|||is_a
+coudé auxiliary telescope	optical_telescope#0.588963449001|infrared_telescope#0.550859570503	optical_telescope#0.201233446598	coudé|||auxiliary|||telescope|||is_a
+alvis salamander			alvis|||salamander|||is_a
+kappōgi			is_a
+bta-6			bta|||is_a
+hobby-eberly telescope			hobby|||eberly|||telescope|||is_a
+hitachi 917			hitachi|||is_a
+laffly v15			laffly|||is_a
+stockert radio telescope	optical_telescope#0.571834445	optical_telescope#0.198324203491	stockert|||radio|||telescope|||is_a
+klevtsov–cassegrain telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+eye protection			eye_protection|||eye|||protection|||is_a
+james clerk maxwell telescope			james|||clerk|||maxwell|||telescope|||is_a
+pyranoscope			pyranoscope|||pyranoscope|||is_a
+austauschbauart			is_a
+nijmegen helmet			nijmegen|||helmet|||is_a
+type 60 tracked tractor	artillery_tractor#0.557159841061	artillery_tractor#0.211190804839	type|||tracked|||tractor|||is_a
+mass interconnect			mass_interconnect|||mass|||interconnect|||is_a
+helmet of coţofeneşti			helmet|||of|||coţofeneşti|||is_a
+vertico smi			vertico|||smi|||is_a
+kraus-type			kraus|||type|||is_a
+diving helmet			diving_helmet|||diving|||helmet|||is_a
+m49 telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+wheel speed sensor			wheel_speed_sensor|||wheel|||speed|||sensor|||is_a
+racing helmet	stock_car#0.490248471498	stock_car#0.158222734928	racing_helmet|||racing|||helmet|||is_a
+amx-30 bridge			amx|||bridge|||is_a
+bins			bins|||bins|||is_a
+palletizers			palletizers|||palletizers|||is_a
+hounskull			hounskull|||hounskull|||is_a
+galileoscope	astroscan#0.500643134117	astroscan#0.339484542608	galileoscope|||galileoscope|||is_a
+push-back rack			push|||back|||rack|||is_a
+air film device			air|||film|||device|||is_a
+drive-in rack			drive|||in|||rack|||is_a
+airspeed indicator	variometer#0.622808992863|indicated_airspeed#0.57062959671	variometer#0.237063899636	airspeed_indicator|||airspeed|||indicator|||is_a
+crossley telescope	reflecting_telescope#0.622475266457	reflecting_telescope#0.333622902632	crossley|||telescope|||is_a
+challenger tractor	farmall#0.539218127728	farmall#0.285773813725	challenger|||tractor|||is_a
+allis-chalmers model wc			allis|||chalmers|||model|||wc|||is_a
+medical equipment			medical_equipment|||medical|||equipment|||is_a
+five-point harness			five_point_harness|||five|||point|||harness|||is_a
+heliometer	astrograph#0.452232807875	astrograph#0.282050490379	heliometer|||heliometer|||is_a
+water tender			water_tender|||water|||tender|||is_a
+larmor neutron microscope			larmor|||neutron|||microscope|||is_a
+cathodic protection rectifier			cathodic_protection_rectifier|||cathodic|||protection|||rectifier|||is_a
+versorium			versorium|||versorium|||is_a
+somua mcg			somua|||mcg|||is_a
+rolling stock			rolling_stock|||rolling|||stock|||is_a
+current transformer		ball_transfer_table#0.171074032784	current_transformer|||current|||transformer|||is_a
+james gregory telescope	reflecting_telescope#0.620363712311	reflecting_telescope#0.204788923264	james|||gregory|||telescope|||is_a
+apache axis2			apache|||is_a
+horned helmet			horned_helmet|||horned|||helmet|||is_a
+dbag class 641			class|||is_a
+internet			internet|||internet|||is_a
+phoropter	slit_lamp#0.511501789093|monocular#0.411653906107	slit_lamp#0.308111429214|monocular#0.273423582315	phoropter|||phoropter|||is_a
+swedish solar telescope	optical_telescope#0.499348282814|solar_telescope#0.494093716145	solar_telescope#0.170678690076	swedish|||solar|||telescope|||is_a
+fog fence			fog_fence|||fog|||fence|||is_a
+racks			racks|||racks|||is_a
+spotting scope	finderscope#0.431186914444	finderscope#0.151031777263	spotting_scope|||spotting|||scope|||is_a
+katzman automatic imaging telescope			katzman|||automatic|||imaging|||telescope|||is_a
+drosometer			drosometer|||drosometer|||is_a
+hyfrecator	hiboy#0.426157474518	hiboy#0.302798748016	hyfrecator|||hyfrecator|||is_a
+flat belt conveyor			flat|||belt|||conveyor|||is_a
+lift table			lift_table|||lift|||table|||is_a
+james lick telescope	reflecting_telescope#0.608250379562|optical_telescope#0.544854819775	reflecting_telescope#0.204828053713|optical_telescope#0.184985414147	james|||lick|||telescope|||is_a
+slit lamp			slit_lamp|||slit|||lamp|||is_a
+drawers			drawers|||drawers|||is_a
+winged helmet			winged_helmet|||winged|||helmet|||is_a
+double boiler			double_boiler|||double|||boiler|||is_a
+long michelson interferometer	optical_telescope#0.44073137641	optical_telescope#0.154810637236	long|||michelson|||interferometer|||is_a
+tilt table			tilt_table|||tilt|||table|||is_a
+mons telescope	optical_telescope#0.570799946785|infrared_telescope#0.504019021988	optical_telescope#0.288228809834	mons|||telescope|||is_a
+bathometer	pyrheliometer#0.440362900496		bathometer|||bathometer|||is_a
+subsoiler	chemigation_valve#0.417063057423	chemigation_valve#0.287090271711	subsoiler|||subsoiler|||is_a
+chemigation valve			chemigation_valve|||chemigation|||valve|||is_a
+empire state pullers			empire|||state|||pullers|||is_a
+total internal reflection fluorescence microscope	fluorescence_microscope#0.686479508877	fluorescence_microscope#0.0535678640008	total_internal_reflection_fluorescence_microscope|||total|||internal|||reflection|||fluorescence|||microscope|||is_a
+81-720/721			is_a
+negau helmet			negau|||helmet|||is_a
+kirovets k-700			kirovets|||k|||is_a
+advanced crew escape suit	pressure_suit#0.488338381052	pressure_suit#0.0944270789623	advanced|||crew|||escape|||suit|||is_a
+balance beam			balance_beam|||balance|||beam|||is_a
+self-restraining			self_restraining|||self|||restraining|||is_a
+pallets			pallets|||pallets|||is_a
+suction excavator			suction_excavator|||suction|||excavator|||is_a
+hydration system			hydration_system|||hydration|||system|||is_a
+nicholas u. mayall telescope			nicholas|||u|||mayall|||telescope|||is_a
+mathiole			is_a
+otto struve telescope	optical_telescope#0.58195734024|reflecting_telescope#0.549541473389	optical_telescope#0.196945980191|reflecting_telescope#0.180882513523	otto|||struve|||telescope|||is_a
+uni-engine			uni|||engine|||is_a
+a broadband imaging x-ray all-sky survey			a|||broadband|||imaging|||x|||ray|||all|||sky|||survey|||is_a
+molonglo observatory synthesis telescope	optical_telescope#0.639958024025|infrared_telescope#0.615657448769	optical_telescope#0.16201877594|infrared_telescope#0.154703065753	molonglo|||observatory|||synthesis|||telescope|||is_a
+sunrise			sunrise|||sunrise|||is_a
+bok telescope	optical_telescope#0.599799633026	optical_telescope#0.315209269524	bok|||telescope|||is_a
+potentiometer			potentiometer|||potentiometer|||is_a
+boar's tusk helmet			boar_s_tusk_helmet|||boar|||s|||tusk|||helmet|||is_a
+electrometer			electrometer|||electrometer|||is_a
+modified dall–kirkham telescope	optical_telescope#0.580701291561|astroscan#0.559874951839|reflecting_telescope#0.55663651228	astroscan#0.295179605484|optical_telescope#0.288697838783	modified|||telescope|||is_a
+yevpatoria rt-70 radio telescope			yevpatoria|||rt|||radio|||telescope|||is_a
+mp ng			mp|||ng|||is_a
+heinrich hertz submillimeter telescope			heinrich|||hertz|||submillimeter|||telescope|||is_a
+environmental scanning electron microscope	scanning_electron_microscope#0.641088545322	scanning_electron_microscope#0.0867804959416	environmental_scanning_electron_microscope|||environmental|||scanning|||electron|||microscope|||is_a
+chalcidian helmet			chalcidian_helmet|||chalcidian|||helmet|||is_a
+grand interferometre a 2 telescopes			grand|||a|||telescopes|||is_a
+flight helmet			flight_helmet|||flight|||helmet|||is_a
+eso 3.6 m telescope	optical_telescope#0.661846756935|infrared_telescope#0.621409595013	optical_telescope#0.261669844389|infrared_telescope#0.242653772235	eso|||m|||telescope|||is_a
+dynamic voltage restoration			dynamic|||voltage|||restoration|||is_a
+at-l			at|||l|||is_a
+solar telescope	optical_telescope#0.671250343323|infrared_telescope#0.641710698605	optical_telescope#0.255356639624|infrared_telescope#0.242865487933	solar_telescope|||solar|||telescope|||is_a
+hearfones			is_a
+noise dosimeter	sound_level_meter#0.448887944221	sound_level_meter#0.156364604831	noise_dosimeter|||noise|||dosimeter|||is_a
+wrist guard			wrist_guard|||wrist|||guard|||is_a
+permeameter	nephelometer#0.4403873384	nephelometer#0.278768628836	permeameter|||permeameter|||is_a
+large millimeter telescope	optical_telescope#0.64162927866|infrared_telescope#0.599731326103|reflecting_telescope#0.576892793179	optical_telescope#0.226025566459|infrared_telescope#0.210283845663|reflecting_telescope#0.193734690547	large|||millimeter|||telescope|||is_a
+camping equipment			camping_equipment|||camping|||equipment|||is_a
+hallaton helmet			hallaton|||helmet|||is_a
+at-t			at|||t|||is_a
+coolus helmet			coolus|||helmet|||is_a
+close helm	kegelhelm#0.457946240902	kegelhelm#0.151689589024	close_helm|||close|||helm|||is_a
+strainmeter			strainmeter|||strainmeter|||is_a
+mezzanine			mezzanine|||mezzanine|||is_a
+zenith telescope	optical_telescope#0.595429360867|reflecting_telescope#0.545049786568	optical_telescope#0.212783038616|reflecting_telescope#0.187390998006	zenith_telescope|||zenith|||telescope|||is_a
+cambridge low frequency synthesis telescope			cambridge|||low|||frequency|||synthesis|||telescope|||is_a
+mixer-settler			mixer|||is_a
+slat conveyor	roller_conveyor#0.480461388826	roller_conveyor#0.153818100691|bucket_conveyor#0.148595809937	slat_conveyor|||slat|||conveyor|||is_a
+carlsberg meridian telescope	optical_telescope#0.61989068985|infrared_telescope#0.538188159466|reflecting_telescope#0.530150294304	optical_telescope#0.329777091742|infrared_telescope#0.295237034559	meridian|||telescope|||is_a
+ogs telescope	optical_telescope#0.565398037434|infrared_telescope#0.539198338985	optical_telescope#0.299957692623	ogs|||telescope|||is_a
+hypsometer			hypsometer|||hypsometer|||is_a
+monorail			monorail|||monorail|||is_a
+barbute			barbute|||barbute|||is_a
+twist compression tester	hiboy#0.459569841623	hiboy#0.146560296416	twist|||compression|||tester|||is_a
+very large telescope	optical_telescope#0.546466290951|reflecting_telescope#0.513398170471	optical_telescope#0.104887902737	very_large_telescope|||very|||large|||telescope|||is_a
+landwasserschlepper			landwasserschlepper|||landwasserschlepper|||is_a
+knelson concentrator			concentrator|||is_a
+apron			apron|||apron|||is_a
+identification equipment			identification_equipment|||identification|||equipment|||is_a
+swedish vacuum solar telescope	solar_telescope#0.523774802685|optical_telescope#0.503913342953|infrared_telescope#0.491297245026|reflecting_telescope#0.481439739466	solar_telescope#0.110805884004|optical_telescope#0.100365385413|infrared_telescope#0.0995057076216	swedish|||vacuum|||solar|||telescope|||is_a
+broad band x-ray telescope			broad|||band|||x|||ray|||telescope|||is_a
+astrograph		optical_telescope#0.324470251799	astrograph|||astrograph|||is_a
+pith helmet			pith_helmet|||pith|||helmet|||is_a
+audio equipment			audio_equipment|||audio|||equipment|||is_a
+tape			tape|||tape|||is_a
+kawasaki heavy industries c151			kawasaki|||heavy|||industries|||is_a
+achromatic telescope	refracting_telescope#0.68272292614|reflecting_telescope#0.635801792145|optical_telescope#0.617536783218|newtonian_telescope#0.564998626709	refracting_telescope#0.232667833567|reflecting_telescope#0.214343473315|optical_telescope#0.214325338602	achromatic_telescope|||achromatic|||telescope|||is_a
+tow conveyor	artillery_tractor#0.467550396919	artillery_tractor#0.254998117685	tow|||conveyor|||is_a
+electronic data interchange			electronic_data_interchange|||electronic|||data|||interchange|||is_a
+multiple-effect evaporator			multiple_effect_evaporator|||multiple|||effect|||is_a
+pallet truck			pallet_truck|||pallet|||truck|||is_a
+knee pad			knee_pad|||knee|||pad|||is_a
+suzuki frame			suzuki|||frame|||is_a
+inverted microscope	fluorescence_microscope#0.609919607639|optical_microscope#0.56501352787	fluorescence_microscope#0.212852030993|optical_microscope#0.194331616163	inverted_microscope|||inverted|||microscope|||is_a
+troughed belt conveyor			troughed|||belt|||conveyor|||is_a
+scanning hall probe microscope	fluorescence_microscope#0.596306502819	fluorescence_microscope#0.119084641337	scanning|||hall|||probe|||microscope|||is_a
+sound level meter			sound_level_meter|||sound|||level|||meter|||is_a
+bar codes			bar_codes|||bar|||codes|||is_a
+coolflo			coolflo|||coolflo|||is_a
+stanhope lens			stanhope_lens|||stanhope|||lens|||is_a
+snickometer			snickometer|||snickometer|||is_a
+near earth object camera			near|||earth|||object|||camera|||is_a
+refracting telescope	reflecting_telescope#0.711567938328|optical_telescope#0.690509676933|newtonian_telescope#0.622221589088	optical_telescope#0.269266605377|reflecting_telescope#0.267139077187|newtonian_telescope#0.231775447726	refracting_telescope|||refracting|||telescope|||is_a
+l'eplattenier helmet			l|||eplattenier|||helmet|||is_a
+personal protective equipment			personal_protective_equipment|||personal|||protective|||equipment|||is_a
+hydration pack			hydration_pack|||hydration|||pack|||is_a
+microstructured optical arrays			microstructured_optical_arrays|||microstructured|||optical|||arrays|||is_a
+nançay radio telescope			nançay|||radio|||telescope|||is_a
+retrieval systems			retrieval_systems|||retrieval|||systems|||is_a
+pallet jack			pallet_jack|||pallet|||jack|||is_a
+mooney viscometer	rheoscope#0.483433455229	rheoscope#0.186890289187	mooney_viscometer|||mooney|||viscometer|||is_a
+screw conveyor			screw_conveyor|||screw|||conveyor|||is_a
+narrow-aisle reach truck			narrow|||aisle|||reach|||truck|||is_a
+automated patrol telescope	optical_telescope#0.503889262676		automated|||patrol|||telescope|||is_a
+nordic optical telescope	optical_telescope#0.587424337864	optical_telescope#0.205624803901	nordic|||optical|||telescope|||is_a
+bridge crane	gantry_crane#0.592556238174|cranes#0.481979012489	gantry_crane#0.189021751285	bridge_crane|||bridge|||crane|||is_a
+hexapod-telescope	optical_telescope#0.575412273407|reflecting_telescope#0.554529845715	optical_telescope#0.322951614857|astroscan#0.311324864626	hexapod|||telescope|||is_a
+geiger tube telescope			geiger|||tube|||telescope|||is_a
+cyanometer			cyanometer|||cyanometer|||is_a
+m8 tractor			tractor|||is_a
+morris cdsw	artillery_tractor#0.461321890354	artillery_tractor#0.268561035395	morris|||cdsw|||is_a
+riot protection helmet			riot_protection_helmet|||riot|||protection|||helmet|||is_a
+narrow-aisle straddle truck			narrow|||aisle|||straddle|||truck|||is_a
+variometer	airspeed_indicator#0.462667554617		variometer|||variometer|||is_a
+stock car			stock_car|||stock|||car|||is_a
+stahlhelm			stahlhelm|||stahlhelm|||is_a
+farmall	tractor#0.567984640598|minneapolis_moline#0.525586307049	tractor#0.32962167263|minneapolis_moline#0.314347863197	farmall|||farmall|||is_a
+far ultraviolet spectroscopic explorer			far|||ultraviolet|||spectroscopic|||explorer|||is_a
+great refractor	refracting_telescope#0.596428394318|optical_telescope#0.582362771034	optical_telescope#0.196248248219|refracting_telescope#0.190404400229	great_refractor|||great|||refractor|||is_a
+lanz bulldog			lanz|||bulldog|||is_a
+vector magnetograph			vector_magnetograph|||vector|||magnetograph|||is_a
+helmet			helmet|||helmet|||is_a
+trolley conveyor	screw_conveyor#0.462934195995		trolley|||conveyor|||is_a
+zuckerman helmet			zuckerman|||helmet|||is_a
+ball state university observatory			ball|||state|||university|||observatory|||is_a
+polonator			is_a
+cathodoluminescence microscope	fluorescence_microscope#0.641340434551|optical_microscope#0.592121243477	fluorescence_microscope#0.226481646299|optical_microscope#0.207320287824	cathodoluminescence_microscope|||cathodoluminescence|||microscope|||is_a
+dutch open telescope	reflecting_telescope#0.467357873917		dutch|||open|||telescope|||is_a
+colony counter			colony_counter|||colony|||counter|||is_a
+pfund telescope	optical_telescope#0.596464693546	optical_telescope#0.318575888872	pfund|||telescope|||is_a
+cherenkov array at themi			cherenkov|||array|||at|||is_a
+vertical conveyor	screw_conveyor#0.492811501026	screw_conveyor#0.164455488324|bucket_conveyor#0.163972526789	vertical_conveyor|||vertical|||conveyor|||is_a
+spectrohelioscope			spectrohelioscope|||spectrohelioscope|||is_a
+modèle 1978 helmet			modèle|||helmet|||is_a
+chute conveyor	bucket_conveyor#0.574609577656	bucket_conveyor#0.203558370471	chute_conveyor|||chute|||conveyor|||is_a
+apollo/skylab a7l			apollo|||skylab|||is_a
+einstein observatory	optical_telescope#0.543969988823|telescope#0.541817188263	optical_telescope#0.307695627213	einstein|||observatory|||is_a
+olympic cool-cap system			olympic|||cool|||cap|||system|||is_a
+canada–france–hawaii telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+anti-flash gear			anti_flash_gear|||anti|||flash|||gear|||is_a
+copyscope			copyscope|||copyscope|||is_a
+combustion pipette			combustion|||pipette|||is_a
+odometer			odometer|||odometer|||is_a
+emergency vehicle equipment			emergency_vehicle_equipment|||emergency|||vehicle|||equipment|||is_a
+darby steam-digger			darby|||steam|||digger|||is_a
+stacker crane	gantry_crane#0.489046096802|cranes#0.43211966753	gantry_crane#0.156005829573	stacker_crane|||stacker|||crane|||is_a
+paver	odometer#0.41034334898		paver|||paver|||is_a
+safety harness			safety_harness|||safety|||harness|||is_a
+pilot direction indicator	variometer#0.517832696438	variometer#0.0987188145518	pilot_direction_indicator|||pilot|||direction|||indicator|||is_a
+dennis ss series			dennis|||ss|||series|||is_a
+major atmospheric cerenkov experiment telescope	optical_telescope#0.580654025078	optical_telescope#0.0836626216769	major|||atmospheric|||cerenkov|||experiment|||telescope|||is_a
+reber radio telescope	optical_telescope#0.563803672791|reflecting_telescope#0.555613934994	optical_telescope#0.188707232475|reflecting_telescope#0.180388838053	reber|||radio|||telescope|||is_a
+electrical equipment			electrical_equipment|||electrical|||equipment|||is_a
+list of agricultural equipment	agricultural_equipment#0.494956076145	agricultural_equipment#0.0963938906789	list|||of|||agricultural|||equipment|||is_a
+ssh-68			ssh|||is_a
+shrink-wrap			shrink_wrap|||shrink|||wrap|||is_a
+hitachi type 73			hitachi|||type|||is_a
+víctor m. blanco telescope	optical_telescope#0.632375240326|infrared_telescope#0.575024724007	optical_telescope#0.1568980515|infrared_telescope#0.137766003609	víctor|||m|||blanco|||telescope|||is_a
+sclerometer			sclerometer|||sclerometer|||is_a
+barrel barbecue			barrel_barbecue|||barrel|||barbecue|||is_a
+rotary index table			rotary_index_table|||rotary|||index|||table|||is_a
+caterpillar twenty-two			caterpillar|||twenty|||two|||is_a
+discovery channel telescope	optical_telescope#0.54851359129|reflecting_telescope#0.48384386301	optical_telescope#0.171704232693	discovery|||channel|||telescope|||is_a
+jib crane	cranes#0.531690657139|gantry_crane#0.515443742275	gantry_crane#0.178107246757|cranes#0.172524824739	jib_crane|||jib|||crane|||is_a
+lurie–houghton telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+microscope	optical_microscope#0.666435003281|fluorescence_microscope#0.645253241062	optical_microscope#0.390373557806|fluorescence_microscope#0.378109067678	microscope|||microscope|||is_a
+galenki rt-70 radio telescope			galenki|||rt|||radio|||telescope|||is_a
+vertometer			vertometer|||vertometer|||is_a
+sideloader			sideloader|||sideloader|||is_a
+optical tweezers			optical_tweezers|||optical|||tweezers|||is_a
+attic helmet			attic_helmet|||attic|||helmet|||is_a
+self-propelled passenger equipment			self|||propelled|||passenger|||equipment|||is_a
+ocean-bottom seismometer			ocean_bottom_seismometer|||ocean|||bottom|||seismometer|||is_a
+liverpool telescope	optical_telescope#0.583379268646	optical_telescope#0.297104597092	liverpool|||telescope|||is_a
+hale telescope	reflecting_telescope#0.705630302429	reflecting_telescope#0.26005718112	hale_telescope|||hale|||telescope|||is_a
+god-grilla			god|||grilla|||is_a
+morris c8			morris|||is_a
+vane anemometer			vane_anemometer|||vane|||anemometer|||is_a
+anemometer			anemometer|||anemometer|||is_a
+shelves			shelves|||shelves|||is_a
+konos			konos|||konos|||is_a
+carbon dioxide sensor			carbon_dioxide_sensor|||carbon|||dioxide|||sensor|||is_a
+balancer			balancer|||balancer|||is_a
+south pole telescope			south|||pole|||telescope|||is_a
+anna l. nickel telescope	reflecting_telescope#0.531575262547|optical_telescope#0.488385468721	reflecting_telescope#0.10797278583|optical_telescope#0.101518057287	anna|||l|||nickel|||telescope|||is_a
+westerbork synthesis radio telescope			westerbork|||synthesis|||radio|||telescope|||is_a
+three-mirror anastigmat	optical_telescope#0.490068256855	optical_telescope#0.161997243762	three_mirror_anastigmat|||three|||mirror|||is_a
+nustar			nustar|||nustar|||is_a
+coulter counter			coulter_counter|||coulter|||counter|||is_a
+electromagnetic oscillograph			electromagnetic_oscillograph|||electromagnetic|||oscillograph|||is_a
+bascinet			bascinet|||bascinet|||is_a
+block stacking			block|||stacking|||is_a
+unit load formation equipment			unit|||load|||formation|||equipment|||is_a
+robotic telescope	optical_telescope#0.626250088215|reflecting_telescope#0.577724456787	optical_telescope#0.243866980076|reflecting_telescope#0.214416906238	robotic_telescope|||robotic|||telescope|||is_a
+green bank interferometer			green|||bank|||interferometer|||is_a
+newstead helmet			newstead_helmet|||newstead|||helmet|||is_a
+self-injurious behavior inhibiting system			self|||behavior|||inhibiting|||system|||is_a
+palomar testbed interferometer	telescope#0.504602432251		palomar|||testbed|||interferometer|||is_a
+perkin triangle			perkin|||triangle|||is_a
+thermal cycler			thermal_cycler|||thermal|||cycler|||is_a
+equipment			equipment|||equipment|||is_a
+bulk load containers	intermodal_containers#0.589754939079	intermodal_containers#0.198030054569	bulk|||load|||containers|||is_a
+magnetograph			magnetograph|||magnetograph|||is_a
+cosmic background imager			cosmic|||background|||imager|||is_a
+corinthian helmet			corinthian_helmet|||corinthian|||helmet|||is_a
+guisborough helmet			guisborough|||helmet|||is_a
+cinetheodolite			cinetheodolite|||cinetheodolite|||is_a
+burden carrier			burden|||carrier|||is_a
+boeotian helmet			boeotian_helmet|||boeotian|||helmet|||is_a
+automatic storage			automatic_storage|||automatic|||storage|||is_a
+astronomical netherlands satellite	infrared_telescope#0.510705173016	infrared_telescope#0.173855245113	astronomical|||netherlands|||satellite|||is_a
+blink comparator			blink_comparator|||blink|||comparator|||is_a
+rapid dna			rapid|||dna|||is_a
+esa space debris telescope	infrared_telescope#0.587112307549|optical_telescope#0.558954775333	infrared_telescope#0.11538759619|optical_telescope#0.107196912169	esa|||space|||debris|||telescope|||is_a
+infrared telescope	optical_telescope#0.709822177887	optical_telescope#0.300418555737	infrared_telescope|||infrared|||telescope|||is_a
+caterpillar d8			caterpillar|||is_a
+ribchester helmet	newstead_helmet#0.525245785713	newstead_helmet#0.284759253263	ribchester|||helmet|||is_a
+dock leveler			dock_leveler|||dock|||is_a
+caterpillar d2			caterpillar|||is_a
+counterbalanced lift truck			counterbalanced|||lift|||truck|||is_a
+telescopio nazionale galileo			telescopio|||nazionale|||galileo|||is_a
+nephelometer			nephelometer|||nephelometer|||is_a
+steamroller	harvester#0.511910438538	harvester#0.300356000662	steamroller|||steamroller|||is_a
+vista (telescope)	optical_telescope#0.578623116016	optical_telescope#0.302873641253	vista|||telescope|||is_a
+podea			podea|||podea|||is_a
+harvester			harvester|||harvester|||is_a
+c. donald shane telescope			c|||donald|||shane|||telescope|||is_a
+caterpillar d9			caterpillar|||is_a
+rosat			rosat|||rosat|||is_a
+skids			skids|||skids|||is_a
+methanometer			methanometer|||methanometer|||is_a
+schmidt-väisälä camera			schmidt|||väisälä|||camera|||is_a
+walkie stacker			walkie|||stacker|||is_a
+cathetometer	macrometer#0.482721030712	macrometer#0.305848509073	cathetometer|||cathetometer|||is_a
+child harness			child_harness|||child|||harness|||is_a
+x-ray telescope	optical_telescope#0.570668578148|solar_telescope#0.542678833008	optical_telescope#0.107785984874|solar_telescope#0.107358179986	x_ray_telescope|||x|||ray|||telescope|||is_a
+custodian helmet			custodian_helmet|||custodian|||helmet|||is_a
+space surveillance telescope	infrared_telescope#0.590366482735|optical_telescope#0.566954433918	infrared_telescope#0.207246646285|optical_telescope#0.196014925838	space|||surveillance|||telescope|||is_a
+stratoscope	astroscan#0.441521853209	astroscan#0.292502969503	stratoscope|||stratoscope|||is_a
+pyrheliometer	bathometer#0.476498216391|actinometer#0.448198497295	bathometer#0.302759230137|actinometer#0.287511765957	pyrheliometer|||pyrheliometer|||is_a
+allis-chalmers model g			allis|||chalmers|||model|||g|||is_a
+ooty radio telescope	optical_telescope#0.55237442255		ooty|||radio|||telescope|||is_a
+bernard lyot telescope	reflecting_telescope#0.484115809202		bernard|||lyot|||telescope|||is_a
+automatic pressure tracking adiabatic calorimeter			automatic|||pressure|||tracking|||adiabatic|||calorimeter|||is_a
+magnetic belt conveyor	screw_conveyor#0.525448977947|bucket_conveyor#0.480476945639	screw_conveyor#0.166620671749|bucket_conveyor#0.158975511789	magnetic|||belt|||conveyor|||is_a
+parts feeder			parts_feeder|||parts|||feeder|||is_a
+allis-chalmers model b			allis|||chalmers|||model|||b|||is_a
+chain conveyor	roller_conveyor#0.50625705719	roller_conveyor#0.184155151248	chain_conveyor|||chain|||conveyor|||is_a
+batting helmet			batting_helmet|||batting|||helmet|||is_a
+order picker	pallet_jack#0.468020319939	pallet_jack#0.157902702689	order_picker|||order|||picker|||is_a
+scanning electron microscope			scanning_electron_microscope|||scanning|||electron|||microscope|||is_a
+automated analyser			automated_analyser|||automated|||analyser|||is_a
+steamrail victoria			steamrail|||victoria|||is_a
+tarnhelm			tarnhelm|||tarnhelm|||is_a
+terence the tractor			terence|||the|||tractor|||is_a
+viper telescope	optical_telescope#0.611059367657|infrared_telescope#0.546704769135	optical_telescope#0.325416088104	viper|||telescope|||is_a
+microprobe	scientific_instrument#0.540575623512|scanning_electron_microscope#0.529567718506	scientific_instrument#0.335770875216|scanning_electron_microscope#0.306798219681	microprobe|||microprobe|||is_a
+comet seeker	actinometer#0.421620309353|reflecting_telescope#0.417785197496	actinometer#0.143379673362|reflecting_telescope#0.141541942954	comet_seeker|||comet|||seeker|||is_a
+cart-on-track conveyor			cart|||on|||track|||conveyor|||is_a
+belt dryer	screw_conveyor#0.486083239317	screw_conveyor#0.175087034702	belt_dryer|||belt|||dryer|||is_a
+scientific instrument			scientific_instrument|||scientific|||instrument|||is_a
+caterpillar cs-533e			caterpillar|||cs|||is_a
+sliding rack			sliding_rack|||sliding|||rack|||is_a
+welding helmet			welding_helmet|||welding|||helmet|||is_a
+sprague-thomson			sprague|||thomson|||is_a
+telescope	optical_telescope#0.726382553577|reflecting_telescope#0.715120792389	optical_telescope#0.436879396439|reflecting_telescope#0.410989999771|infrared_telescope#0.372124016285	telescope|||telescope|||is_a
+monocular		finderscope#0.316803693771	monocular|||monocular|||is_a
+macrometer	rheoscope#0.507520079613	rheoscope#0.335652530193	macrometer|||macrometer|||is_a
+bars apparatus			bars_apparatus|||bars|||apparatus|||is_a
+illyrian type helmet			illyrian|||type|||helmet|||is_a
+m5 tractor			tractor|||is_a
+system80			is_a
+prompt telescopes	telescope#0.531773686409|infrared_telescope#0.529666543007|optical_telescope#0.480441629887	infrared_telescope#0.271145582199|telescope#0.256685644388|optical_telescope#0.252305656672	prompt|||telescopes|||is_a
+positioning equipment			positioning_equipment|||positioning|||equipment|||is_a
+stroboscope	monocular#0.476110368967	monocular#0.302490353584	stroboscope|||stroboscope|||is_a
+nichols radiometer			nichols|||radiometer|||is_a
+craig telescope	reflecting_telescope#0.582698106766|optical_telescope#0.549500584602	reflecting_telescope#0.289778351784|optical_telescope#0.281599879265	craig|||telescope|||is_a
+glue			glue|||glue|||is_a
+pneumatic conveyor	screw_conveyor#0.546368300915	screw_conveyor#0.195992648602	pneumatic_conveyor|||pneumatic|||conveyor|||is_a
+gran telescopio canarias			gran|||telescopio|||canarias|||is_a
+finderscope	monocular#0.435946077108|optical_telescope#0.425361543894	monocular#0.302139818668	finderscope|||finderscope|||is_a
+ohio state university radio observatory			ohio|||state|||university|||radio|||observatory|||is_a
+relikt-1			is_a
+cryogenic current comparator			cryogenic_current_comparator|||cryogenic|||current|||comparator|||is_a
+skid boxes			skid|||boxes|||is_a
+fall arrest			fall_arrest|||fall|||arrest|||is_a
+half-mile telescope			half|||mile|||telescope|||is_a
+xo telescope	optical_telescope#0.590235948563|astroscan#0.569742679596|infrared_telescope#0.552330374718	astroscan#0.322586208582|optical_telescope#0.31992277503	xo|||telescope|||is_a
+tachometer			tachometer|||tachometer|||is_a
+mining helmet			mining_helmet|||mining|||helmet|||is_a
+rmas fiona (a148)			rmas|||fiona|||is_a
+conveyor	screw_conveyor#0.538288354874	screw_conveyor#0.319889128208	conveyor|||conveyor|||is_a
+rheoscope	macrometer#0.452401578426	macrometer#0.309801012278	rheoscope|||rheoscope|||is_a
+low-voltage electron microscope			low_voltage_electron_microscope|||low|||voltage|||electron|||microscope|||is_a
+artillery tractor			artillery_tractor|||artillery|||tractor|||is_a
+tower telescope	solar_telescope#0.62152248621|optical_telescope#0.60586643219|infrared_telescope#0.562111616135	solar_telescope#0.214743629098|optical_telescope#0.203877165914|infrared_telescope#0.19012363255	tower_telescope|||tower|||telescope|||is_a
+heavy equipment			heavy_equipment|||heavy|||equipment|||is_a
+ats-59			ats|||is_a
+john deere 3020			john|||deere|||is_a
+imperial helmet			imperial|||helmet|||is_a
+european extremely large telescope	optical_telescope#0.560922086239|infrared_telescope#0.5180965662	optical_telescope#0.106550566852|infrared_telescope#0.0994901582599	european|||extremely|||large|||telescope|||is_a
+makarapa			makarapa|||makarapa|||is_a
+operant conditioning chamber			operant_conditioning_chamber|||operant|||conditioning|||chamber|||is_a
+split case order picking system			split|||case|||order|||picking|||system|||is_a
+flow-through rack			flow|||through|||rack|||is_a
+tribometer			tribometer|||tribometer|||is_a
+livermore optical transient imaging system			livermore|||optical|||transient|||imaging|||system|||is_a
+southern african large telescope	optical_telescope#0.491557180882		southern|||african|||large|||telescope|||is_a
+öbb rolling stock			öbb|||rolling|||stock|||is_a
+portable data terminal			portable_data_terminal|||portable|||data|||terminal|||is_a
+seismometer			seismometer|||seismometer|||is_a
+slipsheets			slipsheets|||slipsheets|||is_a
+mpg/eso telescope	optical_telescope#0.594153106213|infrared_telescope#0.555676817894	optical_telescope#0.217665016651|infrared_telescope#0.203294351697	mpg|||eso|||telescope|||is_a
+vise			vise|||vise|||is_a
+cerro chajnantor atacama telescope	optical_telescope#0.640372812748	optical_telescope#0.176982313395	cerro|||chajnantor|||atacama|||telescope|||is_a
+machine vision			machine_vision|||machine|||vision|||is_a
+dennis rs series			dennis|||rs|||series|||is_a
+time pressure gauge			time_pressure_gauge|||time|||pressure|||gauge|||is_a
+stacking frame			stacking_frame|||stacking|||frame|||is_a
+cartons		trappist#0.296777129173	cartons|||cartons|||is_a
+trappist			trappist|||trappist|||is_a
+net radiometer			net_radiometer|||net|||radiometer|||is_a
+road roller			road_roller|||road|||roller|||is_a
+stretch-wrap			stretch|||wrap|||is_a
+roller conveyor			roller_conveyor|||roller|||conveyor|||is_a
+mechanical connections			mechanical_connections|||mechanical|||connections|||is_a
+balloon-borne telescope	optical_telescope#0.581538975239|infrared_telescope#0.52629673481	optical_telescope#0.112757049501|infrared_telescope#0.100310541689	balloon_borne_telescope|||balloon|||borne|||telescope|||is_a
+chandra x-ray observatory	solar_telescope#0.52177888155|optical_telescope#0.493623554707	solar_telescope#0.10175588727	chandra|||x|||ray|||observatory|||is_a
+fire apparatus			fire_apparatus|||fire|||apparatus|||is_a
+cmp fat			cmp|||fat|||is_a
+close helmet			close_helmet|||close|||helmet|||is_a
+effelsberg 100-m radio telescope	optical_telescope#0.63939923048|infrared_telescope#0.599581718445	optical_telescope#0.148905843496|infrared_telescope#0.138514608145	effelsberg|||m|||radio|||telescope|||is_a
+military equipment	communication_equipment#0.513466477394		military_equipment|||military|||equipment|||is_a
+tractor			tractor|||tractor|||is_a
+shmarjet			shmarjet|||shmarjet|||is_a
+fluorescence microscope	optical_microscope#0.690721571445	optical_microscope#0.288197994232	fluorescence_microscope|||fluorescence|||microscope|||is_a
+pickelhaube			pickelhaube|||pickelhaube|||is_a
+cantilever rack			cantilever_rack|||cantilever|||rack|||is_a
+small telescope	optical_telescope#0.554297685623|reflecting_telescope#0.520626306534	optical_telescope#0.181052833796	small_telescope|||small|||telescope|||is_a
+conical helmet			conical_helmet|||conical|||helmet|||is_a
+actinometer	pyrheliometer#0.432309150696		actinometer|||actinometer|||is_a
+scintillating bolometer	portable_data_terminal#0.469392895699	portable_data_terminal#0.201388701797	scintillating_bolometer|||scintillating|||bolometer|||is_a
+kipp's apparatus			kipp|||s|||apparatus|||is_a
+picture line-up generation equipment			picture_line_up_generation_equipment|||picture|||line|||up|||generation|||equipment|||is_a
+sysmex xe-2100	automated_analyser#0.483776152134	automated_analyser#0.27253934741	sysmex|||xe|||is_a
+storage carousel			storage|||carousel|||is_a
+solar x-ray imager			solar_x_ray_imager|||solar|||x|||ray|||imager|||is_a
+crates			crates|||crates|||is_a
+glossmeter			glossmeter|||glossmeter|||is_a
+optical microscope	fluorescence_microscope#0.61726218462	fluorescence_microscope#0.242633327842	optical_microscope|||optical|||microscope|||is_a
+lensmeter			lensmeter|||lensmeter|||is_a
+galea			galea|||galea|||is_a
+allis-chalmers d series			allis|||chalmers|||d|||series|||is_a
+image-stabilized binoculars			image_stabilized_binoculars|||image|||stabilized|||binoculars|||is_a
+3.67 m advanced electro optical system telescope	optical_telescope#0.551701188087		m|||advanced|||electro|||optical|||system|||telescope|||is_a
+zymoscope			is_a
+gornergrat infrared telescope	infrared_telescope#0.715113818645|optical_telescope#0.657820403576	infrared_telescope#0.256804525852|optical_telescope#0.231130808592	gornergrat|||infrared|||telescope|||is_a
+ferguson te20	tractor#0.482444524765		ferguson|||is_a
+personnel carrier			personnel_carrier|||personnel|||carrier|||is_a
+baskets			baskets|||baskets|||is_a
+infinite-axis telescope	optical_telescope#0.508788704872	optical_telescope#0.104428328574	infinite_axis_telescope|||infinite|||axis|||telescope|||is_a
+aedc range g			range|||g|||is_a
+jacobus kapteyn telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+phrygian type helmet			phrygian|||type|||helmet|||is_a
+gantry crane	cranes#0.623064517975	cranes#0.223782241344	gantry_crane|||gantry|||crane|||is_a
+ford 5000			ford|||is_a
+koenig's manometric flame apparatus			koenig|||s|||flame|||apparatus|||is_a
+massey-harris model 81			massey|||harris|||model|||is_a
+john deere mc			john|||deere|||mc|||is_a
+farmall cub	tractor#0.498218297958|minneapolis_moline#0.476407021284	tractor#0.270688682795|minneapolis_moline#0.266260892153	farmall|||cub|||is_a
+drive-through rack			drive|||through|||rack|||is_a
+bradford robotic telescope	optical_telescope#0.572204649448	optical_telescope#0.183756098151	bradford|||robotic|||telescope|||is_a
+farmall 1026	tractor#0.443409889936		farmall|||is_a
+siding spring 2.3 m telescope	optical_telescope#0.584253191948|reflecting_telescope#0.513879597187	optical_telescope#0.0924183800817	siding|||spring|||m|||telescope|||is_a
+turret truck			turret|||truck|||is_a
+radio frequency tag			radio|||frequency|||tag|||is_a
+mercator telescope	optical_telescope#0.62298387289	optical_telescope#0.36107391119|astroscan#0.343507170677	mercator|||telescope|||is_a
+vlt survey telescope	optical_telescope#0.658822953701|infrared_telescope#0.647099792957	optical_telescope#0.244590356946|infrared_telescope#0.240229427814	vlt|||survey|||telescope|||is_a
+motorcycle helmet	bicycle_helmet#0.49020126462	bicycle_helmet#0.176732569933	motorcycle_helmet|||motorcycle|||helmet|||is_a
+dna sequencer			dna|||sequencer|||is_a
+hegra			hegra|||hegra|||is_a
+headgear			headgear|||headgear|||is_a
+quint			quint|||quint|||is_a
+plethysmograph	hydrometer#0.45425671339		plethysmograph|||plethysmograph|||is_a
+multiphoton fluorescence microscope	fluorescence_microscope#0.705628812313|optical_microscope#0.649900734425	fluorescence_microscope#0.18092212081|optical_microscope#0.158998280764	multiphoton_fluorescence_microscope|||multiphoton|||fluorescence|||microscope|||is_a
+hook gauge evaporimeter			hook|||gauge|||is_a
+viscometer			viscometer|||viscometer|||is_a
+crosby garrett helmet			crosby|||garrett|||helmet|||is_a
+kunlun dark universe survey telescope	optical_telescope#0.624847829342|infrared_telescope#0.583702266216	optical_telescope#0.0928782299161|infrared_telescope#0.0839954316616	kunlun|||dark|||universe|||survey|||telescope|||is_a
+frequency domain sensor			frequency_domain_sensor|||frequency|||domain|||sensor|||is_a
+chronophone			chronophone|||chronophone|||is_a
+laboratory equipment	medical_equipment#0.554000794888	medical_equipment#0.200573354959	laboratory_equipment|||laboratory|||equipment|||is_a
+hiboy			hiboy|||hiboy|||is_a
+meade lx200			meade|||is_a
+bulgarian m36 helmet			bulgarian|||helmet|||is_a
+m6 tractor			tractor|||is_a
+sardinia radio telescope	optical_telescope#0.55305403471		sardinia|||radio|||telescope|||is_a
+intermodal containers			intermodal_containers|||intermodal|||containers|||is_a
+lorun			is_a
+samuel oschin telescope	optical_telescope#0.547080099583|reflecting_telescope#0.513553142548	optical_telescope#0.176129028201	samuel|||oschin|||telescope|||is_a
+tauchmann telescope	optical_telescope#0.615665912628|infrared_telescope#0.584558665752|reflecting_telescope#0.573027789593	optical_telescope#0.344198763371|infrared_telescope#0.329934120178	tauchmann|||telescope|||is_a
+energy analyser			energy_analyser|||energy|||analyser|||is_a
+national large solar telescope	optical_telescope#0.621183812618|infrared_telescope#0.593225359917|solar_telescope#0.548245966434	optical_telescope#0.118357367814|infrared_telescope#0.113605290651|solar_telescope#0.105894967914	national|||large|||solar|||telescope|||is_a
+turn table	chemigation_valve#0.431798309088	chemigation_valve#0.143997833133	turn_table|||turn|||table|||is_a
+southern astrophysical research telescope	infrared_telescope#0.56367367506	infrared_telescope#0.111013039947	southern|||astrophysical|||research|||telescope|||is_a
+astroscan			astroscan|||astroscan|||is_a
+hydrometer	viscometer#0.511729955673	viscometer#0.311252236366	hydrometer|||hydrometer|||is_a
+bucket conveyor	screw_conveyor#0.562188088894	screw_conveyor#0.196456328034	bucket_conveyor|||bucket|||conveyor|||is_a
+hoist			hoist|||hoist|||is_a
+graphometer			graphometer|||graphometer|||is_a
+visor	helmet#0.500136971474		visor|||visor|||is_a
+transport equipment			transport_equipment|||transport|||equipment|||is_a
+chinese giant solar telescope	solar_telescope#0.545322597027|optical_telescope#0.528870820999	solar_telescope#0.10977692157	chinese|||giant|||solar|||telescope|||is_a
+industrial truck			industrial_truck|||industrial|||truck|||is_a
+vibrating conveyor	sortation_conveyor#0.477971881628	sortation_conveyor#0.16011326015	vibrating_conveyor|||vibrating|||conveyor|||is_a
+cfa 1.2 m millimeter-wave telescope	optical_telescope#0.609232127666|infrared_telescope#0.549111425877|reflecting_telescope#0.545608699322	optical_telescope#0.0762336999178	cfa|||m|||millimeter|||wave|||telescope|||is_a
+aec matador	artillery_tractor#0.619824171066	artillery_tractor#0.227327883244	aec_matador|||aec|||matador|||is_a
+krupp protze			krupp|||protze|||is_a
+airport crash tender			airport_crash_tender|||airport|||crash|||tender|||is_a
+tractor-trailer	truck#0.599306225777	truck#0.213024064898	tractor_trailer|||tractor|||trailer|||is_a
+automated planet finder			automated|||planet|||finder|||is_a
+power-and-free conveyor			power|||and|||free|||conveyor|||is_a
+ats 56 g			ats|||g|||is_a
+gregorian telescope	reflecting_telescope#0.708182036877|newtonian_telescope#0.610318422318	reflecting_telescope#0.256961256266|newtonian_telescope#0.220161929727	gregorian_telescope|||gregorian|||telescope|||is_a
+dennis dagger			dennis|||dagger|||is_a
+operating microscope	optical_microscope#0.544063150883|fluorescence_microscope#0.534785032272	optical_microscope#0.170725911856	operating_microscope|||operating|||microscope|||is_a
+cosmic anisotropy telescope	optical_telescope#0.485829949379		cosmic|||anisotropy|||telescope|||is_a
+sortation conveyor			sortation_conveyor|||sortation|||conveyor|||is_a
+antarctic muon and neutrino detector array			antarctic|||and|||neutrino|||detector|||array|||is_a
+wolter telescope	optical_telescope#0.691496372223|reflecting_telescope#0.581577956676	optical_telescope#0.364171266556	wolter|||telescope|||is_a
+bicycle helmet	motorcycle_helmet#0.543334066868	motorcycle_helmet#0.18877106905	bicycle_helmet|||bicycle|||helmet|||is_a
+razdow telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+cervical collar			cervical_collar|||cervical|||collar|||is_a
+navy mark iv			navy|||mark|||iv|||is_a
+petrographic microscope	fluorescence_microscope#0.615221440792|scanning_electron_microscope#0.587568104267	fluorescence_microscope#0.228025376797|scanning_electron_microscope#0.207165196538	petrographic_microscope|||petrographic|||microscope|||is_a
+binoculars	small_telescope#0.484824776649		binoculars|||binoculars|||is_a
+x-ray astronomy satellites			x_ray_astronomy_satellites|||x|||ray|||astronomy|||satellites|||is_a
+manipulator			manipulator|||manipulator|||is_a
+kugelrohr			is_a
+sonometer			sonometer|||sonometer|||is_a
+very small array			very_small_array|||very|||small|||array|||is_a
+history of the telescope			history_of_the_telescope|||history|||of|||the|||telescope|||is_a
+agricultural equipment			agricultural_equipment|||agricultural|||equipment|||is_a
+schmidt–newton telescope	optical_telescope#0.642526328564|reflecting_telescope#0.582090675831	optical_telescope#0.509922921658	telescope|||is_a
+office equipment	agricultural_equipment#0.573989391327|medical_equipment#0.539211392403	agricultural_equipment#0.19851256907	office_equipment|||office|||equipment|||is_a
+flak jacket			flak_jacket|||flak|||jacket|||is_a
+carnegie telescope	optical_telescope#0.63149523735|reflecting_telescope#0.58558011055|infrared_telescope#0.533277571201	optical_telescope#0.333867698908|reflecting_telescope#0.302724480629	carnegie|||telescope|||is_a
+forwarder			forwarder|||forwarder|||is_a
+barbecue			barbecue|||barbecue|||is_a
+bubble column reactor			bubble_column_reactor|||bubble|||column|||reactor|||is_a
+plate reader			plate_reader|||plate|||reader|||is_a
+blast			blast|||blast|||is_a
+james webb space telescope	infrared_telescope#0.534928441048|optical_telescope#0.506247222424	infrared_telescope#0.114630825818|optical_telescope#0.105143219233	james|||webb|||space|||telescope|||is_a
+nuffield universal			nuffield|||universal|||is_a
+uppsala southern schmidt telescope	optical_telescope#0.533122062683|hale_telescope#0.514201581478	optical_telescope#0.0999996811152	uppsala|||southern|||schmidt|||telescope|||is_a
+lifeboatman's helmet			lifeboatman_s_helmet|||lifeboatman|||s|||helmet|||is_a
+communication equipment			communication_equipment|||communication|||equipment|||is_a
+primeval structure telescope	optical_telescope#0.477967172861		primeval|||structure|||telescope|||is_a
+schlenk line			line|||is_a
+massey-harris model 101			massey|||harris|||model|||is_a
+kouppas			is_a
+high resolution coronal imager			high|||resolution|||coronal|||imager|||is_a
+weighing bottle			weighing|||bottle|||is_a
+40-foot telescope	optical_telescope#0.635578930378|reflecting_telescope#0.55972713232	optical_telescope#0.318305850029	foot|||telescope|||is_a
+dynameter			dynameter|||dynameter|||is_a
+claas axion			claas|||axion|||is_a
+selective pallet rack			selective_pallet_rack|||selective|||pallet|||rack|||is_a
+la brugeoise cars			la|||cars|||is_a
+massey-harris model 20			massey|||harris|||model|||is_a
+electroscope			electroscope|||electroscope|||is_a
+x-ray microscope			x_ray_microscope|||x|||ray|||microscope|||is_a
+ebro trucks	truck#0.565180063248	truck#0.436079740524	trucks|||is_a
+manual			manual|||manual|||is_a
+ampere balance			ampere_balance|||ampere|||balance|||is_a
+hockey pants			hockey_pants|||hockey|||pants|||is_a
+cold planer			cold_planer|||cold|||planer|||is_a
+c7p			is_a
+nasmyth telescope	reflecting_telescope#0.645572841167	reflecting_telescope#0.335618913174|astroscan#0.309332787991	nasmyth|||telescope|||is_a
+atacama cosmology telescope	optical_telescope#0.587662220001|infrared_telescope#0.568161487579	optical_telescope#0.203335106373|infrared_telescope#0.198832467198	atacama|||cosmology|||telescope|||is_a
+bags			bags|||bags|||is_a
+disdrometer			disdrometer|||disdrometer|||is_a
+oscillograph			oscillograph|||oscillograph|||is_a
+81-740/741			is_a

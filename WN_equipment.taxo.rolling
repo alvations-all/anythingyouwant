@@ -1,0 +1,475 @@
+acoustic modem			acoustic_modem|||acoustic|||modem|||is_a
+aerator			aerator|||aerator|||is_a
+air search radar			air_search_radar|||air|||search|||radar|||is_a
+amplifier	audio_amplifier#0.697821617126		amplifier|||amplifier|||is_a
+anti submarine rocket			anti_submarine_rocket|||anti|||submarine|||rocket|||is_a
+apishamore			is_a
+apparatus			apparatus|||apparatus|||is_a
+astronomy satellite	communications_satellite#0.653549790382	communications_satellite#0.231690123677	astronomy_satellite|||astronomy|||satellite|||is_a
+atomic pile	pressurized_water_reactor#0.444482177496	pressurized_water_reactor#0.152353420854	atomic_pile|||atomic|||pile|||is_a
+audio amplifier			audio_amplifier|||audio|||amplifier|||is_a
+audio system			audio_system|||audio|||system|||is_a
+audiovisual			audiovisual|||audiovisual|||is_a
+automation			automation|||automation|||is_a
+backboard			backboard|||backboard|||is_a
+backlighting			backlighting|||backlighting|||is_a
+badminton equipment	sports_equipment#0.562023460865	sports_equipment#0.181530490518	badminton_equipment|||badminton|||equipment|||is_a
+baggage			baggage|||baggage|||is_a
+balance beam	horizontal_bar#0.481066852808		balance_beam|||balance|||beam|||is_a
+ball	cue_ball#0.600934267044		ball|||ball|||is_a
+ballistic pendulum	foucault_pendulum#0.53728222847	foucault_pendulum#0.164729580283	ballistic_pendulum|||ballistic|||pendulum|||is_a
+bar bit			bar_bit|||bar|||bit|||is_a
+bar mask			bar|||mask|||is_a
+barbell	dumbbell#0.535164833069	dumbbell#0.307555824518	barbell|||barbell|||is_a
+bard			bard|||bard|||is_a
+base			base|||base|||is_a
+baseball	softball#0.698451280594|football#0.667885482311|basketball#0.663194537163|volleyball#0.64942240715|racquetball#0.585886597633	softball#0.410523861647|football#0.404152929783|volleyball#0.401500076056|basketball#0.400191694498	baseball|||baseball|||is_a
+baseball bat	softball#0.499823957682		baseball_bat|||baseball|||bat|||is_a
+baseball equipment	sporting_goods#0.491256773472|sports_equipment#0.487372785807	sports_equipment#0.161925151944	baseball_equipment|||baseball|||equipment|||is_a
+baseball glove	baseball_bat#0.575671732426|softball#0.531921565533|catcher_s_mask#0.497763425112|basketball#0.497335493565	baseball_bat#0.193581610918|softball#0.174432843924|catcher_s_mask#0.17050357163	baseball_glove|||baseball|||glove|||is_a
+basic point defense missile system			basic_point_defense_missile_system|||basic|||point|||defense|||missile|||system|||is_a
+basket			basket|||basket|||is_a
+basketball	volleyball#0.771383464336|football#0.720047712326|racquetball#0.693538844585|handball#0.67028015852|baseball#0.646296799183	volleyball#0.476120114326|football#0.436573475599|racquetball#0.41916885972|handball#0.412688970566	basketball|||basketball|||is_a
+basketball equipment	volleyball#0.568305909634	volleyball#0.173817813396	basketball_equipment|||basketball|||equipment|||is_a
+bathyscaphe	bathysphere#0.661761820316|submersible#0.550477147102	bathysphere#0.354951202869|submersible#0.310384809971	bathyscaphe|||bathyscaphe|||is_a
+bathysphere	bathyscaphe#0.59853708744|submersible#0.50074660778	bathyscaphe#0.323025971651|submersible#0.297795563936	bathysphere|||bathysphere|||is_a
+batting cage			batting_cage|||batting|||cage|||is_a
+batting glove	batting_helmet#0.460856705904	baseball#0.155544131994	batting_glove|||batting|||glove|||is_a
+batting helmet	catcher_s_mask#0.513566851616	catcher_s_mask#0.169287979603	batting_helmet|||batting|||helmet|||is_a
+billiard ball	eight_ball#0.514024555683	eight_ball#0.172220602632	billiard_ball|||billiard|||ball|||is_a
+birdcage mask			birdcage|||mask|||is_a
+bishop			bishop|||bishop|||is_a
+bit			bit|||bit|||is_a
+bitewing			bitewing|||bitewing|||is_a
+black	white#0.868387460709	white#0.481794625521	black|||black|||is_a
+black box	white#0.565162777901|blister_pack#0.520974695683	blister_pack#0.169018745422	black_box|||black|||box|||is_a
+blister pack			blister_pack|||blister|||pack|||is_a
+blowtorch			blowtorch|||blowtorch|||is_a
+blue chip			blue_chip|||blue|||chip|||is_a
+bocce ball	football#0.626469552517	football#0.208074182272	bocce_ball|||bocce|||ball|||is_a
+boiling water reactor	nuclear_reactor#0.628973484039		boiling_water_reactor|||boiling|||water|||reactor|||is_a
+booster			booster|||booster|||is_a
+bowl			bowl|||bowl|||is_a
+bowling ball	candlepin#0.545886874199	candlepin#0.190527811646	bowling_ball|||bowling|||ball|||is_a
+bowling equipment	sports_equipment#0.577432155609|sporting_goods#0.506445884705	sports_equipment#0.198265701532|sporting_goods#0.170443251729	bowling_equipment|||bowling|||equipment|||is_a
+bowling pin			bowling_pin|||bowling|||pin|||is_a
+box camera	digital_camera#0.554140686989	digital_camera#0.169548541307	box_camera|||box|||camera|||is_a
+boxing equipment	sports_equipment#0.613385617733	sports_equipment#0.201409503818	boxing_equipment|||boxing|||equipment|||is_a
+boxing glove			boxing_glove|||boxing|||glove|||is_a
+brassie			brassie|||brassie|||is_a
+breeches buoy			breeches_buoy|||breeches|||buoy|||is_a
+breeder reactor	fast_reactor#0.70347315073|nuclear_reactor#0.701162457466	fast_reactor#0.246523708105|nuclear_reactor#0.233776092529	breeder_reactor|||breeder|||reactor|||is_a
+bridle	halter#0.566980004311		bridle|||bridle|||is_a
+bridoon			bridoon|||bridoon|||is_a
+bubble jet printer	purifier#0.446756571531	purifier#0.147463724017	bubble|||jet|||printer|||is_a
+bunsen burner	gas_burner#0.674627363682	gas_burner#0.257561594248	bunsen_burner|||bunsen|||burner|||is_a
+burner	gas_burner#0.66685706377	gas_burner#0.381642132998	burner|||burner|||is_a
+cage	burner#0.522523164749	burner#0.297270894051	cage|||cage|||is_a
+camcorder			camcorder|||camcorder|||is_a
+camera	digital_camera#0.683730185032	digital_camera#0.377247929573	camera|||camera|||is_a
+candid camera	film#0.567869961262|motion_picture_camera#0.553557038307|digital_camera#0.548405647278	film#0.18675686419|motion_picture_camera#0.182091042399|digital_camera#0.179574593902	candid_camera|||candid|||camera|||is_a
+candlepin	duckpin#0.611964046955	duckpin#0.365484029055	candlepin|||candlepin|||is_a
+canvas			canvas|||canvas|||is_a
+caparison			caparison|||caparison|||is_a
+cardiac monitor			cardiac_monitor|||cardiac|||monitor|||is_a
+carpenter's kit			carpenter_s_kit|||carpenter|||s|||kit|||is_a
+cascade liquefier			cascade_liquefier|||cascade|||is_a
+cassette deck	cassette_recorder#0.672332525253|cassette_player#0.638427913189|tape_recorder#0.611325979233|tape_deck#0.56616127491|reel#0.541443407536	cassette_recorder#0.200812771916|cassette_player#0.192339867353|tape_recorder#0.188170641661|tape_deck#0.171800658107	cassette_deck|||cassette|||deck|||is_a
+cassette player	cassette_recorder#0.682144641876|tape_recorder#0.610883831978|cassette_deck#0.607415139675|cd_player#0.557963550091|tape_deck#0.54675579071	cassette_recorder#0.201479390264|tape_recorder#0.186162739992|cassette_deck#0.175092831254|cd_player#0.172109141946	cassette_player|||cassette|||player|||is_a
+cassette recorder	tape_recorder#0.718549907207|recording_system#0.710255980492|reel#0.685295164585	recording_system#0.267314523458|tape_recorder#0.261809468269|reel#0.244825616479	cassette_recorder|||cassette|||recorder|||is_a
+castle			castle|||castle|||is_a
+catalytic cracker			catalytic_cracker|||catalytic|||cracker|||is_a
+catcher's mask	baseball#0.455163389444	man#0.0893947333097|baseball#0.0887700170279	catcher_s_mask|||catcher|||s|||mask|||is_a
+cd player	cassette_recorder#0.517392516136|tape_recorder#0.512256622314|cassette_player#0.509413301945	tape_recorder#0.164121806622	cd_player|||cd|||player|||is_a
+cellular telephone			cellular_telephone|||cellular|||telephone|||is_a
+central processing unit			central_processing_unit|||central|||processing|||unit|||is_a
+centrifuge			centrifuge|||centrifuge|||is_a
+checker			checker|||checker|||is_a
+chemical reactor	nuclear_reactor#0.610536515713	nuclear_reactor#0.204032063484	chemical_reactor|||chemical|||reactor|||is_a
+chessman			chessman|||chessman|||is_a
+chinese puzzle			chinese|||puzzle|||is_a
+chip			chip|||chip|||is_a
+cinch			cinch|||cinch|||is_a
+circuitry	chip#0.573644638062	chip#0.30756354332	circuitry|||circuitry|||is_a
+clapperboard			clapperboard|||clapperboard|||is_a
+clay pigeon			clay_pigeon|||clay|||pigeon|||is_a
+clock pendulum	foucault_pendulum#0.608291566372	foucault_pendulum#0.211991786957	clock_pendulum|||clock|||pendulum|||is_a
+clock radio			clock_radio|||clock|||radio|||is_a
+coffey still			coffey|||still|||is_a
+communications satellite			communications_satellite|||communications|||satellite|||is_a
+compact disk burner			compact|||disk|||burner|||is_a
+computer keyboard	joystick#0.624055683613	joystick#0.233462095261	computer_keyboard|||computer|||keyboard|||is_a
+computerized axial tomography scanner			computerized|||axial|||tomography|||scanner|||is_a
+condenser	cooling_system#0.638589560986	cooling_system#0.320420026779	condenser|||condenser|||is_a
+cooling system	heat_pump#0.610785961151		cooling_system|||cooling|||system|||is_a
+coronet			coronet|||coronet|||is_a
+counter			counter|||counter|||is_a
+crampon			crampon|||crampon|||is_a
+cricket ball	cricket_bat#0.545419037342|tennis_ball#0.54496717453	tennis_ball#0.198822259903|cricket_bat#0.195990055799	cricket_ball|||cricket|||ball|||is_a
+cricket bat	cricket_ball#0.513750016689		cricket_bat|||cricket|||bat|||is_a
+cricket equipment	sports_equipment#0.644960820675|golf_equipment#0.521481156349	sports_equipment#0.224180474877	cricket_equipment|||cricket|||equipment|||is_a
+croquet ball	cricket_ball#0.497345417738		croquet_ball|||croquet|||ball|||is_a
+croquet equipment			croquet_equipment|||croquet|||equipment|||is_a
+croquet mallet	cricket_bat#0.4539450109		croquet_mallet|||croquet|||mallet|||is_a
+crossbar			crossbar|||crossbar|||is_a
+crossword puzzle			crossword_puzzle|||crossword|||puzzle|||is_a
+crown	crown_jewels#0.613317370415		crown|||crown|||is_a
+crown jewels			crown_jewels|||crown|||jewels|||is_a
+crystal detector			crystal_detector|||crystal|||detector|||is_a
+crystal set			crystal_set|||crystal|||set|||is_a
+cue ball	object_ball#0.696154475212	object_ball#0.234610512853	cue_ball|||cue|||ball|||is_a
+curb	snaffle#0.521932244301|pelham#0.469200849533	snaffle#0.311769723892|pelham#0.28875887394	curb|||curb|||is_a
+cytophotometer			cytophotometer|||cytophotometer|||is_a
+data input device			data_input_device|||data|||input|||device|||is_a
+desk phone	handset#0.587261617184|telephone#0.545210897923	handset#0.188933327794|telephone#0.185439273715	desk_phone|||desk|||phone|||is_a
+detector			detector|||detector|||is_a
+developer			developer|||developer|||is_a
+dial telephone			dial_telephone|||dial|||telephone|||is_a
+dictaphone	tape_recorder#0.493938624859|cassette_recorder#0.44377297163	tape_recorder#0.283300757408	dictaphone|||dictaphone|||is_a
+digital camera			digital_camera|||digital|||camera|||is_a
+direction finder			direction_finder|||direction|||finder|||is_a
+discus	javelin#0.778131484985	javelin#0.430264651775	discus|||discus|||is_a
+diving bell	submersible#0.545803546906	submersible#0.171857520938	diving_bell|||diving|||bell|||is_a
+dot matrix printer			dot_matrix_printer|||dot|||matrix|||printer|||is_a
+drill rig			drill_rig|||drill|||rig|||is_a
+drilling platform			drilling_platform|||drilling|||platform|||is_a
+driver			driver|||driver|||is_a
+driving iron			driving_iron|||driving|||iron|||is_a
+drogue	drogue_parachute#0.617960214615|dumbbell#0.515796065331	drogue_parachute#0.325095206499	drogue|||drogue|||is_a
+drogue parachute			drogue_parachute|||drogue|||parachute|||is_a
+duckpin	candlepin#0.590366661549|ninepin_ball#0.470335096121	candlepin#0.354392617941	duckpin|||duckpin|||is_a
+dumbbell	drogue#0.501039683819|barbell#0.494968652725	drogue#0.296010702848|barbell#0.288686513901	dumbbell|||dumbbell|||is_a
+duplicator	dumbbell#0.46322825551|mimeograph#0.449753314257	dumbbell#0.279716998339	duplicator|||duplicator|||is_a
+eight ball			eight_ball|||eight|||ball|||is_a
+electrical system			electrical_system|||electrical|||system|||is_a
+electrograph			is_a
+electronic equipment	test_equipment#0.646952092648	test_equipment#0.249018773437	electronic_equipment|||electronic|||equipment|||is_a
+electronic fetal monitor			electronic_fetal_monitor|||electronic|||fetal|||monitor|||is_a
+enlarger	light_meter#0.455941259861		enlarger|||enlarger|||is_a
+equalizer			equalizer|||equalizer|||is_a
+equipment	electronic_equipment#0.677565515041|test_equipment#0.613078534603	electronic_equipment#0.362699687481|test_equipment#0.348117113113	equipment|||equipment|||is_a
+extension			extension|||extension|||is_a
+facsimile			facsimile|||facsimile|||is_a
+fast reactor	nuclear_reactor#0.674351394176|breeder_reactor#0.640228509903	nuclear_reactor#0.215874195099	fast_reactor|||fast|||reactor|||is_a
+field hockey ball	football#0.621417045593	football#0.219010204077	field|||hockey|||ball|||is_a
+figure skate			figure_skate|||figure|||skate|||is_a
+film			film|||film|||is_a
+film clip			film_clip|||film|||clip|||is_a
+fire control radar			fire_control_radar|||fire|||control|||radar|||is_a
+first aid kit			first_aid_kit|||first|||aid|||kit|||is_a
+first base	third_base#0.546412348747|second_base#0.537948191166	third_base#0.138618662953	first_base|||first|||base|||is_a
+fishing gear			fishing_gear|||fishing|||gear|||is_a
+flash			flash|||flash|||is_a
+flash camera			flash_camera|||flash|||camera|||is_a
+fluoroscope			fluoroscope|||fluoroscope|||is_a
+footage			footage|||footage|||is_a
+football	volleyball#0.748017907143|basketball#0.712519288063|softball#0.661469876766	volleyball#0.463828980923|basketball#0.432286173105	football|||football|||is_a
+foucault pendulum	simple_pendulum#0.575755059719	simple_pendulum#0.2187179178	foucault_pendulum|||foucault|||pendulum|||is_a
+fuel system	cooling_system#0.616030156612	cooling_system#0.198747768998	fuel_system|||fuel|||system|||is_a
+game			game|||game|||is_a
+game equipment			game_equipment|||game|||equipment|||is_a
+gas bracket	burner#0.44960975647		gas_bracket|||gas|||bracket|||is_a
+gas burner	bunsen_burner#0.644281029701		gas_burner|||gas|||burner|||is_a
+gas cooled reactor			gas_cooled_reactor|||gas|||cooled|||reactor|||is_a
+gas maser			gas|||maser|||is_a
+gas ring			gas_ring|||gas|||ring|||is_a
+gear			gear|||gear|||is_a
+generator			generator|||generator|||is_a
+ghetto blaster			ghetto_blaster|||ghetto|||blaster|||is_a
+goal			goal|||goal|||is_a
+golf bag			golf_bag|||golf|||bag|||is_a
+golf ball	football#0.556382894516	football#0.194348245859	golf_ball|||golf|||ball|||is_a
+golf club	football#0.597066342831|volleyball#0.553019404411	football#0.237452358007|volleyball#0.218924999237	golf_club|||golf|||club|||is_a
+golf equipment	sports_equipment#0.635021090508	sports_equipment#0.237773671746	golf_equipment|||golf|||equipment|||is_a
+golf glove			golf_glove|||golf|||glove|||is_a
+golfcart			golfcart|||golfcart|||is_a
+goniometer			goniometer|||goniometer|||is_a
+gun pendulum			gun|||pendulum|||is_a
+gymnastic apparatus	trampoline#0.472211837769	trampoline#0.147605910897	gymnastic_apparatus|||gymnastic|||apparatus|||is_a
+halter	bridle#0.582908391953|horse#0.515478432178	bridle#0.320256501436	halter|||halter|||is_a
+hame			hame|||hame|||is_a
+hammer			hammer|||hammer|||is_a
+handball	volleyball#0.70858258009|basketball#0.64330971241|football#0.595885276794|racquetball#0.581772446632	volleyball#0.444905459881|basketball#0.397977411747|football#0.373764246702	handball|||handball|||is_a
+handset			handset|||handset|||is_a
+harness			harness|||harness|||is_a
+headgear			headgear|||headgear|||is_a
+headpin			headpin|||headpin|||is_a
+heat pump			heat_pump|||heat|||pump|||is_a
+hectograph	mimeograph#0.596272170544	mimeograph#0.329261392355	hectograph|||hectograph|||is_a
+heliograph	semaphore#0.443636506796		heliograph|||heliograph|||is_a
+hematocrit			hematocrit|||hematocrit|||is_a
+heterodyne receiver	radio_receiver#0.574051916599	radio_receiver#0.202451661229	heterodyne_receiver|||heterodyne|||receiver|||is_a
+hi fi			hi_fi|||hi|||fi|||is_a
+hockey skate			hockey_skate|||hockey|||skate|||is_a
+hockey stick			hockey_stick|||hockey|||stick|||is_a
+home plate	first_base#0.526459634304|third_base#0.520884037018	third_base#0.14530056715	home_plate|||home|||plate|||is_a
+horizontal bar	parallel_bars#0.485861837864		horizontal_bar|||horizontal|||bar|||is_a
+horse			horse|||horse|||is_a
+horsecloth			horsecloth|||horsecloth|||is_a
+horseshoe			horseshoe|||horseshoe|||is_a
+ice skate			ice_skate|||ice|||skate|||is_a
+impedimenta			impedimenta|||impedimenta|||is_a
+in line skate			in|||line|||skate|||is_a
+incubator			incubator|||incubator|||is_a
+ink jet printer			ink_jet_printer|||ink|||jet|||printer|||is_a
+instillator			is_a
+ipod			ipod|||ipod|||is_a
+iron			iron|||iron|||is_a
+jack			jack|||jack|||is_a
+jammer			jammer|||jammer|||is_a
+javelin	discus#0.774013400078	discus#0.427912831306	javelin|||javelin|||is_a
+jigsaw puzzle			jigsaw_puzzle|||jigsaw|||puzzle|||is_a
+job oriented terminal			job|||oriented|||terminal|||is_a
+joystick			joystick|||joystick|||is_a
+king	queen#0.752624869347|knight#0.635495781898	queen#0.388318002224	king|||king|||is_a
+kipp's apparatus			kipp|||s|||apparatus|||is_a
+kit			kit|||kit|||is_a
+knight	king#0.617836356163|pawn#0.616288602352|queen#0.600409150124|black#0.530313909054	queen#0.325749009848|king#0.322272121906|pawn#0.31766474247	knight|||knight|||is_a
+lacrosse ball	football#0.572177112103		lacrosse_ball|||lacrosse|||ball|||is_a
+lander			lander|||lander|||is_a
+layette	test_equipment#0.421417355537		layette|||layette|||is_a
+lens			lens|||lens|||is_a
+liebig condenser			liebig_condenser|||liebig|||condenser|||is_a
+life buoy			life_buoy|||life|||buoy|||is_a
+life jacket	life_preserver#0.670146584511|man#0.520477116108|mae_west#0.519157469273	life_preserver#0.198109716177|man#0.168686389923|mae_west#0.165752336383	life_jacket|||life|||jacket|||is_a
+life preserver	mae_west#0.52309346199|man#0.461697250605	mae_west#0.165839076042	life_preserver|||life|||preserver|||is_a
+life support system			life_support_system|||life|||support|||system|||is_a
+light meter			light_meter|||light|||meter|||is_a
+lighting			lighting|||lighting|||is_a
+liquid metal reactor			liquid_metal_reactor|||liquid|||metal|||reactor|||is_a
+lithograph			lithograph|||lithograph|||is_a
+long iron			long_iron|||long|||iron|||is_a
+lunar excursion module			lunar|||excursion|||module|||is_a
+mae west			mae_west|||mae|||west|||is_a
+magnetic recorder	recording_system#0.653080403805|reel#0.496519505978	recording_system#0.209993466735	magnetic_recorder|||magnetic|||recorder|||is_a
+man			man|||man|||is_a
+marble			marble|||marble|||is_a
+marching order			marching_order|||marching|||order|||is_a
+martingale			martingale|||martingale|||is_a
+maser			maser|||maser|||is_a
+mashie			mashie|||mashie|||is_a
+mashie niblick			mashie_niblick|||mashie|||niblick|||is_a
+mat			mat|||mat|||is_a
+material			material|||material|||is_a
+materiel			materiel|||materiel|||is_a
+medicine ball	cricket_ball#0.473234802485	volleyball#0.142557755113	medicine_ball|||medicine|||ball|||is_a
+mess kit			mess_kit|||mess|||kit|||is_a
+metal wood			metal_wood|||metal|||wood|||is_a
+metronome			metronome|||metronome|||is_a
+microfiche	microfilm#0.774284958839	microfilm#0.382200986147	microfiche|||microfiche|||is_a
+microfilm	microfiche#0.809570848942	microfiche#0.401487976313	microfilm|||microfilm|||is_a
+midiron			is_a
+mimeograph	hectograph#0.562703430653|microfilm#0.539364814758	hectograph#0.312814205885	mimeograph|||mimeograph|||is_a
+minisub			minisub|||minisub|||is_a
+mixer			mixer|||mixer|||is_a
+modem			modem|||modem|||is_a
+monitor			monitor|||monitor|||is_a
+motion picture camera			motion_picture_camera|||motion|||picture|||camera|||is_a
+motion picture film			motion_picture_film|||motion|||picture|||film|||is_a
+mound			mound|||mound|||is_a
+mouthpiece			mouthpiece|||mouthpiece|||is_a
+multichannel recorder	recording_system#0.608809769154	recording_system#0.294327825308	multichannel|||recorder|||is_a
+naval equipment			naval_equipment|||naval|||equipment|||is_a
+naval radar	surface_search_radar#0.606845676899|air_search_radar#0.603423118591	air_search_radar#0.223137646914|surface_search_radar#0.222433924675	naval_radar|||naval|||radar|||is_a
+naval tactical data system			naval_tactical_data_system|||naval|||tactical|||data|||system|||is_a
+negative	positive#0.790873944759	positive#0.44268643856	negative|||negative|||is_a
+net			net|||net|||is_a
+niblick			niblick|||niblick|||is_a
+ninepin			ninepin|||ninepin|||is_a
+ninepin ball	duckpin#0.529455661774	duckpin#0.149925008416	ninepin_ball|||ninepin|||ball|||is_a
+nuclear reactor	pressurized_water_reactor#0.702552437782|breeder_reactor#0.695453822613|fast_reactor#0.695423007011	pressurized_water_reactor#0.307896137238|fast_reactor#0.293596178293	nuclear_reactor|||nuclear|||reactor|||is_a
+object ball	cue_ball#0.728658914566	cue_ball#0.230611518025	object_ball|||object|||ball|||is_a
+off line equipment			off|||line|||equipment|||is_a
+optical bench	goniometer#0.517439365387	goniometer#0.167000696063	optical_bench|||optical|||bench|||is_a
+orthochromatic film	roll_film#0.554469466209|panchromatic_film#0.545448541641|motion_picture_film#0.476770788431	roll_film#0.17439211905|panchromatic_film#0.173827260733|motion_picture_film#0.156772956252	orthochromatic_film|||orthochromatic|||film|||is_a
+oscillograph	oscilloscope#0.442182600498		oscillograph|||oscillograph|||is_a
+oscilloscope	output_device#0.533045113087	output_device#0.303595364094	oscilloscope|||oscilloscope|||is_a
+output device			output_device|||output|||device|||is_a
+oxyacetylene torch			oxyacetylene_torch|||oxyacetylene|||torch|||is_a
+packaging			packaging|||packaging|||is_a
+paintball gun			paintball_gun|||paintball|||gun|||is_a
+panchromatic film	roll_film#0.531009078026	roll_film#0.181285470724	panchromatic_film|||panchromatic|||film|||is_a
+parachute			parachute|||parachute|||is_a
+parallel bars	horizontal_bar#0.681455790997|pommel_horse#0.621850967407|balance_beam#0.603990316391	horizontal_bar#0.202035143971|pommel_horse#0.176046013832|balance_beam#0.172804757953	parallel_bars|||parallel|||bars|||is_a
+parasail	parachute#0.47982981801		parasail|||parasail|||is_a
+pawn			pawn|||pawn|||is_a
+pay phone			pay_phone|||pay|||phone|||is_a
+pelham	snaffle#0.682090938091	snaffle#0.405686199665	pelham|||pelham|||is_a
+pendulum	foucault_pendulum#0.68545204401|simple_pendulum#0.603604257107	foucault_pendulum#0.373174756765|simple_pendulum#0.349093616009	pendulum|||pendulum|||is_a
+peripheral			peripheral|||peripheral|||is_a
+photocopier	photographic_paper#0.562833249569|xerox#0.552210092545|photographic_equipment#0.488259613514	photographic_paper#0.300250858068|xerox#0.292360246181	photocopier|||photocopier|||is_a
+photographic equipment	electronic_equipment#0.581505298615	electronic_equipment#0.194126933813	photographic_equipment|||photographic|||equipment|||is_a
+photographic paper			photographic_paper|||photographic|||paper|||is_a
+photostat			photostat|||photostat|||is_a
+physical pendulum	simple_pendulum#0.573109209538	simple_pendulum#0.189620047808	physical_pendulum|||physical|||pendulum|||is_a
+pilot burner			pilot_burner|||pilot|||burner|||is_a
+pin			pin|||pin|||is_a
+pinball machine			pinball_machine|||pinball|||machine|||is_a
+pine tar rag	wood#0.522318959236	wood#0.169729813933	pine|||tar|||rag|||is_a
+ping pong ball			ping_pong_ball|||ping|||pong|||ball|||is_a
+pitching wedge	sand_wedge#0.674634635448	sand_wedge#0.229137659073	pitching_wedge|||pitching|||wedge|||is_a
+piton			piton|||piton|||is_a
+playback			playback|||playback|||is_a
+point and shoot camera	digital_camera#0.572432696819	digital_camera#0.0608925186098	point_and_shoot_camera|||point|||and|||shoot|||camera|||is_a
+polaroid camera	digital_camera#0.627479553223|film#0.550057947636	digital_camera#0.221142888069|film#0.193118736148	polaroid_camera|||polaroid|||camera|||is_a
+polo ball			polo_ball|||polo|||ball|||is_a
+polo mallet			polo_mallet|||polo|||mallet|||is_a
+pommel horse	horizontal_bar#0.575806498528|parallel_bars#0.538594126701	horizontal_bar#0.169932246208	pommel_horse|||pommel|||horse|||is_a
+pool ball	eight_ball#0.509042263031	eight_ball#0.166437074542	pool_ball|||pool|||ball|||is_a
+pool table			pool_table|||pool|||table|||is_a
+portrait camera	digital_camera#0.615728437901	digital_camera#0.191327705979	portrait_camera|||portrait|||camera|||is_a
+positive	negative#0.754558682442	negative#0.421883672476	positive|||positive|||is_a
+positron emission tomography scanner			positron_emission_tomography_scanner|||positron|||emission|||tomography|||scanner|||is_a
+pressurized water reactor	nuclear_reactor#0.67312669754	nuclear_reactor#0.157365620136	pressurized_water_reactor|||pressurized|||water|||reactor|||is_a
+pricket			pricket|||pricket|||is_a
+printer			printer|||printer|||is_a
+punching bag	man#0.483809769154	man#0.163742274046	punching_bag|||punching|||bag|||is_a
+purifier			purifier|||purifier|||is_a
+push button radio			push_button_radio|||push|||button|||radio|||is_a
+putter			putter|||putter|||is_a
+puzzle	crossword_puzzle#0.621641516685		puzzle|||puzzle|||is_a
+quadraphony			is_a
+queen	king#0.704337477684|knight#0.573167800903	king#0.36253541708	queen|||queen|||is_a
+quoit			quoit|||quoit|||is_a
+racquetball	volleyball#0.724814474583|basketball#0.698013365269	volleyball#0.447207063437|basketball#0.421670794487	racquetball|||racquetball|||is_a
+radio compass	radio_transmitter#0.511926949024		radio_compass|||radio|||compass|||is_a
+radio phonograph			radio|||phonograph|||is_a
+radio receiver	radio_transmitter#0.751324474812|radiotelephone#0.631061673164	radio_transmitter#0.311661928892|radiotelephone#0.244131296873	radio_receiver|||radio|||receiver|||is_a
+radio transmitter		television_transmitter#0.297741234303	radio_transmitter|||radio|||transmitter|||is_a
+radiotelephone	radio_receiver#0.572608351707|cellular_telephone#0.568411409855|radio_transmitter#0.550113379955	radio_transmitter#0.349380463362|radio_receiver#0.348585098982|cellular_telephone#0.347479104996	radiotelephone|||radiotelephone|||is_a
+radiotherapy equipment			radiotherapy_equipment|||radiotherapy|||equipment|||is_a
+railing			railing|||railing|||is_a
+receiver	radio_transmitter#0.5725440979|radio_receiver#0.541634142399	radio_transmitter#0.35085991025|radio_receiver#0.324808180332	receiver|||receiver|||is_a
+recorder	recording_system#0.63110524416	recording_system#0.361005425453	recorder|||recorder|||is_a
+recording system	cassette_recorder#0.589817464352|tape_recorder#0.566896498203	cassette_recorder#0.205145522952	recording_system|||recording|||system|||is_a
+reel	tape_recorder#0.596882581711|recording_system#0.577613055706	recording_system#0.333540737629|tape_recorder#0.329665601254	reel|||reel|||is_a
+reflex camera			reflex_camera|||reflex|||camera|||is_a
+reflux condenser			reflux_condenser|||reflux|||condenser|||is_a
+reformer			reformer|||reformer|||is_a
+regalia			regalia|||regalia|||is_a
+remote terminal			remote_terminal|||remote|||terminal|||is_a
+reproducer			reproducer|||reproducer|||is_a
+rescue equipment			rescue_equipment|||rescue|||equipment|||is_a
+rig			rig|||rig|||is_a
+rigging	rig#0.664183855057	rig#0.355425059795	rigging|||rigging|||is_a
+rings			rings|||rings|||is_a
+robotics equipment			robotics|||equipment|||is_a
+rocker	roll#0.544680476189		rocker|||rocker|||is_a
+roll	rocker#0.602159380913	rocker#0.346267342567	roll|||roll|||is_a
+roll film			roll_film|||roll|||film|||is_a
+roller skate			roller_skate|||roller|||skate|||is_a
+rollerblade			rollerblade|||rollerblade|||is_a
+roofing			roofing|||roofing|||is_a
+rosin bag			rosin_bag|||rosin|||bag|||is_a
+roulette ball	roulette_wheel#0.50958186388	roulette_wheel#0.155693426728	roulette_ball|||roulette|||ball|||is_a
+roulette wheel			roulette_wheel|||roulette|||wheel|||is_a
+rugby ball	football#0.596535146236	football#0.208268761635|eight_ball#0.186099633574	rugby_ball|||rugby|||ball|||is_a
+saddle blanket	bridle#0.645925879478|cinch#0.539290726185|horse#0.530979096889	bridle#0.221467241645|cinch#0.189175695181	saddle_blanket|||saddle|||blanket|||is_a
+salyut	space_station#0.709349215031	space_station#0.386397272348	salyut|||salyut|||is_a
+sand wedge	pitching_wedge#0.577935159206	pitching_wedge#0.193125829101	sand_wedge|||sand|||wedge|||is_a
+satellite	communications_satellite#0.788321554661	communications_satellite#0.486654192209	satellite|||satellite|||is_a
+satellite receiver	communications_satellite#0.632589221001|radio_transmitter#0.577641189098	communications_satellite#0.225673243403|radio_transmitter#0.216598346829	satellite_receiver|||satellite|||receiver|||is_a
+satellite transmitter	radio_transmitter#0.660611391068|communications_satellite#0.596153259277	radio_transmitter#0.22099904716|communications_satellite#0.194599196315	satellite_transmitter|||satellite|||transmitter|||is_a
+scanner	scrambler#0.645690798759	scrambler#0.371819734573	scanner|||scanner|||is_a
+scrambler	scanner#0.610112071037	scanner#0.353367209435	scrambler|||scrambler|||is_a
+scrubber			scrubber|||scrubber|||is_a
+second base	first_base#0.611705958843|third_base#0.6088758111	third_base#0.164404124022|first_base#0.163685932755	second_base|||second|||base|||is_a
+semaphore			semaphore|||semaphore|||is_a
+sensitometer			sensitometer|||sensitometer|||is_a
+sequence			sequence|||sequence|||is_a
+sequencer			sequencer|||sequencer|||is_a
+set			set|||set|||is_a
+sewing kit	first_aid_kit#0.502034008503	first_aid_kit#0.160479843616	sewing_kit|||sewing|||kit|||is_a
+ship towed long range acoustic detection system		surface_search_radar#0.0231664832681	ship|||towed|||long|||range|||acoustic|||detection|||system|||is_a
+shipboard system			shipboard_system|||shipboard|||system|||is_a
+short iron			short_iron|||short|||iron|||is_a
+shot			shot|||shot|||is_a
+shuttlecock	ball#0.493275284767		shuttlecock|||shuttlecock|||is_a
+simple pendulum	foucault_pendulum#0.591172218323	foucault_pendulum#0.197302043438	simple_pendulum|||simple|||pendulum|||is_a
+skate			skate|||skate|||is_a
+skylab	salyut#0.596542239189|space_station#0.522753834724	salyut#0.337660253048	skylab|||skylab|||is_a
+snaffle	pelham#0.679568111897	pelham#0.404301792383	snaffle|||snaffle|||is_a
+soccer ball	football#0.669955432415	football#0.233069851995	soccer_ball|||soccer|||ball|||is_a
+soda fountain			soda_fountain|||soda|||fountain|||is_a
+softball	baseball#0.720280110836|football#0.707581102848|volleyball#0.698265612125|basketball#0.669839203358|racquetball#0.61319154501	volleyball#0.424286693335|baseball#0.422715097666|football#0.421264559031|basketball#0.399539977312	softball|||softball|||is_a
+sound camera	digital_camera#0.566037893295|recording_system#0.552618384361	recording_system#0.179790452123|digital_camera#0.177881807089	sound_camera|||sound|||camera|||is_a
+sound film			sound_film|||sound|||film|||is_a
+space capsule	space_station#0.672088384628|spacecraft#0.635160565376|space_shuttle#0.618270993233	space_station#0.237510383129	space_capsule|||space|||capsule|||is_a
+space shuttle	space_station#0.691051602364|space_capsule#0.655719041824|spacecraft#0.606153786182	space_station#0.248407110572|space_capsule#0.236184701324	space_shuttle|||space|||shuttle|||is_a
+space station	salyut#0.622640073299|space_shuttle#0.621069908142	salyut#0.212735921144|space_shuttle#0.203831106424	space_station|||space|||station|||is_a
+spacecraft			spacecraft|||spacecraft|||is_a
+spark transmitter	radio_transmitter#0.643810212612	radio_transmitter#0.202045947313	spark_transmitter|||spark|||transmitter|||is_a
+speakerphone	handset#0.547801911831		speakerphone|||speakerphone|||is_a
+speed skate			speed_skate|||speed|||skate|||is_a
+spike			spike|||spike|||is_a
+spinner			spinner|||spinner|||is_a
+spoon			spoon|||spoon|||is_a
+sporting goods	sports_equipment#0.762559473515	sports_equipment#0.282664388418	sporting_goods|||sporting|||goods|||is_a
+sports equipment	sporting_goods#0.704243421555	sporting_goods#0.263974666595	sports_equipment|||sports|||equipment|||is_a
+sputnik	communications_satellite#0.507771909237	communications_satellite#0.3258241117	sputnik|||sputnik|||is_a
+spy satellite	communications_satellite#0.693555355072|weather_satellite#0.581646442413	communications_satellite#0.238809362054|weather_satellite#0.202474579215	spy_satellite|||spy|||satellite|||is_a
+squash ball			squash_ball|||squash|||ball|||is_a
+stable gear			stable|||gear|||is_a
+stall bar			stall|||bar|||is_a
+starship			starship|||starship|||is_a
+stereo			stereo|||stereo|||is_a
+stick			stick|||stick|||is_a
+still			still|||still|||is_a
+stock in trade			stock_in_trade|||stock|||in|||trade|||is_a
+stop bath			stop_bath|||stop|||bath|||is_a
+submersible			submersible|||submersible|||is_a
+surface search radar	air_search_radar#0.607456445694	air_search_radar#0.139366418123	surface_search_radar|||surface|||search|||radar|||is_a
+surface to air missile system			surface_to_air_missile_system|||surface|||to|||air|||missile|||system|||is_a
+tangram			tangram|||tangram|||is_a
+tape deck	tape_recorder#0.672317504883|reel#0.62657803297|cassette_recorder#0.59154433012	tape_recorder#0.212278410792|reel#0.195361375809|cassette_recorder#0.185494974256|recording_system#0.169730216265	tape_deck|||tape|||deck|||is_a
+tape player	tape_recorder#0.648858904839|reel#0.630792558193|tape_deck#0.594025492668|cassette_recorder#0.5557487607|recording_system#0.523976683617|recorder#0.523910284042	tape_recorder#0.203968331218|reel#0.193840935826|tape_deck#0.18243715167|cassette_recorder#0.174507811666|recording_system#0.170394584537|recorder#0.168527320027	tape_player|||tape|||player|||is_a
+tape recorder	reel#0.740417659283|recording_system#0.724519729614|cassette_recorder#0.702515304089	recording_system#0.281264305115|reel#0.273397803307|cassette_recorder#0.260738343	tape_recorder|||tape|||recorder|||is_a
+target			target|||target|||is_a
+target acquisition system			target_acquisition_system|||target|||acquisition|||system|||is_a
+taw			taw|||taw|||is_a
+teaching aid			teaching_aid|||teaching|||aid|||is_a
+tee	taw#0.590208232403	taw#0.364196300507	tee|||tee|||is_a
+telegraph	telephone#0.660369277	telephone#0.382030129433	telegraph|||telegraph|||is_a
+telephone	telegraph#0.657258212566	telegraph#0.380372524261	telephone|||telephone|||is_a
+television camera	motion_picture_camera#0.551133811474|film#0.5468313694	motion_picture_camera#0.197846248746|film#0.195969104767	television_camera|||television|||camera|||is_a
+television equipment			television_equipment|||television|||equipment|||is_a
+television monitor			television_monitor|||television|||monitor|||is_a
+television receiver	television_transmitter#0.592010736465|radio_transmitter#0.579390406609|radio_receiver#0.575393915176	television_transmitter#0.213914692402|radio_transmitter#0.208296895027	television_receiver|||television|||receiver|||is_a
+television transmitter	radio_transmitter#0.734836697578	radio_transmitter#0.297777742147	television_transmitter|||television|||transmitter|||is_a
+tennis ball			tennis_ball|||tennis|||ball|||is_a
+tenpin			tenpin|||tenpin|||is_a
+terminal			terminal|||terminal|||is_a
+test equipment	electronic_equipment#0.616647541523	electronic_equipment#0.204530671239	test_equipment|||test|||equipment|||is_a
+thermal reactor	nuclear_reactor#0.725250601768|fast_reactor#0.707822501659	nuclear_reactor#0.274900108576|fast_reactor#0.273485779762|pressurized_water_reactor#0.260627120733	thermal_reactor|||thermal|||reactor|||is_a
+thermonuclear reactor	nuclear_reactor#0.570869982243		thermonuclear_reactor|||thermonuclear|||reactor|||is_a
+third base	first_base#0.624992132187|second_base#0.567852318287	first_base#0.175929769874|second_base#0.157667830586	third_base|||third|||base|||is_a
+tile			tile|||tile|||is_a
+titrator			titrator|||titrator|||is_a
+tomograph			tomograph|||tomograph|||is_a
+trampoline			trampoline|||trampoline|||is_a
+transmitter	radio_transmitter#0.802008867264	radio_transmitter#0.48526352644	transmitter|||transmitter|||is_a
+ultracentrifuge	catalytic_cracker#0.433399856091	catalytic_cracker#0.273269563913	ultracentrifuge|||ultracentrifuge|||is_a
+uneven parallel bars	parallel_bars#0.534040391445|balance_beam#0.528860867023|horizontal_bar#0.517032384872|pommel_horse#0.500663995743	parallel_bars#0.0907171368599|horizontal_bar#0.0885408893228|balance_beam#0.0870339646935	uneven_parallel_bars|||uneven|||parallel|||bars|||is_a
+vaulting horse	horizontal_bar#0.497161984444	horizontal_bar#0.16509668529	vaulting_horse|||vaulting|||horse|||is_a
+video ipod			video|||ipod|||is_a
+videocassette recorder	recording_system#0.702204287052|cassette_recorder#0.637875676155|reel#0.61007809639	recording_system#0.25556576252|cassette_recorder#0.222767725587	videocassette_recorder|||videocassette|||recorder|||is_a
+volleyball	basketball#0.720067739487|football#0.704788088799|handball#0.686131894588|racquetball#0.670309662819	basketball#0.445962160826|football#0.438758343458|handball#0.432129234076	volleyball|||volleyball|||is_a
+volleyball net			volleyball_net|||volleyball|||net|||is_a
+walkman	webcam#0.522322714329|tape_recorder#0.498283475637|speakerphone#0.450263768435|tape_deck#0.421785950661	webcam#0.29465714097|tape_recorder#0.28528636694	walkman|||walkman|||is_a
+water cooled reactor			water_cooled_reactor|||water|||cooled|||reactor|||is_a
+water wings			water_wings|||water|||wings|||is_a
+weather satellite	communications_satellite#0.714311659336	communications_satellite#0.263891518116	weather_satellite|||weather|||satellite|||is_a
+webcam			webcam|||webcam|||is_a
+wedge	sand_wedge#0.491180151701		wedge|||wedge|||is_a
+weight			weight|||weight|||is_a
+white	black#0.822675526142	black#0.454418450594	white|||white|||is_a
+wicket			wicket|||wicket|||is_a
+wiffle			wiffle|||wiffle|||is_a
+wire matrix printer			wire|||matrix|||printer|||is_a
+wire recorder	recording_system#0.560291290283|tape_recorder#0.549414753914|cassette_recorder#0.510808169842|reel#0.500890433788	recording_system#0.169390901923|tape_recorder#0.162910059094	wire_recorder|||wire|||recorder|||is_a
+wood			wood|||wood|||is_a
+wrestling mat			wrestling_mat|||wrestling|||mat|||is_a
+x ray film			x|||ray|||film|||is_a
+x ray machine			x|||ray|||machine|||is_a
+xerox	photocopier#0.548221886158		xerox|||xerox|||is_a
+yoke			yoke|||yoke|||is_a

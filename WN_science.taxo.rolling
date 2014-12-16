@@ -1,0 +1,370 @@
+abnormal psychology	developmental_psychology#0.58116787672|social_psychology#0.562841653824|psychopharmacology#0.530839502811	developmental_psychology#0.17228756845|psychopharmacology#0.16825710237|social_psychology#0.165290340781	abnormal_psychology|||abnormal|||psychology|||is_a
+acoustics			acoustics|||acoustics|||is_a
+aerology	meteorology#0.470484375954		aerology|||aerology|||is_a
+aeromechanics			aeromechanics|||aeromechanics|||is_a
+aeronautics	acoustics#0.450837045908		aeronautics|||aeronautics|||is_a
+agrobiology			agrobiology|||agrobiology|||is_a
+agrology			agrology|||agrology|||is_a
+agronomy	forestry#0.538636147976|pomology#0.529622077942	pomology#0.305495530367|forestry#0.288251131773	agronomy|||agronomy|||is_a
+algebra			algebra|||algebra|||is_a
+alienism			alienism|||alienism|||is_a
+allergology			allergology|||allergology|||is_a
+analysis			analysis|||analysis|||is_a
+analytic geometry	projective_geometry#0.615329325199	projective_geometry#0.213129594922	analytic_geometry|||analytic|||geometry|||is_a
+anatomy	physiology#0.610545098782|comparative_anatomy#0.573003768921|embryology#0.560054779053|gross_anatomy#0.499625623226	physiology#0.307991594076|comparative_anatomy#0.285941332579|embryology#0.282949119806	anatomy|||anatomy|||is_a
+anesthesiology	internal_medicine#0.664375245571|pediatrics#0.628372609615|emergency_medicine#0.622268855572|obstetrics#0.584171712399	internal_medicine#0.370211720467|emergency_medicine#0.360337227583|pediatrics#0.35054782033	anesthesiology|||anesthesiology|||is_a
+angiology	orthopedics#0.449449777603	orthopedics#0.275361061096	angiology|||angiology|||is_a
+anthropology	social_anthropology#0.690138220787|ethnology#0.642331302166|sociology#0.628978431225|physical_anthropology#0.612018942833	social_anthropology#0.367554455996|ethnology#0.343827873468|sociology#0.33938741684|physical_anthropology#0.326425552368	anthropology|||anthropology|||is_a
+applied mathematics	statistics#0.569938242435|physics#0.551557481289	statistics#0.210887625813	applied_mathematics|||applied|||mathematics|||is_a
+applied psychology	social_psychology#0.632227241993|social_science#0.600396454334|developmental_psychology#0.563583076|clinical_psychology#0.540984749794|cognitive_psychology#0.531786382198|cognitive_science#0.53149241209	social_psychology#0.19723379612|social_science#0.196811184287|developmental_psychology#0.176702693105|cognitive_science#0.173465549946	applied_psychology|||applied|||psychology|||is_a
+archeology	ethnology#0.694312989712	ethnology#0.364602416754	archeology|||archeology|||is_a
+architectonics			architectonics|||architectonics|||is_a
+arithmetic			arithmetic|||arithmetic|||is_a
+assyriology	linguistics#0.414919734001		assyriology|||assyriology|||is_a
+astrodynamics	celestial_mechanics#0.515098631382|astrometry#0.479079306126	celestial_mechanics#0.292341887951|astrometry#0.275336802006	astrodynamics|||astrodynamics|||is_a
+astrometry			astrometry|||astrometry|||is_a
+astronomy	astrophysics#0.664176523685|solar_physics#0.564842820168|astrometry#0.523990273476	astrophysics#0.363898992538|solar_physics#0.32158061862|mathematics#0.304017364979	astronomy|||astronomy|||is_a
+astrophysics	plasma_physics#0.686283051968|astronomy#0.65181684494|solar_physics#0.641254365444|physics#0.639957606792|particle_physics#0.633877933025|nuclear_physics#0.615147054195	plasma_physics#0.379154711962|astronomy#0.357463538647|solar_physics#0.357254356146|particle_physics#0.356353223324|physics#0.354652374983	astrophysics|||astrophysics|||is_a
+audiology	podiatry#0.591961205006	podiatry#0.347553610802|radiology#0.312284111977	audiology|||audiology|||is_a
+avionics			avionics|||avionics|||is_a
+bacteriology	microbiology#0.549105525017|mycology#0.539321541786|biochemistry#0.481708049774|virology#0.462228029966|immunology#0.450344324112	microbiology#0.299525231123|mycology#0.291982531548	bacteriology|||bacteriology|||is_a
+behaviorism			behaviorism|||behaviorism|||is_a
+biochemistry	molecular_biology#0.73298317194|microbiology#0.70556640625|immunology#0.624011397362|biophysics#0.611605226994|molecular_genetics#0.590118527412	molecular_biology#0.392079889774|microbiology#0.36353456974|immunology#0.326805204153|molecular_genetics#0.318910330534	biochemistry|||biochemistry|||is_a
+bioclimatology			bioclimatology|||bioclimatology|||is_a
+biogeography	systematics#0.699918448925|ecology#0.597134649754	systematics#0.379085421562|ecology#0.32928314805	biogeography|||biogeography|||is_a
+biology	molecular_biology#0.607861459255|ecology#0.592873215675	molecular_biology#0.344585061073|ecology#0.328004270792	biology|||biology|||is_a
+biomedical science	biomedicine#0.567215323448|biotechnology#0.536188185215|medical_science#0.535126209259	biomedicine#0.182639360428|medical_science#0.177435100079|biotechnology#0.175108537078	biomedical_science|||biomedical|||science|||is_a
+biomedicine	biotechnology#0.601023614407|biology#0.509726643562	biotechnology#0.316637992859|biology#0.286744892597	biomedicine|||biomedicine|||is_a
+biometrics			biometrics|||biometrics|||is_a
+biophysics	biochemistry#0.594609260559|biology#0.579744458199|chemistry#0.543216884136|molecular_biology#0.534974217415	biology#0.315508335829|biochemistry#0.309237271547|molecular_biology#0.307547032833	biophysics|||biophysics|||is_a
+biosystematics	systematics#0.558403670788	systematics#0.319940596819	biosystematics|||biosystematics|||is_a
+biotechnology	biomedicine#0.583283722401		biotechnology|||biotechnology|||is_a
+botany	zoology#0.71475481987|entomology#0.62276160717|mammalogy#0.574162244797|ichthyology#0.572199523449|paleontology#0.571381986141|geology#0.534435927868	zoology#0.362991601229|entomology#0.322654038668|mammalogy#0.3202432096|paleontology#0.310162425041	botany|||botany|||is_a
+brain science	neuroscience#0.583853721619|cognitive_science#0.471165418625|cognitive_neuroscience#0.462945431471	neuroscience#0.169221952558|cognitive_science#0.144302159548|cognitive_neuroscience#0.138879030943	brain_science|||brain|||science|||is_a
+calculus	differential_calculus#0.614161193371	differential_calculus#0.329876691103	calculus|||calculus|||is_a
+cardiology	orthopedics#0.715035676956|gastroenterology#0.700673341751|rheumatology#0.697061419487|urology#0.663567841053|oncology#0.656422257423	orthopedics#0.397713303566|rheumatology#0.376545518637|gastroenterology#0.372184932232	cardiology|||cardiology|||is_a
+catoptrics			catoptrics|||catoptrics|||is_a
+celestial mechanics	astronomy#0.493435889482|fluid_mechanics#0.484833031893	astronomy#0.162728920579	celestial_mechanics|||celestial|||mechanics|||is_a
+chemistry	physical_chemistry#0.668745338917|inorganic_chemistry#0.661863923073|electrochemistry#0.595263898373|organic_chemistry#0.592403352261	physical_chemistry#0.349085628986|inorganic_chemistry#0.343917071819|electrochemistry#0.325629919767|organic_chemistry#0.325517296791	chemistry|||chemistry|||is_a
+civics			civics|||civics|||is_a
+classical mechanics	quantum_mechanics#0.658420324326|statistical_mechanics#0.640959143639	statistical_mechanics#0.239840313792|quantum_mechanics#0.237379565835	classical_mechanics|||classical|||mechanics|||is_a
+climatology	meteorology#0.638142824173|limnology#0.5714392066|oceanography#0.562985479832|hydrology#0.543948769569	meteorology#0.337379723787|limnology#0.321443885565	climatology|||climatology|||is_a
+clinical anatomy	pathology#0.635103106499|physiology#0.561204433441|pharmacology#0.544310748577	pathology#0.199338465929|physiology#0.170740291476	clinical_anatomy|||clinical|||anatomy|||is_a
+clinical psychology	developmental_psychology#0.643010795116|social_psychology#0.625888764858|psychopharmacology#0.610371470451|psychotherapy#0.565456986427	psychopharmacology#0.20697312057|developmental_psychology#0.206839084625|social_psychology#0.199167281389|psychotherapy#0.194575414062	clinical_psychology|||clinical|||psychology|||is_a
+cognitive neuroscience	cognitive_science#0.799264073372|cognitive_psychology#0.791918694973|psychophysics#0.665523409843	cognitive_science#0.316964745522|cognitive_psychology#0.305380791426|psychophysics#0.250393658876	cognitive_neuroscience|||cognitive|||neuroscience|||is_a
+cognitive psychology	cognitive_science#0.783629775047|developmental_psychology#0.775500357151|cognitive_neuroscience#0.745677173138|social_psychology#0.700790405273	cognitive_science#0.307285964489|developmental_psychology#0.297888278961|cognitive_neuroscience#0.282145678997|social_psychology#0.262390434742	cognitive_psychology|||cognitive|||psychology|||is_a
+cognitive science	cognitive_psychology#0.69876563549|cognitive_neuroscience#0.670090913773|neuroscience#0.630255401134|psychology#0.600553631783	cognitive_psychology#0.21325224638|cognitive_neuroscience#0.206639289856|neuroscience#0.203169122338|psychology#0.196816936135	cognitive_science|||cognitive|||science|||is_a
+comparative anatomy	embryology#0.697667360306|physiology#0.586265861988|zoology#0.54092669487	embryology#0.215564027429|physiology#0.183046340942	comparative_anatomy|||comparative|||anatomy|||is_a
+comparative psychology	developmental_psychology#0.685090005398|ethology#0.644455492496|cognitive_science#0.640281736851|cognitive_psychology#0.632173538208|social_psychology#0.580643057823	developmental_psychology#0.221550926566|cognitive_science#0.211988210678|ethology#0.209069892764|cognitive_psychology#0.203602775931	comparative_psychology|||comparative|||psychology|||is_a
+compound morphology			compound|||morphology|||is_a
+computational linguistics	cognitive_science#0.556172430515		computational_linguistics|||computational|||linguistics|||is_a
+correlation			correlation|||correlation|||is_a
+cosmetic dentistry	orthodontics#0.634836316109|periodontics#0.574726581573|prosthodontics#0.529575169086	orthodontics#0.230788990855|periodontics#0.205166146159|prosthodontics#0.193668439984	cosmetic_dentistry|||cosmetic|||dentistry|||is_a
+cosmography			cosmography|||cosmography|||is_a
+cosmology	astrophysics#0.56317293644		cosmology|||cosmology|||is_a
+craniology			craniology|||craniology|||is_a
+craniometry	paleoanthropology#0.433302640915		craniometry|||craniometry|||is_a
+criminology	sociology#0.549764096737	sociology#0.306967824697	criminology|||criminology|||is_a
+cryobiology	cryonics#0.514418721199|cryogenics#0.506919026375	cryonics#0.280706465244|cryogenics#0.272312909365	cryobiology|||cryobiology|||is_a
+cryogenics	cryonics#0.510009407997	cryonics#0.287540197372	cryogenics|||cryogenics|||is_a
+cryonics	cryptanalysis#0.501173436642		cryonics|||cryonics|||is_a
+cryptanalysis			cryptanalysis|||cryptanalysis|||is_a
+crystallography			crystallography|||crystallography|||is_a
+curvilinear correlation			curvilinear_correlation|||curvilinear|||correlation|||is_a
+cybernetics			cybernetics|||cybernetics|||is_a
+cytogenetics	cytology#0.653823375702|molecular_genetics#0.599570989609|genetics#0.520032048225	cytology#0.337634503841|molecular_genetics#0.326561897993	cytogenetics|||cytogenetics|||is_a
+cytology	cytogenetics#0.665447115898	cytogenetics#0.343542546034	cytology|||cytology|||is_a
+deixis			deixis|||deixis|||is_a
+demography	geography#0.505786001682		demography|||demography|||is_a
+dental anatomy	dentistry#0.554777622223|orthodontics#0.539839506149|endodontics#0.515836596489	orthodontics#0.171230122447|dentistry#0.170268818736|endodontics#0.166137307882	dental_anatomy|||dental|||anatomy|||is_a
+dental surgery	dentistry#0.665427207947|orthodontics#0.628727138042|urology#0.60752505064	dentistry#0.229706183076|orthodontics#0.221463263035	dental_surgery|||dental|||surgery|||is_a
+dentistry	orthodontics#0.599883019924|podiatry#0.577310442924|medicine#0.55936473608|periodontics#0.553843796253|endodontics#0.553220152855	podiatry#0.336703270674|orthodontics#0.336534172297|medicine#0.318133562803	dentistry|||dentistry|||is_a
+derivational morphology	inflectional_morphology#0.690606474876|phonology#0.61075514555	inflectional_morphology#0.228375375271|phonology#0.20551456511	derivational_morphology|||derivational|||morphology|||is_a
+dermatoglyphics			dermatoglyphics|||dermatoglyphics|||is_a
+descriptive grammar			descriptive_grammar|||descriptive|||grammar|||is_a
+descriptive linguistics	historical_linguistics#0.63127297163|sociolinguistics#0.574155628681	historical_linguistics#0.209202006459|sociolinguistics#0.190348640084	descriptive_linguistics|||descriptive|||linguistics|||is_a
+developmental anatomy	embryology#0.596318185329|neurobiology#0.53636431694|physiology#0.511025846004	embryology#0.16502726078|neurobiology#0.152657717466	developmental_anatomy|||developmental|||anatomy|||is_a
+developmental psychology	cognitive_psychology#0.742200791836|social_psychology#0.716229498386|cognitive_neuroscience#0.682375013828|cognitive_science#0.671963870525|clinical_psychology#0.636649906635	cognitive_psychology#0.285877853632|social_psychology#0.27204990387|cognitive_science#0.260502815247|cognitive_neuroscience#0.2593575418	developmental_psychology|||developmental|||psychology|||is_a
+dialect geography			dialect_geography|||dialect|||geography|||is_a
+dietetics	podiatry#0.581355750561|audiology#0.560828268528	podiatry#0.336569398642|audiology#0.318808346987	dietetics|||dietetics|||is_a
+differential calculus	integral_calculus#0.689920306206|analytic_geometry#0.603398263454	integral_calculus#0.239322468638|analytic_geometry#0.215740561485|linear_algebra#0.205874025822	differential_calculus|||differential|||calculus|||is_a
+dynamics			dynamics|||dynamics|||is_a
+dysgenics			dysgenics|||dysgenics|||is_a
+earth science	geophysics#0.580509006977|astronomy#0.53818821907|meteorology#0.524673521519	geophysics#0.185429155827|astronomy#0.176118612289|meteorology#0.169171273708	earth_science|||earth|||science|||is_a
+ecology	limnology#0.612013339996|biogeography#0.58556163311	limnology#0.34265100956	ecology|||ecology|||is_a
+econometrics	economics#0.604150950909|microeconomics#0.594523966312	microeconomics#0.336561948061|economics#0.333992242813	econometrics|||econometrics|||is_a
+economic geography	economics#0.69689565897|demography#0.587720453739	economics#0.255902141333	economic_geography|||economic|||geography|||is_a
+economic geology	petrology#0.664362072945|geography#0.659182786942|physical_geography#0.611217319965|mineralogy#0.601831674576	geography#0.207960426807|petrology#0.197141438723|physical_geography#0.182764053345|paleogeology#0.181320652366|economic_geography#0.18097756803	economic_geology|||economic|||geology|||is_a
+economics	microeconomics#0.638495624065|econometrics#0.609326004982|economic_geography#0.602650344372|sociology#0.596835315228	microeconomics#0.355408728123|economic_geography#0.338690429926|econometrics#0.336585044861	economics|||economics|||is_a
+egyptology	ethnology#0.529396891594|ethnography#0.429807126522	ethnology#0.298932403326	egyptology|||egyptology|||is_a
+electrochemistry	physical_chemistry#0.560250759125		electrochemistry|||electrochemistry|||is_a
+electromagnetism	electrostatics#0.64447593689	electrostatics#0.353741854429	electromagnetism|||electromagnetism|||is_a
+electron optics			electron_optics|||electron|||optics|||is_a
+electronics			electronics|||electronics|||is_a
+electrostatics	electromagnetism#0.585376739502	electromagnetism#0.323981553316	electrostatics|||electrostatics|||is_a
+elementary geometry	projective_geometry#0.636309087276|plane_geometry#0.611336052418|spherical_geometry#0.594741821289|hyperbolic_geometry#0.558702945709|analytic_geometry#0.556407272816	projective_geometry#0.2207826823|plane_geometry#0.214112281799|spherical_geometry#0.206757768989|hyperbolic_geometry#0.193165540695|analytic_geometry#0.189289852977	elementary_geometry|||elementary|||geometry|||is_a
+embryology	anatomy#0.58021903038|comparative_anatomy#0.571684360504|physiology#0.51753616333|teratology#0.514678418636	anatomy#0.292414188385|comparative_anatomy#0.282987624407	embryology|||embryology|||is_a
+emergency medicine	internal_medicine#0.708424687386|pediatrics#0.662010788918|orthopedics#0.657082796097	internal_medicine#0.266133785248|orthopedics#0.251548945904	emergency_medicine|||emergency|||medicine|||is_a
+endocrinology	oncology#0.660335719585|rheumatology#0.649225234985|nephrology#0.643594622612|geriatrics#0.637448489666|urology#0.632878601551|gastroenterology#0.63205742836|neurology#0.620695829391	oncology#0.366935938597|geriatrics#0.353371530771|rheumatology#0.352901697159|urology#0.351208299398|orthopedics#0.349561184645	endocrinology|||endocrinology|||is_a
+endodontics	orthodontics#0.707509040833|prosthodontics#0.63466823101|periodontics#0.620251297951	orthodontics#0.388237178326|prosthodontics#0.356684833765|periodontics#0.342526346445	endodontics|||endodontics|||is_a
+entomology	botany#0.646608412266|ichthyology#0.632331609726|zoology#0.629912137985|herpetology#0.619219303131|mammalogy#0.608118712902|malacology#0.595868647099|natural_history#0.578104257584	botany#0.334557324648|herpetology#0.331905901432|mammalogy#0.330996334553|ichthyology#0.326356470585|malacology#0.324521392584|zoology#0.324399232864|natural_history#0.319065600634	entomology|||entomology|||is_a
+enzymology			enzymology|||enzymology|||is_a
+epidemiology			epidemiology|||epidemiology|||is_a
+ethnography	ethnology#0.721585929394|archeology#0.539691627026	ethnology#0.380260437727	ethnography|||ethnography|||is_a
+ethnology	ethnography#0.719706535339|archeology#0.672638714314|anthropology#0.631127476692	ethnography#0.379251807928|archeology#0.353303194046|anthropology#0.338147044182	ethnology|||ethnology|||is_a
+ethology	comparative_psychology#0.590566337109|sociobiology#0.557508170605	comparative_psychology#0.326428115368	ethology|||ethology|||is_a
+etymology			etymology|||etymology|||is_a
+eugenics			eugenics|||eugenics|||is_a
+euthenics			euthenics|||euthenics|||is_a
+exobiology	solar_physics#0.405112564564		exobiology|||exobiology|||is_a
+exodontics			exodontics|||exodontics|||is_a
+experimental psychology	cognitive_psychology#0.654149651527|social_psychology#0.64882594347|physiological_psychology#0.641417741776|developmental_psychology#0.639325201511|cognitive_science#0.605796575546|clinical_psychology#0.579512894154|cognitive_neuroscience#0.565050244331	cognitive_psychology#0.209283336997|physiological_psychology#0.20610421896|social_psychology#0.205011308193|developmental_psychology#0.202382355928|cognitive_science#0.198662444949|cognitive_neuroscience#0.18322904408|clinical_psychology#0.182400777936	experimental_psychology|||experimental|||psychology|||is_a
+femtochemistry			femtochemistry|||femtochemistry|||is_a
+fetology			is_a
+finance			finance|||finance|||is_a
+fluid mechanics	hydrodynamics#0.703566968441	hydrodynamics#0.254301965237	fluid_mechanics|||fluid|||mechanics|||is_a
+forensic medicine	pathology#0.537891507149|anesthesiology#0.520552396774	pathology#0.175785049796|anesthesiology#0.175104528666	forensic_medicine|||forensic|||medicine|||is_a
+forestry	silviculture#0.571717739105		forestry|||forestry|||is_a
+formal semantics	syntax#0.614767193794	syntax#0.244857653975	formal_semantics|||formal|||semantics|||is_a
+fourier analysis	numerical_analysis#0.521472811699		fourier_analysis|||fourier|||analysis|||is_a
+fractal geometry	hyperbolic_geometry#0.566935122013	hyperbolic_geometry#0.188578754663	fractal_geometry|||fractal|||geometry|||is_a
+functional anatomy	morphology#0.500994622707	morphology#0.157546758652	functional_anatomy|||functional|||anatomy|||is_a
+garbology			garbology|||garbology|||is_a
+gastroenterology	urology#0.719909787178|cardiology#0.716315090656|oncology#0.709452033043|orthopedics#0.690946400166|nephrology#0.680367410183|rheumatology#0.661529362202	urology#0.390690505505|oncology#0.389440774918|orthopedics#0.383138090372|cardiology#0.380535066128	gastroenterology|||gastroenterology|||is_a
+genetic engineering	genomics#0.607898116112|biotechnology#0.587554216385	genomics#0.179679393768|biotechnology#0.172931686044	genetic_engineering|||genetic|||engineering|||is_a
+genetics	molecular_genetics#0.741857469082|genomics#0.664300143719|molecular_biology#0.622338116169|immunology#0.613587498665	molecular_genetics#0.384662330151|genomics#0.348088800907|molecular_biology#0.343303084373	genetics|||genetics|||is_a
+genomics	proteomics#0.666023910046|molecular_genetics#0.625243127346|genetics#0.619307756424	proteomics#0.35493594408|molecular_genetics#0.341304332018	genomics|||genomics|||is_a
+geochemistry	petrology#0.753827273846|economic_geology#0.658495187759|petroleum_geology#0.629592061043	petrology#0.390673041344|economic_geology#0.340069621801	geochemistry|||geochemistry|||is_a
+geodesy	seismology#0.584720849991|geophysics#0.572746574879|meteorology#0.528473436832	geophysics#0.32028272748|seismology#0.317891806364	geodesy|||geodesy|||is_a
+geography	physical_geography#0.639409840107|geology#0.574219882488|economic_geography#0.547316074371	physical_geography#0.344055920839	geography|||geography|||is_a
+geology	mineralogy#0.676937401295|physical_geography#0.667814970016|petrology#0.659997522831|economic_geology#0.651344716549	petrology#0.353834688663|physical_geography#0.348875075579|economic_geology#0.341223090887|mineralogy#0.337969988585|geography#0.335483074188	geology|||geology|||is_a
+geometry	hyperbolic_geometry#0.673932373524|spherical_geometry#0.643612205982|projective_geometry#0.615042328835	hyperbolic_geometry#0.397312223911|spherical_geometry#0.378267139196|projective_geometry#0.358901202679	geometry|||geometry|||is_a
+geophysics	seismology#0.660359144211|oceanography#0.621024012566|geodesy#0.615408062935|meteorology#0.592758059502	seismology#0.342610239983|geodesy#0.341485887766	geophysics|||geophysics|||is_a
+geopolitics	politics#0.571143209934	politics#0.319536954165	geopolitics|||geopolitics|||is_a
+geriatrics	orthopedics#0.653866887093|rheumatology#0.617446422577|urology#0.599115848541|endocrinology#0.593012809753|oncology#0.590547084808	orthopedics#0.374284982681|rheumatology#0.346091628075|urology#0.34319883585	geriatrics|||geriatrics|||is_a
+grammar	syntax#0.606745183468	syntax#0.353198945522	grammar|||grammar|||is_a
+gross anatomy	physiology#0.576718568802|microscopic_anatomy#0.528120338917|embryology#0.510882973671|pathology#0.493914991617	physiology#0.18773855269|microscopic_anatomy#0.176481574774|pathology#0.170486658812	gross_anatomy|||gross|||anatomy|||is_a
+group theory			group_theory|||group|||theory|||is_a
+gynecology	obstetrics#0.744244396687|internal_medicine#0.672297418118|urology#0.651031255722|pediatrics#0.647052049637|ophthalmology#0.608390927315	obstetrics#0.40389880538|internal_medicine#0.369893819094|urology#0.363502025604|pediatrics#0.35524764657	gynecology|||gynecology|||is_a
+harmonics			harmonics|||harmonics|||is_a
+hematology	oncology#0.597816348076|pathology#0.541366815567|immunology#0.531882464886|rheumatology#0.529790043831	oncology#0.337929964066	hematology|||hematology|||is_a
+hemodynamics			hemodynamics|||hemodynamics|||is_a
+herpetology	ichthyology#0.586270332336|entomology#0.559808850288|mammalogy#0.54385560751|malacology#0.523216664791	ichthyology#0.316614627838|mammalogy#0.312592118979|entomology#0.302876472473|malacology#0.302725553513	herpetology|||herpetology|||is_a
+historical linguistics	sociolinguistics#0.733160376549	sociolinguistics#0.28457608819	historical_linguistics|||historical|||linguistics|||is_a
+home economics			home_economics|||home|||economics|||is_a
+hydrodynamics	fluid_mechanics#0.690288424492|mechanics#0.553728818893	fluid_mechanics#0.373806089163	hydrodynamics|||hydrodynamics|||is_a
+hydrology			hydrology|||hydrology|||is_a
+hydrostatics	hydrodynamics#0.458568900824|statics#0.452109575272	statics#0.276456683874|hydrodynamics#0.274153620005	hydrostatics|||hydrostatics|||is_a
+hygiene			hygiene|||hygiene|||is_a
+hyperbolic geometry	projective_geometry#0.68204843998|spherical_geometry#0.661083340645|plane_geometry#0.645100772381	projective_geometry#0.283774167299|spherical_geometry#0.276189863682	hyperbolic_geometry|||hyperbolic|||geometry|||is_a
+hypsography			hypsography|||hypsography|||is_a
+ichthyology	herpetology#0.632825791836|entomology#0.618628501892|botany#0.581926822662|mammalogy#0.575462698936|malacology#0.549520373344|zoology#0.524377048016	herpetology#0.339748650789|entomology#0.319572627544|mammalogy#0.319363385439|botany#0.310707867146|malacology#0.307435065508	ichthyology|||ichthyology|||is_a
+immunochemistry			immunochemistry|||immunochemistry|||is_a
+immunology	molecular_biology#0.655974149704|molecular_genetics#0.654297292233|virology#0.64220136404|microbiology#0.612495958805|biochemistry#0.588591516018	molecular_biology#0.363320857286|molecular_genetics#0.351401090622|virology#0.335140228271|microbiology#0.330141454935	immunology|||immunology|||is_a
+immunopathology	immunology#0.459398388863		immunopathology|||immunopathology|||is_a
+inflectional morphology	derivational_morphology#0.608951687813|phonology#0.575472533703	phonology#0.205030307174|derivational_morphology#0.202792286873	inflectional_morphology|||inflectional|||morphology|||is_a
+information science	social_science#0.501974761486	social_science#0.167232438922	information_science|||information|||science|||is_a
+inorganic chemistry	physical_chemistry#0.756722033024|organic_chemistry#0.72715729475|electrochemistry#0.665093660355	physical_chemistry#0.297240048647|organic_chemistry#0.290311932564|electrochemistry#0.261266320944	inorganic_chemistry|||inorganic|||chemistry|||is_a
+integral calculus	differential_calculus#0.724997937679|analytic_geometry#0.574948132038	differential_calculus#0.252583175898|linear_algebra#0.205686569214	integral_calculus|||integral|||calculus|||is_a
+internal medicine	emergency_medicine#0.678315460682|anesthesiology#0.668443620205|pediatrics#0.655934393406	emergency_medicine#0.21836233139|anesthesiology#0.212316766381|pediatrics#0.198914974928	internal_medicine|||internal|||medicine|||is_a
+jungian psychology	psychotherapy#0.568231642246|developmental_psychology#0.551944077015	psychotherapy#0.202829271555|developmental_psychology#0.189829915762	jungian_psychology|||jungian|||psychology|||is_a
+kinematics	dynamics#0.542190790176|statics#0.501416742802	dynamics#0.305685937405	kinematics|||kinematics|||is_a
+kinesiology	dietetics#0.490677773952		kinesiology|||kinesiology|||is_a
+lepidopterology			lepidopterology|||lepidopterology|||is_a
+lexical semantics	syntax#0.684742808342|pragmatics#0.654059410095|formal_semantics#0.638523221016	syntax#0.267570644617|pragmatics#0.249997720122	lexical_semantics|||lexical|||semantics|||is_a
+life science	biotechnology#0.469073295593		life_science|||life|||science|||is_a
+limnology	ecology#0.588463425636	ecology#0.330849856138	limnology|||limnology|||is_a
+linear algebra			linear_algebra|||linear|||algebra|||is_a
+linear programming	linear_algebra#0.618379414082	linear_algebra#0.247767284513	linear_programming|||linear|||programming|||is_a
+linguistics	sociolinguistics#0.671782374382|historical_linguistics#0.635181665421	sociolinguistics#0.386244952679|historical_linguistics#0.361327707767	linguistics|||linguistics|||is_a
+macrobiotics			macrobiotics|||macrobiotics|||is_a
+magnetism			magnetism|||magnetism|||is_a
+malacology	mammalogy#0.615535140038|entomology#0.526884257793|herpetology#0.512911856174|natural_history#0.50751966238|ichthyology#0.495045095682	mammalogy#0.345400184393	malacology|||malacology|||is_a
+mammalogy	malacology#0.608796775341|natural_history#0.557140231133|entomology#0.532192289829|paleontology#0.529529392719	malacology#0.341987848282|natural_history#0.321271449327	mammalogy|||mammalogy|||is_a
+marine archeology	oceanography#0.586902737617	oceanography#0.175538808107	marine_archeology|||marine|||archeology|||is_a
+mathematics	applied_mathematics#0.591148138046	applied_mathematics#0.350157976151|group_theory#0.324578285217	mathematics|||mathematics|||is_a
+matrix algebra	linear_algebra#0.689300298691	linear_algebra#0.280935555696	matrix_algebra|||matrix|||algebra|||is_a
+mechanics	fluid_mechanics#0.628314256668	fluid_mechanics#0.352132767439|statistical_mechanics#0.310370147228	mechanics|||mechanics|||is_a
+medical science	biomedical_science#0.54080414772	biomedical_science#0.181656777859	medical_science|||medical|||science|||is_a
+medicine	podiatry#0.587767958641|internal_medicine#0.569625496864|pediatrics#0.55877572298	podiatry#0.344036310911	medicine|||medicine|||is_a
+memory			memory|||memory|||is_a
+metallurgy			metallurgy|||metallurgy|||is_a
+metamathematics	set_theory#0.578523039818	set_theory#0.350174993277	metamathematics|||metamathematics|||is_a
+meteorology	oceanography#0.66077119112|climatology#0.645646929741|geophysics#0.605639517307|geodesy#0.582704901695|aerology#0.557040810585	oceanography#0.344167947769|climatology#0.341179519892|geophysics#0.325884670019|geodesy#0.325377255678	meteorology|||meteorology|||is_a
+metrology			metrology|||metrology|||is_a
+microbiology	biochemistry#0.656567811966|molecular_biology#0.632697701454|virology#0.62253767252|immunology#0.601012825966|molecular_genetics#0.591856896877	molecular_biology#0.354697018862|biochemistry#0.338260173798|virology#0.328851997852|molecular_genetics#0.326488435268|immunology#0.324441999197	microbiology|||microbiology|||is_a
+microeconomics	economics#0.606521368027|econometrics#0.568409979343	economics#0.339120030403|econometrics#0.323630064726	microeconomics|||microeconomics|||is_a
+microscopic anatomy	embryology#0.524397373199|physiology#0.511964321136|comparative_anatomy#0.50100082159|gross_anatomy#0.496907383204	embryology#0.165040016174|physiology#0.163308560848	microscopic_anatomy|||microscopic|||anatomy|||is_a
+mineralogy	geology#0.720447480679|petrology#0.693410813808|economic_geology#0.558524787426	petrology#0.361009597778|geology#0.360397011042	mineralogy|||mineralogy|||is_a
+molecular biology	molecular_genetics#0.687381923199|biochemistry#0.684847652912|biophysics#0.641816794872	molecular_genetics#0.260300576687|biochemistry#0.248666509986	molecular_biology|||molecular|||biology|||is_a
+molecular genetics	molecular_biology#0.757844567299|genomics#0.695601224899|immunology#0.68473815918	molecular_biology#0.295663028955|genomics#0.256655752659|immunology#0.249810501933	molecular_genetics|||molecular|||genetics|||is_a
+morphology			morphology|||morphology|||is_a
+mycology	entomology#0.532937645912|pteridology#0.514147639275|bacteriology#0.511775612831	pteridology#0.300578534603	mycology|||mycology|||is_a
+myology			myology|||myology|||is_a
+natural history	natural_science#0.50032889843|geography#0.497485816479		natural_history|||natural|||history|||is_a
+natural science	social_science#0.487449318171|earth_science#0.464210420847|geography#0.449302792549	social_science#0.159311085939|earth_science#0.153161838651|geography#0.147521257401	natural_science|||natural|||science|||is_a
+negative correlation	positive_correlation#0.711246550083	positive_correlation#0.266164183617	negative_correlation|||negative|||correlation|||is_a
+neonatology	orthopedics#0.634041249752|oncology#0.627182483673|cardiology#0.626165032387|urology#0.619595646858	orthopedics#0.361467003822|oncology#0.356064766645	neonatology|||neonatology|||is_a
+nephrology	urology#0.699810683727|gastroenterology#0.668865740299|rheumatology#0.649459064007	urology#0.383414447308|gastroenterology#0.357415109873	nephrology|||nephrology|||is_a
+neuroanatomy	neurophysiology#0.641935288906|neurobiology#0.638050317764|neuroscience#0.540621638298	neurobiology#0.328301876783|neurophysiology#0.316009908915|neuroscience#0.297027349472	neuroanatomy|||neuroanatomy|||is_a
+neurobiology	neuroscience#0.706359088421|neurophysiology#0.592863380909|neuroanatomy#0.584461688995	neuroscience#0.374608337879|molecular_biology#0.323207348585	neurobiology|||neurobiology|||is_a
+neurolinguistics	cognitive_science#0.605497598648|cognitive_neuroscience#0.597196221352|cognitive_psychology#0.589073956013|psychophysics#0.525074958801	cognitive_science#0.334909021854|cognitive_neuroscience#0.323797345161|cognitive_psychology#0.320331096649	neurolinguistics|||neurolinguistics|||is_a
+neurology	pediatrics#0.668385744095|urology#0.651399075985|internal_medicine#0.621124625206|rheumatology#0.614739179611|cardiology#0.61108070612|psychiatry#0.6053160429|nephrology#0.602523446083	pediatrics#0.364752948284|urology#0.363564938307|internal_medicine#0.346574157476	neurology|||neurology|||is_a
+neurophysiology	neuroscience#0.703522205353|neurobiology#0.647686421871|neuroanatomy#0.64289188385|psychophysics#0.597570359707|neuropsychiatry#0.591063916683|cognitive_neuroscience#0.575315177441	neuroscience#0.363240897655|neurobiology#0.331989705563|psychophysics#0.317844063044|neuroanatomy#0.31648004055|neuropsychiatry#0.312757611275|cognitive_neuroscience#0.307744920254	neurophysiology|||neurophysiology|||is_a
+neuropsychiatry	neurology#0.567356824875|neuroscience#0.56173324585|psychopharmacology#0.549594759941|psychiatry#0.536027312279|neurophysiology#0.524909198284	neurology#0.318037897348|neuroscience#0.314406871796|psychopharmacology#0.308711618185|psychiatry#0.299249798059	neuropsychiatry|||neuropsychiatry|||is_a
+neuroscience	neurobiology#0.671767950058|cognitive_science#0.659443080425|cognitive_neuroscience#0.638811767101|neurophysiology#0.613459050655|cognitive_psychology#0.573447704315	cognitive_science#0.364908695221|neurobiology#0.356422066689|cognitive_neuroscience#0.347038805485	neuroscience|||neuroscience|||is_a
+non euclidean geometry	hyperbolic_geometry#0.559847950935		non|||euclidean|||geometry|||is_a
+nonparametric statistics	econometrics#0.546204030514|analysis#0.545075297356	analysis#0.198160469532|econometrics#0.18741093576	nonparametric_statistics|||nonparametric|||statistics|||is_a
+nosology			nosology|||nosology|||is_a
+nuclear medicine	radiology#0.582798838615	radiology#0.188260123134	nuclear_medicine|||nuclear|||medicine|||is_a
+nuclear physics	plasma_physics#0.762152552605|particle_physics#0.752238571644|solid_state_physics#0.667402029037|astrophysics#0.66687554121	plasma_physics#0.304780632257|particle_physics#0.300591886044|solid_state_physics#0.257418006659|astrophysics#0.25730624795	nuclear_physics|||nuclear|||physics|||is_a
+numerical analysis			numerical_analysis|||numerical|||analysis|||is_a
+obstetrics	gynecology#0.737490296364|urology#0.671699285507|pediatrics#0.648029088974|internal_medicine#0.641485273838|ophthalmology#0.619933187962	gynecology#0.40017041564|urology#0.374270737171|internal_medicine#0.356890588999|pediatrics#0.356754213572	obstetrics|||obstetrics|||is_a
+oceanography	meteorology#0.66664648056|geophysics#0.639909148216	meteorology#0.347174853086|geophysics#0.339235633612	oceanography|||oceanography|||is_a
+oncology	urology#0.656061530113|gastroenterology#0.645637094975|rheumatology#0.644351601601	urology#0.372129380703	oncology|||oncology|||is_a
+oology			oology|||oology|||is_a
+ophthalmology	urology#0.680801391602|obstetrics#0.637983202934|gynecology#0.619997560978|neurology#0.611362099648|oncology#0.60400134325	urology#0.375214964151|obstetrics#0.352357745171|oncology#0.343233674765|gynecology#0.342966556549	ophthalmology|||ophthalmology|||is_a
+optics			optics|||optics|||is_a
+organic chemistry	inorganic_chemistry#0.789538025856|physical_chemistry#0.753279268742|electrochemistry#0.699544370174	inorganic_chemistry#0.295878529549|physical_chemistry#0.280660301447|electrochemistry#0.263787329197	organic_chemistry|||organic|||chemistry|||is_a
+orology			orology|||orology|||is_a
+orthodontics	periodontics#0.711780905724|endodontics#0.701262950897|prosthodontics#0.690763235092	periodontics#0.384982407093|endodontics#0.384864211082|prosthodontics#0.384020298719	orthodontics|||orthodontics|||is_a
+orthoepy			orthoepy|||orthoepy|||is_a
+orthopedics	urology#0.671122133732|cardiology#0.655349612236		orthopedics|||orthopedics|||is_a
+otology	ophthalmology#0.48958542943	ophthalmology#0.290360301733	otology|||otology|||is_a
+paleoanthropology	paleontology#0.579920768738|paleobiology#0.550706386566|paleobotany#0.522760510445|vertebrate_paleontology#0.517784237862|paleopathology#0.489968419075|ethology#0.442304581404	paleontology#0.321077853441|paleobotany#0.30516692996|paleobiology#0.303599506617|vertebrate_paleontology#0.300639212132|paleopathology#0.297465741634	paleoanthropology|||paleoanthropology|||is_a
+paleobiology	paleontology#0.658310055733|paleoanthropology#0.617084562778|paleoecology#0.608924865723|paleobotany#0.602028846741|paleogeography#0.566930949688	paleontology#0.343507558107|paleoanthropology#0.336086094379|paleobotany#0.329061508179	paleobiology|||paleobiology|||is_a
+paleobotany	paleontology#0.65448230505|paleoecology#0.593116223812|vertebrate_paleontology#0.554345309734|paleobiology#0.539291918278|paleoanthropology#0.525787830353|limnology#0.505561888218	paleontology#0.352541834116|paleoecology#0.317304462194|vertebrate_paleontology#0.315511465073|paleoanthropology#0.30660417676|limnology#0.298966377974	paleobotany|||paleobotany|||is_a
+paleoclimatology	paleobiology#0.548485636711|paleontology#0.535022079945	paleobiology#0.294328063726	paleoclimatology|||paleoclimatology|||is_a
+paleodendrology			is_a
+paleoecology	paleobotany#0.670623362064|paleobiology#0.621244370937|paleontology#0.61420994997|paleogeography#0.584436237812|biogeography#0.558981537819	paleobotany#0.356335014105|paleontology#0.323561489582|paleobiology#0.320560634136	paleoecology|||paleoecology|||is_a
+paleoethnography			is_a
+paleogeography	paleoecology#0.587289273739|paleobiology#0.581783592701|stratigraphy#0.563583910465|paleontology#0.562039554119|paleoclimatology#0.534468412399	paleobiology#0.304894268513|paleoecology#0.304151058197|paleontology#0.302590757608	paleogeography|||paleogeography|||is_a
+paleogeology	economic_geology#0.483065754175		paleogeology|||paleogeology|||is_a
+paleography			paleography|||paleography|||is_a
+paleology			is_a
+paleomammalogy			is_a
+paleontology	paleobotany#0.695822775364|paleobiology#0.633363068104|paleoanthropology#0.622698485851|geology#0.600151360035	paleobotany#0.374182462692|paleoanthropology#0.342392086983|paleobiology#0.330902606249	paleontology|||paleontology|||is_a
+paleopathology	paleoanthropology#0.457821637392|paleontology#0.451069205999|vertebrate_paleontology#0.442167669535|paleobotany#0.422096997499	paleoanthropology#0.282729685307|vertebrate_paleontology#0.273742645979|paleontology#0.272917538881	paleopathology|||paleopathology|||is_a
+paleornithology			paleornithology|||paleornithology|||is_a
+paleozoology	paleoanthropology#0.426514148712|paleobotany#0.425333857536		paleozoology|||paleozoology|||is_a
+partial correlation			partial_correlation|||partial|||correlation|||is_a
+particle physics	nuclear_physics#0.73566287756|plasma_physics#0.692817568779|astrophysics#0.64325428009	nuclear_physics#0.275596171618|plasma_physics#0.260252028704|astrophysics#0.236292734742	particle_physics|||particle|||physics|||is_a
+pathology	radiology#0.555975854397|hematology#0.539472162724|pharmacology#0.536897718906	radiology#0.319323569536	pathology|||pathology|||is_a
+pediatrics	internal_medicine#0.75623524189|orthopedics#0.67688202858|neurology#0.674966573715|urology#0.667480349541|obstetrics#0.661607325077|anesthesiology#0.657944619656	internal_medicine#0.40811830759|orthopedics#0.380156695843|urology#0.369871646166|emergency_medicine#0.369612157345|neurology#0.36820986867|anesthesiology#0.365861356258	pediatrics|||pediatrics|||is_a
+penology			penology|||penology|||is_a
+perinatology	neonatology#0.565874457359|urology#0.55808365345|orthopedics#0.542469143867	urology#0.325021982193|neonatology#0.324849367142|orthopedics#0.32259452343	perinatology|||perinatology|||is_a
+periodontics	orthodontics#0.736910998821|prosthodontics#0.677352249622|endodontics#0.638080775738	orthodontics#0.39866694808|prosthodontics#0.373251616955|endodontics#0.351620137691	periodontics|||periodontics|||is_a
+petroleum geology	petrology#0.753162682056|geochemistry#0.714205622673|economic_geology#0.695285439491	petrology#0.273046284914|geochemistry#0.245739638805|economic_geology#0.242563948035	petroleum_geology|||petroleum|||geology|||is_a
+petrology	geochemistry#0.678519904613|economic_geology#0.653710901737|petroleum_geology#0.653033137321|geology#0.613744080067	petroleum_geology#0.35200303793|geochemistry#0.35075506568|economic_geology#0.349694609642	petrology|||petrology|||is_a
+pharmacogenetics	pharmacokinetics#0.478829085827		pharmacogenetics|||pharmacogenetics|||is_a
+pharmacokinetics			pharmacokinetics|||pharmacokinetics|||is_a
+pharmacology	toxicology#0.588496685028|biochemistry#0.562020719051|pathology#0.561212837696|physiology#0.518435239792	toxicology#0.3137190938|pathology#0.307122290134	pharmacology|||pharmacology|||is_a
+pharmacy			pharmacy|||pharmacy|||is_a
+phonology			phonology|||phonology|||is_a
+photochemistry	electrochemistry#0.5733705163|physical_chemistry#0.539533257484	electrochemistry#0.318758904934	photochemistry|||photochemistry|||is_a
+phrenology			phrenology|||phrenology|||is_a
+physical anthropology	ethnology#0.611753284931|social_anthropology#0.595148742199	ethnology#0.168580830097|social_anthropology#0.160163268447	physical_anthropology|||physical|||anthropology|||is_a
+physical chemistry	inorganic_chemistry#0.66508102417|electrochemistry#0.616316258907|organic_chemistry#0.592845976353	inorganic_chemistry#0.203734099865|electrochemistry#0.199590191245	physical_chemistry|||physical|||chemistry|||is_a
+physical geography	geology#0.603541612625|geodesy#0.522197782993|climatology#0.520649194717	geology#0.176444411278|geodesy#0.165987789631|climatology#0.160434350371	physical_geography|||physical|||geography|||is_a
+physics	plasma_physics#0.676778972149|nuclear_physics#0.668362557888|astrophysics#0.64152777195|particle_physics#0.606475532055	plasma_physics#0.37440815568|nuclear_physics#0.367537975311|astrophysics#0.355462402105|particle_physics#0.343652039766	physics|||physics|||is_a
+physiological psychology	developmental_psychology#0.661626636982|social_psychology#0.655352413654|cognitive_psychology#0.620411813259|cognitive_neuroscience#0.596715867519|abnormal_psychology#0.593037068844	developmental_psychology#0.205756723881|social_psychology#0.200727716088|cognitive_psychology#0.192568212748|abnormal_psychology#0.19088307023	physiological_psychology|||physiological|||psychology|||is_a
+physiology	anatomy#0.603163123131|neurobiology#0.579851210117|biology#0.57788336277|pathology#0.563320279121|biochemistry#0.55281496048|pharmacology#0.548528969288	biology#0.310956150293|neurobiology#0.307137966156|anatomy#0.304423540831|pathology#0.303755104542|pharmacology#0.292956858873	physiology|||physiology|||is_a
+phytochemistry			phytochemistry|||phytochemistry|||is_a
+plane geometry	hyperbolic_geometry#0.725376009941|spherical_geometry#0.674773156643|projective_geometry#0.670255303383	hyperbolic_geometry#0.297112166882|spherical_geometry#0.270096451044|projective_geometry#0.264333128929	plane_geometry|||plane|||geometry|||is_a
+plasma physics	nuclear_physics#0.70138335228|astrophysics#0.6901871562|particle_physics#0.644715130329|solid_state_physics#0.644389808178	nuclear_physics#0.274041682482|astrophysics#0.269768893719|particle_physics#0.252382934093|solid_state_physics#0.248582735658	plasma_physics|||plasma|||physics|||is_a
+pneumatics			pneumatics|||pneumatics|||is_a
+podiatry	audiology#0.54389500618		podiatry|||podiatry|||is_a
+politics	geopolitics#0.547911584377		politics|||politics|||is_a
+pomology			pomology|||pomology|||is_a
+positive correlation	negative_correlation#0.72061175108	negative_correlation#0.264380514622	positive_correlation|||positive|||correlation|||is_a
+pragmatics	sociolinguistics#0.62358134985|phonology#0.585152864456|semantics#0.582093238831	sociolinguistics#0.359051316977	pragmatics|||pragmatics|||is_a
+prescriptive linguistics	pragmatics#0.576443314552|sociolinguistics#0.532384216785	pragmatics#0.185640335083	prescriptive_linguistics|||prescriptive|||linguistics|||is_a
+problem solving	linear_programming#0.564618706703	linear_programming#0.206656336784	problem_solving|||problem|||solving|||is_a
+proctology	emergency_medicine#0.528570473194|internal_medicine#0.472442686558|anesthesiology#0.467963278294|urology#0.455592989922	emergency_medicine#0.314862728119|anesthesiology#0.28474381566	proctology|||proctology|||is_a
+projective geometry	hyperbolic_geometry#0.71577334404|spherical_geometry#0.672548532486	hyperbolic_geometry#0.301739782095|spherical_geometry#0.276339888573	projective_geometry|||projective|||geometry|||is_a
+prosthetics			prosthetics|||prosthetics|||is_a
+prosthodontics	orthodontics#0.680205404758|periodontics#0.642703413963|endodontics#0.618481278419	orthodontics#0.378368198872|periodontics#0.355134487152|endodontics#0.348381847143	prosthodontics|||prosthodontics|||is_a
+proteomics	genomics#0.671720147133	genomics#0.357891440392	proteomics|||proteomics|||is_a
+protoarcheology			is_a
+protohistory	ethnology#0.441453397274		protohistory|||protohistory|||is_a
+protozoology	bacteriology#0.411656558514		protozoology|||protozoology|||is_a
+proxemics			proxemics|||proxemics|||is_a
+psephology			psephology|||psephology|||is_a
+psychiatry	neurology#0.635640263557|pediatrics#0.560562610626|neuropsychiatry#0.540253281593	neurology#0.346562594175|pediatrics#0.313340961933|neuropsychiatry#0.301252365112	psychiatry|||psychiatry|||is_a
+psychodynamics			psychodynamics|||psychodynamics|||is_a
+psychology	social_psychology#0.687206506729|developmental_psychology#0.673291444778|clinical_psychology#0.601535379887|cognitive_psychology#0.582212865353	social_psychology#0.370544880629|developmental_psychology#0.365628153086|clinical_psychology#0.331770718098	psychology|||psychology|||is_a
+psychometry			psychometry|||psychometry|||is_a
+psychopharmacology	psychotherapy#0.537456035614|neuropsychiatry#0.534490346909|neuroscience#0.516672432423|psychology#0.516643643379	psychotherapy#0.31156745553|neuropsychiatry#0.301507711411|psychology#0.30001398921|neuroscience#0.297947078943	psychopharmacology|||psychopharmacology|||is_a
+psychophysics	cognitive_neuroscience#0.626550674438|cognitive_psychology#0.61348760128|cognitive_science#0.600315690041|neuroscience#0.522558748722|neurophysiology#0.519751191139	cognitive_neuroscience#0.340561002493|cognitive_science#0.337135285139|cognitive_psychology#0.334830641747	psychophysics|||psychophysics|||is_a
+psychotherapy			psychotherapy|||psychotherapy|||is_a
+pteridology	mycology#0.436271131039		pteridology|||pteridology|||is_a
+pure mathematics	applied_mathematics#0.697234988213|physics#0.490728229284	applied_mathematics#0.25633636117	pure_mathematics|||pure|||mathematics|||is_a
+quadratics			quadratics|||quadratics|||is_a
+quantum electrodynamics	quantum_field_theory#0.743945837021|statistical_mechanics#0.669140636921|quantum_mechanics#0.667743563652	quantum_field_theory#0.281368076801|statistical_mechanics#0.249929368496	quantum_electrodynamics|||quantum|||electrodynamics|||is_a
+quantum field theory	statistical_mechanics#0.634449183941|quantum_mechanics#0.599858224392	statistical_mechanics#0.165494009852	quantum_field_theory|||quantum|||field|||theory|||is_a
+quantum mechanics	statistical_mechanics#0.717481076717|quantum_physics#0.705168068409|classical_mechanics#0.662971735001	statistical_mechanics#0.280110776424|quantum_physics#0.262024700642|classical_mechanics#0.245003849268	quantum_mechanics|||quantum|||mechanics|||is_a
+quantum physics	statistical_mechanics#0.664096653461|quantum_mechanics#0.648417711258	statistical_mechanics#0.260375708342	quantum_physics|||quantum|||physics|||is_a
+radio astronomy	astrophysics#0.573480129242|astrometry#0.533992528915	astrophysics#0.200517266989	radio_astronomy|||radio|||astronomy|||is_a
+radiobiology	radiochemistry#0.541368603706|biophysics#0.449454158545|molecular_biology#0.448768436909	radiochemistry#0.307624191046|molecular_biology#0.278671443462	radiobiology|||radiobiology|||is_a
+radiochemistry	radiobiology#0.559309303761|radio_astronomy#0.459203124046	radiobiology#0.316264271736|radio_astronomy#0.277301490307	radiochemistry|||radiochemistry|||is_a
+radiology	urology#0.624642670155|orthopedics#0.606532275677|cardiology#0.579129517078	urology#0.356703996658|orthopedics#0.353538632393	radiology|||radiology|||is_a
+realpolitik	ritualism#0.554417014122	ritualism#0.316868394613	realpolitik|||realpolitik|||is_a
+regional anatomy	embryology#0.472797721624|gross_anatomy#0.452392846346|comparative_anatomy#0.44901484251		regional_anatomy|||regional|||anatomy|||is_a
+rheology			rheology|||rheology|||is_a
+rheumatology	cardiology#0.689325273037|oncology#0.684832513332|orthopedics#0.663326621056|geriatrics#0.6427500844|urology#0.642338216305	oncology#0.382047027349|orthopedics#0.374203979969|cardiology#0.372431606054	rheumatology|||rheumatology|||is_a
+rhinolaryngology			rhinolaryngology|||rhinolaryngology|||is_a
+ritualism	realpolitik#0.57479596138	realpolitik#0.326826989651	ritualism|||ritualism|||is_a
+science			science|||science|||is_a
+seismology	geophysics#0.693413257599|geodesy#0.660118401051	geophysics#0.359662264585|geodesy#0.355805903673	seismology|||seismology|||is_a
+semantics	formal_semantics#0.734689474106|syntax#0.657701075077	formal_semantics#0.428700715303|syntax#0.384106576443	semantics|||semantics|||is_a
+serology			serology|||serology|||is_a
+set theory			set_theory|||set|||theory|||is_a
+silviculture	forestry#0.600875914097	forestry#0.321272194386	silviculture|||silviculture|||is_a
+social anthropology	sociology#0.712230920792|social_psychology#0.633964836597	sociology#0.253827184439|social_psychology#0.223643347621	social_anthropology|||social|||anthropology|||is_a
+social psychology	developmental_psychology#0.705076873302|sociology#0.65804117918|cognitive_psychology#0.618631839752	developmental_psychology#0.263074457645|sociology#0.246089875698|social_science#0.233411818743	social_psychology|||social|||psychology|||is_a
+social science	sociology#0.586347460747|psychology#0.579447686672	psychology#0.197879135609|sociology#0.196131259203|economics#0.195665955544	social_science|||social|||science|||is_a
+sociobiology	ethology#0.60281008482|comparative_psychology#0.492526054382	ethology#0.320606648922	sociobiology|||sociobiology|||is_a
+sociolinguistics	linguistics#0.68392676115|pragmatics#0.613856196404|historical_linguistics#0.609812140465	linguistics#0.392798095942|pragmatics#0.354049682617	sociolinguistics|||sociolinguistics|||is_a
+sociology	anthropology#0.612598538399|social_science#0.606308937073|economics#0.601702213287|psychology#0.594742357731	social_science#0.341600775719|psychology#0.332063049078|economics#0.331409484148|anthropology#0.331159859896|linguistics#0.324146538973	sociology|||sociology|||is_a
+solar physics	astrophysics#0.772542774677|plasma_physics#0.728635072708|astronomy#0.633512914181|nuclear_physics#0.623442649841|particle_physics#0.612822830677	astrophysics#0.27088496089|plasma_physics#0.254752516747|astronomy#0.21697601676|particle_physics#0.211686089635	solar_physics|||solar|||physics|||is_a
+solid geometry	spherical_geometry#0.622772574425|plane_geometry#0.592205286026|hyperbolic_geometry#0.572524964809|projective_geometry#0.561469554901	spherical_geometry#0.208299010992|plane_geometry#0.201673269272|hyperbolic_geometry#0.192090243101	solid_geometry|||solid|||geometry|||is_a
+solid state physics	plasma_physics#0.614852905273|nuclear_physics#0.572163581848	plasma_physics#0.112749412656	solid_state_physics|||solid|||state|||physics|||is_a
+space medicine	sports_medicine#0.558411359787	sports_medicine#0.166674599051	space_medicine|||space|||medicine|||is_a
+speleology			speleology|||speleology|||is_a
+spherical geometry	hyperbolic_geometry#0.722418785095|projective_geometry#0.680826127529	hyperbolic_geometry#0.296800166368|projective_geometry#0.269934535027	spherical_geometry|||spherical|||geometry|||is_a
+sports medicine	podiatry#0.614495456219|orthopedics#0.6046230793|dietetics#0.57520699501	podiatry#0.228547602892|orthopedics#0.221669942141|dietetics#0.205050826073	sports_medicine|||sports|||medicine|||is_a
+spurious correlation			spurious_correlation|||spurious|||correlation|||is_a
+statics	hydrostatics#0.482785075903|kinematics#0.48156863451|statistical_mechanics#0.448606818914	hydrostatics#0.290399163961|kinematics#0.280929327011|statistical_mechanics#0.279682457447	statics|||statics|||is_a
+statistical mechanics	fluid_mechanics#0.609503865242	fluid_mechanics#0.214037120342	statistical_mechanics|||statistical|||mechanics|||is_a
+statistics	econometrics#0.49155163765		statistics|||statistics|||is_a
+strategics			strategics|||strategics|||is_a
+stratigraphy			stratigraphy|||stratigraphy|||is_a
+structural genomics	proteomics#0.634995102882	proteomics#0.211150810122	structural_genomics|||structural|||genomics|||is_a
+structuralism			structuralism|||structuralism|||is_a
+sumerology			is_a
+supply side economics			supply_side_economics|||supply|||side|||economics|||is_a
+surgery			surgery|||surgery|||is_a
+synchronic linguistics	sociolinguistics#0.66791343689|historical_linguistics#0.620689749718|pragmatics#0.572161972523	sociolinguistics#0.224982991815|historical_linguistics#0.205411240458	synchronic_linguistics|||synchronic|||linguistics|||is_a
+syntax	semantics#0.637508690357	semantics#0.373403072357	syntax|||syntax|||is_a
+systematics	biogeography#0.668812036514|taxonomy#0.645468890667	taxonomy#0.365970015526|biogeography#0.362635344267	systematics|||systematics|||is_a
+taxonomy			taxonomy|||taxonomy|||is_a
+teratology	embryology#0.445197701454|anatomy#0.432277053595		teratology|||teratology|||is_a
+thanatology			thanatology|||thanatology|||is_a
+therapeutics			therapeutics|||therapeutics|||is_a
+thermionics			thermionics|||thermionics|||is_a
+thermochemistry	thermodynamics#0.428488969803		thermochemistry|||thermochemistry|||is_a
+thermodynamics	statistical_mechanics#0.631026923656	statistical_mechanics#0.363517612219	thermodynamics|||thermodynamics|||is_a
+thoracic medicine	urology#0.556207180023|orthopedics#0.551122903824	urology#0.182414472103|orthopedics#0.182221382856	thoracic_medicine|||thoracic|||medicine|||is_a
+topography			topography|||topography|||is_a
+topology			topology|||topology|||is_a
+toxicology	pharmacology#0.583025157452|microbiology#0.500752687454	pharmacology#0.311061680317	toxicology|||toxicology|||is_a
+traumatology	urology#0.65431445837|orthopedics#0.635465860367|pediatrics#0.587361216545|internal_medicine#0.58332079649|anesthesiology#0.583199501038	urology#0.366172611713|orthopedics#0.36291846633	traumatology|||traumatology|||is_a
+triangulation			triangulation|||triangulation|||is_a
+trigonometry	geometry#0.614020824432|analytic_geometry#0.538863539696|spherical_geometry#0.508377730846|mathematics#0.479592949152	geometry#0.350457131863|analytic_geometry#0.304768979549|spherical_geometry#0.299303770065|mathematics#0.291191995144	trigonometry|||trigonometry|||is_a
+tropical medicine	veterinary_medicine#0.570221185684|epidemiology#0.518406927586|mycology#0.49181458354	veterinary_medicine#0.176251634955|epidemiology#0.161599472165|mycology#0.153216600418	tropical_medicine|||tropical|||medicine|||is_a
+urology	orthopedics#0.697528123856	orthopedics#0.395578682423	urology|||urology|||is_a
+vector algebra	linear_algebra#0.588822066784	linear_algebra#0.228298977017	vector_algebra|||vector|||algebra|||is_a
+vertebrate paleontology	paleobotany#0.734372377396|paleoecology#0.659277915955|paleoanthropology#0.643193781376	paleobotany#0.274030297995|paleoanthropology#0.236000344157|paleoecology#0.230950281024	vertebrate_paleontology|||vertebrate|||paleontology|||is_a
+veterinary medicine	dentistry#0.58405905962|podiatry#0.58255815506	podiatry#0.223934426904|dentistry#0.216487422585	veterinary_medicine|||veterinary|||medicine|||is_a
+virology	molecular_biology#0.669002652168|immunology#0.660984098911|microbiology#0.652862489223|molecular_genetics#0.619241714478|biochemistry#0.560993671417|epidemiology#0.534628629684|genetics#0.532290041447	molecular_biology#0.365960508585|immunology#0.344669699669|microbiology#0.344143927097|molecular_genetics#0.333476781845	virology|||virology|||is_a
+zoology	botany#0.729631721973|entomology#0.620267868042|paleontology#0.599765002728|mammalogy#0.557840049267|comparative_anatomy#0.540625810623|natural_history#0.538220524788|ichthyology#0.5281945467	botany#0.370850235224|entomology#0.319630622864|paleontology#0.319570869207|mammalogy#0.311525076628|natural_history#0.304046809673	zoology|||zoology|||is_a

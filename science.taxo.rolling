@@ -1,0 +1,452 @@
+electro-mechanical systems			electro_mechanical_systems|||electro|||mechanical|||systems|||is_a
+biological and physical			biological_and_physical|||biological|||and|||physical|||is_a
+history of religions of eastern origins	cultural_history#0.519035995007		history|||of|||religions|||of|||eastern|||origins|||is_a
+linguistic anthropology	cultural_anthropology#0.702693283558|linguistics#0.682468533516|sociolinguistics#0.675107121468|social_anthropology#0.591939985752	linguistics#0.243168607354|sociolinguistics#0.236516773701|cultural_anthropology#0.235688462853	linguistic_anthropology|||linguistic|||anthropology|||is_a
+metaphysics	epistemology#0.670767247677|philosophy#0.62440931797|philosophy_of_religion#0.589683413506|philosophy_of_mind#0.580189526081|philosophy_of_language#0.575190663338	epistemology#0.336091220379|philosophy#0.327388852835|philosophy_of_language#0.305226773024	metaphysics|||metaphysics|||is_a
+religion			religion|||religion|||is_a
+semantics	syntax#0.657278895378|pragmatics#0.613880991936	syntax#0.352014094591|pragmatics#0.320624887943	semantics|||semantics|||is_a
+psychology	developmental_psychology#0.683684587479|social_psychology#0.650629878044|clinical_psychology#0.574096918106	developmental_psychology#0.365293711424|social_psychology#0.3314704597	psychology|||psychology|||is_a
+immunopathology	immunology#0.526068150997	immunology#0.314214944839	immunopathology|||immunopathology|||is_a
+comparative physiology	genetics#0.577115595341	genetics#0.186602070928	comparative_physiology|||comparative|||physiology|||is_a
+portuguese literature			portuguese|||literature|||is_a
+thermodynamics			thermodynamics|||thermodynamics|||is_a
+programming languages			programming_languages|||programming|||languages|||is_a
+navigation, guidance, control and dynamics			navigation|||guidance|||control|||and|||dynamics|||is_a
+communication technology and new media			communication_technology_and_new_media|||communication|||technology|||and|||new|||media|||is_a
+spanish linguistics	applied_linguistics#0.564839363098		spanish|||linguistics|||is_a
+esthetics			esthetics|||esthetics|||is_a
+philosophy of mind	philosophy_of_language#0.711245238781|metaphysics#0.684687674046|philosophy_of_science#0.683370947838|epistemology#0.635562002659|philosophy_of_religion#0.627596199512	philosophy_of_language#0.138854324818|metaphysics#0.131228521466|philosophy_of_science#0.125639438629|philosophy_of_religion#0.117249980569|epistemology#0.113945581019	philosophy_of_mind|||philosophy|||of|||mind|||is_a
+nanotechnology fabrication			nanotechnology|||fabrication|||is_a
+french linguistics			french|||linguistics|||is_a
+philosophy of science	history#0.556892454624|metaphysics#0.548846423626|philosophy_of_language#0.546571433544|history_of_philosophy#0.532696068287|philosophy_of_religion#0.531454265118	history#0.104195773602|metaphysics#0.0963529124856|philosophy_of_language#0.0943685621023|philosophy_of_religion#0.0904809683561|history_of_philosophy#0.0894629880786	philosophy_of_science|||philosophy|||of|||science|||is_a
+computer-aided engineering and design	systems_engineering#0.535319507122		computer|||aided|||engineering|||and|||design|||is_a
+microbial ecology	biogeochemistry#0.673579454422|environmental_microbiology#0.646314382553	biogeochemistry#0.244112074375|environmental_microbiology#0.236983627081	microbial_ecology|||microbial|||ecology|||is_a
+theory, knowledge and science	physical_science#0.443159401417|ecology#0.442046552896	ecology#0.0783248692751	theory|||knowledge|||and|||science|||is_a
+immunoprophylaxis			immunoprophylaxis|||immunoprophylaxis|||is_a
+systems engineering	software_engineering#0.594138681889	software_engineering#0.220161750913	systems_engineering|||systems|||engineering|||is_a
+process control and systems			process|||control|||and|||systems|||is_a
+logic and foundations of mathematics	logic_and_foundations#0.451690971851|geometry_and_topology#0.402141541243	logic_and_foundations#0.0281712822616|geometry_and_topology#0.0255532991141	logic_and_foundations_of_mathematics|||logic|||and|||foundations|||of|||mathematics|||is_a
+plant biology	molecular_biology#0.684085190296|biochemistry#0.66342061758|cell_biology#0.661168158054|developmental_biology#0.649217963219|microbiology#0.635121107101|genetics#0.621117174625	molecular_biology#0.25230383873|cell_biology#0.240630328655|biochemistry#0.239087700844|microbiology#0.232881680131|developmental_biology#0.229637354612|genetics#0.217940166593	plant_biology|||plant|||biology|||is_a
+data storage systems			data_storage_systems|||data|||storage|||systems|||is_a
+systems and integrative physiology			systems|||and|||integrative|||physiology|||is_a
+mathematics	applied_mathematics#0.585083246231|computer_science#0.541954219341|physics#0.483461469412	applied_mathematics#0.338983267546|computer_science#0.332097321749	mathematics|||mathematics|||is_a
+aquaculture and fisheries			aquaculture_and_fisheries|||aquaculture|||and|||fisheries|||is_a
+acoustics, dynamics, and controls			acoustics|||dynamics|||and|||controls|||is_a
+anthropological linguistics	anthropology#0.662278294563|cultural_anthropology#0.641450285912|linguistic_anthropology#0.635255515575|sociolinguistics#0.627094686031	anthropology#0.222707211971|cultural_anthropology#0.215197518468|sociolinguistics#0.210871040821|linguistic_anthropology#0.210087329149	anthropological_linguistics|||anthropological|||linguistics|||is_a
+ancient history	cultural_history#0.640341937542|intellectual_history#0.612403154373|medieval_history#0.566493272781	cultural_history#0.218337237835|intellectual_history#0.210460320115	ancient_history|||ancient|||history|||is_a
+pragmatics	sociolinguistics#0.61270403862|semantics#0.601149201393	sociolinguistics#0.338096231222|linguistics#0.329357624054	pragmatics|||pragmatics|||is_a
+glaciology	oceanography#0.664222896099|geophysics#0.612601459026	oceanography#0.355119675398	glaciology|||glaciology|||is_a
+crop sciences	food_science#0.523764312267	food_science#0.163878455758	crop_sciences|||crop|||sciences|||is_a
+cellular neuroscience	cognitive_neuroscience#0.583708643913		cellular_neuroscience|||cellular|||neuroscience|||is_a
+software engineering	systems_engineering#0.678678274155|information_systems#0.572738349438	systems_engineering#0.253140598536|information_systems#0.216013476253	software_engineering|||software|||engineering|||is_a
+organizational communication	mass_communication#0.540597856045	mass_communication#0.188028410077	organizational_communication|||organizational|||communication|||is_a
+biomaterials			biomaterials|||biomaterials|||is_a
+seismology	geophysics#0.70366358757|glaciology#0.660840511322|oceanography#0.61988645792	geophysics#0.356912970543|glaciology#0.339605778456|oceanography#0.327493727207	seismology|||seismology|||is_a
+cancer biology	immunology#0.734672248363|cell_biology#0.717766582966|molecular_biology#0.700880944729|developmental_biology#0.668968975544	immunology#0.279406487942|cell_biology#0.274186134338|molecular_biology#0.269077271223|developmental_biology#0.245368286967	cancer_biology|||cancer|||biology|||is_a
+epistemology	metaphysics#0.663719892502|philosophy_of_mind#0.628404140472|philosophy_of_language#0.581089496613	metaphysics#0.332535535097|philosophy_of_mind#0.320164382458	epistemology|||epistemology|||is_a
+history	cultural_history#0.630186855793|intellectual_history#0.566105127335	cultural_history#0.34603536129|intellectual_history#0.320462107658	history|||history|||is_a
+non-linear dynamic			non_linear_dynamic|||non|||linear|||dynamic|||is_a
+atomic, molecular and optical physics			atomic__molecular_and_optical_physics|||atomic|||molecular|||and|||optical|||physics|||is_a
+set theory			set_theory|||set|||theory|||is_a
+gender history	cultural_history#0.656294226646|intellectual_history#0.585441231728|gender_and_sexuality#0.550433635712	cultural_history#0.234113484621|intellectual_history#0.209808081388|regional_sociology#0.195598751307	gender_history|||gender|||history|||is_a
+chemistry	physical_chemistry#0.673692345619|inorganic_chemistry#0.640336811543|biochemistry#0.628758966923|organic_chemistry#0.590662479401|polymer_chemistry#0.586032211781	physical_chemistry#0.37243437767|biochemistry#0.357582807541|inorganic_chemistry#0.354779481888	chemistry|||chemistry|||is_a
+engineering physics	materials_science#0.655742406845|electrical_engineering#0.632242083549|mechanical_engineering#0.629002988338|chemical_engineering#0.612383782864|civil_engineering#0.59511834383|industrial_engineering#0.59390938282|computer_engineering#0.588741123676|computer_science#0.579410374165	materials_science#0.224535033107|electrical_engineering#0.209762051702|mechanical_engineering#0.208345070481|chemical_engineering#0.206365391612|computer_science#0.20295342803|computer_engineering#0.199738502502|civil_engineering#0.195574998856|industrial_engineering#0.192164629698	engineering_physics|||engineering|||physics|||is_a
+cosmology			cosmology|||cosmology|||is_a
+environmental chemistry			environmental_chemistry|||environmental|||chemistry|||is_a
+bacteriology	microbiology#0.661554396152|pathology#0.588096559048|immunology#0.585586428642|parasitology#0.571512520313	microbiology#0.369524359703|pathology#0.330744951963|immunology#0.329699754715|parasitology#0.310517936945	bacteriology|||bacteriology|||is_a
+environmental engineering	civil_engineering#0.634612798691	civil_engineering#0.223071753979	environmental_engineering|||environmental|||engineering|||is_a
+statistics and probability	applied_statistics#0.50092124939	applied_statistics#0.081698410213	statistics_and_probability|||statistics|||and|||probability|||is_a
+circuits	digital_circuits#0.660735964775	digital_circuits#0.352248877287	circuits|||circuits|||is_a
+psychology of movement	anthropology#0.425568044186|biological_psychology#0.418965756893|cognitive_psychology#0.413254231215|sociology#0.405944466591	anthropology#0.0733374357224|biological_psychology#0.0723674297333	psychology_of_movement|||psychology|||of|||movement|||is_a
+second language acquisition	pragmatics#0.571247518063|sociolinguistics#0.543781816959	pragmatics#0.109932653606|sociolinguistics#0.108087524772	second_language_acquisition|||second|||language|||acquisition|||is_a
+signal processing			signal_processing|||signal|||processing|||is_a
+paleontology	paleobiology#0.635418057442|zoology#0.616207957268|geology#0.580312848091	zoology#0.346646726131|paleobiology#0.333541125059	paleontology|||paleontology|||is_a
+cultural anthropology	social_anthropology#0.740928471088|sociology#0.648421466351|linguistic_anthropology#0.632862627506	social_anthropology#0.275366902351|sociology#0.232359573245	cultural_anthropology|||cultural|||anthropology|||is_a
+medicine and health	public_health#0.543920457363	public_health#0.10973714292	medicine_and_health|||medicine|||and|||health|||is_a
+composition	music_theory#0.628343403339|music#0.625175476074	music_theory#0.344778031111|music#0.34422019124	composition|||composition|||is_a
+climate			climate|||climate|||is_a
+electrical engineering	mechanical_engineering#0.778890252113|industrial_engineering#0.726965725422|civil_engineering#0.72656917572|computer_engineering#0.71769297123|chemical_engineering#0.685516476631|environmental_engineering#0.683033525944|aerospace_engineering#0.67817401886	mechanical_engineering#0.31041431427|computer_engineering#0.287800133228|civil_engineering#0.28539416194|industrial_engineering#0.280718654394|chemical_engineering#0.267824709415|environmental_engineering#0.26698705554	electrical_engineering|||electrical|||engineering|||is_a
+harmonic analysis and representation			harmonic_analysis_and_representation|||harmonic|||analysis|||and|||representation|||is_a
+population biology	genetics#0.588298141956|ecology#0.582016646862|developmental_biology#0.569028794765|molecular_biology#0.55300617218	genetics#0.182560294867|ecology#0.181789427996|molecular_biology#0.175230354071	population_biology|||population|||biology|||is_a
+industrial engineering	mechanical_engineering#0.687111616135|civil_engineering#0.662453770638|systems_engineering#0.655516505241|electrical_engineering#0.652478158474	mechanical_engineering#0.260763972998|systems_engineering#0.25317633152|civil_engineering#0.250282108784|electrical_engineering#0.244269385934	industrial_engineering|||industrial|||engineering|||is_a
+biblical studies	theology#0.556545197964		biblical_studies|||biblical|||studies|||is_a
+mineral physics	geochemistry#0.578806638718|glaciology#0.541477143764|seismology#0.530150711536|geology#0.525738120079	geochemistry#0.161578446627|glaciology#0.156853318214|geology#0.153067722917	mineral_physics|||mineral|||physics|||is_a
+horticulture			horticulture|||horticulture|||is_a
+metallurgy			metallurgy|||metallurgy|||is_a
+cosmochemistry	geochemistry#0.593520581722	geochemistry#0.314724117517	cosmochemistry|||cosmochemistry|||is_a
+computational neuroscience	cognitive_neuroscience#0.706687986851	cognitive_neuroscience#0.25660726428|artificial_intelligence#0.209819197655	computational_neuroscience|||computational|||neuroscience|||is_a
+astrodynamics			astrodynamics|||astrodynamics|||is_a
+health communication	public_health#0.550495803356	public_health#0.176541447639	health_communication|||health|||communication|||is_a
+medicinal-pharmaceutical chemistry	medicinal_chemistry#0.576483666897|pharmaceutics#0.559257149696|toxicology#0.518781483173	medicinal_chemistry#0.193420514464|pharmaceutics#0.184296801686|toxicology#0.177726447582	medicinal|||pharmaceutical|||chemistry|||is_a
+criminology	sociology#0.48282828927		criminology|||criminology|||is_a
+membrane science			membrane_science|||membrane|||science|||is_a
+military history	cultural_history#0.51788431406		military_history|||military|||history|||is_a
+condensed matter physics	nuclear_physics#0.63627487421		condensed_matter_physics|||condensed|||matter|||physics|||is_a
+complex fluids			complex_fluids|||complex|||fluids|||is_a
+medicinal chemistry	inorganic_chemistry#0.630269229412|physical_chemistry#0.617756426334|organic_chemistry#0.616574585438|biochemistry#0.600470483303|polymer_chemistry#0.596109330654	organic_chemistry#0.219842255116|inorganic_chemistry#0.219583123922|physical_chemistry#0.215584859252|polymer_chemistry#0.212515071034|biochemistry#0.2119692415	medicinal_chemistry|||medicinal|||chemistry|||is_a
+biochemical nutrition			biochemical|||nutrition|||is_a
+economic theory	economics#0.611865103245|macroeconomics#0.601929843426	economics#0.197604224086|industrial_organization#0.1954074651|macroeconomics#0.193258419633	economic_theory|||economic|||theory|||is_a
+paleobiology	paleontology#0.684072256088	paleontology#0.358428627253	paleobiology|||paleobiology|||is_a
+economics	international_economics#0.637226045132|industrial_organization#0.612639963627|political_science#0.611193358898|labor_economics#0.599425077438|macroeconomics#0.575670063496	international_economics#0.351188063622|industrial_organization#0.34262752533|political_science#0.33977034688|labor_economics#0.320049226284	economics|||economics|||is_a
+biostatistics	epidemiology#0.641890883446|toxicology#0.505563914776	epidemiology#0.354591280222|toxicology#0.299868017435	biostatistics|||biostatistics|||is_a
+demography, population, and ecology	biogeochemistry#0.539393126965	biogeochemistry#0.116729043424	demography|||population|||and|||ecology|||is_a
+history of philosophy	philosophy_of_science#0.662085354328|philosophy_of_religion#0.583740115166|philosophy_of_language#0.562452077866|metaphysics#0.562161803246|cultural_history#0.554891645908	philosophy_of_science#0.120636574924|cultural_history#0.110541753471|philosophy_of_religion#0.106845587492|philosophy_of_language#0.105910524726|metaphysics#0.103993155062	history_of_philosophy|||history|||of|||philosophy|||is_a
+plant pathology	microbiology#0.625839710236|botany#0.609339535236|physiology#0.604555785656|bacteriology#0.584662079811|virology#0.555437684059	microbiology#0.216750264168|botany#0.204768061638|physiology#0.198108255863|biochemistry#0.19017753005|bacteriology#0.190118119121	plant_pathology|||plant|||pathology|||is_a
+petroleum engineering	civil_engineering#0.668535232544|mechanical_engineering#0.614450633526|structural_engineering#0.589291453362|chemical_engineering#0.577758550644|environmental_engineering#0.568336188793	civil_engineering#0.231996402144|mechanical_engineering#0.209698483348|structural_engineering#0.208570361137|chemical_engineering#0.202349275351	petroleum_engineering|||petroleum|||engineering|||is_a
+biogeochemistry	ecology#0.626729667187	ecology#0.350210368633	biogeochemistry|||biogeochemistry|||is_a
+sociology	anthropology#0.659615039825|political_science#0.629542052746|cultural_anthropology#0.571326613426|social_anthropology#0.535607099533|social_science#0.526064097881	anthropology#0.349052637815|political_science#0.344879895449|cultural_anthropology#0.311877846718|comparative_literature#0.301005482674|social_anthropology#0.296961098909|social_science#0.294536888599	sociology|||sociology|||is_a
+transport phenomena			transport_phenomena|||transport|||phenomena|||is_a
+analysis			analysis|||analysis|||is_a
+operational research			operational_research|||operational|||research|||is_a
+digital communications			digital_communications|||digital|||communications|||is_a
+bioimaging and biomedical optics			bioimaging|||and|||biomedical|||optics|||is_a
+geochemistry	geology#0.628675341606|cosmochemistry#0.623112857342	geology#0.330810248852	geochemistry|||geochemistry|||is_a
+linguistic diversity			linguistic_diversity|||linguistic|||diversity|||is_a
+music	music_theory#0.659922778606|ethnomusicology#0.605668663979|musicology#0.584903240204	music_theory#0.368577957153|ethnomusicology#0.336847215891	music|||music|||is_a
+dynamic systems			dynamic_systems|||dynamic|||systems|||is_a
+american politics			american|||politics|||is_a
+communication	mass_communication#0.520297467709	mass_communication#0.300326347351	communication|||communication|||is_a
+food microbiology	food_chemistry#0.604697108269|food_science#0.583249032497|food_biotechnology#0.580212771893|food_processing#0.572750031948	food_chemistry#0.2113994807|food_science#0.211013525724|food_biotechnology#0.205046787858	food_microbiology|||food|||microbiology|||is_a
+international nutrition			international_nutrition|||international|||nutrition|||is_a
+american popular culture			american|||popular|||culture|||is_a
+polymer science	materials_science#0.663928985596|materials_chemistry#0.533826947212|chemistry#0.528962790966	materials_science#0.227350011468|materials_chemistry#0.1831138134	polymer_science|||polymer|||science|||is_a
+computational linguistics	applied_linguistics#0.581584393978|psycholinguistics#0.539040386677	applied_linguistics#0.187648296356	computational_linguistics|||computational|||linguistics|||is_a
+food processing			food_processing|||food|||processing|||is_a
+structural engineering	civil_engineering#0.627713739872|environmental_engineering#0.62350153923|geotechnical_engineering#0.579011201859	environmental_engineering#0.214833945036|civil_engineering#0.210514098406|geotechnical_engineering#0.202890589833	structural_engineering|||structural|||engineering|||is_a
+methodologies			methodologies|||methodologies|||is_a
+applied dynamics	fluid_mechanics#0.509266078472|fluid_dynamics#0.507307291031	fluid_dynamics#0.160189196467|fluid_mechanics#0.159818410873	applied_dynamics|||applied|||dynamics|||is_a
+urban studies	geography#0.588337898254	geography#0.200403764844	urban_studies|||urban|||studies|||is_a
+physical processes			physical_processes|||physical|||processes|||is_a
+atmospheric sciences	oceanography#0.627889454365|meteorology#0.60827922821|earth_science#0.586843907833	oceanography#0.193922817707|earth_science#0.186322584748	atmospheric_sciences|||atmospheric|||sciences|||is_a
+aquatic ecology	biogeochemistry#0.69797629118	biogeochemistry#0.262678384781	aquatic_ecology|||aquatic|||ecology|||is_a
+physical science	earth_science#0.480341076851	earth_science#0.17211060226|materials_science#0.169395804405	physical_science|||physical|||science|||is_a
+heat transfer, combustion			heat_transfer__combustion|||heat|||transfer|||combustion|||is_a
+musicology	ethnomusicology#0.692641198635|music_theory#0.681560695171|music#0.661621034145	music_theory#0.364685505629|ethnomusicology#0.36193844676|music#0.356763958931	musicology|||musicology|||is_a
+aerospace engineering	mechanical_engineering#0.71355843544|industrial_engineering#0.673811435699|electrical_engineering#0.668933808804|civil_engineering#0.666047394276	mechanical_engineering#0.269818842411|electrical_engineering#0.249747991562|civil_engineering#0.248950853944|industrial_engineering#0.248886346817	aerospace_engineering|||aerospace|||engineering|||is_a
+fluid dynamics	fluid_mechanics#0.730782985687	fluid_mechanics#0.285626769066	fluid_dynamics|||fluid|||dynamics|||is_a
+latin american languages and societies			latin|||american|||languages|||and|||societies|||is_a
+growth and development			growth_and_development|||growth|||and|||development|||is_a
+european history			european|||history|||is_a
+meteorology	oceanography#0.683547735214|atmospheric_sciences#0.613813221455|geophysics#0.598316311836	oceanography#0.358671844006|atmospheric_sciences#0.335249602795|geophysics#0.318361341953	meteorology|||meteorology|||is_a
+os			os|||os|||is_a
+tribology	transport_phenomena#0.418641775846		tribology|||tribology|||is_a
+social anthropology	cultural_anthropology#0.74227386713|sociology#0.674672722816|linguistic_anthropology#0.587243974209	cultural_anthropology#0.255676299334|sociology#0.229474574327|linguistic_anthropology#0.200889721513	social_anthropology|||social|||anthropology|||is_a
+social history	intellectual_history#0.637831449509|cultural_history#0.629062056541|sociology#0.588950932026	intellectual_history#0.211269661784|cultural_history#0.206217423081	social_history|||social|||history|||is_a
+american studies			american|||studies|||is_a
+partial differential equations	ordinary_differential_equations#0.731875061989	ordinary_differential_equations#0.197300255299	partial_differential_equations|||partial|||differential|||equations|||is_a
+literature in english, british isles			literature|||in|||english|||british|||isles|||is_a
+discourse linguistics	sociolinguistics#0.678530573845|applied_linguistics#0.63343501091|pragmatics#0.584086120129	sociolinguistics#0.340652704239|applied_linguistics#0.319726347923	discourse|||linguistics|||is_a
+south and southeast asian languages and societies			south|||and|||southeast|||asian|||languages|||and|||societies|||is_a
+plant genetics	developmental_biology#0.640285909176|molecular_genetics#0.629440009594|molecular_biology#0.598700642586|virology#0.593394935131|genomics#0.593138694763|plant_breeding#0.56335747242	developmental_biology#0.226636648178|molecular_genetics#0.220528557897|molecular_biology#0.218329370022|genomics#0.213726937771|virology#0.209472864866	plant_genetics|||plant|||genetics|||is_a
+molecular genetics	molecular_biology#0.761646389961|cell_biology#0.742366909981|immunology#0.723568499088|developmental_biology#0.696561276913|genomics#0.675150215626|cancer_biology#0.660456061363|virology#0.655144691467	molecular_biology#0.30516397953|cell_biology#0.293067753315|immunology#0.281641513109|developmental_biology#0.263004750013|genomics#0.258563876152|cancer_biology#0.253166675568	molecular_genetics|||molecular|||genetics|||is_a
+structures and materials			structures_and_materials|||structures|||and|||materials|||is_a
+health psychology	developmental_psychology#0.647809445858|social_psychology#0.610586464405	developmental_psychology#0.218367040157	health_psychology|||health|||psychology|||is_a
+literature in english, north america			literature|||in|||english|||north|||america|||is_a
+fluid mechanics	fluid_dynamics#0.768360137939	fluid_dynamics#0.297339618206	fluid_mechanics|||fluid|||mechanics|||is_a
+phonetics	phonology#0.719963788986	phonology#0.367894083261	phonetics|||phonetics|||is_a
+regional sociology	urban_studies#0.569004178047|geography#0.556910276413	urban_studies#0.18109691143|geography#0.171285063028	regional_sociology|||regional|||sociology|||is_a
+medieval history	intellectual_history#0.618833720684|cultural_history#0.618774414062	intellectual_history#0.22200652957|cultural_history#0.219752565026	medieval_history|||medieval|||history|||is_a
+probability			probability|||probability|||is_a
+environmental sciences	science#0.633542239666|geography#0.548369884491|ecology#0.544633030891	science#0.22344404459|environmental_chemistry#0.193407922983	environmental_sciences|||environmental|||sciences|||is_a
+behavioral neurobiology	neuroscience#0.655651092529|cognitive_neuroscience#0.60865598917	neuroscience#0.217543661594|cognitive_neuroscience#0.202488929033	behavioral_neurobiology|||behavioral|||neurobiology|||is_a
+evolutionary physiology	genetics#0.644647359848|behavioral_ecology#0.570097982883|developmental_biology#0.569830060005	genetics#0.195748999715|behavioral_ecology#0.180327117443	evolutionary_physiology|||evolutionary|||physiology|||is_a
+nutritional epidemiology	immunology#0.555950641632|microbiology#0.5426222682	immunology#0.186917036772|microbiology#0.185642659664	nutritional_epidemiology|||nutritional|||epidemiology|||is_a
+statistical methodology	analysis#0.613683581352	analysis#0.221531525254	statistical_methodology|||statistical|||methodology|||is_a
+computer engineering	electrical_engineering#0.679067790508|industrial_engineering#0.677164971828|mechanical_engineering#0.673753142357|civil_engineering#0.62971508503|computer_science#0.623855233192	electrical_engineering#0.257863938808|mechanical_engineering#0.255094885826|industrial_engineering#0.254825979471|computer_science#0.247641891241|civil_engineering#0.236614570022	computer_engineering|||computer|||engineering|||is_a
+ergonomics	biomechanics#0.502098381519	biomechanics#0.294729739428	ergonomics|||ergonomics|||is_a
+international economics	industrial_organization#0.653280317783|macroeconomics#0.64306885004|labor_economics#0.632380187511	industrial_organization#0.235762655735|macroeconomics#0.217825427651|labor_economics#0.215353384614	international_economics|||international|||economics|||is_a
+materials science	engineering#0.623843431473	engineering#0.229564726353	materials_science|||materials|||science|||is_a
+fresh water studies		aquaculture_and_fisheries#0.147456482053	fresh|||water|||studies|||is_a
+bioelectrical and neuroengineering			and|||is_a
+social psychology	developmental_psychology#0.73993653059|health_psychology#0.595987260342	developmental_psychology#0.263650506735	social_psychology|||social|||psychology|||is_a
+american art and architecture history	cultural_history#0.511721074581	cultural_history#0.0619903169572	american|||art|||and|||architecture|||history|||is_a
+religious thought	religion#0.633471548557	religion#0.197289079428	religious_thought|||religious|||thought|||is_a
+developmental psychology	social_psychology#0.71834897995|cognitive_psychology#0.682523131371|cognitive_neuroscience#0.641939640045|neuroscience#0.638375759125	social_psychology#0.255488485098|cognitive_psychology#0.25143250823|cognitive_neuroscience#0.243528231978|neuroscience#0.242419183254	developmental_psychology|||developmental|||psychology|||is_a
+french and francophone literature			french|||and|||francophone|||literature|||is_a
+linguistics	applied_linguistics#0.701364815235|sociolinguistics#0.664395809174	applied_linguistics#0.395907104015|sociolinguistics#0.378478109837	linguistics|||linguistics|||is_a
+playwriting			playwriting|||playwriting|||is_a
+contemporary art history	cultural_history#0.624852776527	cultural_history#0.135055333376	contemporary_art_history|||contemporary|||art|||history|||is_a
+manufacturing			manufacturing|||manufacturing|||is_a
+language documentation	syntax#0.548666238785	syntax#0.184622019529	language_documentation|||language|||documentation|||is_a
+optics			optics|||optics|||is_a
+developmental biology	genetics#0.687244951725|molecular_biology#0.65792709589|cell_biology#0.650855243206|cancer_biology#0.606896042824	genetics#0.25283536315|molecular_biology#0.250514239073|cell_biology#0.244276314974	developmental_biology|||developmental|||biology|||is_a
+ocean engineering	earth_science#0.569022655487|environmental_engineering#0.554805338383|oceanography#0.549922287464	earth_science#0.192746967077	ocean_engineering|||ocean|||engineering|||is_a
+applied mathematics	computer_science#0.600360751152|physics#0.519480288029	computer_science#0.219900816679|physics#0.188632711768	applied_mathematics|||applied|||mathematics|||is_a
+computational biology	structural_biology#0.613745510578|molecular_biology#0.540775954723	structural_biology#0.235830888152	computational_biology|||computational|||biology|||is_a
+plant science	animal_science#0.605783760548|food_science#0.538231134415|microbiology#0.534203410149	animal_science#0.211515784264|food_science#0.186308503151|microbiology#0.185270965099	plant_science|||plant|||science|||is_a
+inequality and stratification			inequality_and_stratification|||inequality|||and|||stratification|||is_a
+history of science, technology, and medicine	geography#0.469074904919		history_of_science__technology__and_medicine|||history|||of|||science|||technology|||and|||medicine|||is_a
+plant breeding			plant_breeding|||plant|||breeding|||is_a
+quantum physics			quantum_physics|||quantum|||physics|||is_a
+performance studies	music#0.518963158131	music#0.168689697981	performance_studies|||performance|||studies|||is_a
+german language and literature			german|||language|||and|||literature|||is_a
+microbial physiology	microbiology#0.586922824383|molecular_biology#0.571513056755|genetics#0.56805819273|cell_biology#0.560884177685	microbiology#0.206191077828|molecular_biology#0.200708881021|cell_biology#0.195339038968|genetics#0.190543889999	microbial_physiology|||microbial|||physiology|||is_a
+geometry and topology	number_theory#0.546268939972		geometry_and_topology|||geometry|||and|||topology|||is_a
+cognitive neuroscience	cognitive_psychology#0.72649371624|computational_neuroscience#0.695434272289	cognitive_psychology#0.290260672569|computational_neuroscience#0.2794944942	cognitive_neuroscience|||cognitive|||neuroscience|||is_a
+history of religions of western origin			history|||of|||religions|||of|||western|||origin|||is_a
+virology	immunology#0.681694209576|microbiology#0.678654670715|molecular_genetics#0.651273190975|molecular_biology#0.61201775074|cell_biology#0.577871382236	microbiology#0.381867796183|immunology#0.376801908016|molecular_biology#0.350935578346|molecular_genetics#0.350541502237|cell_biology#0.332148164511	virology|||virology|||is_a
+biomedical	life_science#0.477910131216	life_science#0.309620469809	biomedical|||biomedical|||is_a
+political science	social_science#0.59130012989|international_relations#0.58215034008|sociology#0.575718581676|public_administration#0.547181963921|geography#0.547063887119	social_science#0.192341297865|international_relations#0.186185374856|sociology#0.179421305656|public_administration#0.178193077445|geography#0.176738068461	political_science|||political|||science|||is_a
+air traffic control			air_traffic_control|||air|||traffic|||control|||is_a
+dynamical systems			dynamical_systems|||dynamical|||systems|||is_a
+digital circuits			digital_circuits|||digital|||circuits|||is_a
+numerical analysis			numerical_analysis|||numerical|||analysis|||is_a
+biotransport			is_a
+philosophy	philosophy_of_science#0.641806721687|philosophy_of_religion#0.614417552948|philosophy_of_language#0.60328155756|metaphysics#0.578795671463	philosophy_of_language#0.322765499353|philosophy_of_science#0.319792062044	philosophy|||philosophy|||is_a
+public relations/advertising	public_affairs#0.557332038879	public_affairs#0.180839061737	public|||relations|||advertising|||is_a
+rural sociology	political_science#0.54626095295|urban_studies#0.526227176189|anthropology#0.509610891342|economics#0.493351727724	political_science#0.174520179629|urban_studies#0.172168076038|anthropology#0.159742459655	rural_sociology|||rural|||sociology|||is_a
+united states history			united|||states|||history|||is_a
+toxicology	pharmacology#0.630582630634|microbiology#0.536321878433|immunology#0.509323656559	pharmacology#0.352997422218|microbiology#0.321483045816	toxicology|||toxicology|||is_a
+applied statistics	econometrics#0.5314052701	econometrics#0.186404436827	applied_statistics|||applied|||statistics|||is_a
+theology			theology|||theology|||is_a
+electromagnetics			electromagnetics|||electromagnetics|||is_a
+politics and social change			politics_and_social_change|||politics|||and|||social|||change|||is_a
+plasma and beam physics	nuclear_physics#0.561516165733		plasma|||and|||beam|||physics|||is_a
+nature and society relations			nature|||and|||society|||relations|||is_a
+theatre			theatre|||theatre|||is_a
+broadcast studies			broadcast_studies|||broadcast|||studies|||is_a
+pulp/paper technology	food_processing#0.561486184597	food_processing#0.170914694667	pulp|||paper|||technology|||is_a
+american film studies			american|||film|||studies|||is_a
+phonology	phonetics#0.68732625246	phonetics#0.350841581821	phonology|||phonology|||is_a
+tectonics and structure	biogeochemistry#0.486637353897	biogeochemistry#0.146170407534	tectonics|||and|||structure|||is_a
+ethics			ethics|||ethics|||is_a
+terrestrial ecology	biogeochemistry#0.711004972458	biogeochemistry#0.262231677771	terrestrial_ecology|||terrestrial|||ecology|||is_a
+islamic world/near east history			islamic|||world|||near|||east|||history|||is_a
+number theory			number_theory|||number|||theory|||is_a
+external galaxies			external_galaxies|||external|||galaxies|||is_a
+race and ethnicity	gender_and_sexuality#0.644189298153	gender_and_sexuality#0.121912114322	race_and_ethnicity|||race|||and|||ethnicity|||is_a
+electrical and electronics	engineering#0.533905804157		electrical_and_electronics|||electrical|||and|||electronics|||is_a
+food science	animal_science#0.620599031448|nutrition#0.581185698509	animal_science#0.228781357408|nutrition#0.197754636407	food_science|||food|||science|||is_a
+applied mechanics	materials_science#0.660590827465|fluid_mechanics#0.563549339771|physics#0.562744259834|fluid_dynamics#0.540627658367|applied_mathematics#0.535046637058|engineering#0.528964221478	materials_science#0.225939109921|physics#0.193743184209|fluid_mechanics#0.19071367383|fluid_dynamics#0.185172647238|engineering#0.184218987823|applied_mathematics#0.183647871017	applied_mechanics|||applied|||mechanics|||is_a
+interpersonal/small group communication			interpersonal|||small|||group|||communication|||is_a
+dramatic literature, criticism and theory			dramatic|||literature|||criticism|||and|||theory|||is_a
+literature in english, north america, ethnic and minority			literature|||in|||english|||north|||america|||ethnic|||and|||minority|||is_a
+international relations	comparative_politics#0.564999520779		international_relations|||international|||relations|||is_a
+epidemiology	biostatistics#0.655634880066	biostatistics#0.361716061831	epidemiology|||epidemiology|||is_a
+logic and foundations			logic_and_foundations|||logic|||and|||foundations|||is_a
+physical and environmental geography	ecology#0.615309894085	ecology#0.12679554522	physical|||and|||environmental|||geography|||is_a
+women’s history	cultural_history#0.486398160458		history|||is_a
+public affairs	public_policy#0.658147931099	public_policy#0.248110249639	public_affairs|||public|||affairs|||is_a
+ethics and political philosophy	political_theory#0.598606944084	political_theory#0.0684521719813	ethics_and_political_philosophy|||ethics|||and|||political|||philosophy|||is_a
+agricultural and resource economics	animal_science#0.507384598255|ecology#0.507047593594|plant_pathology#0.505258202553|environmental_sciences#0.497612297535	ecology#0.0556917525828|animal_science#0.055361431092|environmental_sciences#0.0552548654377|plant_pathology#0.0547526068985	agricultural_and_resource_economics|||agricultural|||and|||resource|||economics|||is_a
+microbiology	immunology#0.65163564682|biochemistry#0.630433499813|cell_biology#0.619322240353|molecular_biology#0.605449914932|virology#0.597721815109|pharmacology#0.577125906944|parasitology#0.564286828041|bacteriology#0.559512138367	immunology#0.377199649811|biochemistry#0.366144955158|cell_biology#0.364368349314|molecular_biology#0.361260473728|virology#0.339916646481|pharmacology#0.335560590029	microbiology|||microbiology|||is_a
+systems and integrative engineering			systems|||and|||integrative|||engineering|||is_a
+language description	syntax#0.544404149055	syntax#0.192276120186	language_description|||language|||description|||is_a
+spanish literature			spanish|||literature|||is_a
+behavioral ecology	evolutionary_ecology#0.601767659187	evolutionary_ecology#0.205109640956	behavioral_ecology|||behavioral|||ecology|||is_a
+astrophysics and astronomy	physics#0.575457930565|nuclear_physics#0.506009578705	physics#0.103069253266	astrophysics_and_astronomy|||astrophysics|||and|||astronomy|||is_a
+community psychology	developmental_psychology#0.607254743576|health_psychology#0.606703341007|social_psychology#0.578810453415|clinical_psychology#0.553048968315	developmental_psychology#0.188862368464|health_psychology#0.188160911202|clinical_psychology#0.172867953777	community_psychology|||community|||psychology|||is_a
+pharmacology	toxicology#0.645397126675|microbiology#0.634660422802|biochemistry#0.622918307781|immunology#0.573426067829|pathology#0.547909140587|physiology#0.540545046329	microbiology#0.364839702845|toxicology#0.360650420189|biochemistry#0.352753102779|immunology#0.331025421619|pathology#0.319726228714	pharmacology|||pharmacology|||is_a
+biological engineering	materials_science#0.554004430771	materials_science#0.197334960103	biological_engineering|||biological|||engineering|||is_a
+public economics	international_economics#0.658604860306|labor_economics#0.645265042782|industrial_organization#0.614451289177	international_economics#0.220202326775|labor_economics#0.207005023956|industrial_organization#0.205827966332	public_economics|||public|||economics|||is_a
+models and methods			models_and_methods|||models|||and|||methods|||is_a
+food chemistry	food_science#0.652270674706|analytical_chemistry#0.578007638454|human_nutrition#0.553057610989|microbiology#0.55111438036	food_science#0.222802639008|analytical_chemistry#0.197952494025|microbiology#0.19074614346|pharmaceutics#0.185843169689	food_chemistry|||food|||chemistry|||is_a
+genomics		computational_biology#0.353273838758	genomics|||genomics|||is_a
+german linguistics			german|||linguistics|||is_a
+polymer chemistry	physical_chemistry#0.654354691505|materials_chemistry#0.646676063538	materials_chemistry#0.258960902691|physical_chemistry#0.245718583465	polymer_chemistry|||polymer|||chemistry|||is_a
+family, life course, and society			family|||life|||course|||and|||society|||is_a
+political theory	comparative_politics#0.646309673786|international_relations#0.617041826248	comparative_politics#0.201953008771|international_relations#0.197630673647	political_theory|||political|||theory|||is_a
+labor economics	international_economics#0.738161623478|industrial_organization#0.71127307415|macroeconomics#0.685058474541	international_economics#0.280868560076|industrial_organization#0.270093679428|macroeconomics#0.24630343914	labor_economics|||labor|||economics|||is_a
+agronomy	animal_science#0.593292653561|botany#0.588689267635|horticulture#0.556048333645|plant_pathology#0.549736917019	animal_science#0.34049141407|botany#0.32617610693|horticulture#0.303418397903	agronomy|||agronomy|||is_a
+cultural history	intellectual_history#0.638753294945	intellectual_history#0.233567133546	cultural_history|||cultural|||history|||is_a
+cognition and perception	cognitive_neuroscience#0.596096992493	cognitive_neuroscience#0.108478426933	cognition_and_perception|||cognition|||and|||perception|||is_a
+dynamics/dynamical systems			dynamics|||dynamical|||systems|||is_a
+elementary particles and fields and string theory			elementary|||particles|||and|||fields|||and|||string|||theory|||is_a
+applied linguistics	sociolinguistics#0.617044508457|psycholinguistics#0.573891282082|computational_linguistics#0.548628389835	sociolinguistics#0.195347175002|psycholinguistics#0.186071276665|computational_linguistics#0.183432593942	applied_linguistics|||applied|||linguistics|||is_a
+environmental health	public_health#0.670855820179	public_health#0.240274697542	environmental_health|||environmental|||health|||is_a
+engineering science	physical_science#0.558439850807|environmental_engineering#0.53968757391|computer_engineering#0.536000132561	physical_science#0.211131215096	engineering_science|||engineering|||science|||is_a
+information systems			information_systems|||information|||systems|||is_a
+american material culture			american|||material|||culture|||is_a
+public policy	public_administration#0.594912707806		public_policy|||public|||policy|||is_a
+wood science	animal_science#0.555153250694|food_science#0.489184170961	animal_science#0.185807213187|food_science#0.165027409792	wood_science|||wood|||science|||is_a
+developmental neuroscience	cognitive_neuroscience#0.744278550148	cognitive_neuroscience#0.278502523899	developmental_neuroscience|||developmental|||neuroscience|||is_a
+rhetoric and composition	music_theory#0.574864029884|music#0.522676408291	music_theory#0.0994030758739|music#0.0899608656764	rhetoric_and_composition|||rhetoric|||and|||composition|||is_a
+community nutrition			community_nutrition|||community|||nutrition|||is_a
+french and francophone language and literature			french|||and|||francophone|||language|||and|||literature|||is_a
+econometrics	industrial_organization#0.620745778084|macroeconomics#0.594756543636|economics#0.540842533112	industrial_organization#0.348554909229|macroeconomics#0.319643199444	econometrics|||econometrics|||is_a
+food biotechnology	food_microbiology#0.668607473373|food_processing#0.62276506424|food_science#0.615488052368	food_microbiology#0.251750975847|food_science#0.231419891119|food_processing#0.228690192103	food_biotechnology|||food|||biotechnology|||is_a
+biophysics	biochemistry#0.595897674561|physics#0.58217138052|chemistry#0.548111736774	biochemistry#0.338892430067|physics#0.333923101425|chemistry#0.315553963184	biophysics|||biophysics|||is_a
+social control, law, crime, and deviance			social|||control|||law|||crime|||and|||deviance|||is_a
+astronomy and astrophysics	physics#0.635215997696|nuclear_physics#0.591569304466	physics#0.131708577275|nuclear_physics#0.12045802176	astronomy_and_astrophysics|||astronomy|||and|||astrophysics|||is_a
+structural materials			structural_materials|||structural|||materials|||is_a
+kinesiology	exercise_physiology#0.632186412811|biomechanics#0.513279855251	exercise_physiology#0.357750624418|biomechanical_engineering#0.306280076504|biomechanics#0.304049879313	kinesiology|||kinesiology|||is_a
+pharmaceutics			pharmaceutics|||pharmaceutics|||is_a
+work, economy and organizations			work|||economy|||and|||organizations|||is_a
+social psychology and interaction			social|||psychology|||and|||interaction|||is_a
+biomechanical engineering	mechanical_engineering#0.471402972937|materials_science#0.455649316311		biomechanical_engineering|||biomechanical|||engineering|||is_a
+construction engineering/management	systems_engineering#0.597507476807|industrial_engineering#0.574273109436	systems_engineering#0.219044566154	construction|||engineering|||management|||is_a
+african history	cultural_history#0.556540906429		african|||history|||is_a
+endocrinology			endocrinology|||endocrinology|||is_a
+geophysics	atmospheric_sciences#0.661906301975|seismology#0.647298514843|oceanography#0.635441184044|glaciology#0.613819181919	atmospheric_sciences#0.360667109489|oceanography#0.34248226881|glaciology#0.328836143017	geophysics|||geophysics|||is_a
+structural biology	computational_biology#0.614143908024|molecular_biology#0.604985058308|cell_biology#0.604961574078|biochemistry#0.592409551144	computational_biology#0.217819407582|molecular_biology#0.20825047791|cell_biology#0.208185628057|biochemistry#0.203472092748	structural_biology|||structural|||biology|||is_a
+electronic devices and semiconductor manufacturing			electronic|||devices|||and|||semiconductor|||manufacturing|||is_a
+soil science	environmental_sciences#0.545890390873	environmental_sciences#0.194608569145	soil_science|||soil|||science|||is_a
+science	physical_science#0.583561122417	physical_science#0.348418295383	science|||science|||is_a
+intellectual history	cultural_history#0.696981847286	cultural_history#0.240885064006	intellectual_history|||intellectual|||history|||is_a
+mass communication			mass_communication|||mass|||communication|||is_a
+gender, race, sexuality, and ethnicity in communication	gender_and_sexuality#0.667703092098	gender_and_sexuality#0.0335572697222	gender|||race|||sexuality|||and|||ethnicity|||in|||communication|||is_a
+immunology	cell_biology#0.694227159023|microbiology#0.681533813477|molecular_biology#0.675121068954|cancer_biology#0.648437738419|virology#0.629663348198|molecular_genetics#0.61696511507	cell_biology#0.39594078064|microbiology#0.393220603466|molecular_biology#0.390604048967|cancer_biology#0.36923032999	immunology|||immunology|||is_a
+life science	physical_science#0.607381939888|earth_science#0.462263047695	physical_science#0.205290496349	life_science|||life|||science|||is_a
+english language and literature	linguistics#0.585856199265	linguistics#0.120599843562	english|||language|||and|||literature|||is_a
+human nutrition			human_nutrition|||human|||nutrition|||is_a
+power and energy	energy_systems#0.505271673203	energy_systems#0.100282587111	power_and_energy|||power|||and|||energy|||is_a
+comparative nutrition			comparative_nutrition|||comparative|||nutrition|||is_a
+place and environment			place|||and|||environment|||is_a
+networks			networks|||networks|||is_a
+engineering mechanics	mechanical_engineering#0.68745547533|materials_science#0.683245480061|civil_engineering#0.661704838276|industrial_engineering#0.651666164398|aerospace_engineering#0.631036877632	materials_science#0.250263571739|mechanical_engineering#0.245880961418|civil_engineering#0.235180318356|industrial_engineering#0.228041678667|electrical_engineering#0.221732124686	engineering_mechanics|||engineering|||mechanics|||is_a
+clinical psychology	developmental_psychology#0.682546436787|health_psychology#0.637210547924|social_psychology#0.612265110016	developmental_psychology#0.237895563245|health_psychology#0.217106282711	clinical_psychology|||clinical|||psychology|||is_a
+byzantine and modern greek			byzantine|||and|||modern|||greek|||is_a
+statistical theory			statistical_theory|||statistical|||theory|||is_a
+ordinary differential equations	partial_differential_equations#0.744596660137	partial_differential_equations#0.211007773876	ordinary_differential_equations|||ordinary|||differential|||equations|||is_a
+industrial organization			industrial_organization|||industrial|||organization|||is_a
+materials chemistry	materials_science#0.679619729519	materials_science#0.256110668182	materials_chemistry|||materials|||chemistry|||is_a
+syntax			syntax|||syntax|||is_a
+photonics			photonics|||photonics|||is_a
+diplomatic history	intellectual_history#0.643196642399	intellectual_history#0.212355837226|international_relations#0.178891167045	diplomatic_history|||diplomatic|||history|||is_a
+exercise physiology	kinesiology#0.665224015713|biomechanics#0.662416398525	biomechanics#0.235976740718|kinesiology#0.230322405696	exercise_physiology|||exercise|||physiology|||is_a
+classics			classics|||classics|||is_a
+civil engineering	environmental_engineering#0.765917897224|mechanical_engineering#0.737406492233|electrical_engineering#0.705222010612|industrial_engineering#0.694426953793|chemical_engineering#0.690180242062|structural_engineering#0.669381678104	environmental_engineering#0.306116223335|mechanical_engineering#0.290279984474|electrical_engineering#0.274471700191|chemical_engineering#0.270911097527|industrial_engineering#0.266075581312|structural_engineering#0.261992961168	civil_engineering|||civil|||engineering|||is_a
+archaeological			archaeological|||archaeological|||is_a
+journalism studies	mass_communication#0.49125957489|international_relations#0.482399910688|political_science#0.480163514614|comparative_literature#0.466636300087	international_relations#0.157846733928|political_science#0.157599806786	journalism_studies|||journalism|||studies|||is_a
+personality and social contexts			personality|||and|||social|||contexts|||is_a
+molecular, cellular, and tissue engineering	cell_biology#0.577064573765|molecular_biology#0.555024862289	cell_biology#0.0741547048092	molecular|||cellular|||and|||tissue|||engineering|||is_a
+cosmology, relativity, and gravity		nuclear_physics#0.112775355577	cosmology|||relativity|||and|||gravity|||is_a
+algebraic geometry	number_theory#0.673379719257	number_theory#0.263639181852	algebraic_geometry|||algebraic|||geometry|||is_a
+instrumentation			instrumentation|||instrumentation|||is_a
+international and intercultural communication			international_and_intercultural_communication|||international|||and|||intercultural|||communication|||is_a
+engineering	civil_engineering#0.632012069225|industrial_engineering#0.631111800671|mechanical_engineering#0.621364653111|environmental_engineering#0.598560988903|systems_engineering#0.580080926418	civil_engineering#0.358697265387|mechanical_engineering#0.353069812059|industrial_engineering#0.352974534035	engineering|||engineering|||is_a
+earth science	physical_science#0.603818237782|atmospheric_sciences#0.559125900269	physical_science#0.21221460402	earth_science|||earth|||science|||is_a
+multidisciplinary design optimization			multidisciplinary_design_optimization|||multidisciplinary|||design|||optimization|||is_a
+evolutionary ecology	behavioral_ecology#0.699491143227	behavioral_ecology#0.263994514942	evolutionary_ecology|||evolutionary|||ecology|||is_a
+oceanography	glaciology#0.644357860088|meteorology#0.635142922401|atmospheric_sciences#0.633499622345	atmospheric_sciences#0.351468354464|glaciology#0.344911843538	oceanography|||oceanography|||is_a
+neuroscience	cognitive_neuroscience#0.724788665771|cognitive_psychology#0.578423202038|computational_neuroscience#0.576882779598	cognitive_neuroscience#0.404811382294	neuroscience|||neuroscience|||is_a
+dairy science	animal_science#0.621862828732|food_science#0.57780611515	animal_science#0.208412930369|food_science#0.191671445966	dairy_science|||dairy|||science|||is_a
+biochemical and biomolecular engineering	materials_science#0.518541872501|chemistry#0.511322796345	chemistry#0.102718234062	biochemical|||and|||biomolecular|||engineering|||is_a
+geography	human_geography#0.618557453156	human_geography#0.337044656277	geography|||geography|||is_a
+ancient, medieval, renaissance and baroque art and architecture	history#0.610062539577|cultural_history#0.538960039616|music#0.520406007767	history#0.0224779266864|cultural_history#0.017672996968	ancient|||medieval|||renaissance|||and|||baroque|||art|||and|||architecture|||is_a
+comparative politics	political_theory#0.703429579735|international_relations#0.696493506432	international_relations#0.259711772203|political_theory#0.259008795023	comparative_politics|||comparative|||politics|||is_a
+public administration	public_policy#0.720279932022|public_affairs#0.62677949667	public_policy#0.257880777121|public_affairs#0.225389063358	public_administration|||public|||administration|||is_a
+vulcanology			vulcanology|||vulcanology|||is_a
+compilers			compilers|||compilers|||is_a
+comparative literature	history#0.61242377758	history#0.217955991626|linguistics#0.217201799154	comparative_literature|||comparative|||literature|||is_a
+first language acquisition	sociolinguistics#0.5120921731	sociolinguistics#0.101408436894	first_language_acquisition|||first|||language|||acquisition|||is_a
+latin american history			latin|||american|||history|||is_a
+cellular physiology	cell_biology#0.636743366718|molecular_biology#0.617775321007|biochemistry#0.615748763084|developmental_biology#0.584162592888|immunology#0.560417532921	cell_biology#0.216091901064|molecular_biology#0.212731271982|biochemistry#0.206690251827|developmental_biology#0.193341568112|immunology#0.190595671535	cellular_physiology|||cellular|||physiology|||is_a
+molecular biology	cell_biology#0.768376588821|biochemistry#0.71139806509|developmental_biology#0.675452411175|immunology#0.672496914864|structural_biology#0.662265598774|cancer_biology#0.64531058073	cell_biology#0.319869488478|biochemistry#0.289002686739|immunology#0.270583331585|developmental_biology#0.266590058804|structural_biology#0.265342652798	molecular_biology|||molecular|||biology|||is_a
+east asian languages and societies			east|||asian|||languages|||and|||societies|||is_a
+critical and cultural studies	anthropology#0.554122507572	anthropology#0.0616693273187	critical_and_cultural_studies|||critical|||and|||cultural|||studies|||is_a
+theatre history			theatre_history|||theatre|||history|||is_a
+zoology	botany#0.723352015018|entomology#0.59559905529|paleontology#0.572924137115	botany#0.401840299368|entomology#0.331616073847	zoology|||zoology|||is_a
+mechanical engineering	electrical_engineering#0.732646405697|industrial_engineering#0.722039222717|civil_engineering#0.717098772526|chemical_engineering#0.696322500706|aerospace_engineering#0.682514190674	electrical_engineering#0.288380712271|civil_engineering#0.282402843237|industrial_engineering#0.280765891075|chemical_engineering#0.274049580097|aerospace_engineering#0.262452036142	mechanical_engineering|||mechanical|||engineering|||is_a
+sociolinguistics	linguistics#0.690084338188|applied_linguistics#0.620445072651	linguistics#0.39227437973|applied_linguistics#0.35275515914	sociolinguistics|||sociolinguistics|||is_a
+gender and sexuality	race_and_ethnicity#0.575052857399		gender_and_sexuality|||gender|||and|||sexuality|||is_a
+non-linear dynamics			non_linear_dynamics|||non|||linear|||dynamics|||is_a
+cell biology	molecular_biology#0.806747794151|biochemistry#0.698689520359|developmental_biology#0.69079709053|cancer_biology#0.687582373619|immunology#0.66650313139|structural_biology#0.655874490738	molecular_biology#0.327840328217|biochemistry#0.269406765699|cancer_biology#0.26520627737|developmental_biology#0.260831952095|immunology#0.255474358797|structural_biology#0.25142031908	cell_biology|||cell|||biology|||is_a
+chemical engineering	mechanical_engineering#0.695992588997|electrical_engineering#0.657544016838|civil_engineering#0.646840751171|materials_science#0.629007101059|industrial_engineering#0.62726098299|environmental_engineering#0.621229767799	mechanical_engineering#0.25865188241|electrical_engineering#0.242950946093|materials_science#0.241396605968|civil_engineering#0.23761703074|environmental_engineering#0.231345027685|industrial_engineering#0.227737903595	chemical_engineering|||chemical|||engineering|||is_a
+literature in english, anglophone			literature|||in|||english|||anglophone|||is_a
+continental philosophy	philosophy_of_religion#0.646432161331|philosophy_of_language#0.596361756325	philosophy_of_religion#0.209628880024	continental_philosophy|||continental|||philosophy|||is_a
+behavioral economics	industrial_organization#0.569622397423|labor_economics#0.562203526497	industrial_organization#0.184101775289	behavioral_economics|||behavioral|||economics|||is_a
+forest management			forest_management|||forest|||management|||is_a
+industrial and organizational psychology			industrial_and_organizational_psychology|||industrial|||and|||organizational|||psychology|||is_a
+humanities	social_science#0.559734225273	social_science#0.310191184282	humanities|||humanities|||is_a
+european languages and societies			european|||languages|||and|||societies|||is_a
+animal science	food_science#0.579988241196	food_science#0.203156128526|physical_science#0.184631809592	animal_science|||animal|||science|||is_a
+slavic languages and societies			slavic|||languages|||and|||societies|||is_a
+theory and criticism history			theory|||and|||criticism|||history|||is_a
+space vehicles			space_vehicles|||space|||vehicles|||is_a
+african languages and societies			african|||languages|||and|||societies|||is_a
+control theory	dynamical_systems#0.548330187798		control_theory|||control|||theory|||is_a
+biochemistry	molecular_biology#0.698947608471|cell_biology#0.686574041843|microbiology#0.663227498531|chemistry#0.615738987923|immunology#0.598125815392|pharmacology#0.597355306149|plant_biology#0.5702663064	molecular_biology#0.402026593685|cell_biology#0.391500383615|microbiology#0.383450776339|chemistry#0.350897759199|immunology#0.34618550539|pharmacology#0.339778751135|plant_biology#0.337917864323	biochemistry|||biochemistry|||is_a
+forest biology	ecology#0.528136312962	animal_science#0.165589570999	forest_biology|||forest|||biology|||is_a
+sociology of culture	anthropology#0.648296952248|intellectual_history#0.572019577026|cultural_history#0.55802577734|history#0.550783991814|social_anthropology#0.537778377533|cultural_anthropology#0.536736011505	anthropology#0.127799287438|cultural_history#0.109560519457|intellectual_history#0.108467042446|history#0.104540377855|social_anthropology#0.102833919227	sociology_of_culture|||sociology|||of|||culture|||is_a
+poultry science	animal_science#0.56419634819|food_science#0.479791730642	animal_science#0.179504051805|food_science#0.154809251428	poultry_science|||poultry|||science|||is_a
+artificial intelligence			artificial_intelligence|||artificial|||intelligence|||is_a
+biometry			biometry|||biometry|||is_a
+psycholinguistics	sociolinguistics#0.618064165115|neurolinguistics#0.615314602852|linguistics#0.597915649414|applied_linguistics#0.578167140484|cognitive_psychology#0.554364621639	sociolinguistics#0.347315013409|linguistics#0.343143463135|applied_linguistics#0.329088419676|neurolinguistics#0.328608900309	psycholinguistics|||psycholinguistics|||is_a
+the sun and the solar system	graphics#0.48266273737	graphics#0.0381175391376	the|||sun|||and|||the|||solar|||system|||is_a
+public health	environmental_health#0.696515798569	environmental_health#0.257416903973	public_health|||public|||health|||is_a
+hardware systems			hardware_systems|||hardware|||systems|||is_a
+physics	nuclear_physics#0.662292420864	nuclear_physics#0.363707721233	physics|||physics|||is_a
+pathogenic microbiology	immunology#0.547725319862|virology#0.513819038868|cell_biology#0.498285055161|molecular_biology#0.498166590929|biochemistry#0.461687624454	immunology#0.280636042356|molecular_biology#0.267050147057|cell_biology#0.264266043901	pathogenic|||microbiology|||is_a
+latin american literature	history#0.571969926357	history#0.108559563756	latin_american_literature|||latin|||american|||literature|||is_a
+modern art and architecture history	geography#0.514194667339|cultural_history#0.503549039364	geography#0.0647196397185	modern|||art|||and|||architecture|||history|||is_a
+physiology	biochemistry#0.612832009792|pharmacology#0.581589460373|pathology#0.575628459454|genetics#0.550401031971	biochemistry#0.341299295425|pathology#0.325671225786|pharmacology#0.322746485472	physiology|||physiology|||is_a
+ceramic materials			ceramic_materials|||ceramic|||materials|||is_a
+polymer and organic materials			polymer|||and|||organic|||materials|||is_a
+ethnic studies			ethnic_studies|||ethnic|||studies|||is_a
+algebra			algebra|||algebra|||is_a
+networking			networking|||networking|||is_a
+philosophy of language	philosophy_of_science#0.60625910759|metaphysics#0.573954224586|philosophy_of_mind#0.570624172688|philosophy_of_religion#0.569873511791|linguistics#0.534564375877	linguistics#0.104886971414|philosophy_of_science#0.104591153562|metaphysics#0.103385515511|philosophy_of_religion#0.10018517822|philosophy_of_mind#0.0993389487267	philosophy_of_language|||philosophy|||of|||language|||is_a
+biomechanics	exercise_physiology#0.554208993912	exercise_physiology#0.328968554735	biomechanics|||biomechanics|||is_a
+computer architecture			computer_architecture|||computer|||architecture|||is_a
+near eastern languages and societies			near|||eastern|||languages|||and|||societies|||is_a
+molecular neuroscience	cognitive_neuroscience#0.566574692726|immunology#0.558434486389|molecular_biology#0.553531050682	molecular_biology#0.196355804801|immunology#0.195294171572|cognitive_neuroscience#0.191567704082	molecular_neuroscience|||molecular|||neuroscience|||is_a
+discrete mathematics and combinatorics			discrete_mathematics_and_combinatorics|||discrete|||mathematics|||and|||combinatorics|||is_a
+philosophy of religion	metaphysics#0.669031500816|philosophy_of_science#0.611860513687|history_of_philosophy#0.606523573399|continental_philosophy#0.594352781773|philosophy_of_language#0.592386424541|ancient_philosophy#0.567004144192	metaphysics#0.122547082603|history_of_philosophy#0.107531659305|philosophy_of_language#0.10685967654|continental_philosophy#0.106411427259|ancient_philosophy#0.106407307088	philosophy_of_religion|||philosophy|||of|||religion|||is_a
+immunology of infectious disease			immunology_of_infectious_disease|||immunology|||of|||infectious|||disease|||is_a
+genetics	developmental_biology#0.675895035267|molecular_genetics#0.665727257729|molecular_biology#0.655617058277|cell_biology#0.617893338203	molecular_biology#0.371184140444|developmental_biology#0.365029335022|molecular_genetics#0.356654912233|cell_biology#0.349974244833	genetics|||genetics|||is_a
+molecular nutrition	cell_biology#0.499067753553|molecular_biology#0.485439360142		molecular|||nutrition|||is_a
+robotics	artificial_intelligence#0.527000665665	artificial_intelligence#0.329021573067	robotics|||robotics|||is_a
+forest sciences	wood_science#0.436719357967		forest_sciences|||forest|||sciences|||is_a
+comparative and historical linguistics			comparative_and_historical_linguistics|||comparative|||and|||historical|||linguistics|||is_a
+molecular physiology	biochemistry#0.680634498596|cell_biology#0.64454138279|immunology#0.612051427364|molecular_biology#0.609230458736|biophysics#0.583671033382	biochemistry#0.240495115519|cell_biology#0.227919489145|molecular_biology#0.216621309519|immunology#0.214866757393|biophysics#0.201101914048	molecular_physiology|||molecular|||physiology|||is_a
+anthropology	cultural_anthropology#0.738047599792|social_anthropology#0.696695387363|sociology#0.614363968372	cultural_anthropology#0.391374439001|social_anthropology#0.371452510357|sociology#0.326209068298	anthropology|||anthropology|||is_a
+environmental microbiology	ecology#0.619266569614	ecology#0.20832207799	environmental_microbiology|||environmental|||microbiology|||is_a
+classical archaeology and art history	cultural_history#0.584439814091	cultural_history#0.042848393321	classical_archaeology_and_art_history|||classical|||archaeology|||and|||art|||history|||is_a
+computer science	engineering#0.613204181194|computer_engineering#0.557014763355	engineering#0.219516143203|computer_engineering#0.195673719049	computer_science|||computer|||science|||is_a
+mechanics of materials	materials_science#0.621305882931	materials_science#0.12099134922	mechanics_of_materials|||mechanics|||of|||materials|||is_a
+catalysis and reaction engineering	chemistry#0.542567610741	chemistry#0.056199517101	catalysis_and_reaction_engineering|||catalysis|||and|||reaction|||engineering|||is_a
+geology	geochemistry#0.602270364761|paleontology#0.599221229553	paleontology#0.327004313469	geology|||geology|||is_a
+human geography	ecology#0.528782427311	ecology#0.174233928323	human_geography|||human|||geography|||is_a
+motor control			motor_control|||motor|||control|||is_a
+asian history	intellectual_history#0.594315886497|cultural_history#0.569888710976	intellectual_history#0.306763708591	asian|||history|||is_a
+algorithms			algorithms|||algorithms|||is_a
+macroeconomics	international_economics#0.763596773148|labor_economics#0.651292383671|industrial_organization#0.642637133598	international_economics#0.408640921116|industrial_organization#0.355258077383	macroeconomics|||macroeconomics|||is_a
+typological linguistics	sociolinguistics#0.554149210453|applied_linguistics#0.510759592056	sociolinguistics#0.184396222234	typological_linguistics|||typological|||linguistics|||is_a
+neurolinguistics	psycholinguistics#0.66183501482|cognitive_neuroscience#0.544825553894|cognitive_psychology#0.508576214314	psycholinguistics#0.352177292109|cognitive_neuroscience#0.309555798769|cognitive_psychology#0.284840077162	neurolinguistics|||neurolinguistics|||is_a
+aerodynamics			aerodynamics|||aerodynamics|||is_a
+feminist philosophy	political_theory#0.666813194752|continental_philosophy#0.658081173897	political_theory#0.235063537955|continental_philosophy#0.221668437123	feminist_philosophy|||feminist|||philosophy|||is_a
+german literature			german_literature|||german|||literature|||is_a
+physical chemistry	inorganic_chemistry#0.653732538223|biochemistry#0.575654625893	inorganic_chemistry#0.21616987884	physical_chemistry|||physical|||chemistry|||is_a
+social science	sociology#0.518313705921|geography#0.504633665085		social_science|||social|||science|||is_a
+asian art and architecture history	cultural_history#0.574369549751	cultural_history#0.0707642883062	asian|||art|||and|||architecture|||history|||is_a
+inorganic chemistry	physical_chemistry#0.787869215012|organic_chemistry#0.736258387566|polymer_chemistry#0.649762094021|analytical_chemistry#0.64749789238	physical_chemistry#0.327124416828|organic_chemistry#0.307133346796|polymer_chemistry#0.265028357506|analytical_chemistry#0.264206439257	inorganic_chemistry|||inorganic|||chemistry|||is_a
+aeronautical vehicles			aeronautical_vehicles|||aeronautical|||vehicles|||is_a
+nutrition			nutrition|||nutrition|||is_a
+speech and rhetorical studies			speech_and_rhetorical_studies|||speech|||and|||rhetorical|||studies|||is_a
+feminist, gender and sexuality studies	gender_and_sexuality#0.666044712067	gender_and_sexuality#0.091435007751	feminist|||gender|||and|||sexuality|||studies|||is_a
+analytical chemistry	organic_chemistry#0.683385968208|inorganic_chemistry#0.682744085789|physical_chemistry#0.679065346718|medicinal_chemistry#0.603083312511|environmental_chemistry#0.595043480396|polymer_chemistry#0.588449537754	organic_chemistry#0.253336936235|inorganic_chemistry#0.246540993452|physical_chemistry#0.244893953204|environmental_chemistry#0.220236435533|medicinal_chemistry#0.219534128904	analytical_chemistry|||analytical|||chemistry|||is_a
+stars, interstellar medium and the galaxy			stars|||interstellar|||medium|||and|||the|||galaxy|||is_a
+cognitive psychology	cognitive_neuroscience#0.750629484653|developmental_psychology#0.749106287956|neuroscience#0.681029200554|social_psychology#0.673400044441	cognitive_neuroscience#0.284707903862|developmental_psychology#0.281212061644|neuroscience#0.256082296371	cognitive_psychology|||cognitive|||psychology|||is_a
+ethnomusicology	musicology#0.64943832159|music#0.640367329121|music_theory#0.569566726685|performance_studies#0.535961925983	music#0.354492902756|musicology#0.339676499367|music_theory#0.32261377573|performance_studies#0.305657923222	ethnomusicology|||ethnomusicology|||is_a
+systems and communications			systems_and_communications|||systems|||and|||communications|||is_a
+political history	intellectual_history#0.672378063202|cultural_history#0.635734856129|social_history#0.603145956993	intellectual_history#0.235016927123|cultural_history#0.218537181616	political_history|||political|||history|||is_a
+organic chemistry	inorganic_chemistry#0.774861812592|physical_chemistry#0.722712278366|polymer_chemistry#0.700973212719|analytical_chemistry#0.66869699955	inorganic_chemistry#0.298046141863|physical_chemistry#0.27539896965|polymer_chemistry#0.272599756718|analytical_chemistry#0.25749951601	organic_chemistry|||organic|||chemistry|||is_a
+history of religion	cultural_history#0.595415949821|intellectual_history#0.573903739452	cultural_history#0.113482236862|intellectual_history#0.105937421322	history_of_religion|||history|||of|||religion|||is_a
+multi-vehicle systems			multi|||vehicle|||systems|||is_a
+energy systems			energy_systems|||energy|||systems|||is_a
+botany	zoology#0.737919449806|entomology#0.633227646351|plant_pathology#0.556663870811|agronomy#0.52390062809	zoology#0.409907877445|entomology#0.345867395401	botany|||botany|||is_a
+pathology			pathology|||pathology|||is_a
+clinical nutrition			clinical_nutrition|||clinical|||nutrition|||is_a
+indo-european linguistics and philology			indo|||european|||linguistics|||and|||philology|||is_a
+geotechnical engineering	structural_engineering#0.662503957748|environmental_engineering#0.632001042366|civil_engineering#0.593925237656	structural_engineering#0.239645183086|environmental_engineering#0.224983736873|civil_engineering#0.209073245525	geotechnical_engineering|||geotechnical|||engineering|||is_a
+ancient philosophy	philosophy_of_religion#0.590976178646|history#0.579075932503|intellectual_history#0.573818325996|philosophy_of_science#0.572867333889|continental_philosophy#0.56163829565	intellectual_history#0.189575254917|history#0.185645073652|philosophy_of_religion#0.177672952414	ancient_philosophy|||ancient|||philosophy|||is_a
+music theory	musicology#0.563873231411|ethnomusicology#0.561882019043|composition#0.548106908798	ethnomusicology#0.167738884687	music_theory|||music|||theory|||is_a
+propulsion and power			propulsion_and_power|||propulsion|||and|||power|||is_a
+social influence and political communication			social|||influence|||and|||political|||communication|||is_a
+nuclear physics	condensed_matter_physics#0.662351191044	condensed_matter_physics#0.252612352371	nuclear_physics|||nuclear|||physics|||is_a
+graphics			graphics|||graphics|||is_a
+ecology	biogeochemistry#0.647339046001	biogeochemistry#0.360839128494	ecology|||ecology|||is_a
+genetic nutrition	genetics#0.494375020266		genetic|||nutrition|||is_a
+biological psychology	cognitive_psychology#0.623493850231|developmental_psychology#0.591403365135|social_psychology#0.560668051243	cognitive_psychology#0.1993586272|developmental_psychology#0.189894452691|neuroscience#0.187454149127	biological_psychology|||biological|||psychology|||is_a
+parasitology	microbiology#0.659556865692|immunology#0.632277071476|virology#0.566077768803|bacteriology#0.564833939075	microbiology#0.369849741459|immunology#0.3513648808|virology#0.312535524368|bacteriology#0.307298660278	parasitology|||parasitology|||is_a
+economic history	economics#0.617879629135|comparative_politics#0.582812726498	economics#0.200034201145|comparative_politics#0.194256782532	economic_history|||economic|||history|||is_a
+morphology			morphology|||morphology|||is_a
+classical literature and philology	history#0.55255395174	history#0.107117563486	classical|||literature|||and|||philology|||is_a
+semiconductor and optical materials			semiconductor|||and|||optical|||materials|||is_a
+biological and chemical physics	chemistry#0.625818014145	chemistry#0.133616864681	biological|||and|||chemical|||physics|||is_a
+geographic information sciences	information_systems#0.489642173052	information_systems#0.155245169997	geographic|||information|||sciences|||is_a
+scientific computing			scientific_computing|||scientific|||computing|||is_a
+human computer interfaces			human_computer_interfaces|||human|||computer|||interfaces|||is_a
+systems neuroscience	cognitive_neuroscience#0.65547811985|computational_neuroscience#0.608402788639	cognitive_neuroscience#0.205071821809|computational_neuroscience#0.192142605782	systems_neuroscience|||systems|||neuroscience|||is_a
+entomology	botany#0.678643941879|zoology#0.653932571411|plant_pathology#0.5710734725	botany#0.369415938854|zoology#0.361305296421	entomology|||entomology|||is_a

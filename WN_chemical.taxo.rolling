@@ -1,0 +1,1350 @@
+abo antibodies	immunoglobulin#0.601910591125|antibody#0.590391695499	immunoglobulin#0.30442404747|monoclonal_antibody#0.295480668545	abo|||antibodies|||is_a
+acaricide	insecticide#0.619506061077	insecticide#0.38207218051	acaricide|||acaricide|||is_a
+acaroid resin	synthetic_resin#0.529128670692	synthetic_resin#0.464314043522	resin|||is_a
+acceptor			acceptor|||acceptor|||is_a
+acetal	nitrile#0.557923555374|hemiacetal#0.554570019245|organic_compound#0.534106612206|ester#0.525461196899	organic_compound#0.336158752441|ester#0.322122484446|nitrile#0.321847259998|hemiacetal#0.321714639664	acetal|||acetal|||is_a
+acetaldehyde	acetic_acid#0.596846163273|furfural#0.584020793438|formic_acid#0.570320129395|formaldehyde#0.56640791893|acetone#0.550882697105|acetamide#0.53788214922	acetic_acid#0.32191157341|acetamide#0.318683981895|furfural#0.314702600241|formic_acid#0.303982526064	acetaldehyde|||acetaldehyde|||is_a
+acetaldol			is_a
+acetamide	pyridine#0.528381049633		acetamide|||acetamide|||is_a
+acetate	citrate#0.560412108898|ester#0.544641196728|acetic_acid#0.544397473335	ester#0.334961563349	acetate|||acetate|||is_a
+acetic acid	hydrochloric_acid#0.601080775261|phosphoric_acid#0.597004055977|propionic_acid#0.592900335789|butyric_acid#0.585270762444|oxalic_acid#0.582825362682	phosphoric_acid#0.22484190762|butyric_acid#0.22338989377|propionic_acid#0.22090639174|hydrochloric_acid#0.21882134676|anhydride#0.218735486269|oxalic_acid#0.218144804239	acetic_acid|||acetic|||acid|||is_a
+acetic anhydride	acetic_acid#0.621034443378|nitric_acid#0.601761996746|hydrochloric_acid#0.601636707783|ester#0.564865231514|aniline#0.561203300953|phosphoric_acid#0.55698788166	acetic_acid#0.217265129089|nitric_acid#0.214271321893|hydrochloric_acid#0.211830466986|ester#0.21057638526|phosphoric_acid#0.202420353889	acetic_anhydride|||acetic|||anhydride|||is_a
+acetin			acetin|||acetin|||is_a
+acetoacetic acid	butyric_acid#0.596469342709|propionic_acid#0.555636286736	butyric_acid#0.191607117653|propionic_acid#0.177100911736	acetoacetic_acid|||acetoacetic|||acid|||is_a
+acetone	ethyl_acetate#0.766368329525|toluene#0.660878539085|acetic_acid#0.660709559917	ethyl_acetate#0.40062263608	acetone|||acetone|||is_a
+acetum			acetum|||acetum|||is_a
+acetyl chloride	bromide#0.605106949806		acetyl_chloride|||acetyl|||chloride|||is_a
+acetylcholine	neurotransmitter#0.755687773228|serotonin#0.743672370911|dopamine#0.698408901691|noradrenaline#0.686326980591|histamine#0.685255765915	neurotransmitter#0.387291789055|serotonin#0.383924871683|histamine#0.365730583668|noradrenaline#0.35734757781|dopamine#0.351127028465	acetylcholine|||acetylcholine|||is_a
+acetylene	ethylene#0.603947460651|butane#0.601591467857|ethane#0.600689351559|calcium_carbide#0.548965930939	butane#0.315179467201|ethylene#0.312318235636|ethane#0.305558443069	acetylene|||acetylene|||is_a
+acid			acid|||acid|||is_a
+acrylamide	tetrafluoroethylene#0.431401610374|polyvinyl_chloride#0.430467426777		acrylamide|||acrylamide|||is_a
+acrylic	polyurethane#0.674113512039|polyester#0.653610825539	polyurethane#0.394992232323|polyester#0.381890833378	acrylic|||acrylic|||is_a
+actin	myosin#0.792052924633	myosin#0.38745123148	actin|||actin|||is_a
+actomyosin	myosin#0.504375696182|actin#0.494547754526	myosin#0.274768710136	actomyosin|||actomyosin|||is_a
+acyl anhydrides	carboxylic_acid#0.583495557308|amide#0.573676288128|ester#0.548028171062|amine#0.528112828732	ester#0.292743802071|amide#0.291032105684|carboxylic_acid#0.290347456932	acyl|||anhydrides|||is_a
+acyl halide	alkyl_halide#0.653479039669|amine#0.631342232227	alkyl_halide#0.234605565667|amine#0.225451231003	acyl_halide|||acyl|||halide|||is_a
+adduct			adduct|||adduct|||is_a
+adenine	guanine#0.815426111221|cytosine#0.814336121082|thymine#0.794711172581|uracil#0.778784871101|pyrimidine#0.668226420879|purine#0.658920824528	guanine#0.439562261105|cytosine#0.439179480076|thymine#0.430603682995|uracil#0.426875591278|pyrimidine#0.38080099225|purine#0.374312877655	adenine|||adenine|||is_a
+adenosine	nucleoside#0.672332704067|adenosine_deaminase#0.623131453991|inosine#0.594796419144|adenosine_monophosphate#0.594277620316	nucleoside#0.384329020977|adenosine_deaminase#0.363957315683|pyrophosphate#0.342864632607	adenosine|||adenosine|||is_a
+adenosine deaminase	nucleoside#0.65577340126|adenosine_monophosphate#0.627439260483|purine#0.597536385059	nucleoside#0.256455540657|adenosine_monophosphate#0.236808940768	adenosine_deaminase|||adenosine|||deaminase|||is_a
+adenosine diphosphate	pyrophosphate#0.731855034828	pyrophosphate#0.292078405619	adenosine_diphosphate|||adenosine|||diphosphate|||is_a
+adenosine monophosphate	nucleoside#0.714667856693|pyrophosphate#0.693508684635	nucleoside#0.300254881382|pyrophosphate#0.292007505894	adenosine_monophosphate|||adenosine|||monophosphate|||is_a
+adenosine triphosphate	nucleoside#0.719138383865|pyrophosphate#0.70713353157|adenosine_monophosphate#0.702401995659|adenosine_diphosphate#0.688247680664	nucleoside#0.283001542091|pyrophosphate#0.28197953105|adenosine_monophosphate#0.268230378628|adenosine_diphosphate#0.263142794371	adenosine_triphosphate|||adenosine|||triphosphate|||is_a
+agent orange	herbicide#0.508106946945		agent_orange|||agent|||orange|||is_a
+agglutinin	lectin#0.489145755768	lectin#0.305663853884	agglutinin|||agglutinin|||is_a
+alabaster			alabaster|||alabaster|||is_a
+alanine	valine#0.748085737228|glutamic_acid#0.729090690613|leucine#0.720108151436|arginine#0.713600993156|proline#0.704455673695|glutamine#0.698780596256|aspartic_acid#0.692263484001|serine#0.68969720602|glycine#0.670313239098|isoleucine#0.667609214783	valine#0.396134227514|glutamic_acid#0.395863950253|leucine#0.3887552917|serine#0.381298542023|arginine#0.377347320318|proline#0.373683303595|tyrosine#0.373621851206|amino_acid#0.371136009693|aspartic_acid#0.366176426411	alanine|||alanine|||is_a
+alar			alar|||alar|||is_a
+albumin	serum_albumin#0.754671633244|transferrin#0.625924885273|globulin#0.618023633957	serum_albumin#0.396790146828|globulin#0.353518247604|transferrin#0.348822057247|plasma_protein#0.343391478062	albumin|||albumin|||is_a
+aldehyde	ketone#0.694757223129|carboxylic_acid#0.617791473866|oxime#0.568103611469	ketone#0.360232114792|carboxylic_acid#0.333057314157|organic_compound#0.317088544369	aldehyde|||aldehyde|||is_a
+aldohexose	ketose#0.466051489115		aldohexose|||aldohexose|||is_a
+aldol	enamine#0.556117117405	enamine#0.306140959263	aldol|||aldol|||is_a
+aldose	ketose#0.709602057934|hexose#0.591975092888|monosaccharide#0.559454143047|aldohexose#0.489573299885	ketose#0.407360523939|hexose#0.359442681074|monosaccharide#0.33265593648|aldohexose#0.30630710721	aldose|||aldose|||is_a
+aleurone	pectin#0.509855985641|starch#0.472460359335	pectin#0.289780080318|starch#0.276149064302	aleurone|||aleurone|||is_a
+alicyclic compound	organic_compound#0.697023034096|aromatic_compound#0.580083370209	organic_compound#0.262009233236|aromatic_compound#0.211734116077	alicyclic_compound|||alicyclic|||compound|||is_a
+aliphatic compound	organic_compound#0.626447081566	organic_compound#0.219523698092	aliphatic_compound|||aliphatic|||compound|||is_a
+alkali	sodium_carbonate#0.573882997036	sodium_carbonate#0.339023470879	alkali|||alkali|||is_a
+alkaloid			alkaloid|||alkaloid|||is_a
+alkapton			alkapton|||alkapton|||is_a
+alkene			alkene|||alkene|||is_a
+alkyd	acrylic#0.598194599152|synthetic_resin#0.513930916786|epoxy#0.502843916416	acrylic#0.356106996536|synthetic_resin#0.326650410891	alkyd|||alkyd|||is_a
+alkyl halide	amine#0.653064191341	amine#0.253123164177	alkyl_halide|||alkyl|||halide|||is_a
+alkylbenzene	heterocyclic_compound#0.434001803398|organic_compound#0.415356695652	heterocyclic_compound#0.280172258615|organic_compound#0.274627685547	alkylbenzene|||alkylbenzene|||is_a
+alkylbenzenesulfonate			alkylbenzenesulfonate|||alkylbenzenesulfonate|||is_a
+allomorph			allomorph|||allomorph|||is_a
+allyl resin	epoxy#0.462992608547		allyl_resin|||allyl|||resin|||is_a
+almond oil	sesame_oil#0.727317512035|vegetable_oil#0.687229216099|olive_oil#0.683776438236|coconut_oil#0.679084658623|peanut_oil#0.658217430115	sesame_oil#0.275168955326|vegetable_oil#0.254695206881|olive_oil#0.253198504448|coconut_oil#0.246815592051	almond_oil|||almond|||oil|||is_a
+alpha globulin	glycoprotein#0.591843366623	glycoprotein#0.216381430626|protein#0.212648123503	alpha_globulin|||alpha|||globulin|||is_a
+alpha linolenic acid	linoleic_acid#0.66158246994	linoleic_acid#0.149901553988	alpha_linolenic_acid|||alpha|||linolenic|||acid|||is_a
+alpha naphthol			alpha_naphthol|||alpha|||naphthol|||is_a
+alum			alum|||alum|||is_a
+aluminate			aluminate|||aluminate|||is_a
+aluminum chloride	hydroxide#0.64025747776	hydroxide#0.227534011006	aluminum_chloride|||aluminum|||chloride|||is_a
+aluminum hydroxide			aluminum_hydroxide|||aluminum|||hydroxide|||is_a
+amber	copal#0.571148991585	copal#0.332948327065	amber|||amber|||is_a
+amide	amine#0.641387760639|ester#0.592809796333|carboxylic_acid#0.577175140381	amine#0.361745834351|ester#0.358600795269|carboxylic_acid#0.329605519772	amide|||amide|||is_a
+amine	amide#0.661318540573|isocyanate#0.56602191925	amide#0.372185438871|isocyanate#0.331133067608|carbamate#0.323241770267	amine|||amine|||is_a
+amino acid	glutamic_acid#0.611404001713|asparagine#0.577626883984|aspartic_acid#0.575532793999	glutamic_acid#0.212533280253	amino_acid|||amino|||acid|||is_a
+aminobenzoic acid			aminobenzoic_acid|||acid|||is_a
+ammine			ammine|||ammine|||is_a
+ammonia	urea#0.669297397137|ammonium#0.616060376167|hydrogen_chloride#0.565836727619|hydrogen_sulfide#0.550831198692	urea#0.359434306622|ammonium#0.333586335182|hydrogen_chloride#0.307103157043|hydrogen_sulfide#0.298839986324	ammonia|||ammonia|||is_a
+ammonium	nitrate#0.622533321381|sulfate#0.615226566792	sulfate#0.359698951244|nitrate#0.350717812777	ammonium|||ammonium|||is_a
+ammonium carbamate	oxalate#0.507160842419|carbamic_acid#0.501799464226	carbamic_acid#0.167612463236|oxalate#0.167456239462	ammonium_carbamate|||ammonium|||carbamate|||is_a
+ammonium carbonate	hydroxide#0.693538486958|sulfate#0.65127581358|potassium_carbonate#0.636968374252	hydroxide#0.265721797943|sulfate#0.246404007077|sodium_carbonate#0.233184158802	ammonium_carbonate|||ammonium|||carbonate|||is_a
+ammonium chloride	hydroxide#0.643768668175	hydroxide#0.247604906559	ammonium_chloride|||ammonium|||chloride|||is_a
+ammonium nitrate	potassium_nitrate#0.697573840618|sodium_nitrate#0.665230751038|chlorate#0.624818503857|ammonium_chloride#0.593795001507	potassium_nitrate#0.273942828178|sodium_nitrate#0.260883122683|chlorate#0.235169425607	ammonium_nitrate|||ammonium|||nitrate|||is_a
+amygdalin	alkaloid#0.490869373083	alkaloid#0.300909012556	amygdalin|||amygdalin|||is_a
+amylase	lipase#0.657085299492|invertase#0.610106945038	lipase#0.386947989464|protease#0.348691523075|invertase#0.346986889839	amylase|||amylase|||is_a
+amyloid			amyloid|||amyloid|||is_a
+androsterone	steroid#0.521770596504|sterol#0.467559963465	steroid#0.321482330561	androsterone|||androsterone|||is_a
+angiotensin converting enzyme			angiotensin_converting_enzyme|||angiotensin|||converting|||enzyme|||is_a
+anhydride	acid#0.560364663601|organic_compound#0.530849277973	acid#0.349333465099|organic_compound#0.345825582743	anhydride|||anhydride|||is_a
+aniline	phthalic_anhydride#0.586313426495|nitrobenzene#0.570927202702|pyridine#0.558968961239|acetic_anhydride#0.549349009991	phthalic_anhydride#0.329221218824|nitrobenzene#0.321678698063	aniline|||aniline|||is_a
+animal fat	lard#0.601598322392		animal_fat|||animal|||fat|||is_a
+animal oil			animal_oil|||animal|||oil|||is_a
+anime			anime|||anime|||is_a
+anionic compound	organic_compound#0.595042407513	organic_compound#0.320345878601	anionic|||compound|||is_a
+antibody	monoclonal_antibody#0.767629921436|immunoglobulin#0.680042684078	monoclonal_antibody#0.45028206706	antibody|||antibody|||is_a
+antihemophilic factor	interleukin#0.561364531517		antihemophilic_factor|||antihemophilic|||factor|||is_a
+antiknock			antiknock|||antiknock|||is_a
+antitoxin	antibody#0.620355665684|monoclonal_antibody#0.615461885929	monoclonal_antibody#0.360990047455|antibody#0.339492768049	antitoxin|||antitoxin|||is_a
+antivenin	monoclonal_antibody#0.511744499207	monoclonal_antibody#0.322369903326	antivenin|||antivenin|||is_a
+apoenzyme	enzyme#0.491855114698	enzyme#0.325207680464	apoenzyme|||apoenzyme|||is_a
+aqua regia			aqua_regia|||aqua|||regia|||is_a
+arginine	alanine#0.707469463348|lysine#0.696654975414|serine#0.685241520405|amino_acid#0.680084764957|glutamine#0.678622722626|glutamic_acid#0.675576150417|cysteine#0.673470497131|asparagine#0.67101329565|leucine#0.649584174156|valine#0.648993968964	amino_acid#0.380657196045|serine#0.380303561687|alanine#0.374075770378|glutamic_acid#0.371879428625|tyrosine#0.367570370436|asparagine#0.366045057774|lysine#0.365639925003|cysteine#0.3621109128|histidine#0.357798755169|leucine#0.357466936111	arginine|||arginine|||is_a
+aromatic compound	organic_compound#0.766107618809	organic_compound#0.33300152421	aromatic_compound|||aromatic|||compound|||is_a
+aromatic hydrocarbon	organic_compound#0.608413219452	organic_compound#0.240613862872	aromatic_hydrocarbon|||aromatic|||hydrocarbon|||is_a
+arrowroot	sago#0.64796769619	sago#0.370345920324	arrowroot|||arrowroot|||is_a
+arsenate	vanadate#0.561219990253		arsenate|||arsenate|||is_a
+arsenic	arsenical#0.620129942894	arsenical#0.372140973806	arsenic|||arsenic|||is_a
+arsenic acid	arsenical#0.547549962997	arsenical#0.195566564798	arsenic_acid|||arsenic|||acid|||is_a
+arsenical	arsenic#0.517522752285|paris_green#0.498319774866		arsenical|||arsenical|||is_a
+arsenide			arsenide|||arsenide|||is_a
+arum			arum|||arum|||is_a
+asafetida			asafetida|||asafetida|||is_a
+asparagine	glutamic_acid#0.692323625088|serine#0.654731273651|arginine#0.643840670586|aspartic_acid#0.636070609093|alanine#0.626434028149|leucine#0.623523116112|threonine#0.591823875904|amino_acid#0.591367125511|tyrosine#0.584810018539|phenylalanine#0.579532682896	glutamic_acid#0.384754985571|serine#0.370769619942|arginine#0.351927250624|leucine#0.350169956684|aspartic_acid#0.346997767687|tyrosine#0.345918267965|amino_acid#0.343617171049|alanine#0.342852652073|threonine#0.330594569445|phenylalanine#0.328331500292	asparagine|||asparagine|||is_a
+aspartic acid	glutamic_acid#0.70728456974|asparagine#0.634989261627|alanine#0.604065001011|leucine#0.58963406086|valine#0.588643491268	glutamic_acid#0.252693921328|asparagine#0.224206417799	aspartic_acid|||aspartic|||acid|||is_a
+aspirin			aspirin|||aspirin|||is_a
+aspirin powder			aspirin|||powder|||is_a
+atomic warhead	high_explosive#0.628834009171	high_explosive#0.188538968563	atomic_warhead|||atomic|||warhead|||is_a
+atrazine	herbicide#0.600942313671|lindane#0.493626326323	herbicide#0.348190486431	atrazine|||atrazine|||is_a
+atropine	scopolamine#0.720549464226|physostigmine#0.668773591518	scopolamine#0.361381232738	atropine|||atropine|||is_a
+attar	attar_of_roses#0.600058078766	attar_of_roses#0.352776348591	attar|||attar|||is_a
+attar of roses	beeswax#0.592968285084|myrrh#0.550816595554|balsam#0.542032122612|wax#0.525307834148|copal#0.51441937685	beeswax#0.143406242132|balsam#0.128035023808|wax#0.127135694027|myrrh#0.127022221684	attar_of_roses|||attar|||of|||roses|||is_a
+autoantibody	antibody#0.646007359028|monoclonal_antibody#0.570252299309|immunoglobulin_e#0.55948728323	antibody#0.356248885393|monoclonal_antibody#0.344589352608	autoantibody|||autoantibody|||is_a
+axle grease			axle_grease|||axle|||grease|||is_a
+azadirachtin	acaricide#0.45577737689	acaricide#0.280311852694	azadirachtin|||azadirachtin|||is_a
+azide	isocyanate#0.58174598217|amine#0.580752849579|phosphine#0.576823294163|amide#0.575416266918	isocyanate#0.332393050194|amide#0.326939016581	azide|||azide|||is_a
+babassu oil	coconut_oil#0.593216955662|vegetable_oil#0.55960303545|mineral_oil#0.540704786777	coconut_oil#0.199567750096|vegetable_oil#0.189753308892	babassu_oil|||babassu|||oil|||is_a
+bactericide			bactericide|||bactericide|||is_a
+bagasse	wood_pulp#0.572009801865	wood_pulp#0.326919108629	bagasse|||bagasse|||is_a
+balm	balsam#0.559938669205	balsam#0.340033441782	balm|||balm|||is_a
+balm of gilead	balsam#0.584634363651|mastic#0.5443790555|storax#0.543913185596	balsam#0.193762853742|storax#0.183327585459	balm|||of|||gilead|||is_a
+balsam	bdellium#0.640712320805	bdellium#0.388686597347	balsam|||balsam|||is_a
+balsam of peru			balsam|||of|||peru|||is_a
+banana oil	sesame_oil#0.59531134367	sesame_oil#0.198515281081	banana_oil|||banana|||oil|||is_a
+bar soap	laundry_detergent#0.653987586498|shampoo#0.593336343765	laundry_detergent#0.251182496548	bar_soap|||bar|||soap|||is_a
+barbituric acid	ester#0.55453068018|anhydride#0.525063276291|sorbic_acid#0.520313978195	ester#0.196799531579	barbituric_acid|||barbituric|||acid|||is_a
+barium sulphate			barium_sulphate|||barium|||sulphate|||is_a
+base			base|||base|||is_a
+base pair	cytosine#0.58658427|thymine#0.572669386864|adenine#0.565173685551|guanine#0.544922411442	cytosine#0.197008252144|thymine#0.192041635513|adenine#0.187613576651|guanine#0.183942347765	base_pair|||base|||pair|||is_a
+bath water	lye#0.598988234997|distilled_water#0.594264268875	lye#0.213285028934|distilled_water#0.208345413208	bath_water|||bath|||water|||is_a
+bathroom cleaner	shampoo#0.649547696114|detergent#0.588605761528|laundry_detergent#0.584248483181	shampoo#0.223879441619|detergent#0.20172509551|laundry_detergent#0.20067051053	bathroom_cleaner|||bathroom|||cleaner|||is_a
+battery acid			battery_acid|||battery|||acid|||is_a
+bayberry wax	beeswax#0.639478564262	beeswax#0.210980772972	bayberry_wax|||bayberry|||wax|||is_a
+bdellium	balsam#0.674011588097|storax#0.612634062767|myrrh#0.583235859871|benzoin#0.572945356369	balsam#0.406719684601|storax#0.371707439423	bdellium|||bdellium|||is_a
+beef tallow	lard#0.799163281918|suet#0.679368436337|animal_fat#0.655346095562	lard#0.323545217514|suet#0.267166614532	beef_tallow|||beef|||tallow|||is_a
+beeswax	wax#0.73568803072|tallow#0.627628266811|linseed_oil#0.59268540144	wax#0.429406732321|tallow#0.363372802734	beeswax|||beeswax|||is_a
+beet sugar	cane_sugar#0.780223190784	cane_sugar#0.282880842686	beet_sugar|||beet|||sugar|||is_a
+belladonna			belladonna|||belladonna|||is_a
+benzene	toluene#0.742354631424|naphthalene#0.674485087395|methylene_chloride#0.643162965775|nitrobenzene#0.642259001732|hexane#0.636534631252	toluene#0.38410821557|naphthalene#0.361795216799|methylene_chloride#0.350722581148	benzene|||benzene|||is_a
+benzene formula		organic_compound#0.337523937225	benzene|||formula|||is_a
+benzoate	benzoic_acid#0.642535865307	benzoic_acid#0.363045156002	benzoate|||benzoate|||is_a
+benzoate of soda	salt#0.52792352438	salt#0.100263223052	benzoate_of_soda|||benzoate|||of|||soda|||is_a
+benzofuran			benzofuran|||benzofuran|||is_a
+benzoic acid	hydroxybenzoic_acid#0.614909172058|propionic_acid#0.60965192318	propionic_acid#0.224261149764|hydroxybenzoic_acid#0.223672166467	benzoic_acid|||benzoic|||acid|||is_a
+benzoin	balsam#0.622476875782|camphor#0.603744089603|bdellium#0.571308791637|myrrh#0.559571325779|storax#0.558184027672	balsam#0.379661232233|camphor#0.356911540031|bdellium#0.348104387522|storax#0.344644159079|myrrh#0.33665445447	benzoin|||benzoin|||is_a
+benzoyl peroxide	boric_acid#0.482018560171		benzoyl_peroxide|||benzoyl|||peroxide|||is_a
+beta carotene	carotenoid#0.67762118578|lycopene#0.660599529743|zeaxanthin#0.591000258923	carotenoid#0.240350529552|lycopene#0.227796241641|zeaxanthin#0.207333728671	beta_carotene|||beta|||carotene|||is_a
+beta endorphin	enkephalin#0.59120196104	enkephalin#0.195345520973	beta_endorphin|||beta|||endorphin|||is_a
+beta hydroxybutyric acid			beta_hydroxybutyric_acid|||beta|||hydroxybutyric|||acid|||is_a
+beta naphthol			beta|||naphthol|||is_a
+betaine	sarcosine#0.498511821032		betaine|||betaine|||is_a
+bicarbonate	carbonic_acid#0.583067297935|sodium_chloride#0.550166010857	carbonic_acid#0.329298406839	bicarbonate|||bicarbonate|||is_a
+bicarbonate of soda	salt#0.59726279974|sodium_carbonate#0.55772870779|vinegar#0.545222580433|sodium_chloride#0.537903726101	salt#0.140359953046|sodium_carbonate#0.125360295177|vinegar#0.123471789062|sodium_chloride#0.117926470935	bicarbonate_of_soda|||bicarbonate|||of|||soda|||is_a
+bichromate			bichromate|||bichromate|||is_a
+bile acid			bile_acid|||bile|||acid|||is_a
+bile salt	bile_acid#0.520411550999	bile_acid#0.181417196989	bile_salt|||bile|||salt|||is_a
+bilge			bilge|||bilge|||is_a
+binary compound			binary_compound|||binary|||compound|||is_a
+bitartrate	tartrate#0.554313659668	tartrate#0.328167796135	bitartrate|||bitartrate|||is_a
+bitter almond oil			bitter_almond_oil|||bitter|||almond|||oil|||is_a
+bitter principle	alkaloid#0.512249350548	alkaloid#0.163700848818	bitter_principle|||bitter|||principle|||is_a
+bitumen	oil#0.575658798218	oil#0.338128656149	bitumen|||bitumen|||is_a
+blasting gelatin	gelignite#0.572137713432|nitroglycerin#0.492713660002|cordite#0.490909844637	gelignite#0.182350665331	blasting_gelatin|||blasting|||gelatin|||is_a
+blood sugar	glucose#0.577917873859	glucose#0.180479317904	blood_sugar|||blood|||sugar|||is_a
+blubber			blubber|||blubber|||is_a
+blue vitriol			blue_vitriol|||blue|||vitriol|||is_a
+bone fat			bone|||fat|||is_a
+bone oil			bone_oil|||bone|||oil|||is_a
+bonemeal			bonemeal|||bonemeal|||is_a
+borate	boric_acid#0.571400761604		borate|||borate|||is_a
+boric acid			boric_acid|||boric|||acid|||is_a
+boron trifluoride	trichloride#0.675432503223	trichloride#0.254433602095|oxide#0.252935528755	boron_trifluoride|||boron|||trifluoride|||is_a
+borosilicate	silicon_carbide#0.521620988846		borosilicate|||borosilicate|||is_a
+bouncing putty			bouncing_putty|||bouncing|||putty|||is_a
+bromic acid			bromic_acid|||bromic|||acid|||is_a
+bromide	chloride#0.766380429268|iodide#0.732582688332	chloride#0.426659673452|iodide#0.403456747532	bromide|||bromide|||is_a
+bromoform			bromoform|||bromoform|||is_a
+brucine	strychnine#0.480695843697	strychnine#0.291390448809	brucine|||brucine|||is_a
+buffer			buffer|||buffer|||is_a
+buffered aspirin			buffered_aspirin|||buffered|||aspirin|||is_a
+buna			buna|||buna|||is_a
+butadiene	styrene#0.72266715765|ethylene#0.622951924801	styrene#0.394085973501|ethylene#0.333585470915	butadiene|||butadiene|||is_a
+butane	naphtha#0.634758174419|liquefied_petroleum_gas#0.612665534019|ethane#0.587494313717	naphtha#0.352197229862|liquefied_petroleum_gas#0.337609827518	butane|||butane|||is_a
+butanone			butanone|||butanone|||is_a
+butterfat			butterfat|||butterfat|||is_a
+butyl rubber	neoprene#0.622908234596|nylon#0.598041892052|polyurethane#0.586065888405	neoprene#0.212481766939|nylon#0.20546169579	butyl_rubber|||butyl|||rubber|||is_a
+butyric acid	propionic_acid#0.60322868824|succinic_acid#0.554795563221|anhydride#0.553866386414	propionic_acid#0.223968580365	butyric_acid|||butyric|||acid|||is_a
+butyrin			butyrin|||butyrin|||is_a
+c reactive protein			c|||reactive|||protein|||is_a
+cacodyl			cacodyl|||cacodyl|||is_a
+cadaverine	putrescine#0.607708275318|tryptophan#0.444148153067	putrescine#0.334261417389	cadaverine|||cadaverine|||is_a
+cadmium sulfide			cadmium_sulfide|||cadmium|||sulfide|||is_a
+caffeine			caffeine|||caffeine|||is_a
+calamus oil			calamus|||oil|||is_a
+calcium bicarbonate	carbonate#0.636826097965|sodium_chloride#0.598969042301|calcium_carbonate#0.579534709454	carbonate#0.229696825147|sodium_chloride#0.2164940238	calcium_bicarbonate|||calcium|||bicarbonate|||is_a
+calcium carbide	nitride#0.621856272221|silicon_carbide#0.579106748104	nitride#0.212824210525	calcium_carbide|||calcium|||carbide|||is_a
+calcium carbonate		silicate#0.261466175318	calcium_carbonate|||calcium|||carbonate|||is_a
+calcium chloride	hydroxide#0.662199318409	hydroxide#0.254097312689	calcium_chloride|||calcium|||chloride|||is_a
+calcium cyanamide	ammonium#0.554523468018|calcium_nitrate#0.532940685749|potassium_nitrate#0.515980422497|nitrate#0.50388109684	ammonium#0.176261752844|calcium_nitrate#0.169921875|potassium_nitrate#0.167782753706	calcium_cyanamide|||calcium|||cyanamide|||is_a
+calcium hydride	hydroxide#0.554469227791		calcium_hydride|||calcium|||hydride|||is_a
+calcium hydroxide	carbonate#0.683446586132|magnesium_hydroxide#0.64129191637	carbonate#0.262738734484	calcium_hydroxide|||calcium|||hydroxide|||is_a
+calcium hypochlorite	sodium_hypochlorite#0.625148653984|sodium_chloride#0.60127222538|calcium_hydroxide#0.590954005718|calcium_chloride#0.587990283966|sodium_carbonate#0.587584614754	sodium_chloride#0.225916922092|sodium_hypochlorite#0.225513339043|calcium_hydroxide#0.222982466221	calcium_hypochlorite|||calcium|||hypochlorite|||is_a
+calcium ion			calcium_ion|||calcium|||ion|||is_a
+calcium lactate	calcium_phosphate#0.639859974384	calcium_phosphate#0.222207531333	calcium_lactate|||calcium|||lactate|||is_a
+calcium nitrate	potassium_nitrate#0.661730289459|ammonium#0.637453913689|sodium_nitrate#0.614642977715	potassium_nitrate#0.252825379372|ammonium#0.239353626966|sodium_nitrate#0.233446925879	calcium_nitrate|||calcium|||nitrate|||is_a
+calcium oxide			calcium_oxide|||calcium|||oxide|||is_a
+calcium phosphate	carbonate#0.563999176025		calcium_phosphate|||calcium|||phosphate|||is_a
+calcium stearate			calcium_stearate|||calcium|||stearate|||is_a
+calcium sulphate	sulfate#0.628880679607|carbonate#0.612567961216	sulfate#0.236048564315	calcium_sulphate|||calcium|||sulphate|||is_a
+calomel	magnesium_sulfate#0.491209894419		calomel|||calomel|||is_a
+camphor	benzoin#0.641894817352|essential_oil#0.591607093811	benzoin#0.376759558916|essential_oil#0.348366171122	camphor|||camphor|||is_a
+camphor oil	essential_oil#0.608766436577|turpentine#0.606082141399|mineral_oil#0.56716632843	essential_oil#0.220482319593|turpentine#0.21897688508	camphor_oil|||camphor|||oil|||is_a
+canada balsam	bdellium#0.553089380264		canada_balsam|||canada|||balsam|||is_a
+canavanine			canavanine|||canavanine|||is_a
+candelilla wax	beeswax#0.618564367294|spermaceti#0.522011578083|whale_oil#0.503985404968	beeswax#0.179647907615|spermaceti#0.16053467989|whale_oil#0.153742820024	candelilla_wax|||candelilla|||wax|||is_a
+cane sugar			cane_sugar|||cane|||sugar|||is_a
+cannabin			is_a
+cannon cracker			cannon|||cracker|||is_a
+canola oil	soybean_oil#0.791576206684|sunflower_oil#0.764591395855|peanut_oil#0.759849131107|vegetable_oil#0.750611364841|corn_oil#0.731913506985|coconut_oil#0.731888949871|safflower_oil#0.704806625843	soybean_oil#0.318818300962|sunflower_oil#0.303995460272|peanut_oil#0.302129805088|vegetable_oil#0.301612198353|coconut_oil#0.286195456982|corn_oil#0.284127295017	canola_oil|||canola|||oil|||is_a
+capric acid	stearic_acid#0.625788271427|myristic_acid#0.591045379639	stearic_acid#0.233886301517|myristic_acid#0.222063094378	capric_acid|||capric|||acid|||is_a
+caproic acid	stearic_acid#0.537078142166|myristic_acid#0.535387694836	ester#0.180505052209	caproic_acid|||caproic|||acid|||is_a
+caprylic acid	stearic_acid#0.577691912651|myristic_acid#0.534029245377	stearic_acid#0.193324416876	caprylic_acid|||caprylic|||acid|||is_a
+capsid			capsid|||capsid|||is_a
+carbamate			carbamate|||carbamate|||is_a
+carbamic acid	anhydride#0.559369683266|ester#0.554491758347|organic_compound#0.542959988117	organic_compound#0.312437087297|ester#0.309539884329|anhydride#0.306548506021	carbamic_acid|||acid|||is_a
+carbide	silicon_carbide#0.721706628799|nitride#0.704106926918	silicon_carbide#0.399781674147|nitride#0.39272621274	carbide|||carbide|||is_a
+carbohydrate	oligosaccharide#0.601995944977|polysaccharide#0.551691293716	oligosaccharide#0.350245833397|polysaccharide#0.33081060648	carbohydrate|||carbohydrate|||is_a
+carbolic acid	salicylic_acid#0.476985931396	salicylic_acid#0.15625564754	carbolic_acid|||carbolic|||acid|||is_a
+carbon dioxide	trioxide#0.649589419365|monoxide#0.61379134655|sulfur_dioxide#0.562649965286	trioxide#0.221563503146|monoxide#0.211427107453|tetroxide#0.183062851429|sulfur_dioxide#0.181343793869	carbon_dioxide|||carbon|||dioxide|||is_a
+carbon disulfide	monoxide#0.555256485939|oxide#0.499137639999	monoxide#0.174854367971|oxide#0.161224171519	carbon_disulfide|||carbon|||disulfide|||is_a
+carbon monoxide	trioxide#0.665406525135	trioxide#0.231438919902	carbon_monoxide|||carbon|||monoxide|||is_a
+carbon tetrachloride	monoxide#0.597020745277|trioxide#0.581880807877|tetroxide#0.555212676525	monoxide#0.187000051141|trioxide#0.182083398104|tetroxide#0.174776732922	carbon_tetrachloride|||carbon|||tetrachloride|||is_a
+carbon tetrahalide	binary_compound#0.503989577293	binary_compound#0.269132763147	carbon|||tetrahalide|||is_a
+carbonate	hydroxide#0.646571099758|silicate#0.626249372959	hydroxide#0.37792173028|silicate#0.369587987661	carbonate|||carbonate|||is_a
+carbonic acid	anhydride#0.531013071537|phosphoric_acid#0.511308431625	anhydride#0.184040650725|phosphoric_acid#0.175346717238	carbonic_acid|||carbonic|||acid|||is_a
+carbonyl	alkene#0.596691548824		carbonyl|||carbonyl|||is_a
+carboxylic acid	ester#0.686226069927|anhydride#0.628797411919|propionic_acid#0.611833274364	ester#0.264304697514|anhydride#0.237040087581	carboxylic_acid|||carboxylic|||acid|||is_a
+carboxymethyl cellulose	pectin#0.578400552273|polysaccharide#0.550033926964	pectin#0.193907678127|polysaccharide#0.193035066128	carboxymethyl_cellulose|||carboxymethyl|||cellulose|||is_a
+cardiac glycoside	digitoxin#0.55446100235		cardiac_glycoside|||cardiac|||glycoside|||is_a
+carnauba wax	beeswax#0.708870053291|lanolin#0.626368641853|linseed_oil#0.578253209591|paraffin#0.561169981956|mineral_oil#0.558723211288	beeswax#0.272556036711|lanolin#0.242271274328|linseed_oil#0.219544962049|mineral_oil#0.212076246738|paraffin#0.211317464709	carnauba_wax|||carnauba|||wax|||is_a
+carotene	carotenoid#0.695555746555|beta_carotene#0.688423454762|lycopene#0.673476755619|zeaxanthin#0.602596640587	carotenoid#0.399676471949|beta_carotene#0.392691969872|lycopene#0.381347864866|zeaxanthin#0.352329134941	carotene|||carotene|||is_a
+carotenoid	carotene#0.715106904507|beta_carotene#0.667598903179|lycopene#0.606276869774|zeaxanthin#0.591765463352|xanthophyll#0.563475966454	carotene#0.410455644131|beta_carotene#0.378933310509|lycopene#0.346505880356|zeaxanthin#0.344281345606	carotenoid|||carotenoid|||is_a
+carrier			carrier|||carrier|||is_a
+casein	gelatin#0.578293323517	gelatin#0.335030525923	casein|||casein|||is_a
+caspase			caspase|||caspase|||is_a
+cassava			cassava|||cassava|||is_a
+castile soap	bar_soap#0.550696372986	bar_soap#0.192166894674	castile_soap|||castile|||soap|||is_a
+catalase	oxidase#0.616714417934|peroxidase#0.60574811697	oxidase#0.376350939274|peroxidase#0.362232476473	catalase|||catalase|||is_a
+catechin	glucoside#0.636109352112|flavonoid#0.618453085423	flavone#0.367771625519|flavonoid#0.358315706253|glucoside#0.354577749968	catechin|||catechin|||is_a
+catherine wheel			catherine_wheel|||catherine|||wheel|||is_a
+caustic			caustic|||caustic|||is_a
+cellulose	lignin#0.652171254158|cellulose_acetate#0.589044690132|chitin#0.563251852989|polysaccharide#0.551321387291|cellulose_nitrate#0.549679160118	lignin#0.355617672205|polysaccharide#0.331531554461|cellulose_acetate#0.331144958735	cellulose|||cellulose|||is_a
+cellulose acetate	cellulose_nitrate#0.649660766125|cellulose_triacetate#0.591811478138	cellulose_nitrate#0.232401862741|cellulose_triacetate#0.212963119149	cellulose_acetate|||cellulose|||acetate|||is_a
+cellulose ester	cellulose_acetate#0.573057711124	cellulose_acetate#0.175383329391	cellulose_ester|||cellulose|||ester|||is_a
+cellulose nitrate	cellulose_acetate#0.632195413113|cellulose_triacetate#0.50859951973	cellulose_acetate#0.201499134302|cellulose_triacetate#0.171943441033	cellulose_nitrate|||cellulose|||nitrate|||is_a
+cellulose triacetate	cellulose_acetate#0.722587645054|cellulose_nitrate#0.642373204231	cellulose_acetate#0.258579224348|cellulose_nitrate#0.231320127845	cellulose_triacetate|||cellulose|||triacetate|||is_a
+cellulose xanthate	cellulose_acetate#0.479538291693		cellulose_xanthate|||cellulose|||xanthate|||is_a
+cementite	carbide#0.532759845257		cementite|||cementite|||is_a
+ceresin			ceresin|||ceresin|||is_a
+cerotic acid			cerotic_acid|||cerotic|||acid|||is_a
+cerumen			cerumen|||cerumen|||is_a
+chabazite	natrolite#0.686569273472|heulandite#0.620399415493	natrolite#0.397827506065|heulandite#0.366041272879	chabazite|||chabazite|||is_a
+charge			charge|||charge|||is_a
+chaulmoogra oil	clove_oil#0.48231819272	clove_oil#0.156271517277|cod_liver_oil#0.154339715838	chaulmoogra_oil|||chaulmoogra|||oil|||is_a
+chelate			chelate|||chelate|||is_a
+cherry bomb	high_explosive#0.532715559006		cherry_bomb|||cherry|||bomb|||is_a
+chert			chert|||chert|||is_a
+chian turpentine	balsam#0.532304823399|mastic#0.525326907635	balsam#0.294576376677	chian|||turpentine|||is_a
+chicken manure			chicken_manure|||chicken|||manure|||is_a
+chitin	polysaccharide#0.646783232689|hyaluronic_acid#0.573040723801|cellulose#0.56769990921	polysaccharide#0.37669223547|hyaluronic_acid#0.33876016736	chitin|||chitin|||is_a
+chlorate	potassium_chlorate#0.612541377544|nitrate#0.603196978569|potassium_nitrate#0.556430518627|fulminate#0.552994012833	potassium_chlorate#0.345735579729|nitrate#0.338086992502|fulminate#0.327334433794	chlorate|||chlorate|||is_a
+chloric acid	anhydride#0.537565410137	anhydride#0.179796442389	chloric_acid|||chloric|||acid|||is_a
+chloride	bromide#0.719451487064|iodide#0.677626550198|trichloride#0.655089557171	bromide#0.40041655302|trichloride#0.387467056513	chloride|||chloride|||is_a
+chlorine dioxide	trioxide#0.669246315956|hydrogen_chloride#0.607479155064|sulfur_dioxide#0.590888082981|hydrofluoric_acid#0.590769648552|nitrogen_dioxide#0.589277088642|monoxide#0.588465869427	trioxide#0.247969165444|monoxide#0.217405363917|hydrogen_chloride#0.21342125535|hydrofluoric_acid#0.212369829416|nitrogen_dioxide#0.209668010473|sulfur_dioxide#0.208493992686	chlorine_dioxide|||chlorine|||dioxide|||is_a
+chlorobenzene	nitrobenzene#0.541326880455	nitrobenzene#0.306635081768	chlorobenzene|||chlorobenzene|||is_a
+chlorofluorocarbon	freon#0.576208114624|halocarbon#0.518160283566	freon#0.337780475616|halocarbon#0.321813493967	chlorofluorocarbon|||chlorofluorocarbon|||is_a
+chloroform	carbon_tetrachloride#0.702874779701|methylene_chloride#0.661153495312|toluene#0.606573581696|hexane#0.603894770145|acetone#0.601211428642|ether#0.593897402287|ethyl_acetate#0.590152144432	carbon_tetrachloride#0.353840470314|methylene_chloride#0.350489646196|hexane#0.322450578213|ethyl_acetate#0.319568544626|toluene#0.318964004517	chloroform|||chloroform|||is_a
+chloropicrin	methyl_bromide#0.514630973339		chloropicrin|||chloropicrin|||is_a
+chloroprene			chloroprene|||chloroprene|||is_a
+chlorous acid			chlorous_acid|||acid|||is_a
+chlorpromazine			chlorpromazine|||chlorpromazine|||is_a
+chlorpyrifos	malathion#0.698698818684|lindane#0.656972825527|parathion#0.599232256413|organophosphate#0.595713376999	malathion#0.362146377563|lindane#0.344985067844|organophosphate#0.322231680155|insecticide#0.320846736431	chlorpyrifos|||chlorpyrifos|||is_a
+chokedamp			chokedamp|||chokedamp|||is_a
+cholesterol	lipid#0.662136614323|lipoprotein#0.655820190907|sterol#0.621976912022	lipid#0.374271720648|sterol#0.362873524427|lipoprotein#0.362705826759|phospholipid#0.3518460989	cholesterol|||cholesterol|||is_a
+cholic acid	bile_acid#0.589037299156	bile_acid#0.205544143915	cholic_acid|||cholic|||acid|||is_a
+cholinesterase			cholinesterase|||cholinesterase|||is_a
+chondrin			chondrin|||chondrin|||is_a
+christmas factor			christmas|||factor|||is_a
+chromate			chromate|||chromate|||is_a
+chrome alum			chrome_alum|||chrome|||alum|||is_a
+chromic acid	potassium_permanganate#0.556516110897|potassium_dichromate#0.550169944763|hydrochloric_acid#0.539587974548|hydrobromic_acid#0.53867405653	potassium_permanganate#0.203568503261|potassium_dichromate#0.199559852481	chromic_acid|||chromic|||acid|||is_a
+chromogen			chromogen|||chromogen|||is_a
+cinchonine	alkaloid#0.488874346018	alkaloid#0.316696673632	cinchonine|||cinchonine|||is_a
+citrate	oxalate#0.570451080799|acetate#0.549423575401|lactate#0.50921869278|tartrate#0.496578842402	oxalate#0.336811333895|acetate#0.325496375561|tartrate#0.307739883661	citrate|||citrate|||is_a
+citric acid	tartaric_acid#0.600582361221|lactic_acid#0.589449167252|fumaric_acid#0.572283029556|sorbic_acid#0.566959261894	tartaric_acid#0.227705687284|lactic_acid#0.220119282603	citric_acid|||citric|||acid|||is_a
+citrulline	ornithine#0.660480260849|arginine#0.570923030376|glutamine#0.531785130501	ornithine#0.36040815711|arginine#0.315454751253	citrulline|||citrulline|||is_a
+cleansing agent	conditioner#0.597388982773	conditioner#0.223395437002	cleansing_agent|||cleansing|||agent|||is_a
+clove oil	essential_oil#0.635726571083	essential_oil#0.23329500854	clove_oil|||clove|||oil|||is_a
+cluster of differentiation 4			cluster|||of|||differentiation|||is_a
+cluster of differentiation 8			cluster|||of|||differentiation|||is_a
+coagulase			coagulase|||coagulase|||is_a
+coagulation factor	thrombin#0.632213056087|fibrinogen#0.61609429121	thrombin#0.23593467474	coagulation_factor|||coagulation|||factor|||is_a
+coal tar	naphtha#0.623886942863|turpentine#0.615287959576|oil#0.612893044949|bitumen#0.602754235268|petroleum#0.591904401779	oil#0.232977241278|naphtha#0.232174366713|turpentine#0.231040969491|bitumen#0.222052693367	coal_tar|||coal|||tar|||is_a
+cocoa butter	vegetable_oil#0.705440163612	vegetable_oil#0.293503463268	cocoa_butter|||cocoa|||butter|||is_a
+coconut oil	vegetable_oil#0.788682639599|sesame_oil#0.754232704639|olive_oil#0.724668800831|cooking_oil#0.710588574409|sunflower_oil#0.705863893032|peanut_oil#0.68749409914|canola_oil#0.679874122143	vegetable_oil#0.329778760672|sesame_oil#0.313572227955|olive_oil#0.295492321253|cooking_oil#0.287672847509|sunflower_oil#0.282659113407	coconut_oil|||coconut|||oil|||is_a
+cod liver oil	olive_oil#0.586521208286|coconut_oil#0.569029927254|lard#0.559092342854|cooking_oil#0.550123333931	olive_oil#0.11256249249|lard#0.111692972481	cod_liver_oil|||cod|||liver|||oil|||is_a
+cod oil	olive_oil#0.51336812973		cod_oil|||cod|||oil|||is_a
+cofactor			cofactor|||cofactor|||is_a
+cohune nut oil	vegetable_oil#0.592074930668	vegetable_oil#0.206966295838	cohune|||nut|||oil|||is_a
+collagen	elastin#0.69944280386|fibrin#0.621498227119|hyaluronic_acid#0.620875060558	elastin#0.371194511652|hyaluronic_acid#0.358649909496|fibrin#0.34294757247	collagen|||collagen|||is_a
+collagenase	protease#0.595092654228	protease#0.3651676476	collagenase|||collagenase|||is_a
+colophony	balsam#0.454242199659		colophony|||colophony|||is_a
+complement			complement|||complement|||is_a
+complementary dna	nucleic_acid#0.753005087376	nucleic_acid#0.289906531572	complementary_dna|||complementary|||dna|||is_a
+complex			complex|||complex|||is_a
+compound	organic_compound#0.710892796516	organic_compound#0.478985369205	compound|||compound|||is_a
+condensate			condensate|||condensate|||is_a
+conditioner	shampoo#0.656862974167	shampoo#0.392680287361	conditioner|||conditioner|||is_a
+congener			congener|||congener|||is_a
+congo copal			congo|||copal|||is_a
+conjugated protein			conjugated_protein|||conjugated|||protein|||is_a
+cooking oil	vegetable_oil#0.808140993118|olive_oil#0.712975859642|sesame_oil#0.708101689816|coconut_oil#0.682868182659|lard#0.675640881062	vegetable_oil#0.330461770296|sesame_oil#0.28303027153|olive_oil#0.282162755728|lard#0.264892160892|coconut_oil#0.263341367245	cooking_oil|||cooking|||oil|||is_a
+copaiba	oleoresin#0.563646554947|balsam#0.54850846529	oleoresin#0.335982471704|balsam#0.333765655756	copaiba|||copaiba|||is_a
+copal	storax#0.653157353401|myrrh#0.650152385235|mastic#0.642416357994|balsam#0.604932844639	storax#0.390255659819|mastic#0.384250670671|myrrh#0.377939611673|balsam#0.368011683226	copal|||copal|||is_a
+copalite			copalite|||copalite|||is_a
+copolymer	polymer#0.669623792171|styrene#0.650283336639	polymer#0.387867599726|styrene#0.375993400812	copolymer|||copolymer|||is_a
+copper oxide			copper_oxide|||copper|||oxide|||is_a
+copper sulfate	sulfide#0.685660898685	sulfide#0.274744719267	copper_sulfate|||copper|||sulfate|||is_a
+cordite	smokeless_powder#0.736508846283|gunpowder#0.701219499111	smokeless_powder#0.404401272535|gunpowder#0.381880640984|high_explosive#0.363691866398	cordite|||cordite|||is_a
+corn gluten			corn_gluten|||corn|||gluten|||is_a
+corn oil	vegetable_oil#0.793606877327|soybean_oil#0.748278081417|sunflower_oil#0.747466683388|peanut_oil#0.741315066814|sesame_oil#0.735145151615|coconut_oil#0.734135448933|canola_oil#0.723506867886	vegetable_oil#0.306235313416|soybean_oil#0.281369566917|sesame_oil#0.280931651592|sunflower_oil#0.278207480907|peanut_oil#0.276600062847|coconut_oil#0.272162944078	corn_oil|||corn|||oil|||is_a
+corn sugar	cane_sugar#0.663362026215|cornstarch#0.649811804295	cane_sugar#0.224573627114|cornstarch#0.219246804714	corn_sugar|||corn|||sugar|||is_a
+cornstarch	starch#0.624623775482		cornstarch|||cornstarch|||is_a
+corrosive	caustic#0.535382986069		corrosive|||corrosive|||is_a
+cortisone	steroid#0.667280435562	steroid#0.393792957067	cortisone|||cortisone|||is_a
+costus oil			costus|||oil|||is_a
+cottonseed oil	soybean_oil#0.755302369595|coconut_oil#0.722200870514|vegetable_oil#0.72166788578|canola_oil#0.68496209383|sunflower_oil#0.677832007408|peanut_oil#0.673850476742|corn_oil#0.669962882996	soybean_oil#0.301650822163|vegetable_oil#0.287118136883|coconut_oil#0.281374365091|canola_oil#0.266165107489|sunflower_oil#0.263877183199|peanut_oil#0.263604491949	cottonseed_oil|||cottonseed|||oil|||is_a
+courbaril copal	balsam#0.618268668652	balsam#0.350535392761	courbaril|||copal|||is_a
+cow manure	horse_manure#0.637524008751		cow_manure|||cow|||manure|||is_a
+cracklings	lard#0.598336517811		cracklings|||cracklings|||is_a
+crazy glue			crazy_glue|||crazy|||glue|||is_a
+cream of tartar	salt#0.588014364243	salt#0.142492339015	cream_of_tartar|||cream|||of|||tartar|||is_a
+creatine	taurine#0.499065607786		creatine|||creatine|||is_a
+creosol			creosol|||creosol|||is_a
+creosote	coal_tar#0.574018955231|turpentine#0.517749130726|balsam#0.493910878897	coal_tar#0.320401281118|turpentine#0.304017484188|balsam#0.302613317966	creosote|||creosote|||is_a
+cresol	phenol#0.517569065094		cresol|||cresol|||is_a
+croton oil			croton_oil|||croton|||oil|||is_a
+cutch			cutch|||cutch|||is_a
+cyanamide	cyanohydrin#0.485590040684	cyanohydrin#0.292551696301	cyanamide|||cyanamide|||is_a
+cyanic acid	tartaric_acid#0.52276211977|oxalic_acid#0.500605404377	tartaric_acid#0.158644631505|oxalic_acid#0.154051572084	cyanic_acid|||cyanic|||acid|||is_a
+cyanide	potassium_cyanide#0.656754791737|sodium_cyanide#0.611856281757|hydrogen_cyanide#0.528688967228|arsenic#0.519805073738	potassium_cyanide#0.337035626173|sodium_cyanide#0.332244038582|arsenic#0.296114832163	cyanide|||cyanide|||is_a
+cyanohydrin		organic_compound#0.301294624805	cyanohydrin|||cyanohydrin|||is_a
+cyanuric acid			cyanuric_acid|||acid|||is_a
+cyclohexanol phthalate			cyclohexanol|||phthalate|||is_a
+cyclooxygenase			cyclooxygenase|||cyclooxygenase|||is_a
+cyclooxygenase 1		enzyme#0.462066829205	cyclooxygenase|||is_a
+cyclooxygenase 2		enzyme#0.462066829205	cyclooxygenase|||is_a
+cymene	thymol#0.594370901585	thymol#0.343306571245	cymene|||cymene|||is_a
+cysteine	serine#0.74938338995|amino_acid#0.679339766502|methionine#0.667286872864|arginine#0.667017996311|threonine#0.666584312916|histidine#0.666331231594|leucine#0.634258151054|lysine#0.62758398056|alanine#0.62506788969	serine#0.412650108337|amino_acid#0.381497621536|histidine#0.368008673191|threonine#0.360091298819|arginine#0.358746141195|methionine#0.356986582279|tyrosine#0.356516927481|leucine#0.351644724607|alanine#0.339058101177	cysteine|||cysteine|||is_a
+cystine	cysteine#0.629947900772|ornithine#0.541066646576|methionine#0.537498056889|serine#0.534178435802|amino_acid#0.532558560371|alanine#0.531290411949|arginine#0.51453846693|histidine#0.514285504818|phenylalanine#0.491274923086	cysteine#0.342433512211|amino_acid#0.312900274992|serine#0.311631828547|ornithine#0.309444576502|methionine#0.301062911749|histidine#0.300018548965|alanine#0.298869401217|arginine#0.293296694756	cystine|||cystine|||is_a
+cytochrome	oxidase#0.63815933466|reductase#0.633702993393|cytochrome_c#0.628853738308|flavin#0.573206365108	oxidase#0.383496373892|reductase#0.38224413991|cytochrome_c#0.350956022739	cytochrome|||cytochrome|||is_a
+cytochrome c	reductase#0.657877802849|oxidase#0.617249011993|oxidoreductase#0.603271365166	reductase#0.228064805269|oxidoreductase#0.212941914797|oxidase#0.208423420787	cytochrome_c|||cytochrome|||c|||is_a
+cytokine	interleukin#0.766738712788	interleukin#0.449288845062|tumor_necrosis_factor#0.39961117506	cytokine|||cytokine|||is_a
+cytosine	thymine#0.823022842407|guanine#0.784211277962|adenine#0.783241033554|uracil#0.760123193264|pyrimidine#0.660766601562|purine#0.652920246124	thymine#0.451814413071|guanine#0.430425047874|uracil#0.423815995455|adenine#0.421371072531|pyrimidine#0.382492214441|purine#0.37661793828	cytosine|||cytosine|||is_a
+dammar	balsam#0.495501250029	balsam#0.314410090446	dammar|||dammar|||is_a
+de iodinase			de|||is_a
+decarboxylase			decarboxylase|||decarboxylase|||is_a
+defoliant	agent_orange#0.6321169734|insecticide#0.539868891239|pesticide#0.496057778597|dioxin#0.489740729332|herbicide#0.480019211769	agent_orange#0.349785864353|insecticide#0.326640367508|herbicide#0.297040581703	defoliant|||defoliant|||is_a
+demerara			demerara|||demerara|||is_a
+dentifrice	toothpaste#0.565530359745	toothpaste#0.347514033318	dentifrice|||dentifrice|||is_a
+deoxyadenosine	deoxyguanosine#0.560580849648|nucleoside#0.557778298855|uracil#0.499330729246	deoxyguanosine#0.346838653088|nucleoside#0.343931943178	deoxyadenosine|||deoxyadenosine|||is_a
+deoxyadenosine monophosphate	deoxyguanosine#0.63922226429|nucleoside#0.608632087708	deoxyguanosine#0.2222481668|nucleoside#0.206242084503	deoxyadenosine_monophosphate|||deoxyadenosine|||monophosphate|||is_a
+deoxycytidine	nucleoside#0.569875597954|deoxyguanosine#0.538583874702	nucleoside#0.357763022184|deoxyguanosine#0.343301594257	deoxycytidine|||deoxycytidine|||is_a
+deoxycytidine monophosphate	nucleoside#0.629054188728|adenosine_monophosphate#0.601066529751	nucleoside#0.241337195039	deoxycytidine_monophosphate|||deoxycytidine|||monophosphate|||is_a
+deoxyguanosine	nucleoside#0.552853643894|deoxycytidine#0.541195571423|deoxyadenosine#0.51715773344|uracil#0.496411919594	nucleoside#0.348608255386|deoxycytidine#0.34459194541|deoxyadenosine#0.325533241034	deoxyguanosine|||deoxyguanosine|||is_a
+deoxyguanosine monophosphate	adenosine_monophosphate#0.590174555779|nucleoside#0.566085994244|inosine#0.558068811893|pyrophosphate#0.553978025913	adenosine_monophosphate#0.208349570632|inosine#0.202255144715|pyrophosphate#0.201994091272	deoxyguanosine_monophosphate|||deoxyguanosine|||monophosphate|||is_a
+deoxyribonucleic acid			deoxyribonucleic_acid|||deoxyribonucleic|||acid|||is_a
+deoxyribose	ribose#0.734480619431|nucleoside#0.682061970234|deoxycytidine#0.578881144524|uracil#0.573858618736|nucleotide#0.55944609642	ribose#0.396181285381|nucleoside#0.391807854176|deoxycytidine#0.343600004911|deoxyribonucleic_acid#0.335734605789|uracil#0.329320549965	deoxyribose|||deoxyribose|||is_a
+deoxythymidine	nucleoside#0.532835066319	nucleoside#0.335313230753	deoxythymidine|||deoxythymidine|||is_a
+deoxythymidine monophosphate	nucleoside#0.585984230042|adenosine_diphosphate#0.585011720657	nucleoside#0.221226155758	deoxythymidine_monophosphate|||deoxythymidine|||monophosphate|||is_a
+depilatory			depilatory|||depilatory|||is_a
+derivative			derivative|||derivative|||is_a
+detergent	laundry_detergent#0.703410387039|soap#0.610934555531|shampoo#0.595943808556	laundry_detergent#0.419540762901|soap#0.372500926256	detergent|||detergent|||is_a
+dextrin	starch#0.588897883892	starch#0.351133406162	dextrin|||dextrin|||is_a
+dextrose	sucrose#0.629153132439|calcium_lactate#0.556071043015	sucrose#0.341086983681	dextrose|||dextrose|||is_a
+di iodotyrosine			di|||iodotyrosine|||is_a
+diamine	imide#0.532402276993		diamine|||diamine|||is_a
+dibasic acid			dibasic_acid|||dibasic|||acid|||is_a
+dibasic salt	sodium_chloride#0.510602831841		dibasic|||salt|||is_a
+dichloride	chloride#0.559641897678|trichloride#0.556488752365	trichloride#0.345762580633	dichloride|||dichloride|||is_a
+dichlorodiphenyltrichloroethane			dichlorodiphenyltrichloroethane|||dichlorodiphenyltrichloroethane|||is_a
+dichromic acid			dichromic_acid|||dichromic|||acid|||is_a
+diethylaminoethyl cellulose			diethylaminoethyl|||cellulose|||is_a
+diethylstilbesterol			diethylstilbesterol|||diethylstilbesterol|||is_a
+digitalis	digoxin#0.698846757412|digitoxin#0.582913637161	digoxin#0.379766345024|digitoxin#0.333946436644	digitalis|||digitalis|||is_a
+digitoxin	cardiac_glycoside#0.600979745388|digitalis#0.527936339378|digoxin#0.506021261215	cardiac_glycoside#0.36379596591|digitalis#0.307202637196|digoxin#0.302645504475	digitoxin|||digitoxin|||is_a
+digoxin	digitalis#0.672215104103|cardiac_glycoside#0.577229619026	digitalis#0.365649193525|cardiac_glycoside#0.346781045198	digoxin|||digoxin|||is_a
+dimer	trimer#0.688705444336	trimer#0.394581347704	dimer|||dimer|||is_a
+dioxide	trioxide#0.584867060184|monoxide#0.565969109535|tetroxide#0.54499155283|oxide#0.544691562653|pentoxide#0.520860493183	trioxide#0.343784660101|monoxide#0.339502513409|oxide#0.33389416337|tetroxide#0.327403753996	dioxide|||dioxide|||is_a
+dioxin	agent_orange#0.625521302223	agent_orange#0.337928801775	dioxin|||dioxin|||is_a
+disaccharidase			disaccharidase|||disaccharidase|||is_a
+disaccharide	polysaccharide#0.639186263084|galactose#0.61173760891|maltose#0.584872722626|monosaccharide#0.575545668602|oligosaccharide#0.568616330624	polysaccharide#0.382248193026|galactose#0.344973295927|oligosaccharide#0.342676758766|monosaccharide#0.341703087091	disaccharide|||disaccharide|||is_a
+dishwasher detergent	laundry_detergent#0.624836325645|liquid_soap#0.602169573307|shampoo#0.589258253574	laundry_detergent#0.221662446856|liquid_soap#0.212529480457|shampoo#0.210775494576	dishwasher_detergent|||dishwasher|||detergent|||is_a
+dishwater			dishwater|||dishwater|||is_a
+disrupting explosive	high_explosive#0.522446513176		disrupting|||explosive|||is_a
+distilled water			distilled_water|||distilled|||water|||is_a
+dna polymerase	endonuclease#0.731446921825|reverse_transcriptase#0.721115410328	endonuclease#0.321220368147|reverse_transcriptase#0.31186825037	dna_polymerase|||dna|||polymerase|||is_a
+docosahexaenoic acid	eicosapentaenoic_acid#0.670508146286	eicosapentaenoic_acid#0.24299903214|polyunsaturated_fatty_acid#0.231819391251	docosahexaenoic_acid|||docosahexaenoic|||acid|||is_a
+dolphin oil			dolphin|||oil|||is_a
+dopa	l_dopa#0.585412800312|decarboxylase#0.536956429482	l_dopa#0.340327471495|decarboxylase#0.335558503866	dopa|||dopa|||is_a
+dopamine	serotonin#0.81064414978|noradrenaline#0.740559875965|monoamine#0.710370182991|neurotransmitter#0.706229686737|acetylcholine#0.68524056673	serotonin#0.417098909616|monoamine#0.392982929945|noradrenaline#0.383341997862|neurotransmitter#0.367956340313	dopamine|||dopamine|||is_a
+double salt	sodium_chloride#0.523321449757		double_salt|||double|||salt|||is_a
+drippings		cracklings#0.333249181509	drippings|||drippings|||is_a
+dripstone			dripstone|||dripstone|||is_a
+drying oil	linseed_oil#0.691880583763|vegetable_oil#0.605432927608|beeswax#0.581653237343	linseed_oil#0.233445480466|vegetable_oil#0.202673077583|beeswax#0.19581592083	drying_oil|||drying|||oil|||is_a
+dscdna			is_a
+dubbin			dubbin|||dubbin|||is_a
+dynamite	gunpowder#0.642608642578|gelignite#0.616498112679	gunpowder#0.348222792149|gelignite#0.338136643171	dynamite|||dynamite|||is_a
+east india kino			east|||india|||kino|||is_a
+edible fat			edible_fat|||edible|||fat|||is_a
+eicosapentaenoic acid	linoleic_acid#0.647322237492|docosahexaenoic_acid#0.634448647499	linoleic_acid#0.22539973259	eicosapentaenoic_acid|||eicosapentaenoic|||acid|||is_a
+elaidic acid	stearic_acid#0.557712733746|myristic_acid#0.53877300024	stearic_acid#0.298080354929|myristic_acid#0.293359041214	elaidic_acid|||acid|||is_a
+elastase	trypsin#0.624736011028|protease#0.608627378941|trypsinogen#0.576646983624	protease#0.377819091082|trypsin#0.376123636961	elastase|||elastase|||is_a
+elastin	collagen#0.705051839352|fibrin#0.540864527225	collagen#0.374173909426	elastin|||elastin|||is_a
+elemi			elemi|||elemi|||is_a
+eleostearic acid			eleostearic_acid|||acid|||is_a
+enamel			enamel|||enamel|||is_a
+enamine	enol#0.621471226215|alkyl_halide#0.607071220875	alkyl_halide#0.341044723988|enol#0.33592247963	enamine|||enamine|||is_a
+enantiomorph			enantiomorph|||enantiomorph|||is_a
+endonuclease	nuclease#0.707886219025|exonuclease#0.688461840153|dna_polymerase#0.6154114604	nuclease#0.419992566109|exonuclease#0.408806979656	endonuclease|||endonuclease|||is_a
+endorphin	enkephalin#0.584118902683|beta_endorphin#0.558556079865|dopamine#0.521415412426	enkephalin#0.314792454243|beta_endorphin#0.311358600855	endorphin|||endorphin|||is_a
+enkephalin			enkephalin|||enkephalin|||is_a
+enol	enamine#0.635765194893|ketone#0.607380867004|alkyl_halide#0.583826124668	enamine#0.343148231506|ester#0.331084758043|ketone#0.328717857599|alkyl_halide#0.328694224358	enol|||enol|||is_a
+enteric coated aspirin			enteric_coated_aspirin|||enteric|||coated|||aspirin|||is_a
+enterokinase			enterokinase|||enterokinase|||is_a
+enzyme			enzyme|||enzyme|||is_a
+ephedrine	pseudoephedrine#0.777924180031|ergotamine#0.589083135128	pseudoephedrine#0.416108578444|ergotamine#0.338667362928	ephedrine|||ephedrine|||is_a
+epinephrine	noradrenaline#0.635727763176|serotonin#0.633444905281	serotonin#0.34004548192|noradrenaline#0.33961224556	epinephrine|||epinephrine|||is_a
+episome	transposon#0.510179758072	transposon#0.305824100971	episome|||episome|||is_a
+epoxy	polyurethane#0.695775449276|urethane#0.668101847172	polyurethane#0.399040818214|urethane#0.381050020456	epoxy|||epoxy|||is_a
+epsom salts	salt#0.512621462345|sulfate#0.504813492298|magnesium_sulfate#0.482457965612	salt#0.170414760709|sulfate#0.163565531373	epsom_salts|||epsom|||salts|||is_a
+ergonovine	lysergic_acid#0.60771548748|ergotamine#0.578361988068	lysergic_acid#0.363384544849|ergotamine#0.344079494476	ergonovine|||ergonovine|||is_a
+ergosterol	sterol#0.648211956024|steroid#0.571479916573	sterol#0.378037571907|steroid#0.34269747138	ergosterol|||ergosterol|||is_a
+ergotamine	lysergic_acid#0.626864790916|ergonovine#0.588512837887	lysergic_acid#0.371072977781|ergonovine#0.349196732044	ergotamine|||ergotamine|||is_a
+erythropoietin	interleukin#0.553519308567	interleukin#0.330399990082	erythropoietin|||erythropoietin|||is_a
+essential amino acid	amino_acid#0.596906483173|arginine#0.548315882683	amino_acid#0.121965035796	essential_amino_acid|||essential|||amino|||acid|||is_a
+essential oil			essential_oil|||essential|||oil|||is_a
+ester	carboxylic_acid#0.587388813496|organic_compound#0.556492567062	organic_compound#0.367691606283	ester|||ester|||is_a
+estrone			estrone|||estrone|||is_a
+ethane	butane#0.629981935024|methane#0.623691320419	butane#0.3355242908|methane#0.321404516697	ethane|||ethane|||is_a
+ether	ethyl_acetate#0.619590103626|hexane#0.559416949749|chloroform#0.555984199047	ethyl_acetate#0.33771944046	ether|||ether|||is_a
+ethyl acetate	acetic_acid#0.665038883686|ester#0.638521790504	ester#0.245759502053|acetic_acid#0.242288738489	ethyl_acetate|||ethyl|||acetate|||is_a
+ethylene	butadiene#0.6314240098|styrene#0.629979550838	styrene#0.349760174751|butadiene#0.337847709656|copolymer#0.330814659595	ethylene|||ethylene|||is_a
+eucalyptus oil	essential_oil#0.691423296928|camphor#0.619861364365|turpentine#0.611127436161	essential_oil#0.25650152564	eucalyptus_oil|||eucalyptus|||oil|||is_a
+exon	intron#0.715734243393	intron#0.380361825228	exon|||exon|||is_a
+exonuclease	endonuclease#0.744083166122|nuclease#0.653440058231|dna_polymerase#0.614357888699	endonuclease#0.440150529146|nuclease#0.381184518337	exonuclease|||exonuclease|||is_a
+exotherm			exotherm|||exotherm|||is_a
+explosive	high_explosive#0.742797791958|tnt#0.670853495598|explosive_compound#0.654643654823	high_explosive#0.440076798201|explosive_compound#0.40434935689	explosive|||explosive|||is_a
+explosive compound	low_explosive#0.562950432301|organic_compound#0.561965405941	low_explosive#0.218169778585|organic_compound#0.216350868344	explosive_compound|||explosive|||compound|||is_a
+explosive mixture	high_explosive#0.636970996857|tnt#0.630845189095|explosive_compound#0.606793642044	high_explosive#0.232220038772|explosive_compound#0.227480396628|tnt#0.222940549254	explosive_mixture|||explosive|||mixture|||is_a
+fat			fat|||fat|||is_a
+fatty acid	myristic_acid#0.645616889|oleic_acid#0.611812949181|saturated_fatty_acid#0.605093955994	myristic_acid#0.240768834949|saturated_fatty_acid#0.222184062004	fatty_acid|||fatty|||acid|||is_a
+ferric oxide			ferric_oxide|||ferric|||oxide|||is_a
+ferricyanic acid			acid|||is_a
+ferricyanide	ferrocyanide#0.600722670555	ferrocyanide#0.33888271451	ferricyanide|||ferricyanide|||is_a
+ferritin	transferrin#0.673273146152|globulin#0.519759356976	transferrin#0.365857750177|globulin#0.306137025356	ferritin|||ferritin|||is_a
+ferrocyanic acid			ferrocyanic_acid|||acid|||is_a
+ferrocyanide	ferricyanide#0.592302262783	ferricyanide#0.334666192532	ferrocyanide|||ferrocyanide|||is_a
+fertilizer	manure#0.597111105919		fertilizer|||fertilizer|||is_a
+fibrin	fibrinogen#0.70580124855|thrombin#0.659219264984|collagen#0.601601302624	fibrinogen#0.378927409649|thrombin#0.365894913673|plasmin#0.341303408146	fibrin|||fibrin|||is_a
+fibrinase			is_a
+fibrinogen	fibrin#0.728227615356|thrombin#0.726133584976|prothrombin#0.689698517323|coagulation_factor#0.656803786755	thrombin#0.39313057065|fibrin#0.391032934189|coagulation_factor#0.385144293308|prothrombin#0.374659717083	fibrinogen|||fibrinogen|||is_a
+fibrinopeptide			fibrinopeptide|||fibrinopeptide|||is_a
+filaggrin			filaggrin|||filaggrin|||is_a
+filtrate			filtrate|||filtrate|||is_a
+firecracker	firework#0.742600917816|squib#0.635499060154|sparkler#0.555963039398	firework#0.408499330282|squib#0.376593917608|sparkler#0.336366564035	firecracker|||firecracker|||is_a
+firestone			firestone|||firestone|||is_a
+firework	firecracker#0.779883742332|squib#0.592766582966	firecracker#0.429518908262|squib#0.349652856588	firework|||firework|||is_a
+fish liver oil			fish_liver_oil|||fish|||liver|||oil|||is_a
+fish meal			fish_meal|||fish|||meal|||is_a
+fixative	preservative#0.615998744965	preservative#0.350432723761	fixative|||fixative|||is_a
+fixed oil	mineral_oil#0.570272445679	mineral_oil#0.176955714822	fixed_oil|||fixed|||oil|||is_a
+fixing agent			fixing_agent|||fixing|||agent|||is_a
+fizgig			is_a
+flavin	reductase#0.592840969563|quinone#0.58936303854|cytochrome#0.583939909935	reductase#0.359329372644|quinone#0.351105362177|oxidoreductase#0.342450588942	flavin|||flavin|||is_a
+flavone	flavonoid#0.681683957577	flavonoid#0.434231698513	flavone|||flavone|||is_a
+flavonoid	flavone#0.773011744022|glycoside#0.601676285267	flavone#0.487628638744	flavonoid|||flavonoid|||is_a
+flint	chert#0.687460541725	chert#0.359560579062	flint|||flint|||is_a
+flintstone	flint#0.587877750397|chert#0.48990765214	flint#0.316934049129	flintstone|||flintstone|||is_a
+floor wax			floor_wax|||floor|||wax|||is_a
+fluoride	sodium_fluoride#0.724316239357	sodium_fluoride#0.412207454443	fluoride|||fluoride|||is_a
+fluoroboric acid			fluoroboric_acid|||acid|||is_a
+fluoroboride			is_a
+fluorocarbon			fluorocarbon|||fluorocarbon|||is_a
+fluoroform			fluoroform|||fluoroform|||is_a
+fluosilicate			fluosilicate|||fluosilicate|||is_a
+fluosilicic acid			acid|||is_a
+flux			flux|||flux|||is_a
+formaldehyde	formic_acid#0.659616410732|acetaldehyde#0.57931804657	formic_acid#0.337317734957|acetaldehyde#0.302710980177	formaldehyde|||formaldehyde|||is_a
+formic acid			formic_acid|||formic|||acid|||is_a
+formulation			formulation|||formulation|||is_a
+fraction			fraction|||fraction|||is_a
+freon	chlorofluorocarbon#0.647060453892|hydrochlorofluorocarbon#0.601858615875	chlorofluorocarbon#0.374096602201|hydrochlorofluorocarbon#0.349747180939	freon|||freon|||is_a
+fresh water	seawater#0.654705345631	seawater#0.23832064867	fresh_water|||fresh|||water|||is_a
+fructose	sucrose#0.745491564274|glucose#0.710348427296|galactose#0.663423538208|lactose#0.616146147251|maltose#0.611997306347	sucrose#0.383143156767|glucose#0.366519063711|galactose#0.354713797569|lactose#0.335039228201|maltose#0.333857506514	fructose|||fructose|||is_a
+fuel oil	kerosene#0.770307898521|naphtha#0.726281046867|liquefied_petroleum_gas#0.687212526798	kerosene#0.306653112173|naphtha#0.282440751791	fuel_oil|||fuel|||oil|||is_a
+fulminate	chlorate#0.467111319304|mercury_fulminate#0.465180277824		fulminate|||fulminate|||is_a
+fulminic acid			fulminic_acid|||acid|||is_a
+fulvic acid			fulvic_acid|||fulvic|||acid|||is_a
+fumaric acid	maleic_acid#0.583205342293|tartaric_acid#0.574626326561	maleic_acid#0.191029027104|tartaric_acid#0.188864737749	fumaric_acid|||fumaric|||acid|||is_a
+fumigant	insecticide#0.553603470325	insecticide#0.328288495541	fumigant|||fumigant|||is_a
+furan	organic_compound#0.573389172554	organic_compound#0.350518375635	furan|||furan|||is_a
+furfural	acetaldehyde#0.547037482262|aniline#0.500405550003|resorcinol#0.492939829826|furan#0.490850746632|acetamide#0.486470162868	acetamide#0.300933390856|acetaldehyde#0.296955645084	furfural|||furfural|||is_a
+fusel oil	lanolin#0.511858463287	lanolin#0.164558291435	fusel_oil|||fusel|||oil|||is_a
+galactose	disaccharide#0.67624771595|maltose#0.669115364552|hexose#0.654554247856|glucose#0.651376545429|fructose#0.64655828476	hexose#0.381163448095|disaccharide#0.378496795893|maltose#0.361427277327	galactose|||galactose|||is_a
+gallic acid	hydroxybenzoic_acid#0.61346000433	hydroxybenzoic_acid#0.207834035158	gallic_acid|||gallic|||acid|||is_a
+gamboge			gamboge|||gamboge|||is_a
+gamma acid			gamma|||acid|||is_a
+gamma aminobutyric acid			gamma_aminobutyric_acid|||gamma|||aminobutyric|||acid|||is_a
+gamma globulin	immunoglobulin#0.563443899155	immunoglobulin#0.19546250999	gamma_globulin|||gamma|||globulin|||is_a
+gas oil	naphtha#0.667312860489|petroleum#0.6387129426|fuel_oil#0.637656390667|kerosene#0.6238078475	naphtha#0.2450709939|fuel_oil#0.23704919219|petroleum#0.232506200671|kerosene#0.230165168643	gas_oil|||gas|||oil|||is_a
+gasohol	gasoline#0.533548414707	gasoline#0.301183134317	gasohol|||gasohol|||is_a
+gasoline	unleaded_gasoline#0.696275413036	unleaded_gasoline#0.380311071873|fuel_oil#0.370622307062	gasoline|||gasoline|||is_a
+gelatin	casein#0.570713937283		gelatin|||gelatin|||is_a
+gelignite	cordite#0.606398403645|gunpowder#0.573014616966|dynamite#0.569515109062	cordite#0.339678049088	gelignite|||gelignite|||is_a
+gesso			gesso|||gesso|||is_a
+ghedda wax	beeswax#0.522037804127		wax|||is_a
+glauber's salt			glauber|||s|||salt|||is_a
+globin	hemoglobin#0.513916969299	hemoglobin#0.292193472385	globin|||globin|||is_a
+globulin	transferrin#0.595094561577|plasma_protein#0.549099564552|albumin#0.546980977058	transferrin#0.346451729536|plasma_protein#0.339906126261	globulin|||globulin|||is_a
+glucosamine			glucosamine|||glucosamine|||is_a
+glucose	fructose#0.726744115353|galactose#0.684297204018|sucrose#0.672452032566|glycogen#0.640082716942|maltose#0.624609172344|lactose#0.618853032589	fructose#0.375220805407|galactose#0.361117810011|sucrose#0.348826825619|maltose#0.336797833443|glycogen#0.335867404938|lactose#0.333791851997	glucose|||glucose|||is_a
+glucoside	glycoside#0.731325089931|flavone#0.664431035519	glycoside#0.429859995842|flavone#0.40711337328	glucoside|||glucoside|||is_a
+glutamate	glutamine#0.67566794157|glycine#0.643348813057|glutamic_acid#0.636681437492	glutamic_acid#0.346611529589|glutamine#0.339110165834|glycine#0.335650980473	glutamate|||glutamate|||is_a
+glutamic acid	alanine#0.620821654797|aspartic_acid#0.618464946747|transaminase#0.59199410677|asparagine#0.574709415436	transaminase#0.216930374503|alanine#0.214934408665|aspartic_acid#0.214637055993	glutamic_acid|||glutamic|||acid|||is_a
+glutamic oxalacetic transaminase			glutamic|||oxalacetic|||transaminase|||is_a
+glutamine	alanine#0.751388967037|glutamic_acid#0.748410880566|arginine#0.73684245348|valine#0.689159393311|glutamate#0.686583042145|glycine#0.675116121769|ornithine#0.67185074091|aspartic_acid#0.669336974621|proline#0.665593862534	glutamic_acid#0.394735634327|alanine#0.382927834988|arginine#0.378195732832|valine#0.360291451216|ornithine#0.357251524925|amino_acid#0.356781721115|leucine#0.353623628616|serine#0.349070459604|proline#0.348047852516	glutamine|||glutamine|||is_a
+glutathione peroxidase	superoxide_dismutase#0.692456245422|oxidase#0.610219359398|catalase#0.59979724884	superoxide_dismutase#0.277425944805|oxidase#0.244417369366|catalase#0.230502039194	glutathione_peroxidase|||glutathione|||peroxidase|||is_a
+glutelin	prolamine#0.464891821146	prolamine#0.322702020407	glutelin|||glutelin|||is_a
+gluten	wheat_gluten#0.635329544544	wheat_gluten#0.35001963377	gluten|||gluten|||is_a
+glyceraldehyde	ketose#0.574322879314|aldose#0.543107926846	ketose#0.324959099293|aldose#0.308869689703	glyceraldehyde|||glyceraldehyde|||is_a
+glyceric acid			glyceric_acid|||acid|||is_a
+glyceride			glyceride|||glyceride|||is_a
+glycerin jelly			glycerin|||jelly|||is_a
+glycerinated gelatin	cornstarch#0.541723608971		glycerinated|||gelatin|||is_a
+glycerite			glycerite|||glycerite|||is_a
+glycerogelatin			is_a
+glyceryl ester			glyceryl_ester|||glyceryl|||ester|||is_a
+glycine	glutamic_acid#0.724512994289|alanine#0.683336019516|amino_acid#0.666294634342|proline#0.651773929596|leucine#0.651709616184|valine#0.646486461163|arginine#0.64620834589|aspartic_acid#0.64372086525|glutamine#0.63740080595	glutamic_acid#0.391147404909|amino_acid#0.370691210032|alanine#0.360094487667|leucine#0.355260252953|serine#0.354279756546|proline#0.348327755928|valine#0.348205029964|arginine#0.345545977354|aspartic_acid#0.343015253544|tyrosine#0.341320306063	glycine|||glycine|||is_a
+glycogen	glucose#0.633900165558|carbohydrate#0.52388471365	glucose#0.332758009434|carbohydrate#0.297565817833	glycogen|||glycogen|||is_a
+glycolic acid	lactic_acid#0.605400443077|succinic_acid#0.542473852634|phosphoric_acid#0.532552599907	lactic_acid#0.204400509596|succinic_acid#0.18893070519|phosphoric_acid#0.186521694064	glycolic_acid|||glycolic|||acid|||is_a
+glycoprotein	protein#0.627494156361	protein#0.405587792397	glycoprotein|||glycoprotein|||is_a
+glycoside	flavone#0.692986488342|glucoside#0.657673954964|flavonoid#0.595844388008	flavone#0.43955591321|glucoside#0.389177948236	glycoside|||glycoside|||is_a
+goitrogen			goitrogen|||goitrogen|||is_a
+gondang wax	beeswax#0.522037804127		wax|||is_a
+goose grease	wax#0.515641331673		goose_grease|||goose|||grease|||is_a
+grease	motor_oil#0.553663849831|wax#0.551853477955	wax#0.337491482496|motor_oil#0.330788463354	grease|||grease|||is_a
+green manure	chicken_manure#0.610131561756|fertilizer#0.607328593731	chicken_manure#0.199212431908	green_manure|||green|||manure|||is_a
+ground water	seawater#0.645734548569|fresh_water#0.597214400768	seawater#0.216935873032	ground_water|||ground|||water|||is_a
+growth factor	nerve_growth_factor#0.657261371613	nerve_growth_factor#0.233271002769	growth_factor|||growth|||factor|||is_a
+guaiacum	balsam#0.505684137344	balsam#0.323279887438	guaiacum|||guaiacum|||is_a
+guanine	thymine#0.797064721584|adenine#0.784896314144|cytosine#0.784794449806|uracil#0.744241654873|purine#0.62195110321|pyrimidine#0.608205020428	thymine#0.438277602196|cytosine#0.430758684874|adenine#0.422065198421|uracil#0.41564694047|purine#0.361522257328|pyrimidine#0.356746166945	guanine|||guanine|||is_a
+guano			guano|||guano|||is_a
+gum resin	balsam#0.66324955225|mastic#0.651948094368|oleoresin#0.606496334076|essential_oil#0.592321038246|benzoin#0.586485862732	balsam#0.256935179234|mastic#0.249766305089|oleoresin#0.22953286767|essential_oil#0.222575888038|benzoin#0.222219541669	gum_resin|||gum|||resin|||is_a
+gunflint			gunflint|||gunflint|||is_a
+gunpowder	cordite#0.699619114399|smokeless_powder#0.628245353699|dynamite#0.600340545177	cordite#0.381021797657|smokeless_powder#0.353580057621	gunpowder|||gunpowder|||is_a
+gypsum	halite#0.668714821339	halite#0.383544206619	gypsum|||gypsum|||is_a
+hageman factor			hageman_factor|||hageman|||factor|||is_a
+halibut liver oil	vegetable_oil#0.464424878359|cooking_oil#0.453998237848		halibut|||liver|||oil|||is_a
+halide	alkyl_halide#0.620708584785|chloride#0.594581902027|bromide#0.58111000061	alkyl_halide#0.352140933275|chloride#0.345291376114	halide|||halide|||is_a
+halite	gypsum#0.682944774628	gypsum#0.391201674938	halite|||halite|||is_a
+halocarbon	chlorofluorocarbon#0.528837323189|halon#0.484364956617	chlorofluorocarbon#0.326967388391	halocarbon|||halocarbon|||is_a
+haloform			haloform|||haloform|||is_a
+halon	halocarbon#0.505528211594	halocarbon#0.311419576406	halon|||halon|||is_a
+haptoglobin	hemoglobin#0.571043074131	hemoglobin#0.317146450281	haptoglobin|||haptoglobin|||is_a
+hard water	soft_water#0.580264687538	soft_water#0.201789155602	hard_water|||hard|||water|||is_a
+hdl cholesterol	lipoprotein#0.787814617157|ldl_cholesterol#0.747148394585	lipoprotein#0.323878288269|ldl_cholesterol#0.295306503773	hdl_cholesterol|||hdl|||cholesterol|||is_a
+hemiacetal	acetal#0.534669935703|ester#0.458007544279	acetal#0.312097281218|ester#0.293911755085	hemiacetal|||hemiacetal|||is_a
+hemin			hemin|||hemin|||is_a
+hemoglobin	myoglobin#0.642505705357|haptoglobin#0.639632284641	haptoglobin#0.35143071413|myoglobin#0.334822833538	hemoglobin|||hemoglobin|||is_a
+hemolysin			hemolysin|||hemolysin|||is_a
+hemoprotein			hemoprotein|||hemoprotein|||is_a
+heparin			heparin|||heparin|||is_a
+heptane	hexane#0.549720287323	hexane#0.314933657646	heptane|||heptane|||is_a
+herbicide	insecticide#0.672995388508|pesticide#0.621643006802	insecticide#0.399721086025	herbicide|||herbicide|||is_a
+heterocyclic compound	organic_compound#0.73471313715|aromatic_compound#0.59794151783	organic_compound#0.302988141775|aromatic_compound#0.23415645957	heterocyclic_compound|||heterocyclic|||compound|||is_a
+heterophil antibody	monoclonal_antibody#0.66652572155	monoclonal_antibody#0.510432839394	antibody|||is_a
+heulandite	natrolite#0.640015661716|phillipsite#0.611055612564	natrolite#0.37976321578	heulandite|||heulandite|||is_a
+hexane	toluene#0.646394789219|ethyl_acetate#0.620449721813|benzene#0.594161689281	toluene#0.349415838718|ethyl_acetate#0.346229106188	hexane|||hexane|||is_a
+hexanedioic acid	organic_compound#0.517285168171	organic_compound#0.181594923139	hexanedioic_acid|||hexanedioic|||acid|||is_a
+hexose	galactose#0.525169014931|aldose#0.51649338007		hexose|||hexose|||is_a
+high density lipoprotein	hdl_cholesterol#0.668093919754	hdl_cholesterol#0.159341752529	high_density_lipoprotein|||high|||density|||lipoprotein|||is_a
+high explosive	tnt#0.635994076729|explosive_compound#0.625567436218	explosive_compound#0.221511423588	high_explosive|||high|||explosive|||is_a
+histaminase			histaminase|||histaminase|||is_a
+histamine	serotonin#0.6339854002|acetylcholine#0.592628657818	serotonin#0.351514935493	histamine|||histamine|||is_a
+histidine	tyrosine#0.678281903267|amino_acid#0.672302246094|serine#0.657942175865|leucine#0.648755967617|phenylalanine#0.643022954464|glutamic_acid#0.637414455414|cysteine#0.632902681828|lysine#0.630156457424|threonine#0.624688267708|tryptophan#0.622251451015	tyrosine#0.394053936005|amino_acid#0.384361892939|serine#0.37458562851|leucine#0.363859444857|glutamic_acid#0.361106008291|phenylalanine#0.358632594347|cysteine#0.350656807423|tryptophan#0.348799169064|threonine#0.346940070391|proline#0.34479752183	histidine|||histidine|||is_a
+histone			histone|||histone|||is_a
+hmg coa reductase	oxidoreductase#0.638802289963	oxidoreductase#0.209148481488	hmg|||coa|||reductase|||is_a
+holy water	incense#0.620708823204	incense#0.195361152291	holy_water|||holy|||water|||is_a
+horse manure	cow_manure#0.67726713419	cow_manure#0.249556228518	horse_manure|||horse|||manure|||is_a
+horseradish peroxidase	superoxide_dismutase#0.478412240744|oxidase#0.477419555187	oxidase#0.16442066431|superoxide_dismutase#0.163437947631	horseradish_peroxidase|||horseradish|||peroxidase|||is_a
+humic acid	organic#0.521062135696	organic#0.173881143332	humic_acid|||humic|||acid|||is_a
+humic substance			humic_substance|||humic|||substance|||is_a
+humin			humin|||humin|||is_a
+hyaluronic acid			hyaluronic_acid|||hyaluronic|||acid|||is_a
+hyaluronidase	lipase#0.570729613304|streptokinase#0.530948281288|enzyme#0.524176836014|protease#0.520203649998|invertase#0.514103055	lipase#0.354135394096|enzyme#0.342267841101|streptokinase#0.332362264395|protease#0.327034413815	hyaluronidase|||hyaluronidase|||is_a
+hydnocarpus oil	coconut_oil#0.546723127365		hydnocarpus_oil|||hydnocarpus|||oil|||is_a
+hydrate	monohydrate#0.575959086418	monohydrate#0.351193875074	hydrate|||hydrate|||is_a
+hydrazoic acid	anhydride#0.506258070469|hydrobromic_acid#0.492728024721|perchloric_acid#0.490994423628	anhydride#0.271603703499	hydrazoic_acid|||acid|||is_a
+hydrazoite			is_a
+hydride			hydride|||hydride|||is_a
+hydriodic acid			hydriodic_acid|||acid|||is_a
+hydrobromic acid	hydrochloric_acid#0.632897377014|anhydride#0.572232365608|hydrofluoric_acid#0.568783402443	hydrochloric_acid#0.230495303869|anhydride#0.217219397426	hydrobromic_acid|||hydrobromic|||acid|||is_a
+hydrocarbon			hydrocarbon|||hydrocarbon|||is_a
+hydrochloric acid	nitric_acid#0.625196218491|hydrobromic_acid#0.623237431049	hydrobromic_acid#0.234471350908|nitric_acid#0.230643123388	hydrochloric_acid|||hydrochloric|||acid|||is_a
+hydrochloride			hydrochloride|||hydrochloride|||is_a
+hydrochlorofluorocarbon	freon#0.546683609486		hydrochlorofluorocarbon|||hydrochlorofluorocarbon|||is_a
+hydrocyanic acid	anhydride#0.538151264191	anhydride#0.178282052279	hydrocyanic_acid|||hydrocyanic|||acid|||is_a
+hydrofluoric acid	hydrochloric_acid#0.603273928165|hydrobromic_acid#0.556935608387|hydrogen_fluoride#0.539018571377	hydrochloric_acid#0.201818391681|hydrobromic_acid#0.191514283419	hydrofluoric_acid|||hydrofluoric|||acid|||is_a
+hydrofluorocarbon	sulfur_hexafluoride#0.503599584103		hydrofluorocarbon|||hydrofluorocarbon|||is_a
+hydrogen bromide	chloride#0.700977742672|hydrobromic_acid#0.682698965073|hydrogen_fluoride#0.671744465828|iodide#0.658569276333|hydrogen_chloride#0.641661405563	chloride#0.231156945229|hydrobromic_acid#0.225080907345|hydrogen_fluoride#0.215851262212|iodide#0.213718533516	hydrogen_bromide|||hydrogen|||bromide|||is_a
+hydrogen chloride	hydrogen_fluoride#0.656084179878|hydroxide#0.643564760685|hydrochloric_acid#0.635768532753|hydrobromic_acid#0.631980717182	hydroxide#0.233785271645|hydrogen_fluoride#0.225115522742|hydrobromic_acid#0.222583472729|hydrochloric_acid#0.219086334109	hydrogen_chloride|||hydrogen|||chloride|||is_a
+hydrogen cyanide	hydrogen_sulfide#0.668504416943|hydrogen_chloride#0.639743089676|sodium_cyanide#0.610657215118|carbon_monoxide#0.592631459236	hydrogen_sulfide#0.219495102763|hydrogen_chloride#0.21061116457|sodium_cyanide#0.2034945786	hydrogen_cyanide|||hydrogen|||cyanide|||is_a
+hydrogen fluoride	hydrofluoric_acid#0.700776398182	hydrofluoric_acid#0.246127784252	hydrogen_fluoride|||hydrogen|||fluoride|||is_a
+hydrogen iodide	chloride#0.645641684532|hydrogen_fluoride#0.628171145916|hydroiodic_acid#0.621903300285	chloride#0.215707138181|hydroiodic_acid#0.209060117602	hydrogen_iodide|||hydrogen|||iodide|||is_a
+hydrogen sulfide	sulfur_dioxide#0.621999204159|monoxide#0.611709117889|hydrogen_chloride#0.59579449892|hydroxide#0.576639413834	monoxide#0.22884131968|sulfur_dioxide#0.218663826585|hydroxide#0.213914066553|hydrogen_chloride#0.210105195642	hydrogen_sulfide|||hydrogen|||sulfide|||is_a
+hydroiodic acid	hydrobromic_acid#0.582549750805|anhydride#0.569836199284	hydrobromic_acid#0.203174039721|anhydride#0.202766418457	hydroiodic_acid|||hydroiodic|||acid|||is_a
+hydrolysate	casein#0.506642401218	casein#0.303577840328	hydrolysate|||hydrolysate|||is_a
+hydroxide			hydroxide|||hydroxide|||is_a
+hydroxy acid			hydroxy_acid|||hydroxy|||acid|||is_a
+hydroxybenzoic acid			hydroxybenzoic_acid|||hydroxybenzoic|||acid|||is_a
+hydroxybutyric acid			hydroxybutyric_acid|||hydroxybutyric|||acid|||is_a
+hydroxyproline	proline#0.619710624218|amino_acid#0.541219592094|leucine#0.538161158562|glycine#0.522384881973|glutamic_acid#0.522336363792|serine#0.508166730404|phenylalanine#0.502442002296	proline#0.334545195103|amino_acid#0.314498305321|leucine#0.306539386511|glutamic_acid#0.301885873079	hydroxyproline|||hydroxyproline|||is_a
+hyoscyamine	scopolamine#0.629403710365|ergotamine#0.575299322605	scopolamine#0.339578956366|ergotamine#0.334207445383	hyoscyamine|||hyoscyamine|||is_a
+hypo			hypo|||hypo|||is_a
+hypochlorite	sodium_hypochlorite#0.67149579525|hypochlorous_acid#0.640568137169|calcium_hypochlorite#0.607310891151|potassium_permanganate#0.561301767826	sodium_hypochlorite#0.393408447504|hypochlorous_acid#0.374324023724|calcium_hypochlorite#0.36225387454|potassium_permanganate#0.337450742722	hypochlorite|||hypochlorite|||is_a
+hypochlorous acid	hypochlorite#0.539742410183		hypochlorous_acid|||acid|||is_a
+hyponitrous acid			hyponitrous_acid|||acid|||is_a
+hypophosphoric acid			hypophosphoric_acid|||acid|||is_a
+hypophosphorous acid			hypophosphorous_acid|||acid|||is_a
+hyssop oil			hyssop|||oil|||is_a
+ilang ilang			is_a
+imidazole	pyridine#0.604688405991	pyridine#0.343997955322	imidazole|||imidazole|||is_a
+imide	diamine#0.506834864616		imide|||imide|||is_a
+immunoglobulin	immunoglobulin_g#0.666526913643|antibody#0.66500544548|immunoglobulin_m#0.626951575279	immunoglobulin_g#0.377217978239|antibody#0.36948132515	immunoglobulin|||immunoglobulin|||is_a
+immunoglobulin a			immunoglobulin|||a|||is_a
+immunoglobulin d			immunoglobulin|||d|||is_a
+immunoglobulin e	antibody#0.598422288895|immunoglobulin_m#0.577019512653		immunoglobulin_e|||immunoglobulin|||e|||is_a
+immunoglobulin g	glycoprotein#0.588481664658|antibody#0.576249420643	glycoprotein#0.207527160645	immunoglobulin_g|||immunoglobulin|||g|||is_a
+immunoglobulin m	immunoglobulin_g#0.56039583683		immunoglobulin_m|||immunoglobulin|||m|||is_a
+incense	myrrh#0.677396178246	myrrh#0.375670552254	incense|||incense|||is_a
+indene			indene|||indene|||is_a
+infliximab	monoclonal_antibody#0.61881005764	monoclonal_antibody#0.373568385839	infliximab|||infliximab|||is_a
+inorganic compound			inorganic_compound|||inorganic|||compound|||is_a
+inosine	nucleoside#0.550946414471	nucleoside#0.339202821255	inosine|||inosine|||is_a
+insecticide	pesticide#0.684202134609|acaricide#0.654908299446|herbicide#0.65268611908	acaricide#0.401020288467|herbicide#0.388744056225|pesticide#0.387889117002	insecticide|||insecticide|||is_a
+insectifuge			insectifuge|||insectifuge|||is_a
+interleukin	cytokine#0.763531386852|tumor_necrosis_factor#0.761228978634	tumor_necrosis_factor#0.451339185238|cytokine#0.447420984507	interleukin|||interleukin|||is_a
+intermediate			intermediate|||intermediate|||is_a
+intron	exon#0.694421112537	exon#0.369011104107|transposon#0.350487411022	intron|||intron|||is_a
+inulin	polysaccharide#0.560693562031|sucrose#0.545513927937|starch#0.542926311493|invert_sugar#0.522799253464	polysaccharide#0.330262064934|starch#0.310118436813|sucrose#0.299259454012	inulin|||inulin|||is_a
+invert sugar	sucrose#0.637000799179|cane_sugar#0.628791630268|starch#0.623056769371|dextrose#0.612402558327	cane_sugar#0.213728815317|starch#0.211109444499|sucrose#0.207441300154|dextrose#0.205675601959	invert_sugar|||invert|||sugar|||is_a
+invertase	amylase#0.609247207642|hyaluronidase#0.572788059711|lipase#0.557717680931|lactase#0.542947471142	amylase#0.346550226212|hyaluronidase#0.34130179882|lipase#0.33797711134|lactase#0.323460668325	invertase|||invertase|||is_a
+iodic acid	anhydride#0.566363096237	anhydride#0.185514479876	iodic_acid|||iodic|||acid|||is_a
+iodide	bromide#0.710985660553|chloride#0.701993525028|sodium_iodide#0.65522480011	chloride#0.39851680398|bromide#0.391621500254|sodium_iodide#0.382746905088	iodide|||iodide|||is_a
+iodoamino acid			acid|||is_a
+iodocompound			is_a
+iodoform	iodide#0.571991801262|sodium_iodide#0.517182767391	iodide#0.328910052776	iodoform|||iodoform|||is_a
+iodoprotein			is_a
+iodothyronine			iodothyronine|||iodothyronine|||is_a
+iodotyrosine			iodotyrosine|||iodotyrosine|||is_a
+iron disulfide	sulfide#0.644209682941	sulfide#0.230549201369	iron_disulfide|||iron|||disulfide|||is_a
+iron perchloride			iron_perchloride|||iron|||perchloride|||is_a
+isoagglutinin			is_a
+isoantibody			isoantibody|||isoantibody|||is_a
+isocyanate	amine#0.53302526474|azide#0.512012958527|nitrile#0.509737312794	amine#0.315063476562|nitrile#0.306297779083	isocyanate|||isocyanate|||is_a
+isocyanic acid	tartaric_acid#0.526380062103|oxalic_acid#0.521347045898		isocyanic_acid|||isocyanic|||acid|||is_a
+isoleucine	leucine#0.796295106411|valine#0.766709983349|phenylalanine#0.698324382305|tyrosine#0.685443580151|amino_acid#0.679292619228|threonine#0.669353425503|proline#0.648408651352|aspartic_acid#0.643916845322|tryptophan#0.636070132256|alanine#0.632265269756	leucine#0.433237046003|valine#0.412272244692|tyrosine#0.39563959837|amino_acid#0.385827183723|phenylalanine#0.382429361343|threonine#0.365304023027|essential_amino_acid#0.359093546867|proline#0.354752928019|tryptophan#0.353348195553	isoleucine|||isoleucine|||is_a
+isomer			isomer|||isomer|||is_a
+isomerase			isomerase|||isomerase|||is_a
+itaconic acid			itaconic_acid|||itaconic|||acid|||is_a
+jaggery			jaggery|||jaggery|||is_a
+jamaica quassia			jamaica|||quassia|||is_a
+japan wax	polish#0.534042596817|beeswax#0.517236709595|soap#0.496752500534	polish#0.184374898672|soap#0.168559625745	japan_wax|||japan|||wax|||is_a
+javelle water	seawater#0.474499821663		water|||is_a
+joss stick	incense#0.576519429684		joss_stick|||joss|||stick|||is_a
+juniperic acid			acid|||is_a
+junk dna	deoxyribonucleic_acid#0.62053245306|nucleic_acid#0.577344238758|endonuclease#0.50459343195	deoxyribonucleic_acid#0.325956225395|nucleic_acid#0.292373687029	junk|||dna|||is_a
+kauri			kauri|||kauri|||is_a
+keratin			keratin|||keratin|||is_a
+kerosene	fuel_oil#0.680121839046|paraffin#0.66790086031|naphtha#0.636984169483	fuel_oil#0.390402525663|paraffin#0.379332184792|naphtha#0.362419813871	kerosene|||kerosene|||is_a
+ketohexose	monosaccharide#0.489572167397	monosaccharide#0.307257711887	ketohexose|||ketohexose|||is_a
+ketone	aldehyde#0.656673252583|carboxylic_acid#0.642178297043|enol#0.603648841381|ester#0.593355834484	ester#0.3494117558|carboxylic_acid#0.349395751953|organic_compound#0.346219480038|aldehyde#0.340606272221	ketone|||ketone|||is_a
+ketone body			ketone_body|||ketone|||body|||is_a
+ketose	aldose#0.690698266029|monosaccharide#0.609358549118|aldohexose#0.492893099785|hexose#0.478799641132	aldose#0.396979600191|monosaccharide#0.359051406384|aldohexose#0.310151517391|hexose#0.307191550732	ketose|||ketose|||is_a
+ketosteroid			ketosteroid|||ketosteroid|||is_a
+kinase			kinase|||kinase|||is_a
+kwell			is_a
+l dopa	decarboxylase#0.637884557247|phenylalanine#0.593345284462	decarboxylase#0.24336206913|phenylalanine#0.212547197938|tyrosine#0.204523488879	l_dopa|||l|||dopa|||is_a
+labdanum	myrrh#0.671166777611|benzoin#0.581461310387|stacte#0.57841950655|storax#0.562761664391	myrrh#0.383950680494|benzoin#0.347305178642|stacte#0.345321834087|storax#0.341006070375	labdanum|||labdanum|||is_a
+lactalbumin			lactalbumin|||lactalbumin|||is_a
+lactase	enzyme#0.55148267746|amylase#0.50899887085|invertase#0.508790791035	enzyme#0.35288926959|lipase#0.317051112652	lactase|||lactase|||is_a
+lactate	lactic_acid#0.626712083817|citrate#0.598358809948	lactic_acid#0.340467274189|citrate#0.335511356592|oxalate#0.304631203413	lactate|||lactate|||is_a
+lactic acid	glycolic_acid#0.574292957783|succinic_acid#0.553873240948|oxalic_acid#0.536908566952	glycolic_acid#0.212607517838|succinic_acid#0.207691952586|oxalic_acid#0.201597645879	lactic_acid|||lactic|||acid|||is_a
+lactose	maltose#0.658967256546|sucrose#0.658246695995|galactose#0.620466351509|fructose#0.596972882748	maltose#0.357395350933|sucrose#0.348596006632|galactose#0.339254230261|disaccharide#0.337450116873	lactose|||lactose|||is_a
+laetrile			laetrile|||laetrile|||is_a
+lanolin	carnauba_wax#0.573608756065|beeswax#0.545131623745	carnauba_wax#0.348416894674	lanolin|||lanolin|||is_a
+lansoprazole			lansoprazole|||lansoprazole|||is_a
+lard	suet#0.696554005146	suet#0.410954475403	lard|||lard|||is_a
+lard oil	vegetable_oil#0.727752506733|cooking_oil#0.663492560387|olive_oil#0.64997023344|coconut_oil#0.637070417404|tallow#0.620482623577|cottonseed_oil#0.612953126431|sesame_oil#0.61175262928	vegetable_oil#0.279503315687|cooking_oil#0.249431997538|olive_oil#0.242253750563|coconut_oil#0.235335484147|tallow#0.232201963663|cottonseed_oil#0.229797378182|sesame_oil#0.229161813855	lard_oil|||lard|||oil|||is_a
+larvacide			larvacide|||larvacide|||is_a
+larvicide	insecticide#0.55544757843	insecticide#0.345844507217	larvicide|||larvicide|||is_a
+laundry detergent	shampoo#0.692695140839|soap#0.68309623003|bar_soap#0.645404398441	shampoo#0.303748756647|soap#0.30043426156|bar_soap#0.279185682535	laundry_detergent|||laundry|||detergent|||is_a
+lauric acid	oleic_acid#0.659932136536|myristic_acid#0.658620476723|linoleic_acid#0.652828454971|palmitic_acid#0.652419745922|stearic_acid#0.648863852024	myristic_acid#0.222825199366|stearic_acid#0.216850340366|linoleic_acid#0.214013695717|oleic_acid#0.213338389993|palmitic_acid#0.213199287653	lauric_acid|||lauric|||acid|||is_a
+ldl cholesterol	lipoprotein#0.79697906971|hdl_cholesterol#0.7698777318	lipoprotein#0.328844875097|hdl_cholesterol#0.317425072193	ldl_cholesterol|||ldl|||cholesterol|||is_a
+lead acetate	hydroxide#0.550118803978	hydroxide#0.187451317906	lead_acetate|||lead|||acetate|||is_a
+lead arsenate	arsenic#0.646544158459	arsenic#0.228350445628	lead_arsenate|||lead|||arsenate|||is_a
+lead chromate			lead_chromate|||lead|||chromate|||is_a
+leaded gasoline	unleaded_gasoline#0.689854681492|octane#0.617366671562|motor_oil#0.609518766403	unleaded_gasoline#0.244148284197|motor_oil#0.21646951139|octane#0.212366729975	leaded_gasoline|||leaded|||gasoline|||is_a
+leaf fat			leaf|||fat|||is_a
+lecithin	cocoa_butter#0.543461203575|soybean_oil#0.541884303093		lecithin|||lecithin|||is_a
+lectin	protein#0.552757740021	protein#0.354200005531	lectin|||lectin|||is_a
+lemongrass			lemongrass|||lemongrass|||is_a
+leucine	isoleucine#0.793673694134|valine#0.751248478889|threonine#0.724178671837|phenylalanine#0.723356962204|amino_acid#0.720021426678|proline#0.719730615616|tyrosine#0.7156894207|alanine#0.681241989136|tryptophan#0.679104566574|glutamic_acid#0.67876046896	isoleucine#0.431731849909|tyrosine#0.411624461412|amino_acid#0.406522750854|valine#0.405319035053|phenylalanine#0.394753783941|threonine#0.391099452972|proline#0.387747347355|glutamic_acid#0.379179418087|serine#0.374573230743|tryptophan#0.373453140259	leucine|||leucine|||is_a
+lignin	cellulose#0.670943856239|pectin#0.540835022926	cellulose#0.36539542675|pectin#0.31078517437	lignin|||lignin|||is_a
+limewater	lye#0.607025921345|sodium_carbonate#0.526771903038|calcium_hydroxide#0.514888823032|sodium_hydroxide#0.502158641815|distilled_water#0.493744820356	lye#0.348668515682|sodium_carbonate#0.31522282958|calcium_hydroxide#0.30996581912	limewater|||limewater|||is_a
+limonene	linalool#0.6984795928	linalool#0.385412573814	limonene|||limonene|||is_a
+linalool	limonene#0.700055778027		linalool|||linalool|||is_a
+lindane	malathion#0.621870279312|insecticide#0.57141494751	malathion#0.356573432684|insecticide#0.343010902405	lindane|||lindane|||is_a
+linoleic acid	oleic_acid#0.742219209671	oleic_acid#0.291735202074	linoleic_acid|||linoleic|||acid|||is_a
+linolenic acid	linoleic_acid#0.73996090889|oleic_acid#0.695400953293|eicosapentaenoic_acid#0.681405127048	linoleic_acid#0.27973780036	linolenic_acid|||linolenic|||acid|||is_a
+linseed oil	vegetable_oil#0.647675454617|tung_oil#0.617253661156|walnut_oil#0.613436698914	vegetable_oil#0.2508854568	linseed_oil|||linseed|||oil|||is_a
+linuron			linuron|||linuron|||is_a
+lipase	protease#0.600494801998|amylase#0.569472134113|trypsin#0.559431493282	protease#0.37135219574	lipase|||lipase|||is_a
+lipid	phospholipid#0.772150993347|cholesterol#0.619296431541	phospholipid#0.439969331026|cholesterol#0.35197982192	lipid|||lipid|||is_a
+lipoprotein			lipoprotein|||lipoprotein|||is_a
+liquefied petroleum gas	fuel_oil#0.715903520584|naphtha#0.704387962818	fuel_oil#0.195911303163|naphtha#0.187920063734|kerosene#0.18648301065	liquefied_petroleum_gas|||liquefied|||petroleum|||gas|||is_a
+liquid detergent	laundry_detergent#0.662009000778|soap#0.571596026421	laundry_detergent#0.253222852945|soap#0.218594253063	liquid_detergent|||liquid|||detergent|||is_a
+liquid soap	detergent#0.666397154331|bar_soap#0.614846527576|shampoo#0.611097872257|laundry_detergent#0.609076976776|grease#0.595482230186	detergent#0.255655914545|bar_soap#0.231802016497|laundry_detergent#0.230764552951|shampoo#0.229749903083	liquid_soap|||liquid|||soap|||is_a
+lithium carbonate	hydroxide#0.738259673119|chloride#0.640583872795	hydroxide#0.278582334518	lithium_carbonate|||lithium|||carbonate|||is_a
+low density lipoprotein	hdl_cholesterol#0.666735827923	hdl_cholesterol#0.149938896298	low_density_lipoprotein|||low|||density|||lipoprotein|||is_a
+low explosive	explosive_compound#0.666888773441|high_explosive#0.583936154842|tnt#0.562770187855	explosive_compound#0.241736412048|high_explosive#0.193194031715	low_explosive|||low|||explosive|||is_a
+lucite	acrylic#0.564968168736|polyurethane#0.548015594482	acrylic#0.343124181032|polyurethane#0.338199704885	lucite|||lucite|||is_a
+lunar caustic			lunar_caustic|||lunar|||caustic|||is_a
+lycopene	carotene#0.723320007324|beta_carotene#0.713580965996|zeaxanthin#0.671817839146|carotenoid#0.635341405869	carotene#0.408486306667|beta_carotene#0.395591765642|zeaxanthin#0.376866191626|carotenoid#0.361417502165	lycopene|||lycopene|||is_a
+lye	sodium_hydroxide#0.593926787376|limewater#0.587609648705|sodium_hypochlorite#0.551788270473|soap#0.53823107481|sodium_carbonate#0.531147420406	limewater#0.338870555162|sodium_hydroxide#0.335701137781|sodium_hypochlorite#0.331500351429|soap#0.329610109329	lye|||lye|||is_a
+lymphokine	cytokine#0.565045773983|interleukin#0.56099653244	cytokine#0.347174912691|interleukin#0.345691025257	lymphokine|||lymphokine|||is_a
+lysergic acid			lysergic_acid|||acid|||is_a
+lysine	arginine#0.716557264328|histidine#0.689574539661|amino_acid#0.656961798668|serine#0.654641211033|cysteine#0.653089165688|threonine#0.645322740078|methionine#0.6428642869|leucine#0.632011294365|glutamic_acid#0.624361157417|alanine#0.616598248482	arginine#0.376192569733|histidine#0.374066650867|amino_acid#0.366255760193|serine#0.362580984831|cysteine#0.349928915501|threonine#0.346530765295|leucine#0.346487402916|tyrosine#0.345949232578|glutamic_acid#0.345461696386|methionine#0.342274308205	lysine|||lysine|||is_a
+lysol			lysol|||lysol|||is_a
+lysozyme	elastase#0.505060851574|protease#0.502692341805|amylase#0.492242068052	elastase#0.321254909039|protease#0.316833466291	lysozyme|||lysozyme|||is_a
+macromolecule	polymer#0.517557799816	polymer#0.310844272375	macromolecule|||macromolecule|||is_a
+madia oil			madia|||oil|||is_a
+magnesium bicarbonate	carbonate#0.665458798409|sodium_chloride#0.652550399303|hydroxide#0.59064245224	carbonate#0.239265665412|sodium_chloride#0.236659646034	magnesium_bicarbonate|||magnesium|||bicarbonate|||is_a
+magnesium carbonate			magnesium_carbonate|||magnesium|||carbonate|||is_a
+magnesium hydroxide	carbonate#0.695611417294	carbonate#0.278187870979	magnesium_hydroxide|||magnesium|||hydroxide|||is_a
+magnesium nitride	oxide#0.69782602787	oxide#0.245512127876	magnesium_nitride|||magnesium|||nitride|||is_a
+magnesium sulfate	hydroxide#0.651714622974	hydroxide#0.266213476658	magnesium_sulfate|||magnesium|||sulfate|||is_a
+malathion	organophosphate#0.647190093994|insecticide#0.640760481358|lindane#0.624156355858	insecticide#0.37646985054|organophosphate#0.371691405773	malathion|||malathion|||is_a
+maleate			maleate|||maleate|||is_a
+maleic acid	anhydride#0.600620865822|fumaric_acid#0.543672740459|tartaric_acid#0.52943366766	anhydride#0.206379622221	maleic_acid|||maleic|||acid|||is_a
+maltose	sucrose#0.677441298962|galactose#0.663568139076|lactose#0.656311035156|disaccharide#0.642892181873|raffinose#0.638146698475	disaccharide#0.363730639219|galactose#0.358537822962|sucrose#0.357305586338|lactose#0.35601875186	maltose|||maltose|||is_a
+manganate			manganate|||manganate|||is_a
+manganese tetroxide	oxide#0.659973978996	oxide#0.355982303619	manganese|||tetroxide|||is_a
+manganic acid			manganic|||acid|||is_a
+manure	fertilizer#0.643282651901|chicken_manure#0.641425490379|cow_manure#0.64046984911	chicken_manure#0.360578358173|fertilizer#0.357376098633	manure|||manure|||is_a
+maple sugar	sago#0.601100683212	sago#0.211868748069	maple_sugar|||maple|||sugar|||is_a
+marbling	maroon#0.584453046322	maroon#0.325829803944	marbling|||marbling|||is_a
+margaric acid			margaric_acid|||acid|||is_a
+margarin			is_a
+maroon			maroon|||maroon|||is_a
+marsh gas	fresh_water#0.496892958879	fresh_water#0.152070775628	marsh_gas|||marsh|||gas|||is_a
+mastic	balsam#0.622411191463|copal#0.613633334637	balsam#0.382271260023|copal#0.369104146957	mastic|||mastic|||is_a
+melamine	cyanuric_acid#0.582751452923|corn_gluten#0.500040113926	cyanuric_acid#0.315425157547|corn_gluten#0.30453312397	melamine|||melamine|||is_a
+melamine resin	polyurethane#0.643718004227|urethane#0.605447053909	polyurethane#0.234744176269|urethane#0.218670323491	melamine_resin|||melamine|||resin|||is_a
+meltwater			meltwater|||meltwater|||is_a
+menhaden oil	fish_meal#0.505327880383|olive_oil#0.502648413181	fish_meal#0.164272338152	menhaden_oil|||menhaden|||oil|||is_a
+menthol	camphor#0.547963738441|methyl_salicylate#0.542012274265		menthol|||menthol|||is_a
+mercury fulminate	chlorate#0.560072660446	chlorate#0.201214522123	mercury_fulminate|||mercury|||fulminate|||is_a
+messenger rna	nucleic_acid#0.637722015381|deoxyribonucleic_acid#0.628769993782|endonuclease#0.620026171207	deoxyribonucleic_acid#0.230912297964|nucleic_acid#0.225068971515|endonuclease#0.224961161613|ribonucleic_acid#0.213408321142|nucleoside#0.208968639374	messenger_rna|||messenger|||rna|||is_a
+metaphosphoric acid			metaphosphoric_acid|||acid|||is_a
+methacrylic acid			methacrylic_acid|||methacrylic|||acid|||is_a
+methane	ethane#0.629340946674|carbon_dioxide#0.587682008743	ethane#0.324201434851	methane|||methane|||is_a
+methane series			methane|||series|||is_a
+methionine	cysteine#0.68128657341|leucine#0.63356679678|lysine#0.63111102581|valine#0.630884110928|tryptophan#0.626880764961|amino_acid#0.618563771248|phenylalanine#0.61600869894|isoleucine#0.614304184914|arginine#0.611386954784	cysteine#0.364292323589|amino_acid#0.350596189499|leucine#0.349086850882|tryptophan#0.34335282445|valine#0.343268364668|isoleucine#0.340104132891|phenylalanine#0.339012652636|essential_amino_acid#0.337283402681|serine#0.336500048637|lysine#0.336326777935	methionine|||methionine|||is_a
+methyl bromide	chloride#0.686879277229|iodide#0.590029835701	chloride#0.232338875532|dichloride#0.202452898026	methyl_bromide|||methyl|||bromide|||is_a
+methyl salicylate	salicylic_acid#0.605540513992	salicylic_acid#0.212217628956	methyl_salicylate|||methyl|||salicylate|||is_a
+methylene blue			methylene_blue|||methylene|||blue|||is_a
+methylene chloride	bromide#0.638656973839		methylene_chloride|||methylene|||chloride|||is_a
+microcosmic salt	magnesium_sulfate#0.508527994156		microcosmic_salt|||microcosmic|||salt|||is_a
+mineral oil	vegetable_oil#0.559831798077|linseed_oil#0.552880108356|paraffin#0.537070512772	linseed_oil#0.198907539248	mineral_oil|||mineral|||oil|||is_a
+mono iodotyrosine			mono|||iodotyrosine|||is_a
+monoamine	serotonin#0.601463675499|dopamine#0.570169746876|neurotransmitter#0.565224885941|noradrenaline#0.557513475418	serotonin#0.346310168505|neurotransmitter#0.328273653984	monoamine|||monoamine|||is_a
+monoamine neurotransmitter	serotonin#0.777007818222|dopamine#0.739013969898|noradrenaline#0.721207201481|acetylcholine#0.672856092453	serotonin#0.307749330997|noradrenaline#0.280052274466|dopamine#0.279346346855	monoamine_neurotransmitter|||monoamine|||neurotransmitter|||is_a
+monoamine oxidase			monoamine_oxidase|||monoamine|||oxidase|||is_a
+monobasic acid			monobasic_acid|||monobasic|||acid|||is_a
+monoclonal antibody			monoclonal_antibody|||monoclonal|||antibody|||is_a
+monohydrate	zinc_sulfate#0.538479506969	zinc_sulfate#0.340500235558	monohydrate|||monohydrate|||is_a
+monomer	copolymer#0.583528280258|polymer#0.577627837658|dimer#0.552072286606	copolymer#0.342227876186|polymer#0.335567086935	monomer|||monomer|||is_a
+monosaccharide	ketose#0.617440223694|disaccharide#0.575932562351|aldose#0.549866437912|hexose#0.548673510551|oligosaccharide#0.534902334213	ketose#0.363221943378|disaccharide#0.34189671278|hexose#0.339570552111|aldose#0.327944248915|glycoside#0.326858431101	monosaccharide|||monosaccharide|||is_a
+monounsaturated fatty acid	linoleic_acid#0.696753203869|oleic_acid#0.693511962891|palmitic_acid#0.685747921467|myristic_acid#0.676424980164	myristic_acid#0.168338418007|linoleic_acid#0.167542666197|oleic_acid#0.164968401194|palmitic_acid#0.164308801293	monounsaturated_fatty_acid|||monounsaturated|||fatty|||acid|||is_a
+monoxide	trioxide#0.573930025101		monoxide|||monoxide|||is_a
+montan wax	beeswax#0.556941092014	beeswax#0.185400411487	montan_wax|||montan|||wax|||is_a
+motor oil	kerosene#0.603753268719|gasoline#0.588942945004	kerosene#0.21408213675	motor_oil|||motor|||oil|||is_a
+mucic acid			mucic_acid|||acid|||is_a
+mucin	glycoprotein#0.597821593285	glycoprotein#0.371676623821	mucin|||mucin|||is_a
+mucoid	mucin#0.522956430912	mucin#0.322755783796	mucoid|||mucoid|||is_a
+mucopolysaccharide			mucopolysaccharide|||mucopolysaccharide|||is_a
+muriatic acid	hydrochloric_acid#0.554714858532	hydrochloric_acid#0.190103709698	muriatic_acid|||muriatic|||acid|||is_a
+mustard oil	sesame_oil#0.758216202259|olive_oil#0.733940541744|vegetable_oil#0.714725375175|cooking_oil#0.707751214504|vinegar#0.676868855953	sesame_oil#0.30436244607|olive_oil#0.289543777704|vegetable_oil#0.281452476978|cooking_oil#0.276510745287	mustard_oil|||mustard|||oil|||is_a
+muton			muton|||muton|||is_a
+mutton tallow	lard#0.657046914101|beeswax#0.618412613869	lard#0.224204689264|beeswax#0.210738971829	mutton_tallow|||mutton|||tallow|||is_a
+myelin			myelin|||myelin|||is_a
+myoglobin	hemoglobin#0.649641156197	hemoglobin#0.338425904512	myoglobin|||myoglobin|||is_a
+myosin	actin#0.775644779205	actin#0.37858325243	myosin|||myosin|||is_a
+myristic acid	oleic_acid#0.668345212936|linoleic_acid#0.663930118084|palmitic_acid#0.656474471092|stearic_acid#0.646969377995	linoleic_acid#0.24105258286|stearic_acid#0.239652723074|oleic_acid#0.239513486624	myristic_acid|||myristic|||acid|||is_a
+myrrh	storax#0.746646463871|copal#0.67036151886|stacte#0.669376969337|labdanum#0.667531728745|balsam#0.642607212067	storax#0.435781925917|stacte#0.390695542097|copal#0.38873398304|balsam#0.383712589741|labdanum#0.382006108761	myrrh|||myrrh|||is_a
+napalm	high_explosive#0.613786101341	high_explosive#0.36286559701	napalm|||napalm|||is_a
+naphtha	fuel_oil#0.702686905861|kerosene#0.657231330872	fuel_oil#0.397676587105|kerosene#0.373025238514	naphtha|||naphtha|||is_a
+naphthalene	benzene#0.623037397861|toluene#0.596233427525		naphthalene|||naphthalene|||is_a
+naphthol	benzoic_acid#0.488929092884		naphthol|||naphthol|||is_a
+natrolite	chabazite#0.66315305233|heulandite#0.646408200264|phillipsite#0.63954436779	chabazite#0.385173857212|heulandite#0.383157789707	natrolite|||natrolite|||is_a
+natural resin			natural_resin|||natural|||resin|||is_a
+neat's foot oil			neat|||s|||foot|||oil|||is_a
+nebula			nebula|||nebula|||is_a
+neem cake	lemongrass#0.545106768608		neem_cake|||neem|||cake|||is_a
+neoprene	nylon#0.717146754265|polyurethane#0.687295973301|polyester#0.649354815483	nylon#0.406588703394|polyurethane#0.400335818529|polyester#0.37844362855	neoprene|||neoprene|||is_a
+neroli oil			neroli_oil|||neroli|||oil|||is_a
+nerve growth factor	growth_factor#0.637555539608|cytokine#0.631725072861	growth_factor#0.135726481676|cytokine#0.134863913059	nerve_growth_factor|||nerve|||growth|||factor|||is_a
+neurochemical	neurotransmitter#0.539949476719	neurotransmitter#0.301196008921	neurochemical|||neurochemical|||is_a
+neurotransmitter	acetylcholine#0.698150515556|serotonin#0.667422056198|dopamine#0.663160681725|monoamine#0.661971330643	monoamine#0.37769022584|serotonin#0.360094577074|acetylcholine#0.356709182262	neurotransmitter|||neurotransmitter|||is_a
+nicotine	caffeine#0.599758982658	caffeine#0.321287035942	nicotine|||nicotine|||is_a
+night soil	manure#0.618775904179	manure#0.177440643311	night_soil|||night|||soil|||is_a
+nitrate	ammonium#0.621419727802|potassium_nitrate#0.601993501186|sodium_nitrate#0.580361366272|chlorate#0.577567219734	ammonium#0.350148499012|potassium_nitrate#0.347006469965|sodium_nitrate#0.338150709867	nitrate|||nitrate|||is_a
+nitric acid	hydrochloric_acid#0.697006881237|phosphoric_acid#0.610772311687	hydrochloric_acid#0.249119967222|phosphoric_acid#0.224920228124	nitric_acid|||nitric|||acid|||is_a
+nitride	oxide#0.699469864368|carbide#0.689997136593|silicon_carbide#0.684205412865	oxide#0.411117523909	nitride|||nitride|||is_a
+nitrile	acetal#0.544853806496|diamine#0.53968667984|isocyanate#0.534865379333|imide#0.528954744339	diamine#0.325097411871|imide#0.323888272047|isocyanate#0.318291783333	nitrile|||nitrile|||is_a
+nitrobenzene	benzene#0.591250121593|toluene#0.573014974594|aniline#0.550106942654	benzene#0.32220095396|toluene#0.319332003593|aniline#0.311573058367	nitrobenzene|||nitrobenzene|||is_a
+nitrofuran			nitrofuran|||nitrofuran|||is_a
+nitrogen dioxide	trioxide#0.683720350266|sulfur_dioxide#0.660148561001|monoxide#0.655131876469|carbon_dioxide#0.616973042488|nitrogen_oxide#0.601968586445	trioxide#0.23963303864|monoxide#0.232245996594|sulfur_dioxide#0.219567120075|carbon_dioxide#0.20076777041	nitrogen_dioxide|||nitrogen|||dioxide|||is_a
+nitrogen mustard			nitrogen_mustard|||nitrogen|||mustard|||is_a
+nitrogen oxide	monoxide#0.599534511566|trioxide#0.580070853233|nitrogen_dioxide#0.564648211002	monoxide#0.203321903944|trioxide#0.195673018694|nitrogen_dioxide#0.182563379407	nitrogen_oxide|||nitrogen|||oxide|||is_a
+nitrogen trichloride	monoxide#0.575246691704|pentoxide#0.566895365715|trioxide#0.541644096375	monoxide#0.195591598749|pentoxide#0.193160668015|trioxide#0.183214768767	nitrogen_trichloride|||nitrogen|||trichloride|||is_a
+nitrogenase	oxidase#0.508495211601	oxidase#0.316317290068|enzyme#0.3150370121	nitrogenase|||nitrogenase|||is_a
+nitroglycerin	potassium_chlorate#0.57771974802|tnt#0.568909347057|explosive#0.565593421459|ammonium_nitrate#0.549791157246|dynamite#0.542998373508	potassium_chlorate#0.327933043242|explosive#0.325349509716|tnt#0.320160835981|ammonium_nitrate#0.313301533461|potassium_nitrate#0.311501860619	nitroglycerin|||nitroglycerin|||is_a
+nitrous acid	anhydride#0.654588699341|nitric_acid#0.618003547192|hydrochloric_acid#0.569495141506|oxalic_acid#0.566610872746|butyric_acid#0.547259867191	anhydride#0.226383328438|nitric_acid#0.205350056291|oxalic_acid#0.192385554314|butyric_acid#0.189560249448	nitrous_acid|||nitrous|||acid|||is_a
+nonsteroid			nonsteroid|||nonsteroid|||is_a
+noradrenaline	serotonin#0.770706236362|dopamine#0.695674240589|monoamine#0.65285551548	serotonin#0.407654553652|monoamine#0.373450785875|dopamine#0.359511196613	noradrenaline|||noradrenaline|||is_a
+nuclear rna	deoxyribonucleic_acid#0.591308236122|endonuclease#0.554453074932	deoxyribonucleic_acid#0.310470342636|protein#0.301226556301	nuclear|||rna|||is_a
+nuclease	endonuclease#0.760735213757|exonuclease#0.650275290012	endonuclease#0.450198382139|exonuclease#0.379502534866	nuclease|||nuclease|||is_a
+nucleic acid	deoxyribonucleic_acid#0.53201341629|nucleoside#0.503200352192	deoxyribonucleic_acid#0.157874792814|nucleoside#0.150155112147	nucleic_acid|||nucleic|||acid|||is_a
+nucleoprotein	polymerase#0.511623382568|nucleic_acid#0.502710402012		nucleoprotein|||nucleoprotein|||is_a
+nucleoside	nucleotide#0.633342146873|purine#0.610722780228	nucleotide#0.37295255065	nucleoside|||nucleoside|||is_a
+nucleotide	nucleoside#0.709535777569|uracil#0.605645358562|thymine#0.601342439651|nucleic_acid#0.59181022644	nucleoside#0.414146661758|uracil#0.349808990955|thymine#0.344813793898|nucleic_acid#0.34333884716	nucleotide|||nucleotide|||is_a
+nylon	polyester#0.812292933464|neoprene#0.728668093681|polyamide#0.68547052145	polyester#0.460790008307|neoprene#0.412990957499|polyamide#0.393930315971	nylon|||nylon|||is_a
+obidoxime chloride	bromide#0.572426915169		obidoxime|||chloride|||is_a
+octane	gasoline#0.641582131386|unleaded_gasoline#0.631583809853	unleaded_gasoline#0.355039149523|gasoline#0.345713019371	octane|||octane|||is_a
+oil	vegetable_oil#0.638278245926|mineral_oil#0.609622836113|coconut_oil#0.590332210064|petroleum#0.578607857227	vegetable_oil#0.377285599709|mineral_oil#0.362857550383	oil|||oil|||is_a
+oleic acid	linoleic_acid#0.72099840641|stearic_acid#0.696504831314|palmitic_acid#0.688146948814|linolenic_acid#0.653370022774	linoleic_acid#0.278441280127|stearic_acid#0.275215387344|palmitic_acid#0.262387752533	oleic_acid|||oleic|||acid|||is_a
+oleo oil			oleo|||oil|||is_a
+oleoresin	balsam#0.61253207922|essential_oil#0.594496905804	balsam#0.374078989029|essential_oil#0.355582773685	oleoresin|||oleoresin|||is_a
+oleoresin capiscum	balsam#0.516935527325		oleoresin|||is_a
+oligosaccharide	polysaccharide#0.602172255516|disaccharide#0.545739114285	polysaccharide#0.367578655481|tetrasaccharide#0.33473098278	oligosaccharide|||oligosaccharide|||is_a
+olive oil	sesame_oil#0.75942581892|vegetable_oil#0.75681835413|sunflower_oil#0.714160859585|coconut_oil#0.702436566353|cooking_oil#0.663605451584|peanut_oil#0.650914430618	sesame_oil#0.325905621052|vegetable_oil#0.323259264231|sunflower_oil#0.296640694141|coconut_oil#0.288435310125|cooking_oil#0.272886514664	olive_oil|||olive|||oil|||is_a
+omega 3 fatty acid	fatty_acid#0.655112206936|linoleic_acid#0.654959559441	fatty_acid#0.235858291388|linoleic_acid#0.225045934319	omega|||fatty|||acid|||is_a
+omega 6 fatty acid	fatty_acid#0.655112206936|linoleic_acid#0.654959559441	fatty_acid#0.235858291388|linoleic_acid#0.225045934319	omega|||fatty|||acid|||is_a
+operon			operon|||operon|||is_a
+opsin			opsin|||opsin|||is_a
+opsonin			opsonin|||opsonin|||is_a
+organic	humic_acid#0.519190609455	humic_acid#0.329611897469	organic|||organic|||is_a
+organic compound	aromatic_compound#0.600640654564	aromatic_compound#0.243665829301	organic_compound|||organic|||compound|||is_a
+organophosphate	malathion#0.630945384502|insecticide#0.603353083134|parathion#0.601645708084	malathion#0.363199234009|insecticide#0.360762894154	organophosphate|||organophosphate|||is_a
+ornithine	citrulline#0.622182965279|arginine#0.618815779686|glutamine#0.586797177792|alanine#0.560468554497	arginine#0.341342002153|citrulline#0.340758025646	ornithine|||ornithine|||is_a
+otaheite arrowroot			arrowroot|||is_a
+oxalacetate			oxalacetate|||oxalacetate|||is_a
+oxalacetic acid			oxalacetic_acid|||oxalacetic|||acid|||is_a
+oxalate	oxalic_acid#0.573170304298|citrate#0.572454750538|thiocyanate#0.515413820744	citrate#0.337808400393|oxalic_acid#0.336122334003	oxalate|||oxalate|||is_a
+oxalic acid	anhydride#0.579668521881	anhydride#0.221012279391	oxalic_acid|||oxalic|||acid|||is_a
+oxidase	reductase#0.596508383751|oxidoreductase#0.574216842651	reductase#0.379568725824|oxidoreductase#0.36809912324	oxidase|||oxidase|||is_a
+oxide			oxide|||oxide|||is_a
+oxidized ldl cholesterol	lipoprotein#0.708274245262	lipoprotein#0.211923658848	oxidized|||ldl|||cholesterol|||is_a
+oxidoreductase	reductase#0.723785340786	reductase#0.455191850662	oxidoreductase|||oxidoreductase|||is_a
+oxime	carboxylic_acid#0.52133846283|aldehyde#0.515813291073		oxime|||oxime|||is_a
+oxyacid	quaternary_ammonium_compound#0.455316990614	quaternary_ammonium_compound#0.311346054077	oxyacid|||oxyacid|||is_a
+oxygenase	decarboxylase#0.574149250984|reductase#0.570197582245	decarboxylase#0.362025439739|reductase#0.358816087246	oxygenase|||oxygenase|||is_a
+oxyhemoglobin	hemoglobin#0.572710454464	hemoglobin#0.306261152029	oxyhemoglobin|||oxyhemoglobin|||is_a
+ozonide			ozonide|||ozonide|||is_a
+palm oil	coconut_oil#0.726823925972|vegetable_oil#0.722619235516|sesame_oil#0.685873329639|olive_oil#0.667491137981|peanut_oil#0.658244371414	vegetable_oil#0.285993337631|coconut_oil#0.281808674335|sesame_oil#0.271358847618|olive_oil#0.259905934334|peanut_oil#0.254557132721	palm_oil|||palm|||oil|||is_a
+palmitic acid	oleic_acid#0.705415248871|linoleic_acid#0.699370622635|stearic_acid#0.685753047466|myristic_acid#0.664984464645	stearic_acid#0.268478274345|linoleic_acid#0.267725855112|oleic_acid#0.266086131334|myristic_acid#0.262315034866	palmitic_acid|||palmitic|||acid|||is_a
+palmitin			palmitin|||palmitin|||is_a
+pantothenic acid			pantothenic_acid|||acid|||is_a
+papain	trypsin#0.614423692226|protease#0.591046929359|pepsin#0.49417090416	trypsin#0.354862630367|protease#0.352670490742	papain|||papain|||is_a
+para aminobenzoic acid			para_aminobenzoic_acid|||para|||acid|||is_a
+paraffin	kerosene#0.678939700127|oil#0.604205548763|wax#0.588722586632|beeswax#0.57481688261	kerosene#0.385237395763|oil#0.354678452015|wax#0.352882176638	paraffin|||paraffin|||is_a
+paraldehyde			paraldehyde|||paraldehyde|||is_a
+paraquat	malathion#0.631560862064|herbicide#0.595784068108|parathion#0.588499724865|pesticide#0.563356101513	malathion#0.346700936556|herbicide#0.337475448847|insecticide#0.3186160326	paraquat|||paraquat|||is_a
+parathion	organophosphate#0.673274993896|malathion#0.662578821182|lindane#0.606092631817	organophosphate#0.374058753252|malathion#0.365524291992	parathion|||parathion|||is_a
+paris green			paris_green|||paris|||green|||is_a
+peanut oil	sunflower_oil#0.761353433132|vegetable_oil#0.758508503437|soybean_oil#0.736787676811|sesame_oil#0.734932541847|canola_oil#0.732863843441|coconut_oil#0.729866564274|corn_oil#0.726194143295	vegetable_oil#0.307710021734|sunflower_oil#0.303912103176|sesame_oil#0.298110693693|soybean_oil#0.294037491083|canola_oil#0.288051307201|coconut_oil#0.287001997232|corn_oil#0.283121109009	peanut_oil|||peanut|||oil|||is_a
+pearl ash			pearl_ash|||pearl|||ash|||is_a
+pearl sago			pearl_sago|||pearl|||sago|||is_a
+pectic acid			pectic_acid|||pectic|||acid|||is_a
+pectin	starch#0.670875310898|gelatin#0.558191895485|polysaccharide#0.552351713181|dextrin#0.551018178463	starch#0.374459803104|dextrin#0.333948463202|polysaccharide#0.33358886838|gelatin#0.324986696243	pectin|||pectin|||is_a
+pediculicide			pediculicide|||pediculicide|||is_a
+penicillinase			penicillinase|||penicillinase|||is_a
+pennyroyal oil	essential_oil#0.502619624138	essential_oil#0.15745395422	pennyroyal_oil|||pennyroyal|||oil|||is_a
+pentose	ribose#0.527268469334|hexose#0.494736909866	hexose#0.305625468493|ribose#0.30447602272	pentose|||pentose|||is_a
+pentoxide	trioxide#0.628381311893|tetroxide#0.536193132401|monoxide#0.487211257219|dioxide#0.477410495281	trioxide#0.372603744268|tetroxide#0.330023109913	pentoxide|||pentoxide|||is_a
+pepsin	trypsin#0.662005901337|protease#0.596989452839|pepsinogen#0.595975220203|lipase#0.552462637424	trypsin#0.380152493715|protease#0.357906937599|pepsinogen#0.347460865974|lipase#0.338424414396|ptyalin#0.33337032795	pepsin|||pepsin|||is_a
+pepsinogen	pepsin#0.597107231617|trypsin#0.538306176662	pepsin#0.348034352064|trypsin#0.321803182364	pepsinogen|||pepsinogen|||is_a
+peptide	polypeptide#0.673433065414	polypeptide#0.403988689184	peptide|||peptide|||is_a
+peptone			peptone|||peptone|||is_a
+perboric acid			acid|||is_a
+perchlorate	chlorate#0.544863045216	chlorate#0.306304067373	perchlorate|||perchlorate|||is_a
+perchloric acid	anhydride#0.602772414684|hydrochloric_acid#0.556206405163|nitric_acid#0.535101830959	anhydride#0.2010499686	perchloric_acid|||perchloric|||acid|||is_a
+perchloride	iron_perchloride#0.551064252853	iron_perchloride#0.329361379147	perchloride|||perchloride|||is_a
+percolate			percolate|||percolate|||is_a
+perfluorocarbon			perfluorocarbon|||perfluorocarbon|||is_a
+periodic acid			periodic_acid|||periodic|||acid|||is_a
+permanganate	potassium_permanganate#0.676179885864|perchloric_acid#0.620638787746|potassium_dichromate#0.607520103455|hypochlorite#0.566320598125	potassium_permanganate#0.37500461936|perchloric_acid#0.348536431789|potassium_dichromate#0.340487509966	permanganate|||permanganate|||is_a
+permanganic acid			permanganic_acid|||acid|||is_a
+peroxidase	glutathione_peroxidase#0.626582503319|oxidase#0.604025423527|catalase#0.585281670094|superoxide_dismutase#0.568407654762	glutathione_peroxidase#0.375017940998|oxidase#0.373483151197|catalase#0.351770371199|superoxide_dismutase#0.348690539598	peroxidase|||peroxidase|||is_a
+peroxide			peroxide|||peroxide|||is_a
+pesticide	insecticide#0.777117431164|herbicide#0.690585970879	insecticide#0.439732372761|herbicide#0.390853136778	pesticide|||pesticide|||is_a
+petrochemical			petrochemical|||petrochemical|||is_a
+petroleum	petrochemical#0.642465233803|oil#0.626333832741	petrochemical#0.365100771189|oil#0.363351643085	petroleum|||petroleum|||is_a
+phenol	benzoic_acid#0.59867811203|carbolic_acid#0.559023797512|cresol#0.551604270935	benzoic_acid#0.335123866796|carbolic_acid#0.330473393202	phenol|||phenol|||is_a
+phenolic resin	synthetic_resin#0.633952498436|epoxy#0.595297217369	synthetic_resin#0.256255745888|epoxy#0.227979689837	phenolic_resin|||phenolic|||resin|||is_a
+phenothiazine			phenothiazine|||phenothiazine|||is_a
+phenylalanine	tyrosine#0.777052819729|tryptophan#0.738297641277|leucine#0.734938681126|valine#0.715317845345|isoleucine#0.70724517107|amino_acid#0.69890832901|histidine#0.662102818489|proline#0.64546841383|glutamic_acid#0.643977284431|threonine#0.639465093613	tyrosine#0.441361814737|leucine#0.401109188795|tryptophan#0.399194270372|amino_acid#0.39378002286|isoleucine#0.387236326933|valine#0.386108636856|histidine#0.368591278791|glutamic_acid#0.360918134451|essential_amino_acid#0.356110781431|proline#0.352024167776	phenylalanine|||phenylalanine|||is_a
+phillipsite	natrolite#0.618592858315|heulandite#0.596653938293	natrolite#0.371553003788|heulandite#0.361755251884	phillipsite|||phillipsite|||is_a
+phosphatase	kinase#0.67665296793	kinase#0.431137531996	phosphatase|||phosphatase|||is_a
+phosphate	pyrophosphate#0.549067914486	pyrophosphate#0.341304540634	phosphate|||phosphate|||is_a
+phosphine	azide#0.582737743855|dichloride#0.547671556473	dichloride#0.32387727499|azide#0.317509204149	phosphine|||phosphine|||is_a
+phosphocreatine	adenosine_triphosphate#0.501051425934	adenosine_triphosphate#0.287750154734|iodotyrosine#0.270568817854	phosphocreatine|||phosphocreatine|||is_a
+phospholipid	lipid#0.766301393509|fatty_acid#0.593767106533|cholesterol#0.565283596516	lipid#0.436596900225|fatty_acid#0.35668733716	phospholipid|||phospholipid|||is_a
+phosphoprotein	protein#0.652888834476	protein#0.432439357042	phosphoprotein|||phosphoprotein|||is_a
+phosphor			phosphor|||phosphor|||is_a
+phosphoric acid	hydrochloric_acid#0.575916528702	hydrochloric_acid#0.204905465245	phosphoric_acid|||phosphoric|||acid|||is_a
+phthalic acid	anhydride#0.606930613518|ester#0.534832894802	anhydride#0.210543617606|ester#0.188985675573	phthalic_acid|||phthalic|||acid|||is_a
+phthalic anhydride	phthalic_acid#0.603099226952|aniline#0.545579910278|ester#0.537856519222|sulfonic_acid#0.519951999187	phthalic_acid#0.199385285378|ester#0.185922592878|organic_compound#0.176448181272	phthalic_anhydride|||phthalic|||anhydride|||is_a
+physostigmine	pilocarpine#0.588166534901|atropine#0.578901767731		physostigmine|||physostigmine|||is_a
+phytochemical	flavonoid#0.476669788361	flavonoid#0.307076185942	phytochemical|||phytochemical|||is_a
+picric acid	nitric_acid#0.53377366066|phosphoric_acid#0.505087673664	nitric_acid#0.181578293443	picric_acid|||picric|||acid|||is_a
+pilocarpine	physostigmine#0.60394603014|atropine#0.553874909878	physostigmine#0.332427024841	pilocarpine|||pilocarpine|||is_a
+pine tar	turpentine#0.672113895416|balsam#0.643580794334|creosote#0.593472838402|mastic#0.59199655056	turpentine#0.228736147285|balsam#0.224028259516|mastic#0.20400314033|creosote#0.196996077895	pine_tar|||pine|||tar|||is_a
+pisang wax			pisang|||wax|||is_a
+pitch			pitch|||pitch|||is_a
+plasma protein			plasma_protein|||plasma|||protein|||is_a
+plasma thromboplastin antecedent	prothrombin#0.569182276726|thrombin#0.566819608212		plasma_thromboplastin_antecedent|||plasma|||thromboplastin|||antecedent|||is_a
+plasmin	plasminogen#0.73762512207|thrombin#0.664099931717|plasminogen_activator#0.617464601994	plasminogen#0.42678809166|thrombin#0.379081070423|plasminogen_activator#0.377512127161	plasmin|||plasmin|||is_a
+plasminogen	plasmin#0.74702835083|thrombin#0.594227313995|plasminogen_activator#0.564069032669|elastase#0.555219233036	plasmin#0.432139962912|plasminogen_activator#0.348675519228|thrombin#0.344482451677|elastase#0.343950629234	plasminogen|||plasminogen|||is_a
+plasminogen activator	plasmin#0.701611578465|thrombin#0.649070203304|streptokinase#0.61625957489	plasmin#0.289535671473|thrombin#0.259135216475|streptokinase#0.25441417098	plasminogen_activator|||plasminogen|||activator|||is_a
+plaster of paris	wax#0.625150680542|gesso#0.622278392315|plasticine#0.59753036499	wax#0.144687071443|gesso#0.139136627316|plasticine#0.134536907077	plaster_of_paris|||plaster|||of|||paris|||is_a
+plastic explosive	high_explosive#0.696376502514|tnt#0.630980730057	high_explosive#0.259457111359	plastic_explosive|||plastic|||explosive|||is_a
+plasticine	plaster_of_paris#0.550351679325		plasticine|||plasticine|||is_a
+plasticizer			plasticizer|||plasticizer|||is_a
+plexiglas	styrofoam#0.596261262894	lucite#0.345848560333|styrofoam#0.343730866909	plexiglas|||plexiglas|||is_a
+polish			polish|||polish|||is_a
+polyamide	polyester#0.751127302647|polyurethane#0.687701046467|nylon#0.662507295609|polyethylene#0.644611656666	polyester#0.433204740286|polyurethane#0.402864545584|nylon#0.381572902203	polyamide|||polyamide|||is_a
+polyester	nylon#0.785485684872|polyamide#0.7489361763|polyurethane#0.723018825054|polyethylene#0.693921387196	nylon#0.445044755936|polyamide#0.431952238083|polyurethane#0.421871751547	polyester|||polyester|||is_a
+polyester fiber	polyamide#0.733646988869|nylon#0.731031417847	polyamide#0.276042610407|nylon#0.27113750577	polyester_fiber|||polyester|||fiber|||is_a
+polyethylene	polyvinyl_chloride#0.720838487148|polyester#0.718389093876|polyurethane#0.710636794567	polyvinyl_chloride#0.41447776556|polyester#0.411348819733|polyurethane#0.410337358713	polyethylene|||polyethylene|||is_a
+polyfoam			polyfoam|||polyfoam|||is_a
+polymer	copolymer#0.692313432693|polyamide#0.615699470043|polystyrene#0.600697636604	copolymer#0.400176167488|polyamide#0.360805273056	polymer|||polymer|||is_a
+polymerase	dna_polymerase#0.761824250221|reverse_transcriptase#0.681033372879	dna_polymerase#0.424051523209|reverse_transcriptase#0.396976262331|endonuclease#0.378770560026	polymerase|||polymerase|||is_a
+polymethyl methacrylate	polystyrene#0.579581677914|copolymer#0.578532636166	copolymer#0.213586956263|polystyrene#0.207996457815	polymethyl_methacrylate|||polymethyl|||methacrylate|||is_a
+polypeptide	protein#0.654081463814|peptide#0.623203516006	protein#0.420224368572|peptide#0.377050757408	polypeptide|||polypeptide|||is_a
+polyphosphate			polyphosphate|||polyphosphate|||is_a
+polyphosphoric acid	anhydride#0.520828485489	anhydride#0.285620987415	polyphosphoric_acid|||acid|||is_a
+polypropenonitrile			is_a
+polysaccharide	disaccharide#0.589615166187|oligosaccharide#0.576619684696|chitin#0.5483071208	disaccharide#0.356461197138|oligosaccharide#0.3544947505	polysaccharide|||polysaccharide|||is_a
+polystyrene	polyethylene#0.703090250492|polyurethane#0.685231149197|polyvinyl_chloride#0.681049227715	polyethylene#0.393207997084|polyurethane#0.392714768648|polyvinyl_chloride#0.389583528042	polystyrene|||polystyrene|||is_a
+polyunsaturated fat	trans_fatty_acid#0.619403421879	trans_fatty_acid#0.235475614667	polyunsaturated_fat|||polyunsaturated|||fat|||is_a
+polyunsaturated fatty acid	linoleic_acid#0.714376449585|oleic_acid#0.685068190098|fatty_acid#0.681498289108	linoleic_acid#0.184707641602|fatty_acid#0.180497005582|oleic_acid#0.173626422882	polyunsaturated_fatty_acid|||polyunsaturated|||fatty|||acid|||is_a
+polyurethane	urethane#0.733213305473|polyester#0.709936022758	urethane#0.425134092569|polyester#0.414543330669	polyurethane|||polyurethane|||is_a
+polyvinyl acetate	polyvinyl_chloride#0.551880955696	polyvinyl_chloride#0.197702258825	polyvinyl_acetate|||polyvinyl|||acetate|||is_a
+polyvinyl chloride	polyethylene#0.531025886536		polyvinyl_chloride|||polyvinyl|||chloride|||is_a
+porpoise oil			porpoise_oil|||porpoise|||oil|||is_a
+potash	gypsum#0.571547865868|sodium_nitrate#0.570142030716	gypsum#0.337296396494|sodium_nitrate#0.336220294237	potash|||potash|||is_a
+potassium bicarbonate	sodium_chloride#0.686406373978|sulfate#0.664133727551|potassium_chloride#0.624352633953|sodium_carbonate#0.623355031013	sodium_chloride#0.255769699812|sulfate#0.249860391021|sodium_carbonate#0.232401952147	potassium_bicarbonate|||potassium|||bicarbonate|||is_a
+potassium bromide	chloride#0.718866288662|iodide#0.681574761868	chloride#0.278152674437|iodide#0.258955597878	potassium_bromide|||potassium|||bromide|||is_a
+potassium carbonate	hydroxide#0.710456609726|sulfate#0.690684258938|sodium_carbonate#0.687202751637|sodium_chloride#0.653304755688	hydroxide#0.287897765636|sulfate#0.277543514967|sodium_carbonate#0.271151185036	potassium_carbonate|||potassium|||carbonate|||is_a
+potassium chlorate	potassium_nitrate#0.664054751396|nitrate#0.648556292057|ammonium#0.628300130367	potassium_nitrate#0.251564532518|nitrate#0.241793423891	potassium_chlorate|||potassium|||chlorate|||is_a
+potassium chloride	sodium_chloride#0.703097522259|bromide#0.656397402287	sodium_chloride#0.278127074242|sulfate#0.26111894846	potassium_chloride|||potassium|||chloride|||is_a
+potassium cyanide	sodium_cyanide#0.68988764286|hydroxide#0.58704906702|copper_sulfate#0.559853971004	sodium_cyanide#0.242746517062|hydroxide#0.210071831942|copper_sulfate#0.200343579054	potassium_cyanide|||potassium|||cyanide|||is_a
+potassium dichromate	chromate#0.657455384731|permanganate#0.651804149151|potassium_permanganate#0.646361112595|hydroxide#0.632245659828|hypochlorite#0.623350739479|silver_nitrate#0.615703344345	chromate#0.244012221694|potassium_permanganate#0.241578698158|hydroxide#0.240061655641|hypochlorite#0.23572294414|permanganate#0.23351970315	potassium_dichromate|||potassium|||dichromate|||is_a
+potassium ferrocyanide	hydroxide#0.619929671288|sulfate#0.614620029926	hydroxide#0.224900245667	potassium_ferrocyanide|||potassium|||ferrocyanide|||is_a
+potassium iodide	sodium_iodide#0.71198964119|bromide#0.683539867401|chloride#0.681053638458	sodium_iodide#0.283407002687|chloride#0.26326033473|bromide#0.258948147297	potassium_iodide|||potassium|||iodide|||is_a
+potassium nitrate	sodium_nitrate#0.714700758457|ammonium#0.704399824142|sulfate#0.648716270924|chlorate#0.631396412849	sodium_nitrate#0.283789843321|ammonium#0.274554252625|sulfate#0.257141321898	potassium_nitrate|||potassium|||nitrate|||is_a
+potassium permanganate	potassium_dichromate#0.686367273331|hypochlorite#0.661338150501|hydroxide#0.636222720146|perchloric_acid#0.625618517399|ammonium#0.616789221764	potassium_dichromate#0.262873262167|hypochlorite#0.256382673979|hydroxide#0.24661898613	potassium_permanganate|||potassium|||permanganate|||is_a
+precipitin			precipitin|||precipitin|||is_a
+pregnanediol			pregnanediol|||pregnanediol|||is_a
+preservative	fixative#0.586047887802		preservative|||preservative|||is_a
+proaccelerin			proaccelerin|||proaccelerin|||is_a
+proconvertin	coagulation_factor#0.527994334698|thromboplastin#0.516187310219|prothrombin#0.471919000149	coagulation_factor#0.332839548588|thromboplastin#0.322923600674	proconvertin|||proconvertin|||is_a
+product			product|||product|||is_a
+proenzyme	histaminase#0.476029783487	histaminase#0.328473716974	proenzyme|||proenzyme|||is_a
+prolamine	protein#0.470517396927	protein#0.341227024794	prolamine|||prolamine|||is_a
+proline	leucine#0.751390993595|alanine#0.696646273136|amino_acid#0.695913016796|valine#0.692846894264|serine#0.678467869759|isoleucine#0.676364302635|glutamic_acid#0.666789531708|phenylalanine#0.664622724056|histidine#0.660195350647|threonine#0.647173404694	leucine#0.4050989151|amino_acid#0.388584733009|serine#0.377409368753|valine#0.372232824564|alanine#0.369541376829|isoleucine#0.369340330362|glutamic_acid#0.368119388819|histidine#0.364363968372|phenylalanine#0.361949831247|tyrosine#0.360711157322	proline|||proline|||is_a
+propanal			propanal|||propanal|||is_a
+propellant explosive	high_explosive#0.663907468319	high_explosive#0.216579243541	propellant_explosive|||propellant|||explosive|||is_a
+propenal			propenal|||propenal|||is_a
+propenoate			propenoate|||propenoate|||is_a
+propenoic acid			propenoic_acid|||propenoic|||acid|||is_a
+propenonitrile			is_a
+propionic acid	butyric_acid#0.674056887627|acetic_acid#0.573749899864|ester#0.564363062382|carboxylic_acid#0.56316113472	butyric_acid#0.24181419611|ester#0.204069599509	propionic_acid|||propionic|||acid|||is_a
+proprionamide			is_a
+propylthiouracil			propylthiouracil|||propylthiouracil|||is_a
+prostate specific antigen	immunoglobulin#0.661673009396|immunoglobulin_g#0.588038682938|antibody#0.58320826292	immunoglobulin#0.145981788635|immunoglobulin_g#0.127372965217	prostate_specific_antigen|||prostate|||specific|||antigen|||is_a
+protamine	heparin#0.480411350727		protamine|||protamine|||is_a
+protease	trypsin#0.690724134445|elastase#0.635714650154	trypsin#0.405003279448	protease|||protease|||is_a
+protein			protein|||protein|||is_a
+proteome			proteome|||proteome|||is_a
+prothrombin	thrombin#0.720851242542|fibrinogen#0.661958813667|coagulation_factor#0.645876824856	thrombin#0.396027982235|coagulation_factor#0.384782522917|fibrinogen#0.360066175461	prothrombin|||prothrombin|||is_a
+prothrombinase	thrombin#0.507061779499		prothrombinase|||prothrombinase|||is_a
+provirus	endonuclease#0.576351642609|transposon#0.525555610657	endonuclease#0.340405881405|transposon#0.312526613474	provirus|||provirus|||is_a
+provitamin	beta_carotene#0.684819042683|carotene#0.585326075554	beta_carotene#0.379333972931|carotene#0.339787214994	provitamin|||provitamin|||is_a
+provitamin a			provitamin|||a|||is_a
+pseudoephedrine	ephedrine#0.766419231892	ephedrine#0.409660845995	pseudoephedrine|||pseudoephedrine|||is_a
+ptomaine			ptomaine|||ptomaine|||is_a
+ptyalin	pepsin#0.421666711569|amylase#0.409014940262		ptyalin|||ptyalin|||is_a
+pulp	wood_pulp#0.653773248196	wood_pulp#0.360726952553	pulp|||pulp|||is_a
+purine	pyrimidine#0.797208666801|nucleoside#0.646232008934|thymine#0.619071722031|cytosine#0.607515454292|adenine#0.585526525974|uracil#0.581696331501	pyrimidine#0.46463996172|nucleoside#0.388781428337|thymine#0.359399199486|cytosine#0.35300424695	purine|||purine|||is_a
+putrescine			putrescine|||putrescine|||is_a
+pyrene			pyrene|||pyrene|||is_a
+pyrethrum	insecticide#0.547862827778	insecticide#0.333913743496	pyrethrum|||pyrethrum|||is_a
+pyridine	acetamide#0.631727337837|imidazole#0.606976866722	acetamide#0.376361310482|imidazole#0.345156401396	pyridine|||pyridine|||is_a
+pyrimidine	purine#0.786535680294|thymine#0.632715046406|uracil#0.616376519203|nucleoside#0.611878752708|cytosine#0.605491816998|adenine#0.584891319275|guanine#0.55404573679	purine#0.458317875862|nucleoside#0.372755736113|thymine#0.367617249489|uracil#0.362967789173|cytosine#0.353632181883|adenine#0.337792426348	pyrimidine|||pyrimidine|||is_a
+pyrites	gypsum#0.588772058487	gypsum#0.341889619827	pyrites|||pyrites|||is_a
+pyrocellulose			pyrocellulose|||pyrocellulose|||is_a
+pyrogallol	resorcinol#0.4771669209		pyrogallol|||pyrogallol|||is_a
+pyrophosphate			pyrophosphate|||pyrophosphate|||is_a
+pyrophosphoric acid			pyrophosphoric_acid|||acid|||is_a
+pyroxylin			pyroxylin|||pyroxylin|||is_a
+pyruvic acid			pyruvic_acid|||pyruvic|||acid|||is_a
+quassia			quassia|||quassia|||is_a
+quaternary ammonium compound	organic_compound#0.58493411541		quaternary_ammonium_compound|||quaternary|||ammonium|||compound|||is_a
+quinone	flavin#0.525179922581	flavin#0.319414615631	quinone|||quinone|||is_a
+racemic acid	tartaric_acid#0.56723767519	tartaric_acid#0.197981923819	racemic_acid|||racemic|||acid|||is_a
+raffinose	maltose#0.67001003027|galactose#0.620191931725	maltose#0.357322454453|galactose#0.33467939496|hexose#0.326932191849	raffinose|||raffinose|||is_a
+rain			rain|||rain|||is_a
+rape oil	coconut_oil#0.562660515308|vegetable_oil#0.550595581532	coconut_oil#0.188602805138	rape_oil|||rape|||oil|||is_a
+rauwolfia			rauwolfia|||rauwolfia|||is_a
+reactant	intermediate#0.472403913736	intermediate#0.294309586287	reactant|||reactant|||is_a
+reagin			reagin|||reagin|||is_a
+recombinant deoxyribonucleic acid			recombinant|||deoxyribonucleic|||acid|||is_a
+recombinant protein			recombinant_protein|||recombinant|||protein|||is_a
+red lead			red_lead|||red|||lead|||is_a
+red tide			red_tide|||red|||tide|||is_a
+reductase	oxidoreductase#0.728585362434	oxidoreductase#0.457990199327	reductase|||reductase|||is_a
+renin			renin|||renin|||is_a
+rennet			rennet|||rennet|||is_a
+rennin			rennin|||rennin|||is_a
+repellent			repellent|||repellent|||is_a
+residual oil	naphtha#0.566500604153|petroleum#0.565506756306	naphtha#0.181711032987	residual_oil|||residual|||oil|||is_a
+resin	synthetic_resin#0.614340245724|phenolic_resin#0.548295497894	synthetic_resin#0.379878908396	resin|||resin|||is_a
+resorcinol	benzoic_acid#0.557550907135|phenol#0.522923827171|aniline#0.507253348827|hydroxybenzoic_acid#0.504829823971	benzoic_acid#0.319880455732|phenol#0.30133074522	resorcinol|||resorcinol|||is_a
+restrainer			restrainer|||restrainer|||is_a
+restriction endonuclease	nuclease#0.590364396572|exonuclease#0.585541248322|ribonuclease#0.576659440994		restriction_endonuclease|||restriction|||endonuclease|||is_a
+reverse transcriptase	dna_polymerase#0.617243587971|polymerase#0.615808069706	dna_polymerase#0.206411540508|polymerase#0.204771757126	reverse_transcriptase|||reverse|||transcriptase|||is_a
+rh antibody	monoclonal_antibody#0.620846271515	monoclonal_antibody#0.326419770718	rh|||antibody|||is_a
+rheumatoid factor	interleukin#0.554185926914		rheumatoid_factor|||rheumatoid|||factor|||is_a
+ribonuclease	endonuclease#0.630435287952|protease#0.621330201626	endonuclease#0.384142011404|protease#0.377018630505	ribonuclease|||ribonuclease|||is_a
+ribonucleic acid	transfer_rna#0.582915127277	transfer_rna#0.191949248314	ribonucleic_acid|||ribonucleic|||acid|||is_a
+ribose	deoxyribose#0.710476696491|nucleoside#0.644102215767|monosaccharide#0.558849573135|pyrophosphate#0.550643503666	deoxyribose#0.383145451546|nucleoside#0.377196788788|pyrophosphate#0.334668874741|monosaccharide#0.327940583229	ribose|||ribose|||is_a
+ricin	strychnine#0.486632466316		ricin|||ricin|||is_a
+ricinoleic acid	myristic_acid#0.649761676788|stearic_acid#0.615659058094|oleic_acid#0.589443445206	myristic_acid#0.212758153677|stearic_acid#0.200323820114|oleic_acid#0.184890687466|saturated_fatty_acid#0.183375105262	ricinoleic_acid|||ricinoleic|||acid|||is_a
+rochelle salt	sodium_chloride#0.565371870995	sodium_chloride#0.186951905489	rochelle_salt|||rochelle|||salt|||is_a
+rocket fuel			rocket_fuel|||rocket|||fuel|||is_a
+roman candle	squib#0.559816718102	squib#0.185682594776	roman_candle|||roman|||candle|||is_a
+rotenone	insecticide#0.578354358673|malathion#0.547164022923	insecticide#0.339375793934	rotenone|||rotenone|||is_a
+rubber	neoprene#0.621118843555|polyurethane#0.59509152174	neoprene#0.363048493862	rubber|||rubber|||is_a
+rust			rust|||rust|||is_a
+saccharic acid			saccharic_acid|||saccharic|||acid|||is_a
+saddle soap	shampoo#0.564161241055|liquid_soap#0.560260355473|bar_soap#0.555331408978	shampoo#0.189318269491	saddle_soap|||saddle|||soap|||is_a
+safflower oil	peanut_oil#0.773184835911|sunflower_oil#0.734944283962|soybean_oil#0.726379573345|vegetable_oil#0.713205933571|canola_oil#0.708327293396|corn_oil#0.707213044167|coconut_oil#0.698077201843|sesame_oil#0.679046392441	peanut_oil#0.312033414841|sunflower_oil#0.291374772787|soybean_oil#0.289370656013|vegetable_oil#0.286097973585|canola_oil#0.277417272329|corn_oil#0.274703860283|coconut_oil#0.272897273302	safflower_oil|||safflower|||oil|||is_a
+sago	cassava#0.639537632465		sago|||sago|||is_a
+salad oil	olive_oil#0.730276226997|sesame_oil#0.711195409298|vegetable_oil#0.679898917675	olive_oil#0.276937484741|sesame_oil#0.271842449903|vegetable_oil#0.254963994026	salad_oil|||salad|||oil|||is_a
+salicylate	salicylic_acid#0.525821745396	salicylic_acid#0.324819713831	salicylate|||salicylate|||is_a
+salicylic acid	hydroxybenzoic_acid#0.522051393986		salicylic_acid|||salicylic|||acid|||is_a
+salmon oil			salmon_oil|||salmon|||oil|||is_a
+salol			salol|||salol|||is_a
+salt	sodium_chloride#0.559256672859	sodium_chloride#0.341608285904	salt|||salt|||is_a
+sandarac	copal#0.52927929163|mastic#0.512735962868|bdellium#0.480503439903	copal#0.318853467703|mastic#0.315414309502	sandarac|||sandarac|||is_a
+saponin	glycoside#0.66270160675|flavonoid#0.562977850437|flavone#0.562815189362	glycoside#0.391733855009|flavone#0.350950658321	saponin|||saponin|||is_a
+sarcosine	betaine#0.558428764343	betaine#0.336380600929	sarcosine|||sarcosine|||is_a
+sardine oil	vegetable_oil#0.538884997368	vegetable_oil#0.156859531999	sardine_oil|||sardine|||oil|||is_a
+sassafras oil	essential_oil#0.618669271469|mineral_oil#0.560565292835	essential_oil#0.213831573725	sassafras_oil|||sassafras|||oil|||is_a
+saturated fatty acid	fatty_acid#0.658662974834|oleic_acid#0.648655414581|palmitic_acid#0.637852191925|myristic_acid#0.632007420063	fatty_acid#0.166536062956|myristic_acid#0.158226102591|oleic_acid#0.156339868903|palmitic_acid#0.154361441731	saturated_fatty_acid|||saturated|||fatty|||acid|||is_a
+scabicide			scabicide|||scabicide|||is_a
+scale wax	gesso#0.505598068237	gesso#0.161870583892|lucite#0.160679623485	scale_wax|||scale|||wax|||is_a
+scammony			scammony|||scammony|||is_a
+scleroprotein			scleroprotein|||scleroprotein|||is_a
+scopolamine	hyoscyamine#0.671154856682|atropine#0.660696268082|ergotamine#0.599455416203	hyoscyamine#0.36102309823|alkaloid#0.338807106018|ergotamine#0.338685303926	scopolamine|||scopolamine|||is_a
+seal oil	grease#0.617249011993|bitumen#0.559612572193|wax#0.545752584934|tallow#0.53959774971|beeswax#0.536231994629|whale_oil#0.533210575581|paraffin#0.532966375351	grease#0.210254654288|wax#0.188561558723|bitumen#0.186523482203|tallow#0.185965955257|lard#0.182580545545	seal_oil|||seal|||oil|||is_a
+seawater	water#0.661715507507|fresh_water#0.632209658623	water#0.375150442123|fresh_water#0.359270632267	seawater|||seawater|||is_a
+sebacic acid			sebacic_acid|||acid|||is_a
+secretase			secretase|||secretase|||is_a
+selenic acid			selenic_acid|||acid|||is_a
+serine	threonine#0.732423484325|cysteine#0.693493306637|tyrosine#0.676354765892|histidine#0.637699186802|leucine#0.632722318172|arginine#0.624986171722|alanine#0.623445749283|asparagine#0.621925771236	threonine#0.400606065989|tyrosine#0.397054493427|cysteine#0.382042914629|histidine#0.363962829113|leucine#0.359818637371|amino_acid#0.359445154667|asparagine#0.35372158885	serine|||serine|||is_a
+serotonin	noradrenaline#0.764119207859|dopamine#0.757459163666|monoamine#0.692977249622|acetylcholine#0.679251074791	noradrenaline#0.40399479866|monoamine#0.394310593605|dopamine#0.387657821178	serotonin|||serotonin|||is_a
+serpent			serpent|||serpent|||is_a
+serum albumin	transferrin#0.707045614719|globulin#0.671743154526	transferrin#0.29099881649|globulin#0.280145913363|plasma_protein#0.263518869877	serum_albumin|||serum|||albumin|||is_a
+serum globulin	transferrin#0.648090064526|plasma_protein#0.631559669971|albumin#0.611171841621|serum_albumin#0.596066117287	plasma_protein#0.232787013054|transferrin#0.2262198627|albumin#0.208927646279	serum_globulin|||serum|||globulin|||is_a
+sesame oil	olive_oil#0.765443444252|vegetable_oil#0.755748271942	olive_oil#0.315615206957|vegetable_oil#0.311869263649	sesame_oil|||sesame|||oil|||is_a
+shale oil	petroleum#0.631836414337	petroleum#0.226933836937	shale_oil|||shale|||oil|||is_a
+shampoo	toothpaste#0.697077035904	toothpaste#0.409000009298	shampoo|||shampoo|||is_a
+shark oil			shark_oil|||shark|||oil|||is_a
+sheep dip			sheep_dip|||sheep|||dip|||is_a
+shellac wax	beeswax#0.634826719761	beeswax#0.341942638159	shellac|||wax|||is_a
+shoe polish	soap#0.63840585947|shampoo#0.575892388821	soap#0.251195847988|shampoo#0.219874098897	shoe_polish|||shoe|||polish|||is_a
+shortening			shortening|||shortening|||is_a
+shot			shot|||shot|||is_a
+silex	flint#0.532962918282|chert#0.50371068716	flint#0.303804725409	silex|||silex|||is_a
+silica	silicate#0.800661087036	silicate#0.46412986517	silica|||silica|||is_a
+silicate	silica#0.742696762085	silica#0.430398404598	silicate|||silicate|||is_a
+silicic acid			silicic_acid|||silicic|||acid|||is_a
+silicide			silicide|||silicide|||is_a
+silicon carbide	nitride#0.808151781559	nitride#0.347337663174	silicon_carbide|||silicon|||carbide|||is_a
+silicone	silicone_rubber#0.78426361084|polyurethane#0.687920331955|neoprene#0.621657192707	silicone_rubber#0.449250847101|polyurethane#0.402845203876	silicone|||silicone|||is_a
+silicone rubber	polyurethane#0.773670017719|neoprene#0.721521735191	polyurethane#0.334118515253|neoprene#0.302083224058	silicone_rubber|||silicone|||rubber|||is_a
+siloxane	polymer#0.50161755085	polymer#0.313798338175	siloxane|||siloxane|||is_a
+silver bromide	iodide#0.704893231392|silver_chloride#0.66083920002|chloride#0.639684796333	iodide#0.249736964703|silver_chloride#0.229730308056|chloride#0.223525136709	silver_bromide|||silver|||bromide|||is_a
+silver chloride	bromide#0.683661103249|iodide#0.67574518919|hydroxide#0.668690085411	hydroxide#0.253840774298|iodide#0.248593971133|bromide#0.24789249897	silver_chloride|||silver|||chloride|||is_a
+silver iodide	sodium_iodide#0.636174976826|bromide#0.634361028671|chloride#0.619236946106	sodium_iodide#0.237020537257	silver_iodide|||silver|||iodide|||is_a
+silver nitrate	chromate#0.638493537903|potassium_dichromate#0.61605411768	chromate#0.228900626302	silver_nitrate|||silver|||nitrate|||is_a
+silvex			is_a
+simazine			simazine|||simazine|||is_a
+simoniz			simoniz|||simoniz|||is_a
+simple protein			simple_protein|||simple|||protein|||is_a
+ski wax	beeswax#0.527005016804|polish#0.513845741749	polish#0.208046987653|beeswax#0.197069704533	ski_wax|||ski|||wax|||is_a
+skyrocket			skyrocket|||skyrocket|||is_a
+slush			slush|||slush|||is_a
+smelling salts			smelling_salts|||smelling|||salts|||is_a
+smokeless powder	cordite#0.685155212879	cordite#0.254431933165|high_explosive#0.228272989392	smokeless_powder|||smokeless|||powder|||is_a
+soap	bar_soap#0.652191698551|castile_soap#0.597775220871|detergent#0.595494747162|liquid_soap#0.591281354427|laundry_detergent#0.590767860413	bar_soap#0.395024061203|castile_soap#0.37534531951|detergent#0.36450111866|laundry_detergent#0.363243103027	soap|||soap|||is_a
+soap flakes	bar_soap#0.584782063961	bar_soap#0.19830057025|wax#0.19129820168	soap_flakes|||soap|||flakes|||is_a
+soap powder	bar_soap#0.600749909878|laundry_detergent#0.555682122707	bar_soap#0.227082967758	soap_powder|||soap|||powder|||is_a
+sodium carbonate	potassium_carbonate#0.703489482403|hydroxide#0.703087329865|sodium_chloride#0.696532189846|sulfate#0.680324435234	hydroxide#0.284931838512|sodium_chloride#0.272760927677|sulfate#0.272709101439|potassium_carbonate#0.267574459314	sodium_carbonate|||sodium|||carbonate|||is_a
+sodium carboxymethyl cellulose	sulfate#0.511812925339	sulfate#0.0985961183906	sodium_carboxymethyl_cellulose|||sodium|||carboxymethyl|||cellulose|||is_a
+sodium chlorate	sodium_chloride#0.628105640411|potassium_nitrate#0.626735687256|potassium_chlorate#0.625884473324|sodium_carbonate#0.624156713486|sulfate#0.62026399374|hypochlorite#0.612276673317	potassium_nitrate#0.231223255396|sodium_carbonate#0.230280160904|potassium_chlorate#0.22822496295|sodium_chloride#0.228123620152|sulfate#0.227259486914|hypochlorite#0.226613521576	sodium_chlorate|||sodium|||chlorate|||is_a
+sodium chloride	potassium_chloride#0.688146948814|sulfate#0.664540469646	potassium_chloride#0.275786727667|sulfate#0.274183630943|hydroxide#0.268552035093	sodium_chloride|||sodium|||chloride|||is_a
+sodium cyanide	chloride#0.630837142467|potassium_cyanide#0.619328320026|hydroxide#0.616339445114	chloride#0.228794485331|hydroxide#0.226726591587	sodium_cyanide|||sodium|||cyanide|||is_a
+sodium dichromate	hypochlorite#0.657806575298|potassium_dichromate#0.651644647121|chromate#0.646457314491|potassium_permanganate#0.641812384129|sodium_chloride#0.622003078461|chloride#0.612502217293|hydroxide#0.607616245747	hypochlorite#0.242315068841|potassium_dichromate#0.237987831235|potassium_permanganate#0.235432490706|chromate#0.231881529093|sodium_chloride#0.222670555115	sodium_dichromate|||sodium|||dichromate|||is_a
+sodium fluoride	sodium_chloride#0.62165081501		sodium_fluoride|||sodium|||fluoride|||is_a
+sodium hydride	hydroxide#0.655991494656	hydroxide#0.238673463464	sodium_hydride|||sodium|||hydride|||is_a
+sodium hydroxide	sodium_carbonate#0.688549816608|hypochlorite#0.664467096329|sulfate#0.663791358471	sodium_carbonate#0.277553319931|sulfate#0.26845780015|hypochlorite#0.268218249083	sodium_hydroxide|||sodium|||hydroxide|||is_a
+sodium hypochlorite	calcium_hypochlorite#0.686329185963|sodium_hydroxide#0.686188697815|hypochlorous_acid#0.630002200603|sodium_chloride#0.62987023592|potassium_permanganate#0.624151051044|sodium_carbonate#0.618382394314	calcium_hypochlorite#0.278788626194|sodium_hydroxide#0.267325252295|potassium_permanganate#0.249182403088|hypochlorous_acid#0.248771935701|sodium_chloride#0.248064935207|sodium_carbonate#0.247153818607|hydroxide#0.245197445154	sodium_hypochlorite|||sodium|||hypochlorite|||is_a
+sodium iodide	chloride#0.728363513947|bromide#0.702746927738|potassium_iodide#0.650501549244	chloride#0.294811725616|bromide#0.275027364492	sodium_iodide|||sodium|||iodide|||is_a
+sodium lauryl sulphate	magnesium_sulfate#0.594058990479|sulfate#0.591487765312		sodium_lauryl_sulphate|||sodium|||lauryl|||sulphate|||is_a
+sodium nitrate	potassium_nitrate#0.724936544895|ammonium#0.704545617104|sulfate#0.673404932022|sodium_chloride#0.6382843256|potassium_chloride#0.636111676693	potassium_nitrate#0.285887688398|ammonium#0.273340284824|sulfate#0.267544329166|sodium_chloride#0.245220661163|potassium_chloride#0.243880435824	sodium_nitrate|||sodium|||nitrate|||is_a
+sodium phosphate	sulfate#0.641085267067|sodium_chloride#0.597711384296	sulfate#0.238638043404|sodium_chloride#0.213096797466	sodium_phosphate|||sodium|||phosphate|||is_a
+sodium sulphate	sulfate#0.712014257908|sodium_chloride#0.6848128438|potassium_chloride#0.647948265076|sodium_carbonate#0.633719742298	sulfate#0.283550262451|sodium_chloride#0.267513513565|potassium_chloride#0.249737605453|sodium_carbonate#0.248217195272|salt#0.247240707278	sodium_sulphate|||sodium|||sulphate|||is_a
+soft soap			soft_soap|||soft|||soap|||is_a
+soft water	hard_water#0.560228943825	hard_water#0.196518972516	soft_water|||soft|||water|||is_a
+softener	detergent#0.473096042871|liquid_soap#0.467124968767	detergent#0.288896948099	softener|||softener|||is_a
+soil conditioner	manure#0.559543192387|fertilizer#0.523566901684|water#0.513040304184|detergent#0.510393917561	manure#0.182785838842|detergent#0.176173627377|water#0.176162302494|fertilizer#0.175846800208	soil_conditioner|||soil|||conditioner|||is_a
+soldering flux			soldering_flux|||soldering|||flux|||is_a
+solvate			solvate|||solvate|||is_a
+sonora gum			sonora|||gum|||is_a
+sorbic acid	phosphoric_acid#0.550716876984|citric_acid#0.526663541794	phosphoric_acid#0.187394231558	sorbic_acid|||sorbic|||acid|||is_a
+soybean oil	vegetable_oil#0.793498337269|sunflower_oil#0.759424269199|canola_oil#0.755234181881|peanut_oil#0.748768806458|cottonseed_oil#0.738064348698|coconut_oil#0.737689316273|corn_oil#0.724888086319	vegetable_oil#0.33455991745|sunflower_oil#0.311315089464|peanut_oil#0.307534366846|canola_oil#0.306860566139|cottonseed_oil#0.300548374653|coconut_oil#0.298373639584|corn_oil#0.290112942457	soybean_oil|||soybean|||oil|||is_a
+sparkler	squib#0.545063853264|firecracker#0.510778665543	squib#0.33952832222	sparkler|||sparkler|||is_a
+sperm oil	spermaceti#0.545457243919|vegetable_oil#0.539126157761|paraffin#0.519767403603	spermaceti#0.1595710814|vegetable_oil#0.155247181654|lanolin#0.155198901892|gas_oil#0.154095739126	sperm_oil|||sperm|||oil|||is_a
+spermaceti	sperm_oil#0.531815826893|tallow#0.529384195805|wax#0.529195904732|whale_oil#0.524335741997|beeswax#0.500373005867	wax#0.329448163509|tallow#0.321851372719|sperm_oil#0.310889482498|whale_oil#0.310612946749|stearin#0.30831605196	spermaceti|||spermaceti|||is_a
+spice			spice|||spice|||is_a
+spike lavender oil	essential_oil#0.573135375977		spike|||lavender|||oil|||is_a
+spray			spray|||spray|||is_a
+squib	firecracker#0.580337941647|sparkler#0.537409603596	firecracker#0.348153650761|sparkler#0.335762619972	squib|||squib|||is_a
+stabilizer			stabilizer|||stabilizer|||is_a
+stachyose	raffinose#0.499137431383	raffinose#0.285342007875	stachyose|||stachyose|||is_a
+stacte	myrrh#0.637771487236|storax#0.595283746719|labdanum#0.545025289059	myrrh#0.373859733343|storax#0.362643122673|labdanum#0.328767687082	stacte|||stacte|||is_a
+stand oil	linseed_oil#0.645640850067	linseed_oil#0.201406016946	stand_oil|||stand|||oil|||is_a
+stannic chloride	trichloride#0.666902959347|bromide#0.651539385319|iodide#0.621826410294|boron_trifluoride#0.607317686081	trichloride#0.245789080858|bromide#0.22750274837	stannic_chloride|||stannic|||chloride|||is_a
+stannous fluoride	sodium_fluoride#0.613484919071	sodium_fluoride#0.202585950494	stannous_fluoride|||stannous|||fluoride|||is_a
+starch	dextrin#0.675933301449|pectin#0.665222465992|cornstarch#0.651954054832	dextrin#0.396805763245|cornstarch#0.372662752867|pectin#0.371469914913	starch|||starch|||is_a
+stearic acid	oleic_acid#0.737719655037|palmitic_acid#0.710135340691|linoleic_acid#0.673360526562|myristic_acid#0.662802517414	oleic_acid#0.264689594507|palmitic_acid#0.255680769682|myristic_acid#0.246201142669|linoleic_acid#0.24241566658	stearic_acid|||stearic|||acid|||is_a
+stearin	spermaceti#0.475848972797|coconut_oil#0.475746095181|cottonseed_oil#0.475518316031|tallow_oil#0.459122002125	spermaceti#0.301764369011	stearin|||stearin|||is_a
+sternutator			is_a
+steroid	cortisone#0.604957222939	cortisone#0.360920578241	steroid|||steroid|||is_a
+sterol	steroid#0.588044643402|ergosterol#0.579134762287|cholesterol#0.541696131229	steroid#0.362229883671|ergosterol#0.342452406883	sterol|||sterol|||is_a
+sticky end			sticky_end|||sticky|||end|||is_a
+storax	myrrh#0.693099617958|balsam#0.62312412262|copal#0.621936202049|bdellium#0.594575226307	myrrh#0.405703574419|balsam#0.383068740368|copal#0.373696357012|bdellium#0.362362265587	storax|||storax|||is_a
+streptodornase	streptokinase#0.530429303646|hyaluronidase#0.458091378212	streptokinase#0.329840123653	streptodornase|||streptodornase|||is_a
+streptokinase	plasminogen_activator#0.607340991497	plasminogen_activator#0.377508431673	streptokinase|||streptokinase|||is_a
+streptolysin			streptolysin|||streptolysin|||is_a
+stripper			stripper|||stripper|||is_a
+strophanthin			strophanthin|||strophanthin|||is_a
+strychnine			strychnine|||strychnine|||is_a
+styrene	copolymer#0.682773053646|butadiene#0.66404402256	copolymer#0.39339274168|butadiene#0.362784683704	styrene|||styrene|||is_a
+styrofoam	polyurethane#0.634457409382|polystyrene#0.626808643341	polyurethane#0.369635671377|polystyrene#0.353665590286	styrofoam|||styrofoam|||is_a
+suberic acid			suberic_acid|||acid|||is_a
+succinic acid			succinic_acid|||succinic|||acid|||is_a
+sucrose	fructose#0.757695198059|maltose#0.712153494358|dextrose#0.692233681679|lactose#0.689871311188|glucose#0.66815751791|galactose#0.641823291779	fructose#0.38976046443|maltose#0.375587195158|dextrose#0.373798966408|lactose#0.365020573139	sucrose|||sucrose|||is_a
+suet	lard#0.675702393055		suet|||suet|||is_a
+sulfanilic acid			sulfanilic_acid|||acid|||is_a
+sulfate			sulfate|||sulfate|||is_a
+sulfide			sulfide|||sulfide|||is_a
+sulfonate	sulfonic_acid#0.592994511127	sulfonic_acid#0.351518809795	sulfonate|||sulfonate|||is_a
+sulfonic acid	organic_compound#0.551067173481|carboxylic_acid#0.550715744495	organic_compound#0.188233315945	sulfonic_acid|||sulfonic|||acid|||is_a
+sulfur dioxide	monoxide#0.65239405632|hydrogen_sulfide#0.650465250015|sulfide#0.609948575497|trioxide#0.587808191776|nitrogen_dioxide#0.582656264305	monoxide#0.240635350347|hydrogen_sulfide#0.22502233088|sulfide#0.222830012441|trioxide#0.212157487869	sulfur_dioxide|||sulfur|||dioxide|||is_a
+sulfur hexafluoride	monoxide#0.615309238434	monoxide#0.209057614207|oxide#0.202270880342	sulfur_hexafluoride|||sulfur|||hexafluoride|||is_a
+sulfur oxide	sulfide#0.649124145508	sulfide#0.224893763661	sulfur_oxide|||sulfur|||oxide|||is_a
+sunflower oil	vegetable_oil#0.795144975185|soybean_oil#0.783159136772|coconut_oil#0.778430819511|peanut_oil#0.773786067963|corn_oil#0.770254611969|sesame_oil#0.75061327219|canola_oil#0.7385597229|olive_oil#0.734103798866|safflower_oil#0.70941478014	vegetable_oil#0.329161435366|soybean_oil#0.319299459457|peanut_oil#0.313909739256|coconut_oil#0.312941372395|sesame_oil#0.307629138231|corn_oil#0.306170940399|olive_oil#0.296197742224|canola_oil#0.293598353863	sunflower_oil|||sunflower|||oil|||is_a
+superoxide			superoxide|||superoxide|||is_a
+superoxide dismutase	glutathione_peroxidase#0.615601181984|peroxidase#0.609058260918|catalase#0.590383529663	glutathione_peroxidase#0.231094360352|peroxidase#0.231060087681|catalase#0.220723167062	superoxide_dismutase|||superoxide|||dismutase|||is_a
+sweet oil	sesame_oil#0.587400555611|cocoa_butter#0.586725890636|mineral_oil#0.574457883835	cocoa_butter#0.207777112722|sesame_oil#0.205578893423|mineral_oil#0.200311601162	sweet_oil|||sweet|||oil|||is_a
+synthetic			synthetic|||synthetic|||is_a
+synthetic resin	polyamide#0.604383587837|polyurethane#0.587678551674|polyester#0.584693014622	polyamide#0.234717339277	synthetic_resin|||synthetic|||resin|||is_a
+taconite			taconite|||taconite|||is_a
+tall oil			tall_oil|||tall|||oil|||is_a
+tallow	lard#0.635074436665|beeswax#0.613719820976|animal_fat#0.5741071105	lard#0.372385948896|beeswax#0.356191694736	tallow|||tallow|||is_a
+tallow oil	vegetable_oil#0.704277098179|olive_oil#0.655279755592|lard#0.647846400738|coconut_oil#0.647267639637|linseed_oil#0.638492107391|soybean_oil#0.624751925468|peanut_oil#0.623471856117|sesame_oil#0.620581686497	vegetable_oil#0.27352643013|olive_oil#0.25107845664|lard#0.247799649835|coconut_oil#0.243378818035|linseed_oil#0.242491781712|sesame_oil#0.239321321249|soybean_oil#0.237622827291|peanut_oil#0.236110046506	tallow_oil|||tallow|||oil|||is_a
+tannin			tannin|||tannin|||is_a
+tap water	seawater#0.55175191164|fresh_water#0.550610721111|distilled_water#0.546669363976	fresh_water#0.190273657441|distilled_water#0.190157786012|seawater#0.187833920121	tap_water|||tap|||water|||is_a
+tartar emetic	tartrate#0.574166059494	tartrate#0.211848378181	tartar_emetic|||tartar|||emetic|||is_a
+tartaric acid	fumaric_acid#0.566868782043		tartaric_acid|||tartaric|||acid|||is_a
+tartrate	maleate#0.56630307436|hydrochloride#0.548826813698	maleate#0.352540910244|hydrochloride#0.334686428308	tartrate|||tartrate|||is_a
+taurine	citric_acid#0.554709792137|creatine#0.515251636505	citric_acid#0.322686910629	taurine|||taurine|||is_a
+telluride			telluride|||telluride|||is_a
+telomerase	transcriptase#0.566264808178|reverse_transcriptase#0.546526670456|enzyme#0.539887547493	enzyme#0.34352773428|transcriptase#0.33466219902|reverse_transcriptase#0.3320350945	telomerase|||telomerase|||is_a
+tenderizer			tenderizer|||tenderizer|||is_a
+terpene			terpene|||terpene|||is_a
+terra alba			terra|||alba|||is_a
+tetanus antitoxin			tetanus_antitoxin|||tetanus|||antitoxin|||is_a
+tetanus immunoglobulin	immunoglobulin_g#0.561603605747|tetanus_antitoxin#0.558780908585	tetanus_antitoxin#0.201474368572	tetanus_immunoglobulin|||tetanus|||immunoglobulin|||is_a
+tetrabasic acid			tetrabasic|||acid|||is_a
+tetrachloride			tetrachloride|||tetrachloride|||is_a
+tetraethyl lead			tetraethyl_lead|||tetraethyl|||lead|||is_a
+tetrafluoroethylene	copolymer#0.57396286726	copolymer#0.337850093842	tetrafluoroethylene|||tetrafluoroethylene|||is_a
+tetrahalide	binary_compound#0.505715668201	binary_compound#0.321092277765	tetrahalide|||tetrahalide|||is_a
+tetrasaccharide	glycoside#0.53080958128|polysaccharide#0.511897146702|oligosaccharide#0.509583950043	glycoside#0.337198227644	tetrasaccharide|||tetrasaccharide|||is_a
+tetrose	triose#0.564955353737	triose#0.321100562811	tetrose|||tetrose|||is_a
+tetroxide	trioxide#0.651716172695|oxide#0.59167766571|pentoxide#0.553336322308	trioxide#0.381004214287|oxide#0.36165201664	tetroxide|||tetroxide|||is_a
+tetryl	tnt#0.648740112782|picric_acid#0.573771595955|explosive#0.571167349815|high_explosive#0.547340273857	tnt#0.369796067476|explosive#0.340822905302|high_explosive#0.34000274539|picric_acid#0.337053865194|explosive_compound#0.334961414337	tetryl|||tetryl|||is_a
+thiazine			thiazine|||thiazine|||is_a
+thiocyanate	iodide#0.635244071484|chloride#0.629418432713|oxalate#0.585353016853|bromide#0.564165949821	chloride#0.353304564953|iodide#0.351120889187|oxalate#0.332168400288	thiocyanate|||thiocyanate|||is_a
+thiocyanic acid			thiocyanic_acid|||acid|||is_a
+thiouracil			thiouracil|||thiouracil|||is_a
+threonine	serine#0.789750516415|leucine#0.751142263412|tyrosine#0.748754739761|valine#0.694795906544|isoleucine#0.693021655083|cysteine#0.666795492172|histidine#0.658168077469|phenylalanine#0.654031097889|aspartic_acid#0.652653038502|alanine#0.651666939259	serine#0.432832717896|tyrosine#0.423156648874|leucine#0.405916512012|isoleucine#0.377826541662|valine#0.373935043812|histidine#0.364219307899|amino_acid#0.361464202404|cysteine#0.360201388597|phenylalanine#0.357962489128	threonine|||threonine|||is_a
+thrombin	plasmin#0.714807450771|prothrombin#0.714719891548|fibrinogen#0.691772758961	plasmin#0.406586229801|prothrombin#0.392681598663|plasminogen_activator#0.387755513191|coagulation_factor#0.381068587303	thrombin|||thrombin|||is_a
+thromboplastin	prothrombin#0.509351432323|coagulation_factor#0.498258829117	coagulation_factor#0.325129032135	thromboplastin|||thromboplastin|||is_a
+thymine	cytosine#0.818380117416|guanine#0.79189902544|uracil#0.771864235401|adenine#0.759434640408|pyrimidine#0.684540212154|purine#0.660518229008|base_pair#0.620412647724	cytosine#0.449090391397|guanine#0.435297787189|uracil#0.430774569511|adenine#0.410652160645|pyrimidine#0.395221352577|purine#0.381128907204	thymine|||thymine|||is_a
+thymol	linalool#0.647066473961|cymene#0.604919075966	linalool#0.36318770051|cymene#0.34864538908	thymol|||thymol|||is_a
+thyroglobulin	plasminogen_activator#0.460544884205	plasminogen_activator#0.294644057751	thyroglobulin|||thyroglobulin|||is_a
+thyronine			thyronine|||thyronine|||is_a
+thyroprotein			is_a
+titanic acid			titanic_acid|||titanic|||acid|||is_a
+titanium dioxide	oxide#0.717186629772|zinc_oxide#0.653050422668	oxide#0.286136984825|zinc_oxide#0.249682098627	titanium_dioxide|||titanium|||dioxide|||is_a
+tnt	explosive#0.708725094795|tetryl#0.699352324009|picric_acid#0.684787511826|high_explosive#0.681746482849|ammonium_nitrate#0.663563668728	high_explosive#0.399221390486|explosive#0.398533523083|tetryl#0.396892905235|picric_acid#0.380623042583|ammonium_nitrate#0.369589269161|plastic_explosive#0.364201337099	tnt|||tnt|||is_a
+toilet soap	laundry_detergent#0.644565403461|shampoo#0.638413488865|toothpaste#0.608509242535|bar_soap#0.604148626328|liquid_soap#0.59940803051	laundry_detergent#0.231964841485|shampoo#0.229068338871|toothpaste#0.21562230587|bar_soap#0.213974446058	toilet_soap|||toilet|||soap|||is_a
+tolu	benzoin#0.561032056808|balsam#0.523617446423	benzoin#0.335730820894|balsam#0.322614610195	tolu|||tolu|||is_a
+toluene	benzene#0.720102131367|hexane#0.668479800224|methylene_chloride#0.650218129158	benzene#0.37218105793|hexane#0.360838800669|methylene_chloride#0.357406526804	toluene|||toluene|||is_a
+toluic acid			toluic_acid|||toluic|||acid|||is_a
+tooth powder	toothpaste#0.549464225769	toothpaste#0.187558606267	tooth_powder|||tooth|||powder|||is_a
+toothpaste	shampoo#0.727482914925	shampoo#0.426005125046	toothpaste|||toothpaste|||is_a
+tophus			tophus|||tophus|||is_a
+torpedo			torpedo|||torpedo|||is_a
+trans fatty acid	fatty_acid#0.666704058647|linoleic_acid#0.610033273697|oleic_acid#0.609268069267|linolenic_acid#0.599449872971	fatty_acid#0.15570102632|linoleic_acid#0.132960036397	trans_fatty_acid|||trans|||fatty|||acid|||is_a
+transaminase			transaminase|||transaminase|||is_a
+transcriptase	reverse_transcriptase#0.674735248089|telomerase#0.559106647968|polymerase#0.554996430874	reverse_transcriptase#0.396621197462	transcriptase|||transcriptase|||is_a
+transfer rna	deoxyribonucleic_acid#0.679434657097|ribonucleic_acid#0.645660459995|endonuclease#0.56567555666	deoxyribonucleic_acid#0.231591552496|ribonucleic_acid#0.215072378516	transfer_rna|||transfer|||rna|||is_a
+transferase			transferase|||transferase|||is_a
+transferrin	globulin#0.636024534702|ferritin#0.616135537624|albumin#0.594519078732|serum_albumin#0.570584595203	globulin#0.367488652468|ferritin#0.33651342988|albumin#0.332977831364|plasma_protein#0.329005181789	transferrin|||transferrin|||is_a
+transposon		reverse_transcriptase#0.340459048748	transposon|||transposon|||is_a
+tri iodothyronine			tri|||iodothyronine|||is_a
+triazine	organic_compound#0.527644217014	organic_compound#0.342673867941	triazine|||triazine|||is_a
+tribasic acid			tribasic_acid|||tribasic|||acid|||is_a
+tributyrin			tributyrin|||tributyrin|||is_a
+trichloride	inorganic_compound#0.643889844418|chloride#0.618416190147	inorganic_compound#0.401456326246	trichloride|||trichloride|||is_a
+trichloroacetic acid	oxalic_acid#0.537864029408	oxalic_acid#0.163948103786	trichloroacetic_acid|||trichloroacetic|||acid|||is_a
+trichloroethylene	methylene_chloride#0.667580604553|carbon_tetrachloride#0.622362911701	methylene_chloride#0.363474279642|carbon_tetrachloride#0.330223679543	trichloroethylene|||trichloroethylene|||is_a
+triglyceride	fatty_acid#0.683640062809|cholesterol#0.572772800922	fatty_acid#0.396084457636|cholesterol#0.327290713787	triglyceride|||triglyceride|||is_a
+trimer	dimer#0.651398062706	dimer#0.374591529369	trimer|||trimer|||is_a
+triolein			triolein|||triolein|||is_a
+triose	tetrose#0.66106814146|ketose#0.537639498711|monosaccharide#0.499321043491|hexose#0.459363877773	tetrose#0.36978751421|ketose#0.313641965389|monosaccharide#0.296240180731	triose|||triose|||is_a
+trioxide	tetroxide#0.66399371624|pentoxide#0.658708631992|monoxide#0.599814653397|dioxide#0.568536698818	pentoxide#0.388693273067|tetroxide#0.387565404177|monoxide#0.358497917652	trioxide|||trioxide|||is_a
+tripalmitin			tripalmitin|||tripalmitin|||is_a
+triphosphopyridine			triphosphopyridine|||triphosphopyridine|||is_a
+triphosphoric acid			triphosphoric_acid|||acid|||is_a
+trisaccharide	disaccharide#0.55230730772|oligosaccharide#0.484488785267|prolamine#0.465735167265	disaccharide#0.330529004335|prolamine#0.306728571653|oligosaccharide#0.303274780512	trisaccharide|||trisaccharide|||is_a
+tristearin			tristearin|||tristearin|||is_a
+trypsin	protease#0.742465078831|elastase#0.702716171741|pepsin#0.657863974571|lipase#0.622103095055	protease#0.434014320374|elastase#0.418364971876|pepsin#0.3779502213|lipase#0.373662590981	trypsin|||trypsin|||is_a
+trypsinogen	elastase#0.638004004955|trypsin#0.589348256588|protease#0.529749333858	elastase#0.386679112911|trypsin#0.348303616047|protease#0.328215390444	trypsinogen|||trypsinogen|||is_a
+tryptophan	phenylalanine#0.740131437778|tyrosine#0.722876966|amino_acid#0.710276186466|leucine#0.692191243172|essential_amino_acid#0.662004828453|isoleucine#0.646422028542|histidine#0.642841041088|valine#0.62305700779	tyrosine#0.412611454725|phenylalanine#0.400203704834|amino_acid#0.399042606354|essential_amino_acid#0.386805534363|leucine#0.380425184965|histidine#0.35939130187|isoleucine#0.358694344759|glutamic_acid#0.345531821251	tryptophan|||tryptophan|||is_a
+tubocurarine	physostigmine#0.549546182156		tubocurarine|||tubocurarine|||is_a
+tumor necrosis factor	interleukin#0.735733807087|cytokine#0.69597274065|growth_factor#0.660387456417	interleukin#0.190146639943|cytokine#0.177455022931|growth_factor#0.16580863297	tumor_necrosis_factor|||tumor|||necrosis|||factor|||is_a
+tuna oil	olive_oil#0.559048950672|sesame_oil#0.517613887787	olive_oil#0.18070204556	tuna_oil|||tuna|||oil|||is_a
+tung oil	linseed_oil#0.660553276539|vegetable_oil#0.571110725403	linseed_oil#0.221992269158	tung_oil|||tung|||oil|||is_a
+tungstate			tungstate|||tungstate|||is_a
+tungstic acid			tungstic_acid|||tungstic|||acid|||is_a
+turpentine	linseed_oil#0.58953166008|beeswax#0.543940782547	linseed_oil#0.345177143812|balsam#0.330322116613	turpentine|||turpentine|||is_a
+tyramine	histamine#0.506533741951	histamine#0.305387616158	tyramine|||tyramine|||is_a
+tyrosine	phenylalanine#0.689480423927|threonine#0.647838532925|leucine#0.641947329044|tryptophan#0.636069238186|serine#0.631924211979|histidine#0.613830924034|isoleucine#0.610543072224|amino_acid#0.583421111107|valine#0.573162019253	phenylalanine#0.392312824726|serine#0.373316586018|leucine#0.371770769358|threonine#0.368235588074|tryptophan#0.365832448006|histidine#0.359988629818|isoleucine#0.356092125177|amino_acid#0.35199663043	tyrosine|||tyrosine|||is_a
+ubiquinone	quinone#0.616039395332	quinone#0.350547075272	ubiquinone|||ubiquinone|||is_a
+undecylenic acid			undecylenic_acid|||acid|||is_a
+undercharge			undercharge|||undercharge|||is_a
+unleaded gasoline	octane#0.707335948944	octane#0.277278155088	unleaded_gasoline|||unleaded|||gasoline|||is_a
+unsaturated fatty acid	fatty_acid#0.63704007864|oleic_acid#0.632074832916|myristic_acid#0.619126200676	fatty_acid#0.165484756231|myristic_acid#0.159397915006|oleic_acid#0.156163260341	unsaturated_fatty_acid|||unsaturated|||fatty|||acid|||is_a
+uracil	thymine#0.755951285362|cytosine#0.739855647087|adenine#0.728129088879|guanine#0.723582029343|pyrimidine#0.652685821056|nucleoside#0.646659135818|purine#0.607602775097	thymine#0.421725988388|cytosine#0.412412017584|guanine#0.404149502516|adenine#0.398545563221|nucleoside#0.383967936039|pyrimidine#0.38202598691	uracil|||uracil|||is_a
+uranyl nitrate	ammonium#0.624762237072	ammonium#0.224459052086	uranyl_nitrate|||uranyl|||nitrate|||is_a
+uranyl oxalate	hydroxide#0.615230202675	hydroxide#0.335384935141	uranyl|||oxalate|||is_a
+urate	uric_acid#0.601529240608|urea#0.499641507864|oxalate#0.473069012165|xanthine#0.468336552382	uric_acid#0.342502057552|urea#0.30061006546|oxalate#0.291315674782	urate|||urate|||is_a
+urea	uric_acid#0.594425857067|ammonia#0.567517399788|urease#0.53052854538|urate#0.497647196054	uric_acid#0.33963561058|urease#0.321981430054|ammonia#0.308509141207	urea|||urea|||is_a
+urea formaldehyde resin	melamine_resin#0.606978297234|formic_acid#0.5255407691	melamine_resin#0.134264692664|urethane#0.111110389233	urea_formaldehyde_resin|||urea|||formaldehyde|||resin|||is_a
+urease	catalase#0.559273123741|oxidase#0.500123679638	catalase#0.339177161455|oxidase#0.320786207914|enzyme#0.318494170904	urease|||urease|||is_a
+urethane	polyurethane#0.753608524799|epoxy#0.633083105087|silicone#0.602896869183	polyurethane#0.436761558056|epoxy#0.36261472106|synthetic_resin#0.361792892218	urethane|||urethane|||is_a
+uric acid	oxalic_acid#0.522929012775	oxalic_acid#0.171000704169	uric_acid|||uric|||acid|||is_a
+urobilinogen	uric_acid#0.585138857365	uric_acid#0.335762709379	urobilinogen|||urobilinogen|||is_a
+valeric acid			valeric_acid|||valeric|||acid|||is_a
+valine	isoleucine#0.786626279354|leucine#0.773589849472|alanine#0.73044526577|phenylalanine#0.725628018379|glutamic_acid#0.708258450031|aspartic_acid#0.694181263447|threonine#0.689998030663|proline#0.683455407619|amino_acid#0.67651039362|tyrosine#0.665079534054	isoleucine#0.423501908779|leucine#0.417810887098|phenylalanine#0.391702115536|glutamic_acid#0.389255464077|alanine#0.386520296335|tyrosine#0.381877183914|amino_acid#0.380976498127|threonine#0.371389329433|aspartic_acid#0.370012700558|proline#0.36726975441	valine|||valine|||is_a
+vanadate			vanadate|||vanadate|||is_a
+vanadium pentoxide	oxide#0.65215164423|trioxide#0.61591809988	oxide#0.250869035721|trioxide#0.229585409164	vanadium_pentoxide|||vanadium|||pentoxide|||is_a
+vanillin	hydroxybenzoic_acid#0.518571376801|tartaric_acid#0.505091190338|benzoic_acid#0.486759364605	hydroxybenzoic_acid#0.308335661888|tartaric_acid#0.304938018322	vanillin|||vanillin|||is_a
+vegetable oil	coconut_oil#0.725025951862|cooking_oil#0.717592477798|sesame_oil#0.715369999409|olive_oil#0.702719390392|soybean_oil#0.685766994953	sesame_oil#0.297298938036|coconut_oil#0.293949842453|cooking_oil#0.293235570192|olive_oil#0.287582278252|soybean_oil#0.278110474348	vegetable_oil|||vegetable|||oil|||is_a
+vegetable wax	beeswax#0.698913156986|lanolin#0.571170568466	beeswax#0.251932680607|lanolin#0.208614006639	vegetable_wax|||vegetable|||wax|||is_a
+very low density lipoprotein	hdl_cholesterol#0.624470055103	hdl_cholesterol#0.0818004831672	very_low_density_lipoprotein|||very|||low|||density|||lipoprotein|||is_a
+vinegar			vinegar|||vinegar|||is_a
+vinyl polymer	copolymer#0.666956365108|polyamide#0.638043880463|polystyrene#0.628065705299|synthetic_resin#0.597701132298|polyethylene#0.591570258141	copolymer#0.232567116618|polyamide#0.219070762396|synthetic_resin#0.21396394074|polystyrene#0.211343452334	vinyl_polymer|||vinyl|||polymer|||is_a
+vitriol			vitriol|||vitriol|||is_a
+walnut oil	linseed_oil#0.695893287659|vegetable_oil#0.664052248001|sesame_oil#0.647911190987|sunflower_oil#0.640288949013|olive_oil#0.622898995876	linseed_oil#0.265028387308|vegetable_oil#0.252222388983|sesame_oil#0.249122828245|sunflower_oil#0.238407209516	walnut_oil|||walnut|||oil|||is_a
+warhead	high_explosive#0.757877886295	high_explosive#0.442874699831	warhead|||warhead|||is_a
+water	seawater#0.620278835297|fresh_water#0.577942490578|distilled_water#0.575577735901	seawater#0.353558182716|fresh_water#0.340666502714|distilled_water#0.339436948299	water|||water|||is_a
+water of crystallization	distilled_water#0.575316429138	distilled_water#0.119120970368|salt#0.102815516293	water_of_crystallization|||water|||of|||crystallization|||is_a
+water softener	detergent#0.555642127991|liquid_soap#0.527303636074	detergent#0.190305456519|liquid_soap#0.178399890661	water_softener|||water|||softener|||is_a
+wax	beeswax#0.668285131454	beeswax#0.392069011927	wax|||wax|||is_a
+whale oil	spermaceti#0.651401698589|sperm_oil#0.645514309406|paraffin#0.621670484543|tallow#0.606910943985|kerosene#0.589236855507|wax#0.559264302254|lard#0.552532196045	spermaceti#0.236393645406|sperm_oil#0.223755389452|paraffin#0.219120413065|tallow#0.217301815748|kerosene#0.208273872733|wax#0.205075591803|lard#0.199802726507	whale_oil|||whale|||oil|||is_a
+wheat gluten			wheat_gluten|||wheat|||gluten|||is_a
+whizbang			whizbang|||whizbang|||is_a
+wood pulp			wood_pulp|||wood|||pulp|||is_a
+wood sugar			wood_sugar|||wood|||sugar|||is_a
+wood tar	turpentine#0.681463420391|beeswax#0.60199213028|creosote#0.600468814373	turpentine#0.234228432178|beeswax#0.205233797431|creosote#0.199549123645|copal#0.196339517832	wood_tar|||wood|||tar|||is_a
+wool oil	lanolin#0.61357820034|tallow#0.610452532768|beeswax#0.590474247932|vegetable_oil#0.580964326859|linseed_oil#0.573161184788	lanolin#0.322822451591|tallow#0.316549271345|beeswax#0.307822674513|vegetable_oil#0.305253833532|linseed_oil#0.301710575819	wool|||oil|||is_a
+wormwood oil			wormwood_oil|||wormwood|||oil|||is_a
+xanthate			xanthate|||xanthate|||is_a
+xanthic acid			xanthic_acid|||xanthic|||acid|||is_a
+xanthine	purine#0.588061869144|uracil#0.548765659332|nucleoside#0.512007713318|pyrimidine#0.501136004925	purine#0.349981099367|uracil#0.326893061399|nucleoside#0.319319844246	xanthine|||xanthine|||is_a
+xanthophyll	carotenoid#0.557922124863|zeaxanthin#0.519621670246	carotenoid#0.331107318401	xanthophyll|||xanthophyll|||is_a
+yellowcake			yellowcake|||yellowcake|||is_a
+zanzibar copal	myrrh#0.55973225832|storax#0.554166138172|mastic#0.548547029495|balsam#0.539728403091	storax#0.30904507637|mastic#0.306732267141|balsam#0.306360900402	zanzibar|||copal|||is_a
+zeaxanthin	lycopene#0.650214791298|carotene#0.629121959209|beta_carotene#0.610677301884|carotenoid#0.599602937698	carotene#0.365997374058|lycopene#0.365477263927|beta_carotene#0.350626409054|carotenoid#0.348245292902	zeaxanthin|||zeaxanthin|||is_a
+zeolite	silicate#0.591926753521|silica#0.552710473537	silicate#0.362823724747	zeolite|||zeolite|||is_a
+zinc cadmium sulfide			zinc_cadmium_sulfide|||zinc|||cadmium|||sulfide|||is_a
+zinc oxide			zinc_oxide|||zinc|||oxide|||is_a
+zinc sulfate	hydroxide#0.665432274342|copper_sulfate#0.642389416695	hydroxide#0.262410193682	zinc_sulfate|||zinc|||sulfate|||is_a
+zinc sulfide			zinc_sulfide|||zinc|||sulfide|||is_a
+zirconium oxide			zirconium_oxide|||zirconium|||oxide|||is_a
+zymase	ptyalin#0.437105000019	ptyalin#0.28987622261	zymase|||zymase|||is_a

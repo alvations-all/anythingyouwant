@@ -1,0 +1,1555 @@
+sauce gribiche	barbecue_sauce#0.554166555405		sauce|||gribiche|||is_a
+botifarra	sausage#0.488826781511		botifarra|||botifarra|||is_a
+phitti	bavette#0.422110110521		phitti|||phitti|||is_a
+food colouring			food_colouring|||food|||colouring|||is_a
+bean	pea#0.511381030083	pea#0.316090226173	bean|||bean|||is_a
+limequat			limequat|||limequat|||is_a
+kalach	paska#0.431232690811		kalach|||kalach|||is_a
+ice cream	frozen_dessert#0.624462664127|sorbet#0.62268269062|whipped_cream#0.618183672428	frozen_dessert#0.230378806591|sorbet#0.225442200899|whipped_cream#0.213749006391	ice_cream|||ice|||cream|||is_a
+acini di pepe	pastina#0.518337011337		acini_di_pepe|||acini|||di|||pepe|||is_a
+peanut oil	canola_oil#0.672990679741|soybean_oil#0.664612710476|hemp_oil#0.659632563591|coconut_oil#0.637499809265	hemp_oil#0.241537436843|canola_oil#0.232040286064|soybean_oil#0.226734161377|coconut_oil#0.213648274541	peanut_oil|||peanut|||oil|||is_a
+binignit			binignit|||binignit|||is_a
+caraway seed cake			caraway_seed_cake|||caraway|||seed|||cake|||is_a
+nectarine	cherry#0.688790380955|peach#0.685072302818|plum#0.676400601864|apple#0.637897491455|apricot#0.612179100513|pear#0.598558723927|persimmon#0.589278876781|quince#0.572093248367	cherry#0.393410921097|plum#0.382018655539|peach#0.37509599328|apple#0.361600548029|apricot#0.343743294477|pear#0.3399104774|persimmon#0.335903078318	nectarine|||nectarine|||is_a
+oil noodles	vegetable_oil#0.482684403658|noodle#0.48132109642|rice_noodles#0.455760121346	vegetable_oil#0.130127802491	oil_noodles|||oil|||noodles|||is_a
+confiture de lait			confiture_de_lait|||confiture|||de|||lait|||is_a
+noodle	noodle_soup#0.717925965786|rice_noodles#0.639041244984|rice_vermicelli#0.563334167004	noodle_soup#0.426156938076|rice_noodles#0.371982991695	noodle|||noodle|||is_a
+crempog			crempog|||crempog|||is_a
+rookworst			rookworst|||rookworst|||is_a
+beer soup			beer_soup|||beer|||soup|||is_a
+guacamole			guacamole|||guacamole|||is_a
+zopf			zopf|||zopf|||is_a
+extrawurst			extrawurst|||extrawurst|||is_a
+eve's pudding			eve|||s|||pudding|||is_a
+pizza al taglio			pizza_al_taglio|||pizza|||al|||is_a
+laksa	noodle_soup#0.609012544155	noodle_soup#0.366645216942	laksa|||laksa|||is_a
+bakarkhani	kinnathappam#0.496078401804|bebinca#0.473483771086	kinnathappam#0.326219648123|bebinca#0.314745008945	bakarkhani|||bakarkhani|||is_a
+ground and whole bean coffee			ground|||and|||whole|||bean|||coffee|||is_a
+pineapple	guava#0.726935625076|banana#0.707053244114|passion_fruit#0.69765162468|mango#0.695845961571|papaya#0.666747927666|lychee#0.643321216106	guava#0.400967717171|banana#0.398784160614|passion_fruit#0.384007692337|mango#0.374481767416|papaya#0.36412191391	pineapple|||pineapple|||is_a
+fruit sauce	sweet#0.613676905632	sweet#0.215891361237	fruit_sauce|||fruit|||sauce|||is_a
+turtle soup	chicken_soup#0.54672318697|sour_soup#0.530703604221|borscht#0.521802723408	chicken_soup#0.19446772337|sour_soup#0.193465918303	turtle_soup|||turtle|||soup|||is_a
+london bun			london|||bun|||is_a
+lettuce	cabbage#0.64241707325|cucumber#0.628636837006|celery#0.62180763483|spinach#0.617045760155|beetroot#0.609319448471	cucumber#0.35381731391|cabbage#0.353814303875|celery#0.342853218317|spinach#0.336938858032	lettuce|||lettuce|||is_a
+fudge	toffee#0.737198114395|caramel#0.664351224899	toffee#0.398892730474|caramel#0.364212542772	fudge|||fudge|||is_a
+hulatang			hulatang|||hulatang|||is_a
+sesame stick	sesame_seed#0.473385065794	sesame_seed#0.251027286053	sesame|||stick|||is_a
+panbrioche			panbrioche|||panbrioche|||is_a
+fougasse	bolillo#0.415484517813		fougasse|||fougasse|||is_a
+alheira			alheira|||alheira|||is_a
+rose hip soup	sour_cherry_soup#0.49004727602	sour_cherry_soup#0.0862715393305	rose_hip_soup|||rose|||hip|||soup|||is_a
+surnoli			surnoli|||surnoli|||is_a
+saffron bun	sweet_roll#0.516055107117|sesame_seed#0.485943764448	sweet_roll#0.176269337535	saffron_bun|||saffron|||bun|||is_a
+piti			piti|||piti|||is_a
+honey nut clusters	hazelnut#0.580814480782|fruit#0.575964152813|almond#0.547271132469|caramel#0.505431413651	fruit#0.188360989094|hazelnut#0.186144515872|almond#0.17847712338|caramel#0.164110347629	honey|||nut|||clusters|||is_a
+breakfast sandwich			breakfast_sandwich|||breakfast|||sandwich|||is_a
+pita	flatbread#0.630396485329	flatbread#0.375818789005	pita|||pita|||is_a
+korean noodles	noodle#0.679516911507|noodle_soup#0.652557611465|rice_noodles#0.626711010933	noodle#0.361617147923|noodle_soup#0.360250771046|rice_noodles#0.336143821478	korean|||noodles|||is_a
+body buddies			body|||buddies|||is_a
+fennel seed	cumin#0.670090675354|coriander#0.6394495368	cumin#0.219443649054|coriander#0.203046619892	fennel_seed|||fennel|||seed|||is_a
+malapua			malapua|||malapua|||is_a
+tequilaseed			is_a
+sopa teologa			sopa_teologa|||sopa|||teologa|||is_a
+honey smacks	breakfast_cereal#0.444466352463|rice_krispies#0.433017522097	breakfast_cereal#0.143533453345	honey_smacks|||honey|||smacks|||is_a
+basil	oregano#0.664214670658|thyme#0.641853749752|tarragon#0.61405390501|rosemary#0.61117118597|marjoram#0.568941354752|garlic#0.566242158413	oregano#0.377531319857|thyme#0.366043835878|tarragon#0.358874827623|rosemary#0.342961132526|garlic#0.333185493946	basil|||basil|||is_a
+molasses	syrup#0.557250738144|sugar#0.554801225662	syrup#0.329131245613|sugar#0.31290397048	molasses|||molasses|||is_a
+ponzu	fish_sauce#0.430879592896|sauce#0.430475383997	sauce#0.268619775772	ponzu|||ponzu|||is_a
+geera pork	beef#0.652225852013|meat#0.582657754421	beef#0.299892008305|meat#0.271831959486	geera_pork|||pork|||is_a
+southern illinois chowder			southern|||illinois|||chowder|||is_a
+tianmianjiang	sugar#0.426110267639		tianmianjiang|||tianmianjiang|||is_a
+chives	dill#0.644964396954|parsley#0.61039018631|tarragon#0.607121646404|garlic#0.585954725742|shallot#0.577546417713|basil#0.577479064465	dill#0.340186834335|tarragon#0.335777640343|garlic#0.323729991913|parsley#0.321626752615|basil#0.318925172091|thyme#0.314187139273	chives|||chives|||is_a
+oregano	thyme#0.700838148594|basil#0.664755582809|rosemary#0.647435605526|garlic#0.646941363811|marjoram#0.627419948578|bay_leaf#0.621086597443|tarragon#0.619265437126	thyme#0.394437402487|basil#0.377818793058|garlic#0.370907098055|tarragon#0.361286282539|rosemary#0.359233379364|marjoram#0.35231038928|bay_leaf#0.349939703941	oregano|||oregano|||is_a
+edible baking decoration			edible|||baking|||decoration|||is_a
+salad dressing	mayonnaise#0.733033835888|barbecue_sauce#0.657552361488|sauce#0.649076879025|condiment#0.604504048824	mayonnaise#0.287850350142|sauce#0.259819924831|barbecue_sauce#0.257041633129|condiment#0.239958420396	salad_dressing|||salad|||dressing|||is_a
+tomato paste	garlic#0.651979863644|sauce#0.615861713886|onion#0.589225232601|paprika#0.576908886433	garlic#0.232731699944|sauce#0.225517690182|onion#0.206283196807|paprika#0.205831617117	tomato_paste|||tomato|||paste|||is_a
+pork chop	beef#0.733978271484|meat#0.664733886719|sausage#0.636685073376	beef#0.247452050447|sausage#0.221129462123|meat#0.2178863585	pork_chop|||pork|||chop|||is_a
+toffee	caramel#0.68366008997|fudge#0.671487152576|chocolate_bar#0.588005363941	caramel#0.384829640388|fudge#0.363648116589|chocolate_bar#0.346320360899	toffee|||toffee|||is_a
+christmas pudding	spotted_dick#0.654350399971|pie#0.54804110527|christmas_cake#0.545727312565	spotted_dick#0.248538374901|christmas_cake#0.208760276437	christmas_pudding|||christmas|||pudding|||is_a
+köttsoppa	soup#0.506221294403|cold_borsch#0.49953097105	cold_borsch#0.337555408478	köttsoppa|||köttsoppa|||is_a
+garlic powder	salt#0.720867872238|coriander#0.684179842472|cumin#0.665203094482	salt#0.265397101641|coriander#0.251376152039|cumin#0.248440861702	garlic_powder|||garlic|||powder|||is_a
+qottab			qottab|||qottab|||is_a
+sunflower seed	corn#0.547562479973	corn#0.185399100184	sunflower_seed|||sunflower|||seed|||is_a
+rotini	rotelle#0.594211220741	rotelle#0.333836823702	rotini|||rotini|||is_a
+dill	parsley#0.708239793777|tarragon#0.646835446358|garlic#0.637323379517|coriander#0.620735526085|celery#0.616169810295|oregano#0.60832631588|thyme#0.59937030077|cumin#0.593816816807|bay_leaf#0.585600197315	parsley#0.378014087677|tarragon#0.368614912033|garlic#0.360478192568|celery#0.345617622137|oregano#0.34554618597|coriander#0.342537492514|thyme#0.340820014477|cumin#0.337513059378|paprika#0.332784473896	dill|||dill|||is_a
+lane cake	chocolate_cake#0.47602173686		lane|||cake|||is_a
+bread pudding mix	porridge#0.55577981472	porridge#0.191146820784	bread|||pudding|||mix|||is_a
+fuet	sausage#0.554455161095	sausage#0.338531821966	fuet|||fuet|||is_a
+pork scratching	beef#0.489807128906		pork_scratching|||pork|||scratching|||is_a
+red-eye gravy			red_eye_gravy|||red|||eye|||gravy|||is_a
+rice krispies	cereal#0.45496442914		rice_krispies|||rice|||krispies|||is_a
+chistorra			chistorra|||chistorra|||is_a
+100% bran			bran|||is_a
+rawon			rawon|||rawon|||is_a
+ganache	caramel#0.540299415588		ganache|||ganache|||is_a
+mayonnaise	ketchup#0.673071503639|salad_dressing#0.6608248353|barbecue_sauce#0.657182574272|sour_cream#0.647785067558|sauce#0.613726973534	salad_dressing#0.384072571993|barbecue_sauce#0.372523188591|ketchup#0.363870590925|sour_cream#0.363511770964|sauce#0.361230820417	mayonnaise|||mayonnaise|||is_a
+weisswurst	sausage#0.448504567146|mettwurst#0.436819314957	sausage#0.30124387145	weisswurst|||weisswurst|||is_a
+biscuit	chocolate_bar#0.524177491665	chocolate_bar#0.317523807287	biscuit|||biscuit|||is_a
+balep korkun			balep|||korkun|||is_a
+sussex pond pudding			sussex|||pond|||pudding|||is_a
+sugar puffs	syrup#0.589201450348	syrup#0.287455767393	sugar|||puffs|||is_a
+duck soup noodles	noodle_soup#0.706502020359|noodle#0.684262871742|rice_noodles#0.628646910191|chicken_soup#0.618564844131|rice_vermicelli#0.60912322998	noodle_soup#0.257704138756|noodle#0.240318596363|chicken_soup#0.220312848687|rice_noodles#0.218251124024	duck|||soup|||noodles|||is_a
+tarta de santiago			tarta|||de|||santiago|||is_a
+hog's pudding	spotted_dick#0.445242702961		hog_s_pudding|||hog|||s|||pudding|||is_a
+cencioni			cencioni|||cencioni|||is_a
+colaci			colaci|||colaci|||is_a
+kiwi	mango#0.519008874893	mango#0.286253064871	kiwi|||kiwi|||is_a
+lobster sauce			lobster_sauce|||lobster|||sauce|||is_a
+honey	syrup#0.558213710785|molasses#0.494699150324	syrup#0.332520484924	honey|||honey|||is_a
+roti	chapati#0.709319233894|flatbread#0.6368085742	chapati#0.397950679064|flatbread#0.37591445446	roti|||roti|||is_a
+kommissbrot			kommissbrot|||kommissbrot|||is_a
+tkemali			tkemali|||tkemali|||is_a
+rượu nếp			rượu_nếp|||rượu|||nếp|||is_a
+shirataki noodles	noodle#0.594424724579|noodle_soup#0.575593352318|rice_noodles#0.560168921947|rice_vermicelli#0.528132498264	noodle_soup#0.169808596373|noodle#0.163766980171|rice_noodles#0.158279418945	shirataki_noodles|||shirataki|||noodles|||is_a
+amish friendship bread	white_bread#0.503548681736|sweet_roll#0.487729728222|bun#0.470514178276	sweet_roll#0.159626588225|bun#0.15304993093	amish|||friendship|||bread|||is_a
+manchester tart	caramel_tart#0.462809592485		manchester_tart|||manchester|||tart|||is_a
+shrimp roe noodles	noodle#0.627193450928|rice_noodles#0.607568204403	noodle#0.217931300402|rice_noodles#0.210905745625	shrimp|||roe|||noodles|||is_a
+sesame oil	vegetable_oil#0.62213152647|peanut_oil#0.597031533718|soy_sauce#0.584826409817|garlic#0.578050434589|canola_oil#0.574786901474	vegetable_oil#0.220711782575|garlic#0.213467806578|soy_sauce#0.208618417382	sesame_oil|||sesame|||oil|||is_a
+colomba di pasqua	buccellato#0.537991464138	buccellato#0.206069394946	colomba|||di|||pasqua|||is_a
+sinigang			sinigang|||sinigang|||is_a
+youmian			is_a
+pickles and relishes			pickles_and_relishes|||pickles|||and|||relishes|||is_a
+kugelis	kugel#0.447374641895	kugel#0.300867974758	kugelis|||kugelis|||is_a
+frozen yoghurt	ice_cream#0.563329696655|frozen_dessert#0.525862455368|sorbet#0.515843987465	ice_cream#0.19623811543|frozen_dessert#0.192404434085|sorbet#0.185522779822	frozen_yoghurt|||frozen|||yoghurt|||is_a
+fiddlehead fern			fiddlehead_fern|||fiddlehead|||fern|||is_a
+taffy	toffee#0.454949229956|fudge#0.451371252537		taffy|||taffy|||is_a
+drunken noodles	rice_noodles#0.624420523643|noodle#0.59694480896|noodle_soup#0.586372971535|rice_vermicelli#0.571472406387	rice_noodles#0.184661716223|noodle_soup#0.180878385901|noodle#0.17719976604|rice_vermicelli#0.169418171048	drunken_noodles|||drunken|||noodles|||is_a
+carbonated water			carbonated_water|||carbonated|||water|||is_a
+diot			diot|||diot|||is_a
+cocktail sauce	barbecue_sauce#0.612019479275|brown_sauce#0.593313694|condiment#0.537539958954|mayonnaise#0.528058886528|ketchup#0.525175869465	barbecue_sauce#0.215949758887|brown_sauce#0.211622208357|condiment#0.196024179459	cocktail_sauce|||cocktail|||sauce|||is_a
+candle salad			candle_salad|||candle|||salad|||is_a
+kek lapis sarawak	spekkoek#0.46412691474		kek|||lapis|||sarawak|||is_a
+chocolate covered fruit	caramel#0.663588821888|toffee#0.644675016403|hazelnut#0.616268634796	caramel#0.143428638577|toffee#0.140229910612|hazelnut#0.135762184858	chocolate_covered_fruit|||chocolate|||covered|||fruit|||is_a
+mush	porridge#0.4827876091	porridge#0.292969882488	mush|||mush|||is_a
+mafalde	pillus#0.90648150444|tripoline#0.897152006626|lasagnette#0.890578985214|sagnarelli#0.890357077122|linguettine#0.612285077572|sacchettoni#0.596175789833	pillus#0.578501939774|sagnarelli#0.56626278162|tripoline#0.561892032623|lasagnette#0.558647155762|sacchettoni#0.382928013802|linguettine#0.380680829287	mafalde|||mafalde|||is_a
+brandy	liqueur#0.726384282112|vodka#0.673216640949|schnapps#0.66537040472|rum#0.66288125515	liqueur#0.433395028114|vodka#0.399161249399|schnapps#0.398469477892	brandy|||brandy|||is_a
+fideo			fideo|||fideo|||is_a
+prežganka			prežganka|||prežganka|||is_a
+mango	guava#0.766407191753|pineapple#0.704459786415|passion_fruit#0.684299170971|papaya#0.668123006821|banana#0.653963625431	guava#0.418595910072|pineapple#0.379078418016|passion_fruit#0.376179337502|banana#0.371336489916|papaya#0.363291710615	mango|||mango|||is_a
+pandebono	pan_de_yuca#0.474497258663|empanada#0.473928689957		pandebono|||pandebono|||is_a
+champorado			champorado|||champorado|||is_a
+salt pork	beef#0.672781288624|meat#0.603958308697	beef#0.21485838294|meat#0.190802037716	salt_pork|||salt|||pork|||is_a
+tahinopita	močnik#0.603472113609	močnik#0.395447671413	tahinopita|||tahinopita|||is_a
+water	salt#0.543802917004|sugar#0.526594042778	salt#0.304198205471	water|||water|||is_a
+arracacha			arracacha|||arracacha|||is_a
+yucca root			yucca_root|||yucca|||root|||is_a
+garganelli	focaccia#0.395858108997|neapolitan_pizza#0.395157217979	neapolitan_pizza#0.253397881985	garganelli|||garganelli|||is_a
+thalipeeth			thalipeeth|||thalipeeth|||is_a
+prepared side dish	side_dish#0.564182162285	side_dish#0.186335071921	prepared|||side|||dish|||is_a
+fläskkorv	isterband#0.533121943474	isterband#0.318597644567	fläskkorv|||fläskkorv|||is_a
+dodger dog	hot_dog#0.534932971001	hot_dog#0.29926392436	dodger|||dog|||is_a
+tofu	tempeh#0.566981375217|bean_sprout#0.534429728985	bean_sprout#0.301564693451	tofu|||tofu|||is_a
+rugbrød	rye_bread#0.587288498878|brown_bread#0.4517801404	rye_bread#0.355220288038|brown_bread#0.305444568396|rupjmaize#0.303774029016	rugbrød|||rugbrød|||is_a
+sponge cake	pastry#0.659397721291|layer_cake#0.626373946667|chocolate_cake#0.598774850368	pastry#0.255366265774|layer_cake#0.237975955009|sweet_roll#0.225423797965|chocolate_cake#0.225055724382	sponge_cake|||sponge|||cake|||is_a
+penne	linguine#0.682415723801|pasta#0.586602389812|spaghetti#0.570461034775|rigatoni#0.558290779591|fusilli#0.540998876095|tagliatelle#0.514909505844|bucatini#0.50372004509	linguine#0.394443690777|pasta#0.340956568718|rigatoni#0.329564899206|spaghetti#0.327185541391|fusilli#0.304419308901|bucatini#0.301025271416	penne|||penne|||is_a
+pretzel			pretzel|||pretzel|||is_a
+coffee creamer	hot_chocolate#0.587242424488|instant_coffee#0.586955070496	hot_chocolate#0.184716612101|instant_coffee#0.18396641314	coffee_creamer|||coffee|||creamer|||is_a
+šakotis			šakotis|||šakotis|||is_a
+soyo			soyo|||soyo|||is_a
+nshkhar			nshkhar|||nshkhar|||is_a
+basler brot			basler|||brot|||is_a
+lipie			lipie|||lipie|||is_a
+anadama bread	white_bread#0.504159450531		anadama_bread|||bread|||is_a
+chinese pancake	močnik#0.5674482584	močnik#0.310199022293	chinese|||pancake|||is_a
+tapalapa bread	flatbread#0.508105278015|maafe#0.501675844193	flatbread#0.17601968348|maafe#0.171017542481	tapalapa_bread|||tapalapa|||bread|||is_a
+baati	bebinca#0.506007552147|bhakri#0.499950319529	bebinca#0.32700791955|bhakri#0.308525264263	baati|||baati|||is_a
+pan mee			pan_mee|||pan|||mee|||is_a
+pottage			pottage|||pottage|||is_a
+hasty pudding	porridge#0.514696657658|christmas_pudding#0.49686768651	porridge#0.170916229486	hasty_pudding|||hasty|||pudding|||is_a
+prepared main course			prepared|||main|||course|||is_a
+bánh tét			bánh_tét|||bánh|||tét|||is_a
+hidden treasures			hidden_treasures|||hidden|||treasures|||is_a
+gamjajeon			gamjajeon|||gamjajeon|||is_a
+bockwurst			bockwurst|||bockwurst|||is_a
+herb			herb|||herb|||is_a
+horsebread			horsebread|||horsebread|||is_a
+chikhirtma			chikhirtma|||chikhirtma|||is_a
+layer cake	sponge_cake#0.748203337193|chocolate_cake#0.601193666458|pastry#0.563210248947	sponge_cake#0.288322150707|chocolate_cake#0.222491174936|spice_cake#0.214106366038	layer_cake|||layer|||cake|||is_a
+almond milk	hazelnut#0.594560205936|hemp_milk#0.574492096901|oat_milk#0.572721719742|cream#0.551583588123|condensed_milk#0.531359910965|powdered_milk#0.524151444435	hazelnut#0.200653687119|hemp_milk#0.19625197351|cream#0.189145743847|oat_milk#0.185862824321|condensed_milk#0.17593061924	almond_milk|||almond|||milk|||is_a
+pogača	pita#0.441175162792		pogača|||pogača|||is_a
+gulgukbap	bánh_chuối#0.435375154018	bánh_chuối#0.291965425014	gulgukbap|||gulgukbap|||is_a
+bika ambon			bika_ambon|||ambon|||is_a
+wanko soba	udon#0.503122627735|okonomiyaki#0.450041294098	udon#0.14286378026|okonomiyaki#0.141832575202	wanko_soba|||wanko|||soba|||is_a
+češnovka			is_a
+udon	noodle_soup#0.582061290741|noodle#0.581917226315	noodle_soup#0.34089744091|noodle#0.333689689636|rice_noodles#0.309776961803	udon|||udon|||is_a
+ga'at	bebinca#0.491386860609	bebinca#0.157959997654	ga_at|||ga|||at|||is_a
+weckewerk			weckewerk|||weckewerk|||is_a
+seattle-style hot dog	hot_dog#0.519983589649	hot_dog#0.10938256979	seattle|||style|||hot|||dog|||is_a
+stottie cake	sweet_roll#0.496615737677		stottie_cake|||stottie|||cake|||is_a
+flavoured malt drink	beverage#0.605867743492|liqueur#0.604971408844	liqueur#0.234513148665|beverage#0.232999831438	flavoured|||malt|||drink|||is_a
+appetiser	draw_soup#0.442605733871	draw_soup#0.293535023928	appetiser|||appetiser|||is_a
+kamby arro			kamby_arro|||kamby|||arro|||is_a
+schnapps	vodka#0.668442249298|liqueur#0.613606035709|brandy#0.566902279854	vodka#0.417015969753|liqueur#0.391217201948	schnapps|||schnapps|||is_a
+veda bread	sabounee#0.48160892725	sabounee#0.160656183958	veda_bread|||veda|||bread|||is_a
+olive oil	peanut_oil#0.601326525211|canola_oil#0.58771699667|vegetable_oil#0.560386121273|garlic#0.556891977787|soybean_oil#0.554647862911|tahini#0.537828803062	canola_oil#0.207847982645|peanut_oil#0.204771459103|garlic#0.199605703354|tahini#0.197542101145|soybean_oil#0.193611219525|vegetable_oil#0.193484470248	olive_oil|||olive|||oil|||is_a
+frejon			frejon|||frejon|||is_a
+instant coffee	hot_chocolate#0.641826272011|beverage#0.525385856628	hot_chocolate#0.236096546054|beverage#0.207172095776	instant_coffee|||instant|||coffee|||is_a
+sugar	syrup#0.708544850349|corn_syrup#0.599159955978	syrup#0.399131774902|tianmianjiang#0.335082679987|corn_syrup#0.334738463163	sugar|||sugar|||is_a
+tucupi	tacacá#0.645404458046	tacacá#0.414180606604	tucupi|||tucupi|||is_a
+dairy product			dairy_product|||dairy|||product|||is_a
+ciabatta	panbrioche#0.459497064352|bread#0.430211544037	panbrioche#0.296584427357	ciabatta|||ciabatta|||is_a
+cumian			cumian|||cumian|||is_a
+espagnole sauce	brown_sauce#0.571285605431|barbecue_sauce#0.503952562809	brown_sauce#0.210955649614	espagnole_sauce|||espagnole|||sauce|||is_a
+soto			soto|||soto|||is_a
+soup number five			soup|||number|||five|||is_a
+horseradish sauce	mustard#0.694875895977|mayonnaise#0.648769021034|barbecue_sauce#0.612557172775|ketchup#0.583717644215|condiment#0.578548133373	mustard#0.252019524574|mayonnaise#0.230106204748|barbecue_sauce#0.21732608974|condiment#0.210277885199	horseradish_sauce|||horseradish|||sauce|||is_a
+instant soup			instant_soup|||instant|||soup|||is_a
+muffin	donut#0.49442204833	donut#0.30034840107	muffin|||muffin|||is_a
+happy cake			happy|||cake|||is_a
+cupcone			cupcone|||cupcone|||is_a
+bitter	sweet#0.523985028267	sweet#0.328940361738	bitter|||bitter|||is_a
+moin moin			moin_moin|||moin|||moin|||is_a
+pumpkin soup	borscht#0.518241584301		pumpkin_soup|||pumpkin|||soup|||is_a
+nagasari			nagasari|||nagasari|||is_a
+atemoya	cherimoya#0.472582906485		atemoya|||atemoya|||is_a
+gourd			gourd|||gourd|||is_a
+sprouted bread	cornmeal#0.546325981617	cornmeal#0.286225050688	sprouted|||bread|||is_a
+quinoa	corn#0.549745321274|amaranth#0.546532154083|arracacha#0.51701271534	corn#0.314586222172|arracacha#0.303636521101	quinoa|||quinoa|||is_a
+soup	chicken_soup#0.626392006874|borscht#0.610954523087|sour_soup#0.59234815836	chicken_soup#0.378211796284|sour_soup#0.370247662067|borscht#0.36996409297	soup|||soup|||is_a
+frosted flakes	breakfast_cereal#0.49935182929	breakfast_cereal#0.16560831666	frosted_flakes|||frosted|||flakes|||is_a
+far breton	kouign_amann#0.556403517723	kouign_amann#0.186970517039	far_breton|||far|||breton|||is_a
+kapusniak			kapusniak|||kapusniak|||is_a
+meat patty	beef#0.633758604527|pork#0.602807998657	beef#0.206990718842	meat_patty|||meat|||patty|||is_a
+ketchup	barbecue_sauce#0.744876623154|mayonnaise#0.708402037621|sauce#0.636995792389|worcestershire_sauce#0.62248134613|mustard#0.615913033485	barbecue_sauce#0.408189237118|mayonnaise#0.382621586323|sauce#0.366480827332|mustard#0.349345952272	ketchup|||ketchup|||is_a
+rye	barley#0.742569506168|wheat#0.72865819931|oats#0.615081965923	barley#0.41047719121|wheat#0.405079841614|oats#0.332798600197	rye|||rye|||is_a
+oliebol	ontbijtkoek#0.517207682133	ontbijtkoek#0.316327959299	oliebol|||oliebol|||is_a
+gummy sweet			gummy|||sweet|||is_a
+bok choi			bok_choi|||bok|||choi|||is_a
+ravioli	tortellini#0.59921002388|tagliatelle#0.574769079685|pasta#0.573251664639	pasta#0.332002878189|tortellini#0.331360071898	ravioli|||ravioli|||is_a
+mi san dao			mi|||san|||dao|||is_a
+rum	liqueur#0.652451276779|brandy#0.630171835423|vodka#0.60244935751	liqueur#0.399612009525	rum|||rum|||is_a
+duckefett			duckefett|||duckefett|||is_a
+fennel bulb	celery#0.515766322613|parsley#0.507877886295	celery#0.263779014349	fennel|||bulb|||is_a
+walnut	almond#0.600596249104|persimmon#0.595869779587|hazelnut#0.579623758793|pistachio#0.560185372829|apricot#0.553990960121	almond#0.353611588478|persimmon#0.344978839159|hazelnut#0.340403914452|plum#0.3292119205|cherry#0.326550841331|pistachio#0.326380223036	walnut|||walnut|||is_a
+tortilla	corn_tortilla#0.527790486813		tortilla|||tortilla|||is_a
+tourin			tourin|||tourin|||is_a
+chips			chips|||chips|||is_a
+oyster sauce	soy_sauce#0.540734291077		oyster_sauce|||oyster|||sauce|||is_a
+corn syrup	sugar#0.6487377882|molasses#0.546845436096	sugar#0.213782846928	corn_syrup|||corn|||syrup|||is_a
+chilli oil	sesame_oil#0.620761334896|garlic#0.594537377357|soy_sauce#0.568780720234|vinegar#0.548148214817	garlic#0.207487493753|sesame_oil#0.203620567918|soy_sauce#0.194359347224	chilli_oil|||chilli|||oil|||is_a
+pici			pici|||pici|||is_a
+chard	cabbage#0.536801159382|spinach#0.535299777985|kale#0.5093973279	cabbage#0.31284531951|spinach#0.307394325733	chard|||chard|||is_a
+pinca			pinca|||pinca|||is_a
+kompyang			kompyang|||kompyang|||is_a
+wedding soup	chicken_soup#0.576482176781|hochzeitssuppe#0.553250610828	chicken_soup#0.173591643572|hochzeitssuppe#0.172357574105	wedding_soup|||wedding|||soup|||is_a
+loquat	persimmon#0.627968609333|plum#0.554025769234|cherry#0.553003191948	persimmon#0.353492736816|cherry#0.328579306602	loquat|||loquat|||is_a
+bredela			bredela|||bredela|||is_a
+khrenovina sauce	barbecue_sauce#0.548578739166		khrenovina|||sauce|||is_a
+breakfast cereal	corn_flakes#0.558830499649|shredded_wheat#0.538901507854|weetabix#0.532912433147	corn_flakes#0.199582502246|weetabix#0.195368766785	breakfast_cereal|||breakfast|||cereal|||is_a
+tortellini	tortelloni#0.652494370937|ravioli#0.594950258732|passatelli#0.513222515583	tortelloni#0.36317422986|ravioli#0.329242110252|passatelli#0.316497504711	tortellini|||tortellini|||is_a
+condiment	sauce#0.588627040386|brown_sauce#0.539433240891|side_dish#0.535620629787|salad_dressing#0.530376136303	sauce#0.363317728043|brown_sauce#0.343844771385|side_dish#0.335366368294|salad_dressing#0.333778321743	condiment|||condiment|||is_a
+sfouf			sfouf|||sfouf|||is_a
+parsley	dill#0.729762494564|celery#0.700928330421|garlic#0.693612337112|onion#0.659137785435|tarragon#0.65876853466|oregano#0.630250632763|coriander#0.625235080719	dill#0.38961815834|garlic#0.383182346821|celery#0.380670815706|tarragon#0.37058365345|onion#0.364426165819|oregano#0.352123230696|thyme#0.348256438971	parsley|||parsley|||is_a
+sambal			sambal|||sambal|||is_a
+crazy cow			crazy_cow|||crazy|||cow|||is_a
+dashi	soy_sauce#0.555020034313|fish_sauce#0.514535427094	soy_sauce#0.313500255346	dashi|||dashi|||is_a
+bundt cake	sponge_cake#0.540442764759|pastry#0.531098842621|quick_bread#0.511605143547	sponge_cake#0.18731367588|pastry#0.186253860593|quick_bread#0.182329267263	bundt_cake|||bundt|||cake|||is_a
+kaeng som			kaeng_som|||kaeng|||som|||is_a
+talunan			talunan|||talunan|||is_a
+lekach			lekach|||lekach|||is_a
+czernina	mykyrokka#0.577025294304|pig_s_organ_soup#0.47492274642	mykyrokka#0.333791464567|pig_s_organ_soup#0.291160821915	czernina|||czernina|||is_a
+ogbono nut	hazelnut#0.455813020468		ogbono|||nut|||is_a
+sapote	mamey#0.638269722462|guava#0.564942538738	mamey#0.362981289625|guava#0.324829995632	sapote|||sapote|||is_a
+egg			egg|||egg|||is_a
+sorrel			sorrel|||sorrel|||is_a
+phu quoc fish sauce			phu|||quoc|||fish|||sauce|||is_a
+prepared sandwich	mollete#0.519339263439	mollete#0.178580075502	prepared_sandwich|||prepared|||sandwich|||is_a
+oatcake			oatcake|||oatcake|||is_a
+apple butter	plum#0.557088375092|cherry#0.53282803297|cream_cheese#0.527736902237|sour_cream#0.515417695045|apple_sauce#0.513452172279	plum#0.187709137797|cherry#0.180800437927|cream_cheese#0.177873685956	apple_butter|||apple|||butter|||is_a
+mamoncillo nut	hazelnut#0.50324845314|almond#0.473391503096	hazelnut#0.258952260017	mamoncillo|||nut|||is_a
+rúgbrauð	rye_bread#0.482033342123|rugbrød#0.48202291131|rupjmaize#0.453743010759	rugbrød#0.303676843643|rupjmaize#0.295004159212|rye_bread#0.290800869465	rúgbrauð|||rúgbrauð|||is_a
+depression cake	spice_cake#0.498906373978|torte#0.4984998703|wedding_cake#0.478253632784|fruit_cake#0.477789521217|sponge_cake#0.467385202646|pastry#0.454311460257	spice_cake#0.152815341949|torte#0.150916531682|fruit_cake#0.144116953015|wedding_cake#0.139124199748	depression_cake|||depression|||cake|||is_a
+fruit bun	sweet#0.471041142941|fruit_salad#0.470505833626|sweet_roll#0.457115978003	sweet#0.263010144234|fruit_salad#0.260141342878|sweet_roll#0.256077080965	fruit|||bun|||is_a
+guagua de pan			guagua_de_pan|||guagua|||de|||pan|||is_a
+alpha-bits			alpha_bits|||alpha|||bits|||is_a
+french toast	bread#0.505751550198	bread#0.1709138304	french_toast|||french|||toast|||is_a
+wheatgrass			wheatgrass|||wheatgrass|||is_a
+trdelník			trdelník|||trdelník|||is_a
+chili dog	hot_dog#0.625046670437	hot_dog#0.218529880047	chili_dog|||chili|||dog|||is_a
+carbonade flamande			carbonade_flamande|||carbonade|||flamande|||is_a
+bottled coffee drink	beverage#0.77357506752	beverage#0.300956219435	bottled|||coffee|||drink|||is_a
+white bread	rye_bread#0.596141517162|brown_bread#0.542819797993	rye_bread#0.211722239852|brown_bread#0.20565764606	white_bread|||white|||bread|||is_a
+pastina	acini_di_pepe#0.573484122753	acini_di_pepe#0.343981176615	pastina|||pastina|||is_a
+montreal-style bagel			montreal|||style|||bagel|||is_a
+oxford sausage	boerewors#0.478237181902		oxford_sausage|||oxford|||sausage|||is_a
+bolo de mel			bolo_de_mel|||bolo|||de|||mel|||is_a
+gumbo	mulligatawny#0.46044626832	mulligatawny#0.294920772314	gumbo|||gumbo|||is_a
+serabi			serabi|||serabi|||is_a
+saang mein	noodle_soup#0.500561654568	noodle_soup#0.28211414814	saang|||mein|||is_a
+bow wow sauce	barbecue_sauce#0.502731025219|brown_sauce#0.471358627081	barbecue_sauce#0.149644628167|brown_sauce#0.146134287119	bow|||wow|||sauce|||is_a
+crisp bread	rye_bread#0.596039652824|white_bread#0.559739112854|flatbread#0.548723876476	rye_bread#0.201062187552|flatbread#0.19306281209|brown_bread#0.186444908381	crisp_bread|||crisp|||bread|||is_a
+rigatoni	linguine#0.641926527023|penne#0.505405843258|tagliatelle#0.500384986401	linguine#0.384596735239|penne#0.304134607315	rigatoni|||rigatoni|||is_a
+banana bread	quick_bread#0.477213293314|pudding#0.474080532789	pudding#0.160048961639	banana_bread|||banana|||bread|||is_a
+whisky			whisky|||whisky|||is_a
+agave syrup			agave_syrup|||agave|||syrup|||is_a
+borscht	soup#0.628666698933|solyanka#0.531815767288	soup#0.379244297743|solyanka#0.340379744768|cold_borsch#0.328495889902	borscht|||borscht|||is_a
+chilli powder			chilli_powder|||chilli|||powder|||is_a
+chocolate bar	candy_bar#0.683999538422|caramel#0.678122937679|toffee#0.674773395061|fudge#0.645179390907	candy_bar#0.274617552757|toffee#0.267379254103|caramel#0.267037421465	chocolate_bar|||chocolate|||bar|||is_a
+vermouth	vodka#0.637060165405|liqueur#0.60336214304	vodka#0.389996886253|liqueur#0.376583188772|schnapps#0.356575667858	vermouth|||vermouth|||is_a
+fanesca			fanesca|||fanesca|||is_a
+beurre blanc			beurre_blanc|||beurre|||blanc|||is_a
+wonton noodles	noodle#0.760567545891|rice_noodles#0.751700878143|noodle_soup#0.689218878746|rice_vermicelli#0.666476964951	noodle#0.297183632851|rice_noodles#0.292058438063|noodle_soup#0.271231204271|rice_vermicelli#0.245933786035	wonton_noodles|||wonton|||noodles|||is_a
+toto			toto|||toto|||is_a
+soul cake	pastry#0.525009810925		soul_cake|||soul|||cake|||is_a
+milk	condensed_milk#0.580962061882	yoghurt#0.329037070274	milk|||milk|||is_a
+yeast			yeast|||yeast|||is_a
+yu choy	on_choy#0.625509262085	on_choy#0.210324928164	yu_choy|||yu|||choy|||is_a
+crenvurșt			crenvurșt|||crenvurșt|||is_a
+cinnamon	aniseed#0.580200374126		cinnamon|||cinnamon|||is_a
+walnut oil	peanut_oil#0.627424716949|canola_oil#0.607259631157|coconut_oil#0.584233462811|soybean_oil#0.582253992558	canola_oil#0.198749527335|peanut_oil#0.197683110833|hemp_oil#0.191907703876	walnut_oil|||walnut|||oil|||is_a
+fat rascal	goro#0.467815339565	goro#0.135523930192	fat_rascal|||fat|||rascal|||is_a
+kream krunch	breakfast_cereal#0.474140763283	breakfast_cereal#0.273093909025	kream|||krunch|||is_a
+scott's porage oats			scott|||s|||porage|||oats|||is_a
+starfruit	longan#0.561930835247|guava#0.487489014864	longan#0.325389891863|guava#0.294247508049	starfruit|||starfruit|||is_a
+soldier			soldier|||soldier|||is_a
+start			start|||start|||is_a
+cabbage	kale#0.686982512474|cauliflower#0.675743162632|broccoli#0.645492970943|spinach#0.644369602203|radish#0.640649795532	kale#0.387461572886|cauliflower#0.378169685602|spinach#0.358484059572	cabbage|||cabbage|||is_a
+kissel			kissel|||kissel|||is_a
+cottage loaf	bun#0.489670842886		cottage_loaf|||cottage|||loaf|||is_a
+smultring			smultring|||smultring|||is_a
+beetroot	cabbage#0.669163227081|cauliflower#0.641759574413|lettuce#0.622271955013|spinach#0.592146396637	cabbage#0.363541632891|cauliflower#0.350072681904|lettuce#0.329917252064|spinach#0.324466407299|potato#0.323258787394|cucumber#0.320902138948	beetroot|||beetroot|||is_a
+pathiri	kinnathappam#0.629531145096	kinnathappam#0.402598530054	pathiri|||pathiri|||is_a
+parkin			parkin|||parkin|||is_a
+spice			spice|||spice|||is_a
+sel roti	flatbread#0.509919047356|chapati#0.5085247159|dosa#0.504641413689		sel_roti|||sel|||roti|||is_a
+rhubarb			rhubarb|||rhubarb|||is_a
+sour cream doughnut	sweet#0.593578636646|whipped_cream#0.528302013874|cream_cheese#0.518454372883	sweet#0.117712527514	sour_cream_doughnut|||sour|||cream|||doughnut|||is_a
+mushroom gravy			mushroom|||gravy|||is_a
+kouign-amann			kouign_amann|||kouign|||amann|||is_a
+neenish tart	caramel_tart#0.573951661587|pie#0.526916801929	caramel_tart#0.213666051626|pie#0.190737739205	neenish_tart|||neenish|||tart|||is_a
+dried bean	bean_paste#0.510639607906	bean_paste#0.17394040525	dried_bean|||dried|||bean|||is_a
+koeksister			koeksister|||koeksister|||is_a
+beetroot green	cabbage#0.637143731117|cauliflower#0.58182823658|tomato#0.57109361887|onion#0.565510392189|lettuce#0.549310326576|cucumber#0.540304064751	cabbage#0.32184150815|tomato#0.303052395582|cauliflower#0.29938146472|onion#0.296773642302|cucumber#0.290553361177	beetroot|||green|||is_a
+halfsies	smorz#0.487133651972|cruncheroos#0.486977875233	smorz#0.32280793786	halfsies|||halfsies|||is_a
+kupati			kupati|||kupati|||is_a
+ajdov kruh			ajdov|||kruh|||is_a
+water chestnut			water_chestnut|||water|||chestnut|||is_a
+mint			mint|||mint|||is_a
+gumdrop			gumdrop|||gumdrop|||is_a
+tekwan	kinnathappam#0.456004202366	kinnathappam#0.310441911221	tekwan|||tekwan|||is_a
+tembleque			tembleque|||tembleque|||is_a
+basbousa			basbousa|||basbousa|||is_a
+calas			calas|||calas|||is_a
+sugar pearl	syrup#0.512223899364		sugar|||pearl|||is_a
+rice bread	flatbread#0.548472344875|porridge#0.547658145428|roti#0.537670850754	porridge#0.190139144659|flatbread#0.189913809299	rice_bread|||rice|||bread|||is_a
+pork tenderloin	beef#0.724400937557|meat#0.645191311836	beef#0.261068850756|meat#0.224503144622	pork_tenderloin|||pork|||tenderloin|||is_a
+artificial sweetener	corn_syrup#0.575510501862		artificial_sweetener|||artificial|||sweetener|||is_a
+jatjuk		jeonbokjuk#0.282457530499	jatjuk|||jatjuk|||is_a
+muskazine			muskazine|||muskazine|||is_a
+honey loops	syrup#0.441792011261		honey|||loops|||is_a
+shahe fen	rice_noodles#0.513509750366|noodle_soup#0.477658182383	rice_noodles#0.154197469354	shahe_fen|||shahe|||fen|||is_a
+malva pudding			malva_pudding|||malva|||pudding|||is_a
+piki			piki|||piki|||is_a
+jeon			jeon|||jeon|||is_a
+quince	plum#0.625660479069|pear#0.617225646973|apple#0.610254347324|cherry#0.598615825176|persimmon#0.583631515503|apricot#0.579791426659	plum#0.363202929497|cherry#0.354752182961|apple#0.353905022144|pear#0.353400200605|persimmon#0.338111251593	quince|||quince|||is_a
+psarosoupa	köttsoppa#0.52741754055		psarosoupa|||psarosoupa|||is_a
+brown bobby			brown_bobby|||brown|||bobby|||is_a
+vanilla bean			vanilla_bean|||vanilla|||bean|||is_a
+wine cake	dessert_wine#0.488097816706|močnik#0.473602563143	močnik#0.262247294188	wine|||cake|||is_a
+boiled sweet			boiled_sweet|||boiled|||sweet|||is_a
+rosemary	thyme#0.716973245144|oregano#0.691219508648|basil#0.654585242271|tarragon#0.617466926575|marjoram#0.608559131622	thyme#0.393758863211|oregano#0.382331997156|basil#0.365291386843|tarragon#0.353216290474	rosemary|||rosemary|||is_a
+chancaca	syrup#0.528856158257	syrup#0.324305325747	chancaca|||chancaca|||is_a
+cocktail bun	caramel_tart#0.483281672001	caramel_tart#0.175434187055	cocktail_bun|||cocktail|||bun|||is_a
+cake	sponge_cake#0.630514025688|pastry#0.597551822662|chocolate_cake#0.567093074322|spice_cake#0.561676263809|layer_cake#0.561397314072	sponge_cake#0.377847135067|pastry#0.362248569727|spice_cake#0.355690717697|layer_cake#0.345324218273	cake|||cake|||is_a
+pistachio pudding	almond#0.544638335705	almond#0.185533285141	pistachio_pudding|||pistachio|||pudding|||is_a
+dried fruit			dried_fruit|||dried|||fruit|||is_a
+olive loaf	bread#0.47997200489	bread#0.135216653347	olive_loaf|||olive|||loaf|||is_a
+flummery			flummery|||flummery|||is_a
+thenthuk	thukpa#0.485357940197	thukpa#0.32104203105	thenthuk|||thenthuk|||is_a
+cabinet pudding			cabinet|||pudding|||is_a
+madeleine			madeleine|||madeleine|||is_a
+rye bread	rugbrød#0.63181912899|white_bread#0.624748110771|crisp_bread#0.576556146145|flatbread#0.575542092323	rugbrød#0.240938410163|white_bread#0.220452547073|flatbread#0.21702067554|crisp_bread#0.213300317526	rye_bread|||rye|||bread|||is_a
+ribollita			ribollita|||ribollita|||is_a
+dotori guksu			dotori_guksu|||dotori|||guksu|||is_a
+sticky rice cake			sticky_rice_cake|||sticky|||rice|||cake|||is_a
+bavette	sacchettoni#0.554665267467	sacchettoni#0.349430024624	bavette|||bavette|||is_a
+coffee cake	sponge_cake#0.494426101446	bebinca#0.169831752777	coffee_cake|||coffee|||cake|||is_a
+energy drink	beverage#0.728367388248	beverage#0.294812262058	energy_drink|||energy|||drink|||is_a
+garak guksu			garak|||guksu|||is_a
+worcestershire sauce	barbecue_sauce#0.627402722836|brown_sauce#0.618762075901|hot_sauce#0.615947306156|ketchup#0.603353738785|mayonnaise#0.572685241699	brown_sauce#0.214319631457|barbecue_sauce#0.205475836992|hot_sauce#0.197157084942|ketchup#0.191088780761|mayonnaise#0.184107139707	worcestershire_sauce|||worcestershire|||sauce|||is_a
+bazlama			bazlama|||bazlama|||is_a
+anellini			anellini|||anellini|||is_a
+pane ticinese			pane_ticinese|||pane|||is_a
+orange	lemon#0.643443882465|peach#0.631307721138|apricot#0.621266782284|tangerine#0.612908184528	lemon#0.367427498102|peach#0.359135001898|apricot#0.356207311153|cherry#0.348687916994	orange|||orange|||is_a
+stonner kebab			stonner_kebab|||stonner|||kebab|||is_a
+sushi pizza			sushi|||pizza|||is_a
+california-style pizza			california|||style|||pizza|||is_a
+batter and coating mix			batter|||and|||coating|||mix|||is_a
+vinegar	soy_sauce#0.658276438713|fish_sauce#0.610455334187|garlic#0.590028822422|salt#0.566974878311|ganjang#0.563047230244	soy_sauce#0.35809507966|garlic#0.33765271306|fish_sauce#0.336824685335	vinegar|||vinegar|||is_a
+albufera sauce			albufera|||sauce|||is_a
+chongyang cake	berlingozzo#0.560809373856|pastry#0.515401780605|spice_cake#0.513221800327	berlingozzo#0.331685632467|močnik#0.312107622623	chongyang|||cake|||is_a
+hot dog bun	hot_dog#0.617254436016|sausage#0.48635828495	hot_dog#0.144653901458|sausage#0.110930338502	hot_dog_bun|||hot|||dog|||bun|||is_a
+watalappam			is_a
+fish sauce	soy_sauce#0.647464454174|condiment#0.58992511034	soy_sauce#0.211638256907|condiment#0.203476458788	fish_sauce|||fish|||sauce|||is_a
+pizza sauce	salad_dressing#0.561466932297|barbecue_sauce#0.548730254173	salad_dressing#0.195566520095	pizza_sauce|||pizza|||sauce|||is_a
+taftan	kinnathappam#0.503867149353	kinnathappam#0.326339066029	taftan|||taftan|||is_a
+mandarin roll	bun#0.484855234623		mandarin|||roll|||is_a
+cooking starch		food#0.131300225854	cooking_starch|||cooking|||starch|||is_a
+vichyssoise	soup#0.424193739891	soup#0.279030501842	vichyssoise|||vichyssoise|||is_a
+ogi			ogi|||ogi|||is_a
+zapiekanka			zapiekanka|||zapiekanka|||is_a
+condensed milk	evaporated_milk#0.675508737564|powdered_milk#0.608097970486|cream#0.534328401089|coconut_milk#0.530408382416	evaporated_milk#0.228419616818|powdered_milk#0.20057593286|yoghurt#0.183294609189	condensed_milk|||condensed|||milk|||is_a
+sesame seed cake			sesame_seed_cake|||sesame|||seed|||cake|||is_a
+kix			kix|||kix|||is_a
+poppy milk	buttermilk#0.492745012045|yoghurt#0.479083657265	yoghurt#0.150965824723	poppy_milk|||poppy|||milk|||is_a
+bagel toast	french_toast#0.517980456352|flatbread#0.494839042425	flatbread#0.151719868183|french_toast#0.150897294283	bagel_toast|||bagel|||toast|||is_a
+side dish			side_dish|||side|||dish|||is_a
+tortilla de rescoldo			tortilla|||de|||rescoldo|||is_a
+scali bread	flatbread#0.516782641411	flatbread#0.284979879856	scali|||bread|||is_a
+soto ayam	sambal#0.605403900146		soto_ayam|||soto|||ayam|||is_a
+hot and sour soup	sour_soup#0.581690013409	sour_soup#0.072628647089	hot_and_sour_soup|||hot|||and|||sour|||soup|||is_a
+licorice	aniseed#0.537374615669	aniseed#0.315595030785	licorice|||licorice|||is_a
+gin	vodka#0.666208326817|vermouth#0.595800995827	vodka#0.400036484003|schnapps#0.363422363997	gin|||gin|||is_a
+fuži			fuži|||fuži|||is_a
+mang tomas			mang|||tomas|||is_a
+lemon	orange#0.644181013107|lime#0.609189152718	orange#0.367813378572|lime#0.353029727936	lemon|||lemon|||is_a
+thyme	oregano#0.70443469286|tarragon#0.67921102047|rosemary#0.67610013485|marjoram#0.65421962738|basil#0.64586853981|bay_leaf#0.582909286022|parsley#0.573592543602	oregano#0.396398663521|tarragon#0.390006184578|rosemary#0.371809482574|basil#0.368144035339|marjoram#0.364007532597	thyme|||thyme|||is_a
+chalboribbang			chalboribbang|||chalboribbang|||is_a
+cheonsachae			cheonsachae|||cheonsachae|||is_a
+soy milk	almond_milk#0.647073686123|powdered_milk#0.61033821106|oat_milk#0.58954834938|hemp_milk#0.587119519711	almond_milk#0.219234600663|hemp_milk#0.212986588478|powdered_milk#0.211586818099|oat_milk#0.202471658587	soy_milk|||soy|||milk|||is_a
+knipp			knipp|||knipp|||is_a
+pullman loaf	bread#0.494830727577		pullman_loaf|||pullman|||loaf|||is_a
+cereal	breakfast_cereal#0.748931586742|shredded_wheat#0.569068074226	breakfast_cereal#0.419739305973|shredded_wheat#0.334865778685|weetabix#0.33401209116	cereal|||cereal|||is_a
+pancake			pancake|||pancake|||is_a
+stringozzi	močnik#0.556738317013	močnik#0.387153118849	stringozzi|||stringozzi|||is_a
+feijoa	apple#0.49579757452|plum#0.478872865438	apple#0.30357131362|plum#0.297548264265	feijoa|||feijoa|||is_a
+agrodolce	sweet#0.496763497591|sago_pudding#0.474596917629	sweet#0.327764481306|sago_pudding#0.318864971399	agrodolce|||agrodolce|||is_a
+pain brié			pain|||brié|||is_a
+venetian sauce			venetian|||sauce|||is_a
+konro			konro|||konro|||is_a
+alfalfa sprout			alfalfa_sprout|||alfalfa|||sprout|||is_a
+sfenj			sfenj|||sfenj|||is_a
+buccellato			buccellato|||buccellato|||is_a
+sata andagi	močnik#0.503939688206	močnik#0.197450503707	sata_andagi|||sata|||andagi|||is_a
+clackers cereal	breakfast_cereal#0.579218029976	breakfast_cereal#0.292754173279|weetabix#0.257229983807	clackers|||cereal|||is_a
+hawaiian pizza			hawaiian|||pizza|||is_a
+persian roll			persian|||roll|||is_a
+chocolate truffle	caramel#0.661449193954	caramel#0.20626154542	chocolate_truffle|||chocolate|||truffle|||is_a
+mushroom			mushroom|||mushroom|||is_a
+jewish apple cake			jewish|||apple|||cake|||is_a
+dripping cake	bebinca#0.47520083189|sponge_cake#0.473933875561	bebinca#0.153208091855	dripping_cake|||dripping|||cake|||is_a
+waffle crisp	smorz#0.508630037308	smorz#0.164160519838	waffle_crisp|||waffle|||crisp|||is_a
+buc wheats cereal	breakfast_cereal#0.671377718449|shredded_wheat#0.552946269512|weetabix#0.53345900774	breakfast_cereal#0.222697526217|shredded_wheat#0.187603533268|weetabix#0.185510098934	buc|||wheats|||cereal|||is_a
+salsa			salsa|||salsa|||is_a
+brown windsor soup			brown|||windsor|||soup|||is_a
+nataing			nataing|||nataing|||is_a
+maafe			maafe|||maafe|||is_a
+may west			may|||west|||is_a
+rocket			rocket|||rocket|||is_a
+corn chowder	potato#0.488865792751|soup#0.457840263844	potato#0.16965726018	corn_chowder|||corn|||chowder|||is_a
+spätzle	landjäger#0.491021841764	landjäger#0.307681471109	spätzle|||spätzle|||is_a
+kalamai	kulolo#0.440083891153	kulolo#0.303584396839	kalamai|||kalamai|||is_a
+penny bun			penny_bun|||penny|||bun|||is_a
+jjolmyeon	sauce#0.436076819897|green_sauce#0.425033211708	sauce#0.282689630985	jjolmyeon|||jjolmyeon|||is_a
+dundee cake	berlingozzo#0.526324689388	berlingozzo#0.296750426292	dundee|||cake|||is_a
+peanut			peanut|||peanut|||is_a
+gajar ka halwa			gajar|||ka|||halwa|||is_a
+béarnaise sauce	barbecue_sauce#0.509666800499		béarnaise_sauce|||béarnaise|||sauce|||is_a
+haggis			haggis|||haggis|||is_a
+tagliatelle	pasta#0.611683726311|linguine#0.599994182587|ravioli#0.571967363358|rigatoni#0.568583369255|penne#0.530027508736|pesto#0.529342055321	linguine#0.351105719805|pasta#0.34990721941|rigatoni#0.331836789846|ravioli#0.319319844246|trenette#0.315455049276	tagliatelle|||tagliatelle|||is_a
+babka	christmas_cake#0.518359601498|pastry#0.466710269451	christmas_cake#0.335139662027	babka|||babka|||is_a
+german chocolate cake	chocolate_cake#0.62626427412|sponge_cake#0.593220412731	chocolate_cake#0.212920099497|sponge_cake#0.201939165592	german|||chocolate|||cake|||is_a
+gravy	sauce#0.587970018387	sauce#0.351431667805	gravy|||gravy|||is_a
+asparagus	broccoli#0.619088113308|cauliflower#0.599598765373|cabbage#0.591662168503|okra#0.576951980591|kohlrabi#0.566702127457	cauliflower#0.336963653564|broccoli#0.336393564939|cabbage#0.334639519453|okra#0.329023957253	asparagus|||asparagus|||is_a
+gypsy tart	sweet#0.485068291426|caramel_tart#0.470303475857	sweet#0.177259072661|caramel_tart#0.175015076995	gypsy_tart|||gypsy|||tart|||is_a
+gamjatang			gamjatang|||gamjatang|||is_a
+filoz			filoz|||filoz|||is_a
+salt	garlic#0.625887453556|garlic_powder#0.608287274837|paprika#0.583399474621|vinegar#0.57763749361	garlic#0.352074831724|paprika#0.334197849035|garlic_powder#0.329602211714|vinegar#0.320996701717	salt|||salt|||is_a
+bologna sausage	salami#0.671529591084	salami#0.247280448675	bologna_sausage|||bologna|||sausage|||is_a
+amsterdam ossenworst			amsterdam|||ossenworst|||is_a
+hummingbird cake			hummingbird|||cake|||is_a
+sushi			sushi|||sushi|||is_a
+mung bean sheets	bean_paste#0.491126924753|cellophane_noodles#0.471836477518	bean_paste#0.0949700847268	mung_bean_sheets|||mung|||bean|||sheets|||is_a
+babaco	mangosteen#0.467010915279|fruit#0.447356045246	mangosteen#0.286726355553|fruit#0.280842602253	babaco|||babaco|||is_a
+belgian bun			belgian|||bun|||is_a
+lunch meat	beef#0.576000809669	beef#0.170554190874	lunch_meat|||lunch|||meat|||is_a
+pastel de camiguín			pastel|||de|||camiguín|||is_a
+rice noodles	noodle#0.754145741463|noodle_soup#0.678898215294|rice_vermicelli#0.637029647827	noodle#0.284571737051|noodle_soup#0.255779445171|rice_vermicelli#0.224169924855	rice_noodles|||rice|||noodles|||is_a
+sago pudding	kinnathappam#0.521254837513|močnik#0.493855029345	kinnathappam#0.194791153073|močnik#0.184731557965	sago_pudding|||sago|||pudding|||is_a
+mami soup	noodle_soup#0.653274059296|chicken_soup#0.587572157383	noodle_soup#0.339624047279|chicken_soup#0.306206643581	mami|||soup|||is_a
+beghrir			beghrir|||beghrir|||is_a
+flourless chocolate cake	sponge_cake#0.629664003849|chocolate_cake#0.617987632751	sponge_cake#0.127069011331|chocolate_cake#0.122180454433	flourless_chocolate_cake|||flourless|||chocolate|||cake|||is_a
+bakmi			bakmi|||bakmi|||is_a
+harira			harira|||harira|||is_a
+farfalle			farfalle|||farfalle|||is_a
+biángbiáng noodles	noodle#0.659739077091|rice_noodles#0.619362533092|noodle_soup#0.576740562916	noodle#0.323586404324|rice_noodles#0.307420313358|noodle_soup#0.299175471067	biángbiáng|||noodles|||is_a
+red wine	white_wine#0.740380346775|dessert_wine#0.575146138668	white_wine#0.253776192665|dessert_wine#0.200146451592	red_wine|||red|||wine|||is_a
+dacquoise			dacquoise|||dacquoise|||is_a
+alphabet pasta	pasta_sauce#0.457230329514	pasta_sauce#0.151199281216	alphabet_pasta|||alphabet|||pasta|||is_a
+corn dog	hot_dog#0.498582690954|chili_dog#0.494289875031|popcorn#0.445987343788|cornmeal#0.425870448351	chili_dog#0.156490027905|hot_dog#0.152802601457|popcorn#0.146499633789	corn_dog|||corn|||dog|||is_a
+dough	pastry#0.600149869919	pastry#0.350704818964	dough|||dough|||is_a
+bread	white_bread#0.633285462856|flatbread#0.60054475069	flatbread#0.360793411732|white_bread#0.352551370859	bread|||bread|||is_a
+ginger root	coriander#0.700725972652	coriander#0.246603965759	ginger_root|||ginger|||root|||is_a
+almojábana			almojábana|||almojábana|||is_a
+brown sauce	barbecue_sauce#0.606047868729|condiment#0.528106570244|cocktail_sauce#0.519760608673	barbecue_sauce#0.234123289585|condiment#0.204645812511	brown_sauce|||brown|||sauce|||is_a
+baking powder	baking_soda#0.629752635956|flour#0.606324613094	flour#0.187666520476|baking_soda#0.186882078648	baking_powder|||baking|||powder|||is_a
+pillus	mafalde#0.884593963623|tripoline#0.873896479607|lasagnette#0.872683405876|sagnarelli#0.868785560131|linguettine#0.596485733986|sacchettoni#0.581930220127	mafalde#0.563921153545|sagnarelli#0.557856500149|lasagnette#0.552890002728|tripoline#0.55259847641|sacchettoni#0.3784250319	pillus|||pillus|||is_a
+flatbrød			flatbrød|||flatbrød|||is_a
+tarte tatin			tarte_tatin|||tarte|||tatin|||is_a
+erotic cake	muffin#0.484155118465		erotic_cake|||erotic|||cake|||is_a
+bermuda fish chowder	seafood#0.594476163387	seafood#0.178740814328	bermuda|||fish|||chowder|||is_a
+vinegar drink	beverage#0.586986541748	beverage#0.303596526384	vinegar|||drink|||is_a
+jams and preserves	fruit#0.493305057287	fruit#0.106897726655	jams_and_preserves|||jams|||and|||preserves|||is_a
+ajiaco	sancocho#0.520333945751	sancocho#0.32486268878	ajiaco|||ajiaco|||is_a
+campanelle			campanelle|||campanelle|||is_a
+breakfast sausage	bratwurst#0.52116137743	bratwurst#0.190115660429	breakfast_sausage|||breakfast|||sausage|||is_a
+marinade	sauce#0.583641529083|condiment#0.530605375767|vinegar#0.515390753746	sauce#0.345286428928|condiment#0.321200430393	marinade|||marinade|||is_a
+andouillette	blood_soup#0.481744199991	blood_soup#0.324301987886	andouillette|||andouillette|||is_a
+yaka mein			yaka_mein|||mein|||is_a
+apricot	plum#0.690592586994|cherry#0.680725812912|peach#0.65794557333|orange#0.625447690487|persimmon#0.610018610954|apple#0.607318580151|pomegranate#0.591466844082	cherry#0.398755908012|plum#0.398243963718|peach#0.370922923088|orange#0.358361661434|apple#0.355141609907|persimmon#0.352787464857	apricot|||apricot|||is_a
+sour rye soup	borscht#0.58370000124	borscht#0.128104507923	sour_rye_soup|||sour|||rye|||soup|||is_a
+cereal and granola bar	breakfast_cereal#0.595559537411|beverage#0.564680874348|frozen_dessert#0.517852306366	beverage#0.120305731893|breakfast_cereal#0.110121540725|frozen_dessert#0.105428181589	cereal|||and|||granola|||bar|||is_a
+choi sum			choi_sum|||choi|||sum|||is_a
+tuscan cabbage	cauliflower#0.544474005699|kale#0.543532550335|spinach#0.499597758055	kale#0.277588486671|cauliflower#0.276589006186	tuscan|||cabbage|||is_a
+likëngë	crenvurșt#0.444091320038	crenvurșt#0.281897366047	likëngë|||likëngë|||is_a
+bánh xèo			bánh_xèo|||bánh|||is_a
+tsoureki			tsoureki|||tsoureki|||is_a
+chutney			chutney|||chutney|||is_a
+chinese noodles	noodle#0.669330060482|noodle_soup#0.63553237915|rice_noodles#0.634001135826	noodle#0.343632340431|noodle_soup#0.339872181416|rice_noodles#0.327856272459	chinese|||noodles|||is_a
+brazil nut	hazelnut#0.529372632504|guava#0.489462792873|pistachio#0.476713478565|walnut#0.46519318223	hazelnut#0.161186441779|guava#0.157247468829	brazil_nut|||brazil|||nut|||is_a
+pastiera	layer_cake#0.442437827587	layer_cake#0.2784922719	pastiera|||pastiera|||is_a
+paradise nut			paradise_nut|||paradise|||nut|||is_a
+blintz			blintz|||blintz|||is_a
+esterházy torte			esterházy|||torte|||is_a
+sponge and dough	pastry#0.483925163746|brioche#0.456406772137	pastry#0.0766107290983|brioche#0.0765151381493	sponge_and_dough|||sponge|||and|||dough|||is_a
+grape-nut	almond#0.516632974148|fruit#0.514250814915|hazelnut#0.500407218933|berry#0.493963986635|cherry#0.47435131669	fruit#0.265393853188|almond#0.265277057886|berry#0.262919098139|cherry#0.256896883249|hazelnut#0.253295630217	grape|||nut|||is_a
+tortelloni	tortellini#0.618537664413|ravioli#0.461123764515	tortellini#0.345691084862	tortelloni|||tortelloni|||is_a
+tony's turboz			tony|||s|||turboz|||is_a
+siemieniotka	sour_rye_soup#0.500077366829	sour_rye_soup#0.319735020399	siemieniotka|||siemieniotka|||is_a
+suet			suet|||suet|||is_a
+pastry	brioche#0.585029184818|cake#0.581882655621	brioche#0.358289897442	pastry|||pastry|||is_a
+pannekoek			pannekoek|||pannekoek|||is_a
+nougat	caramel#0.599424242973|toffee#0.558515787125	caramel#0.349719434977|toffee#0.331402689219	nougat|||nougat|||is_a
+gulyásleves			gulyásleves|||gulyásleves|||is_a
+breton sauce			breton|||sauce|||is_a
+pane di altamura			pane|||di|||altamura|||is_a
+powdered beverage mix			powdered_beverage_mix|||powdered|||beverage|||mix|||is_a
+ezogelin soup			ezogelin_soup|||ezogelin|||soup|||is_a
+powdered tea	hot_chocolate#0.524774193764	hot_chocolate#0.169875875115	powdered_tea|||powdered|||tea|||is_a
+bún bò huế	noodle_soup#0.63399285078	noodle_soup#0.259693413973	bún|||bò|||huế|||is_a
+salad topping	sauce#0.529667317867|mayonnaise#0.529273927212|side_dish#0.511034786701	sauce#0.298139542341|side_dish#0.289372771978	salad|||topping|||is_a
+memela	kulolo#0.512047469616	kulolo#0.336474865675	memela|||memela|||is_a
+vienna sausage	weisswurst#0.516691625118	weisswurst#0.188974067569	vienna_sausage|||vienna|||sausage|||is_a
+cumberland sausage	black_pudding#0.533230960369|salami#0.526338100433	black_pudding#0.183384716511|salami#0.181547984481	cumberland_sausage|||cumberland|||sausage|||is_a
+hemp oil	peanut_oil#0.608073294163|soybean_oil#0.593735635281|canola_oil#0.579738497734	soybean_oil#0.204379022121|peanut_oil#0.201213210821|canola_oil#0.20059004426	hemp_oil|||hemp|||oil|||is_a
+kai kou xiao			kai|||kou|||xiao|||is_a
+pickled pigs feet	pork#0.527047157288	pork#0.0952848494053	pickled_pigs_feet|||pickled|||pigs|||feet|||is_a
+hundreds and thousands			hundreds_and_thousands|||hundreds|||and|||thousands|||is_a
+coulis	bánh_chuối#0.440714538097|sorbet#0.420239031315	bánh_chuối#0.299581497908	coulis|||coulis|||is_a
+fagottini			fagottini|||fagottini|||is_a
+pizza			pizza|||pizza|||is_a
+crunchy nut	caramel#0.494280904531|hazelnut#0.487531810999	caramel#0.169014245272|hazelnut#0.167030215263	crunchy_nut|||crunchy|||nut|||is_a
+jeonbokjuk			jeonbokjuk|||jeonbokjuk|||is_a
+falukorv			falukorv|||falukorv|||is_a
+braadworst			braadworst|||braadworst|||is_a
+savory	sweet#0.658172667027	sweet#0.393681645393	savory|||savory|||is_a
+prepared food	beverage#0.486229866743	beverage#0.179473787546	prepared_food|||prepared|||food|||is_a
+svartsoppa	mykyrokka#0.540735721588	mykyrokka#0.334450006485	svartsoppa|||svartsoppa|||is_a
+taco soup			taco|||soup|||is_a
+cheese			cheese|||cheese|||is_a
+suikerbrood			suikerbrood|||suikerbrood|||is_a
+mantou			mantou|||mantou|||is_a
+gai lan			gai|||lan|||is_a
+figgy duff	bebinca#0.481636554003	bebinca#0.167417913675	figgy_duff|||figgy|||duff|||is_a
+soy sauce	ganjang#0.633581757545|vinegar#0.601362109184	ganjang#0.226243272424	soy_sauce|||soy|||sauce|||is_a
+cake and brownie mix	chocolate_cake#0.554714620113	chocolate_cake#0.0955507233739	cake|||and|||brownie|||mix|||is_a
+apple	cherry#0.730282843113|plum#0.714618206024|pear#0.677136838436|peach#0.60743945837	cherry#0.431729406118|plum#0.417073965073|pear#0.390619575977|peach#0.352347165346	apple|||apple|||is_a
+bagel	breadstick#0.546509206295|flatbread#0.48381498456	breadstick#0.323935061693|flatbread#0.2994582057	bagel|||bagel|||is_a
+breadstick	bagel#0.462200194597		breadstick|||breadstick|||is_a
+sunny boy cereal	breakfast_cereal#0.570331931114	breakfast_cereal#0.175588160753	sunny|||boy|||cereal|||is_a
+flatbread	pita#0.558491110802|roti#0.548267781734	tandoor_bread#0.339546084404	flatbread|||flatbread|||is_a
+granula	smorz#0.459818214178|shredded_wheat#0.419517636299|cereal#0.418022543192|raisin_bran#0.407593339682|breakfast_cereal#0.40568909049	smorz#0.305136114359|shredded_wheat#0.277570664883|raisin_bran#0.273512035608|breakfast_cereal#0.270434826612	granula|||granula|||is_a
+shallot	onion#0.584874212742|garlic#0.526729881763|dill#0.508186459541	onion#0.333730757236|garlic#0.31041058898	shallot|||shallot|||is_a
+sujebi			sujebi|||sujebi|||is_a
+boston butt	hot_dog#0.433737456799	hot_dog#0.143527597189	boston_butt|||boston|||butt|||is_a
+snoball			is_a
+vegetable oil	cooking_oil#0.647113800049|soybean_oil#0.624524354935|coconut_oil#0.59884417057|canola_oil#0.593505263329	cooking_oil#0.218763962388|hemp_oil#0.205325230956|soybean_oil#0.204686045647	vegetable_oil|||vegetable|||oil|||is_a
+lebanon bologna	mortadella#0.503121912479|salami#0.484624296427		lebanon_bologna|||lebanon|||bologna|||is_a
+biscuit mix	toffee#0.49442756176		biscuit_mix|||biscuit|||mix|||is_a
+castella			castella|||castella|||is_a
+oats	wheat#0.762736976147|barley#0.753456652164|rye#0.675421893597	wheat#0.408998578787|barley#0.403096199036|rye#0.363680303097	oats|||oats|||is_a
+rupjmaize			rupjmaize|||rupjmaize|||is_a
+madroã±o			is_a
+popsicle			popsicle|||popsicle|||is_a
+rocky road cereal			rocky|||road|||cereal|||is_a
+linguine	rigatoni#0.61279374361|penne#0.596743881702|tagliatelle#0.503205358982|spaghetti#0.494427800179|trenette#0.477517843246|pasta#0.474857777357	rigatoni#0.369265288115|penne#0.349496513605|trenette#0.311762303114	linguine|||linguine|||is_a
+močnik			močnik|||močnik|||is_a
+potatiskorv			potatiskorv|||potatiskorv|||is_a
+tres leches cake			tres_leches_cake|||tres|||cake|||is_a
+juice		beverage#0.347842395306	juice|||juice|||is_a
+pan de yuca			pan_de_yuca|||pan|||de|||yuca|||is_a
+kornigou	berlingozzo#0.447638273239|cake#0.437141209841	berlingozzo#0.282772660255	kornigou|||kornigou|||is_a
+brown bread	white_bread#0.555703341961|rye_bread#0.551110267639|brown_sauce#0.498070269823	rye_bread#0.192953228951|white_bread#0.190430447459	brown_bread|||brown|||bread|||is_a
+skilandis			skilandis|||skilandis|||is_a
+scorcolga			scorcolga|||scorcolga|||is_a
+dobos torte			dobos_torte|||dobos|||torte|||is_a
+potbrood			potbrood|||potbrood|||is_a
+lazarakia			is_a
+onion	garlic#0.647536933422|parsley#0.608889698982	garlic#0.370498329401|tomato#0.344546496868	onion|||onion|||is_a
+rântaş			rântaş|||rântaş|||is_a
+golden nuggets			golden_nuggets|||golden|||nuggets|||is_a
+pizza carbonara	pasta#0.536442637444		pizza|||carbonara|||is_a
+mettwurst	sausage#0.549445331097|weisswurst#0.478324741125|bratwurst#0.477206230164	sausage#0.344563126564|weisswurst#0.314384669065|bratwurst#0.308795064688	mettwurst|||mettwurst|||is_a
+dalithoy			dalithoy|||dalithoy|||is_a
+pozole			pozole|||pozole|||is_a
+cake pop	chocolate_cake#0.504017591476	chocolate_cake#0.152408331633	cake_pop|||cake|||pop|||is_a
+jook-sing noodles	rice_noodles#0.623796164989|noodle_soup#0.604509353638|noodle#0.579541504383	rice_noodles#0.198119550943|noodle_soup#0.198041647673|noodle#0.181400850415	jook|||sing|||noodles|||is_a
+seed			seed|||seed|||is_a
+baking soda	baking_powder#0.627815663815	baking_powder#0.193217650056	baking_soda|||baking|||soda|||is_a
+tonic water	carbonated_water#0.610645413399	carbonated_water#0.20581908524	tonic_water|||tonic|||water|||is_a
+rubaboo	močnik#0.523682773113	močnik#0.343649595976	rubaboo|||rubaboo|||is_a
+chapati	roti#0.684961020947|flatbread#0.584684967995	roti#0.384739041328|flatbread#0.354040235281	chapati|||chapati|||is_a
+sweet			sweet|||sweet|||is_a
+syrniki		bebinca#0.317284554243	syrniki|||syrniki|||is_a
+kuy teav			kuy_teav|||kuy|||is_a
+juk			juk|||juk|||is_a
+pesarattu	kinnathappam#0.545390963554|dosa#0.511764228344	kinnathappam#0.351527988911|bebinca#0.314478576183|dosa#0.313985079527	pesarattu|||pesarattu|||is_a
+sugar cane	molasses#0.657974243164|syrup#0.60270512104	molasses#0.227841079235|syrup#0.211218550801	sugar_cane|||sugar|||cane|||is_a
+bebinca			bebinca|||bebinca|||is_a
+hot cross bun	hot_dog_bun#0.450580626726		hot_cross_bun|||hot|||cross|||bun|||is_a
+currant	cherry#0.577325224876	cherry#0.349172592163	currant|||currant|||is_a
+caldo de pollo			caldo_de_pollo|||caldo|||de|||pollo|||is_a
+oxtail soup	noodle_soup#0.581736803055|chicken_soup#0.572352707386	noodle_soup#0.205543413758|chicken_soup#0.197589695454	oxtail_soup|||oxtail|||soup|||is_a
+gooey butter cake	sponge_cake#0.560651957989	sponge_cake#0.11544238776	gooey_butter_cake|||gooey|||butter|||cake|||is_a
+coffee cake	sponge_cake#0.494426101446	bebinca#0.169831752777	coffee_cake|||coffee|||cake|||is_a
+apple sauce	sweet#0.576103031635|cherry#0.566083610058|plum#0.543175458908	sweet#0.211799293756|cherry#0.196443647146|plum#0.187054052949	apple_sauce|||apple|||sauce|||is_a
+fruit chew			fruit_chew|||fruit|||chew|||is_a
+cellophane noodles	rice_noodles#0.679419696331|noodle_soup#0.676527619362|noodle#0.667674899101|rice_vermicelli#0.546934604645	noodle_soup#0.237720057368|rice_noodles#0.231359049678|noodle#0.226866289973	cellophane_noodles|||cellophane|||noodles|||is_a
+soufflé	sponge_cake#0.47009280324|chocolate_cake#0.464640498161		soufflé|||soufflé|||is_a
+cream cheese	sour_cream#0.715817630291|cottage_cheese#0.669983386993	sour_cream#0.26882481575|cottage_cheese#0.242003187537	cream_cheese|||cream|||cheese|||is_a
+ptitim			ptitim|||ptitim|||is_a
+wedding cake	chocolate_cake#0.602982640266|christmas_cake#0.564317584038	chocolate_cake#0.220508828759|christmas_cake#0.215640231967|fruit_cake#0.197170361876	wedding_cake|||wedding|||cake|||is_a
+tipsy cake	torte#0.513953983784	torte#0.173307836056	tipsy_cake|||tipsy|||cake|||is_a
+cooking wine	rice_wine#0.513373374939|vinegar#0.462570548058|sherry#0.455322355032|oyster_sauce#0.445537358522	rice_wine#0.168723508716|vinegar#0.150717660785|sherry#0.148857653141	cooking_wine|||cooking|||wine|||is_a
+bakery			bakery|||bakery|||is_a
+penia			penia|||penia|||is_a
+consommé	soup#0.487776368856	soup#0.306191146374	consommé|||consommé|||is_a
+lincolnshire sausage	crépinette#0.47186461091	crépinette#0.161752805114	lincolnshire_sausage|||lincolnshire|||sausage|||is_a
+bhakri	dosa#0.574327468872		bhakri|||bhakri|||is_a
+korean noodle	noodle_soup#0.654449164867	noodle_soup#0.370450347662	korean|||noodle|||is_a
+fig	pomegranate#0.567085325718		fig|||fig|||is_a
+fruit	apple#0.597414016724|cherry#0.596375048161|berry#0.565316557884|plum#0.545485913754|guava#0.540725648403	cherry#0.359952390194|apple#0.353970080614|berry#0.34407684207|plum#0.33111846447	fruit|||fruit|||is_a
+sugo all'amatriciana	pasta#0.562223136425	pasta#0.107139319181	sugo_all_amatriciana|||sugo|||all|||amatriciana|||is_a
+coffee	hot_chocolate#0.549734950066		coffee|||coffee|||is_a
+maltese bread	sweet_roll#0.501361906528	sweet_roll#0.27906987071	maltese|||bread|||is_a
+ragù	bolognese_sauce#0.561241567135	bolognese_sauce#0.323041975498	ragù|||ragù|||is_a
+fried bread			fried_bread|||fried|||bread|||is_a
+pain d'épices			pain_d_épices|||pain|||d|||épices|||is_a
+bánh bèo	bánh_chuối#0.520074248314|bánh_bò#0.50752478838	bánh_chuối#0.202009916306|bánh_bò#0.188124939799	bánh_bèo|||bánh|||bèo|||is_a
+chikkolee			chikkolee|||chikkolee|||is_a
+bisque			bisque|||bisque|||is_a
+siu haau sauce			siu|||haau|||sauce|||is_a
+pear	apple#0.696986675262|plum#0.687514781952|cherry#0.684569597244|quince#0.590324401855	cherry#0.403092861176|apple#0.401423364878|plum#0.398984760046	pear|||pear|||is_a
+tohax			tohax|||tohax|||is_a
+frozen noodles	noodle#0.5302952528|pasta#0.514148592949	pasta#0.171103566885|noodle#0.164127781987	frozen_noodles|||frozen|||noodles|||is_a
+barmbrack			barmbrack|||barmbrack|||is_a
+turnip	radish#0.626738727093|cabbage#0.616742372513|kohlrabi#0.581965386868|leek#0.567141473293|cauliflower#0.565068662167|carrot#0.559503138065	cabbage#0.347036838531|radish#0.340903431177|kohlrabi#0.329090446234|leek#0.327851116657|cauliflower#0.323076426983	turnip|||turnip|||is_a
+cashew	coconut#0.606747448444	coconut#0.343104749918	cashew|||cashew|||is_a
+pastirma			pastirma|||pastirma|||is_a
+artichoke	chicory#0.535328149796|broccoli#0.520481407642|leek#0.518929183483|asparagus#0.513944327831|spinach#0.508251547813|cauliflower#0.494025856256	chicory#0.317883938551|leek#0.310851216316	artichoke|||artichoke|||is_a
+pork jowl	beef#0.65320622921	beef#0.217238739133	pork_jowl|||pork|||jowl|||is_a
+frankfurter rindswurst			frankfurter|||rindswurst|||is_a
+torta caprese			torta_caprese|||torta|||caprese|||is_a
+sweet potato	okra#0.516995489597|pumpkin#0.507015585899		sweet_potato|||sweet|||potato|||is_a
+pumpkin seed	potato#0.501114249229|sweet_potato#0.448192626238|melon#0.446989417076	potato#0.159516498446|sweet_potato#0.142874643207|melon#0.141135916114	pumpkin_seed|||pumpkin|||seed|||is_a
+maya nut	hazelnut#0.448702871799		maya|||nut|||is_a
+whole wheat bread	flour#0.620046675205|cornmeal#0.612487614155|white_bread#0.592200279236|oatmeal#0.565470218658	flour#0.131547003984|cornmeal#0.131341189146|white_bread#0.117948241532	whole_wheat_bread|||whole|||wheat|||bread|||is_a
+tartar sauce	mayonnaise#0.632401049137|barbecue_sauce#0.600641191006|ketchup#0.595557808876|brown_sauce#0.576665282249|worcestershire_sauce#0.572265088558|sour_cream#0.548051774502|hot_sauce#0.54304754734	mayonnaise#0.20202280581|brown_sauce#0.190649047494|barbecue_sauce#0.188696861267|ketchup#0.185313969851|worcestershire_sauce#0.182433217764|sour_cream#0.181050598621|hot_sauce#0.178121745586	tartar_sauce|||tartar|||sauce|||is_a
+rasam	dosa#0.591225445271		rasam|||rasam|||is_a
+sauce	barbecue_sauce#0.638884365559|brown_sauce#0.618712306023|condiment#0.592673122883	brown_sauce#0.384816169739|barbecue_sauce#0.378289580345|condiment#0.36539709568	sauce|||sauce|||is_a
+cröonchy stars			cröonchy|||stars|||is_a
+tamarind	coconut#0.621677696705|guava#0.587409079075	coconut#0.348455518484|guava#0.333237975836	tamarind|||tamarind|||is_a
+gyabrag			gyabrag|||gyabrag|||is_a
+currant bun	sweet_roll#0.489495187998|caramel_tart#0.48165127635	sweet_roll#0.169819191098|caramel_tart#0.169813111424	currant_bun|||currant|||bun|||is_a
+rice milk	condensed_milk#0.562377750874|evaporated_milk#0.561753630638|almond_milk#0.559064328671|soy_milk#0.552959263325|coconut_milk#0.5296022892|powdered_milk#0.510509729385	evaporated_milk#0.183710351586|condensed_milk#0.179847627878|almond_milk#0.174625337124|coconut_milk#0.173890441656	rice_milk|||rice|||milk|||is_a
+paris buns			paris|||buns|||is_a
+dragon beard noodles	noodle#0.570086956024|noodle_soup#0.552738010883|rice_noodles#0.466855615377	noodle_soup#0.10806645453|noodle#0.107193812728	dragon_beard_noodles|||dragon|||beard|||noodles|||is_a
+white wine	red_wine#0.668212652206|dessert_wine#0.607965409756	red_wine#0.219022065401|dessert_wine#0.209697395563	white_wine|||white|||wine|||is_a
+ciavàr			ciavàr|||ciavàr|||is_a
+avocado	guava#0.669657945633|mamey#0.634933114052|pineapple#0.611354589462|papaya#0.576321721077	guava#0.373339474201|mamey#0.362538158894|pineapple#0.338650494814	avocado|||avocado|||is_a
+dried soup	chicken_soup#0.490952849388		dried_soup|||dried|||soup|||is_a
+madeira cake	sponge_cake#0.575818061829|fruit_cake#0.570985734463|spice_cake#0.54060202837|christmas_cake#0.537410259247	sponge_cake#0.202027186751|fruit_cake#0.20019389689|spice_cake#0.197087347507|christmas_cake#0.19597017765	madeira_cake|||madeira|||cake|||is_a
+frozen seafood			frozen_seafood|||frozen|||seafood|||is_a
+avgolemono			avgolemono|||avgolemono|||is_a
+tapenade			tapenade|||tapenade|||is_a
+herman cake	pastry#0.486574113369|berlingozzo#0.479573726654	berlingozzo#0.158631265163	herman_cake|||herman|||cake|||is_a
+coconut	guava#0.621860146523|banana#0.604207515717	guava#0.35751324892|banana#0.355373889208	coconut|||coconut|||is_a
+tlacoyo			tlacoyo|||tlacoyo|||is_a
+cider			cider|||cider|||is_a
+tamarillo			tamarillo|||tamarillo|||is_a
+cardamom bread	flatbread#0.511064589024	flatbread#0.265775501728	cardamom|||bread|||is_a
+lanterne			lanterne|||lanterne|||is_a
+sopa de pata			sopa_de_pata|||sopa|||de|||pata|||is_a
+solyanka			solyanka|||solyanka|||is_a
+wine	dessert_wine#0.59706556797|sparkling_wine#0.561756014824	dessert_wine#0.348771393299|sparkling_wine#0.330710619688|sherry#0.326362282038	wine|||wine|||is_a
+bun rieu	sweet_roll#0.486661463976	sweet_roll#0.458687663078	bun|||is_a
+tacacá	tucupi#0.541178643703	tucupi#0.359688639641	tacacá|||tacacá|||is_a
+kalguksu			kalguksu|||kalguksu|||is_a
+smorz	cruncheroos#0.503509819508	cruncheroos#0.33979254961	smorz|||smorz|||is_a
+liver soup	chicken_soup#0.561024367809	chicken_soup#0.294335782528	liver|||soup|||is_a
+buchteln	sweet_roll#0.470786780119|pastry#0.452259629965	sweet_roll#0.312151372433	buchteln|||buchteln|||is_a
+tavuk göğsü	kinnathappam#0.50407487154	kinnathappam#0.465430349112	tavuk_göğsü|||is_a
+soybean oil	canola_oil#0.768326580524|peanut_oil#0.722476482391|vegetable_oil#0.685294687748|coconut_oil#0.665529429913	canola_oil#0.291731894016|peanut_oil#0.261110335588|vegetable_oil#0.253390401602|hemp_oil#0.242703005672|coconut_oil#0.240327835083	soybean_oil|||soybean|||oil|||is_a
+bialy			bialy|||bialy|||is_a
+cauliflower	cabbage#0.681756675243|kohlrabi#0.637361347675|broccoli#0.633041203022|celery#0.604740858078	cabbage#0.381380528212|kohlrabi#0.357595175505|broccoli#0.347445696592|celery#0.343609690666|cucumber#0.341963380575	cauliflower|||cauliflower|||is_a
+pan bati			pan_bati|||pan|||bati|||is_a
+cupcake	wedding_cake#0.534182846546|lollipop#0.477310717106	wedding_cake#0.297855705023|chocolate_cake#0.287643998861	cupcake|||cupcake|||is_a
+sujuk			sujuk|||sujuk|||is_a
+buttermilk	yoghurt#0.581899881363|milk#0.561150670052|sour_cream#0.520169198513|cottage_cheese#0.511408686638	yoghurt#0.339121699333|milk#0.314192712307	buttermilk|||buttermilk|||is_a
+disney hunny b's honey-graham			disney|||b|||s|||honey|||graham|||is_a
+carne de chango			carne_de_chango|||carne|||de|||chango|||is_a
+boston cream pie	whipped_cream#0.495004475117		boston|||cream|||pie|||is_a
+biskotso			biskotso|||biskotso|||is_a
+amaranth	quinoa#0.549500644207		amaranth|||amaranth|||is_a
+date			date|||date|||is_a
+red peas soup		bouneschlupp#0.188859209418	red|||peas|||soup|||is_a
+nali sauce	brown_sauce#0.541366219521	brown_sauce#0.293769150972	nali|||sauce|||is_a
+mannish water			mannish_water|||mannish|||water|||is_a
+sacramental bread		nshkhar#0.157644256949	sacramental_bread|||sacramental|||bread|||is_a
+snack cake			snack_cake|||snack|||cake|||is_a
+vastedda			vastedda|||vastedda|||is_a
+capellini			capellini|||capellini|||is_a
+yonezawa beef	pork#0.586637914181|meat#0.555780768394	pork#0.447220087051	beef|||is_a
+crispy critters			crispy|||critters|||is_a
+dessert wine		sweet#0.18551632762	dessert_wine|||dessert|||wine|||is_a
+gelbwurst	crenvurșt#0.543088555336	crenvurșt#0.347931265831	gelbwurst|||gelbwurst|||is_a
+maple bar			maple_bar|||maple|||bar|||is_a
+crouton			crouton|||crouton|||is_a
+melon	cucumber#0.572256624699|peach#0.53069126606	cucumber#0.337117046118	melon|||melon|||is_a
+cheese pudding			cheese_pudding|||cheese|||pudding|||is_a
+sour cream	cream_cheese#0.653042078018|mayonnaise#0.554018259048|sauce#0.553001761436	cream_cheese#0.225465714931|sauce#0.204021990299|yoghurt#0.201411873102	sour_cream|||sour|||cream|||is_a
+cotechino modena			cotechino_modena|||cotechino|||modena|||is_a
+rum cake	sponge_cake#0.533861756325		rum_cake|||rum|||cake|||is_a
+easter bread	white_bread#0.529325246811	sweet_roll#0.290811032057	easter|||bread|||is_a
+shchi	rassolnik#0.551545858383|solyanka#0.550409078598	solyanka#0.345596641302|rassolnik#0.335394024849	shchi|||shchi|||is_a
+pineapple tart	apple#0.532485842705|fruit#0.505264163017|cherry#0.481353580952|guava#0.477345734835|sweet#0.473135769367	apple#0.17694580555|fruit#0.16821038723|cherry#0.164337366819	pineapple_tart|||pineapple|||tart|||is_a
+mulligatawny			mulligatawny|||mulligatawny|||is_a
+boli			boli|||boli|||is_a
+adobe bread	nshkhar#0.489694386721|flatbread#0.474079042673	nshkhar#0.266384661198	adobe|||bread|||is_a
+mead			mead|||mead|||is_a
+radish	cabbage#0.688722252846|turnip#0.644168376923|cauliflower#0.637817025185|cucumber#0.60808557272	cabbage#0.376925587654|cauliflower#0.352390825748|turnip#0.349784880877|cucumber#0.346323430538	radish|||radish|||is_a
+sour soup	noodle_soup#0.556183874607		sour_soup|||sour|||soup|||is_a
+mixed nut	hazelnut#0.549665093422|almond#0.501080513|coconut#0.496893823147	hazelnut#0.173149630427	mixed_nut|||mixed|||nut|||is_a
+unflavored gelatine			unflavored|||gelatine|||is_a
+mock turtle soup	chicken_soup#0.529048383236	chicken_soup#0.110771216452	mock_turtle_soup|||mock|||turtle|||soup|||is_a
+sachertorte	chocolate_cake#0.510136723518|carrot_cake#0.467224270105|wedding_cake#0.456644147635|cake#0.437111526728|spice_cake#0.427012175322|sponge_cake#0.425748646259	chocolate_cake#0.295645177364|spice_cake#0.271848142147|cake#0.268821954727|sponge_cake#0.265354573727	sachertorte|||sachertorte|||is_a
+lahoh	močnik#0.466216266155	močnik#0.314233750105	lahoh|||lahoh|||is_a
+teewurst			teewurst|||teewurst|||is_a
+vánočka			vánočka|||vánočka|||is_a
+sangria	beverage#0.50370568037	beverage#0.334977775812	sangria|||sangria|||is_a
+pambazo			pambazo|||pambazo|||is_a
+macaroni soup	borscht#0.526350080967	borscht#0.157629162073	macaroni_soup|||macaroni|||soup|||is_a
+coriander	cumin#0.776500940323|garlic#0.677533626556	cumin#0.422324150801|garlic#0.378262758255	coriander|||coriander|||is_a
+peanut sauce	gravy#0.628243207932|sambal#0.531920671463	gravy#0.210318878293	peanut_sauce|||peanut|||sauce|||is_a
+guava	mango#0.718326687813|passion_fruit#0.706811189651|papaya#0.692794024944|pineapple#0.688409626484	passion_fruit#0.395612180233|mango#0.39196151495|papaya#0.382904738188|mamey#0.382383644581|pineapple#0.380063593388	guava|||guava|||is_a
+complete wheat bran flakes	rye#0.658703029156|barley#0.63063699007|oats#0.587014913559	rye#0.124145485461|barley#0.117968328297	complete|||wheat|||bran|||flakes|||is_a
+malvern pudding			malvern|||pudding|||is_a
+cranberry sauce	barbecue_sauce#0.592862725258|gravy#0.562346935272|sweet#0.535612404346	barbecue_sauce#0.188860371709|sweet#0.183395087719|gravy#0.181411400437	cranberry_sauce|||cranberry|||sauce|||is_a
+honey garlic sauce	mustard#0.602737247944|vinegar#0.602466702461|mayonnaise#0.565559744835	mustard#0.209383875132|vinegar#0.203036993742|tahini#0.195784732699	honey|||garlic|||sauce|||is_a
+pepper	paprika#0.682837665081|garlic#0.623386561871|coriander#0.604681909084	paprika#0.381859719753|garlic#0.352633774281	pepper|||pepper|||is_a
+marshmallow sweet			marshmallow|||sweet|||is_a
+physalis			physalis|||physalis|||is_a
+quetschentaart			quetschentaart|||quetschentaart|||is_a
+pan de muerto			pan_de_muerto|||pan|||de|||muerto|||is_a
+hotteok			hotteok|||hotteok|||is_a
+rock cake	berlingozzo#0.478210926056|pancake#0.465428620577	berlingozzo#0.159696310759|pancake#0.157258555293	rock_cake|||rock|||cake|||is_a
+youtazi	sagnarelli#0.488915860653	sagnarelli#0.324582755566	youtazi|||youtazi|||is_a
+bigoli			bigoli|||bigoli|||is_a
+lemon grass	thyme#0.570292651653	thyme#0.182692840695	lemon_grass|||lemon|||grass|||is_a
+vector			vector|||vector|||is_a
+pandoro	panforte#0.431184619665	panforte#0.281390547752	pandoro|||pandoro|||is_a
+meat	beef#0.766990244389|pork#0.737403869629	beef#0.423464089632|pork#0.399164617062	meat|||meat|||is_a
+cheez whiz			cheez|||whiz|||is_a
+broccoli	cabbage#0.693714380264|cauliflower#0.674905896187|spinach#0.663869559765|kale#0.647547066212|kohlrabi#0.634849488735|asparagus#0.62853705883	cabbage#0.379244446754|cauliflower#0.369163960218|kale#0.360231399536|spinach#0.359214365482|kohlrabi#0.349586218596|asparagus#0.341162025928	broccoli|||broccoli|||is_a
+pork roll	sausage#0.695316791534|beef#0.662344098091	sausage#0.249061539769|beef#0.221560865641	pork_roll|||pork|||roll|||is_a
+tinned meat	beef#0.572645783424|pork#0.496893405914	beef#0.176995992661	tinned_meat|||tinned|||meat|||is_a
+senate bean soup	borscht#0.45172727108		senate|||bean|||soup|||is_a
+wheat	barley#0.746880531311|rye#0.707976639271|oats#0.67904907465	barley#0.416851818562|rye#0.393726825714|oats#0.363779246807|corn#0.34731900692	wheat|||wheat|||is_a
+french toast crunch	french_toast#0.481453090906		french|||toast|||crunch|||is_a
+pită de pecica			pită|||de|||pecica|||is_a
+malanga	sweet_potato#0.570032179356	sweet_potato#0.332056432962	malanga|||malanga|||is_a
+rice	wheat#0.544017970562|millet#0.541650772095|corn#0.523965537548	wheat#0.32191067934|millet#0.318736702204	rice|||rice|||is_a
+hot dry noodles	soup#0.519446134567	soup#0.105626128614	hot_dry_noodles|||hot|||dry|||noodles|||is_a
+donut	doughnut#0.723083674908	doughnut#0.42764082551	donut|||donut|||is_a
+sundae cone	ice_cream#0.535956203938	ice_cream#0.29492866993	sundae|||cone|||is_a
+jerky			jerky|||jerky|||is_a
+nantua sauce	barbecue_sauce#0.504236102104		nantua|||sauce|||is_a
+evaporated milk	condensed_milk#0.691818296909|powdered_milk#0.590144097805|sugar#0.578007817268|water#0.57059264183	condensed_milk#0.245669588447|powdered_milk#0.206932455301|sugar#0.205408856273	evaporated_milk|||evaporated|||milk|||is_a
+macadamia nut	almond#0.561797082424|coconut#0.540660083294|hazelnut#0.539001882076|guava#0.533906459808	almond#0.194650277495|coconut#0.183742627501|hazelnut#0.183405086398|guava#0.180088803172	macadamia_nut|||macadamia|||nut|||is_a
+crème ninon			crème|||ninon|||is_a
+kulolo			kulolo|||kulolo|||is_a
+andouille	sausage#0.589305400848	sausage#0.357215762138	andouille|||andouille|||is_a
+butajiru			butajiru|||butajiru|||is_a
+sugar apple	plum#0.61707919836|cherry#0.579650580883|pear#0.555429041386|fruit#0.543553590775|syrup#0.536899089813|lemon#0.508938074112	plum#0.19748480618|cherry#0.186319902539|fruit#0.177607119083|pear#0.176713302732|syrup#0.173299521208	sugar_apple|||sugar|||apple|||is_a
+yoghurt	buttermilk#0.469673156738|milk#0.465610891581|sour_cream#0.464402347803		yoghurt|||yoghurt|||is_a
+product 19			product|||is_a
+spekkoek	pandan_cake#0.498495459557	pandan_cake#0.325506925583	spekkoek|||spekkoek|||is_a
+paprika	garlic#0.627132892609|pepper#0.625692903996|cumin#0.612722396851|coriander#0.585966944695	garlic#0.363910973072|cumin#0.353750556707|pepper#0.351929336786	paprika|||paprika|||is_a
+cannelloni	pasta#0.420158326626	pasta#0.261510133743	cannelloni|||cannelloni|||is_a
+neapolitan ragù	bolognese_sauce#0.533920109272		neapolitan_ragù|||neapolitan|||ragù|||is_a
+disney mickey's magix			disney|||mickey|||s|||is_a
+moronga			moronga|||moronga|||is_a
+marshmallow	toffee#0.593047261238|fudge#0.570874452591	toffee#0.340786933899	marshmallow|||marshmallow|||is_a
+tripoline	mafalde#0.911948025227|pillus#0.910456418991|lasagnette#0.898622393608|sagnarelli#0.89170730114|linguettine#0.615312755108|sacchettoni#0.577009439468	pillus#0.576798856258|mafalde#0.571717083454|sagnarelli#0.562889933586|lasagnette#0.559765279293|linguettine#0.379974275827	tripoline|||tripoline|||is_a
+bollo			bollo|||bollo|||is_a
+mezzelune			mezzelune|||mezzelune|||is_a
+pie crust	pastry#0.734400033951	pastry#0.279769539833	pie_crust|||pie|||crust|||is_a
+butter and margarine	cream#0.51785993576|milk#0.502517461777|sour_cream#0.497918754816|condensed_milk#0.488254994154	cream#0.0958036258817|milk#0.0931650474668	butter_and_margarine|||butter|||and|||margarine|||is_a
+anpan			anpan|||anpan|||is_a
+tarragon	thyme#0.649583041668|oregano#0.594001710415|basil#0.589383900166|dill#0.588090777397|parsley#0.579634487629|marjoram#0.558691740036	thyme#0.37418961525|oregano#0.348358035088|basil#0.346296340227|dill#0.338527202606|parsley#0.330198973417	tarragon|||tarragon|||is_a
+french onion soup		bouneschlupp#0.181173220277	french|||onion|||soup|||is_a
+just right			just_right|||just|||right|||is_a
+chipa so'o			chipa_so_o|||chipa|||so|||o|||is_a
+bean paste	sweet#0.566971421242	sweet#0.216125071049	bean_paste|||bean|||paste|||is_a
+rutabaga	turnip#0.538707733154|cabbage#0.497231245041	turnip#0.301735639572|cabbage#0.290100872517|leek#0.288956880569	rutabaga|||rutabaga|||is_a
+boston cream doughnut	donut#0.566462099552|whipped_cream#0.492799729109	donut#0.111066907644	boston_cream_doughnut|||boston|||cream|||doughnut|||is_a
+cavatelli	orecchiette#0.57815527916|acini_di_pepe#0.522785961628|pastina#0.45201048255|penne#0.45187073946|rigatoni#0.43043500185	orecchiette#0.341633886099|acini_di_pepe#0.316598474979|pastina#0.285894572735	cavatelli|||cavatelli|||is_a
+cooking ingredient	condiment#0.584746837616	condiment#0.208988770843	cooking_ingredient|||cooking|||ingredient|||is_a
+manchet			manchet|||manchet|||is_a
+marjoram	thyme#0.685173630714|oregano#0.661413192749|coriander#0.628873646259|tarragon#0.616565406322|basil#0.602308571339|rosemary#0.599597394466|cumin#0.590045273304	thyme#0.38036724925|oregano#0.369974881411|tarragon#0.354315280914|coriander#0.346087634563|basil#0.34290894866|cumin#0.335814476013	marjoram|||marjoram|||is_a
+eggnog		beverage#0.326106965542	eggnog|||eggnog|||is_a
+st. louis-style pizza			st|||louis|||style|||pizza|||is_a
+gai choi			gai|||choi|||is_a
+vispipuuro			vispipuuro|||vispipuuro|||is_a
+singapore style noodle	noodle_soup#0.619478404522	noodle_soup#0.217469975352	singapore|||style|||noodle|||is_a
+ding dong			ding_dong|||ding|||dong|||is_a
+yaki udon	noodle#0.538276731968		yaki_udon|||yaki|||udon|||is_a
+rice oil	cooking_oil#0.484854012728|vegetable_oil#0.482312828302|sesame_oil#0.438190311193	cooking_oil#0.139980509877	rice_oil|||rice|||oil|||is_a
+pumpkin	squash#0.562760233879|melon#0.529803931713|sweet_potato#0.525028288364|potato#0.522140860558	squash#0.325059294701|potato#0.314884215593|sweet_potato#0.309436351061|melon#0.307692140341	pumpkin|||pumpkin|||is_a
+hallulla			hallulla|||hallulla|||is_a
+zōni			zōni|||zōni|||is_a
+strozzapreti			strozzapreti|||strozzapreti|||is_a
+curry sauce	gravy#0.63453912735|brown_sauce#0.579008817673	gravy#0.243342772126|brown_sauce#0.22774592042	curry_sauce|||curry|||sauce|||is_a
+katara			katara|||katara|||is_a
+banh canh			banh_canh|||banh|||canh|||is_a
+hyderabadi marag			hyderabadi|||marag|||is_a
+vegetarian hot dog	hot_dog#0.511832535267|sausage#0.447281301022	hot_dog#0.101177625358|sausage#0.0898457914591	vegetarian_hot_dog|||vegetarian|||hot|||dog|||is_a
+heavy cake			heavy_cake|||heavy|||cake|||is_a
+ganjang	soy_sauce#0.623845100403	soy_sauce#0.355684548616	ganjang|||ganjang|||is_a
+crustless bread	white_bread#0.541818618774|rye_bread#0.492957621813	white_bread#0.162599787116	crustless_bread|||crustless|||bread|||is_a
+mint sauce	brown_sauce#0.532842516899|condiment#0.504526913166|barbecue_sauce#0.494003653526	brown_sauce#0.174060180783|condiment#0.163645446301	mint_sauce|||mint|||sauce|||is_a
+mangosteen	rambutan#0.603459179401|longan#0.582069516182|lychee#0.556609153748	longan#0.337977737188|rambutan#0.329582571983	mangosteen|||mangosteen|||is_a
+cimpa			cimpa|||cimpa|||is_a
+ontbijtkoek			ontbijtkoek|||ontbijtkoek|||is_a
+golden crisp	rice_krispies#0.500021934509	rice_krispies#0.171040222049	golden_crisp|||golden|||crisp|||is_a
+grape			grape|||grape|||is_a
+grits	cornmeal#0.493808507919|porridge#0.489683896303	cornmeal#0.299141824245|porridge#0.298835575581	grits|||grits|||is_a
+figgy pudding	spotted_dick#0.492739289999		figgy_pudding|||figgy|||pudding|||is_a
+ábrystir			ábrystir|||ábrystir|||is_a
+mutschel			is_a
+xo sauce	hot_sauce#0.47136849165		xo_sauce|||xo|||sauce|||is_a
+paški baškotin			paški|||baškotin|||is_a
+semla			semla|||semla|||is_a
+twist bread	flatbread#0.48114797473|bun#0.481141597033	bun#0.273438155651	twist|||bread|||is_a
+sheer korma			sheer|||korma|||is_a
+crostata	pie#0.497744232416|pastry#0.477395117283	pie#0.308891296387	crostata|||crostata|||is_a
+cream	whipped_cream#0.577477157116|cream_cheese#0.553457856178		cream|||cream|||is_a
+croxetti			croxetti|||croxetti|||is_a
+black soup			black_soup|||black|||soup|||is_a
+almond	hazelnut#0.667938053608|pistachio#0.636454701424|walnut#0.5478079319|apricot#0.534211754799	hazelnut#0.392937779427|pistachio#0.370582640171|walnut#0.327255308628|apricot#0.322481364012	almond|||almond|||is_a
+caramel tart	sweet#0.663717031479|nougat#0.558204054832	sweet#0.246429413557|nougat#0.196190878749	caramel_tart|||caramel|||tart|||is_a
+chimichurri	sauce#0.498996585608|green_sauce#0.46882262826	sauce#0.31489533186	chimichurri|||chimichurri|||is_a
+salami	sausage#0.638372242451|mortadella#0.627035081387	sausage#0.378956437111|mortadella#0.355641454458	salami|||salami|||is_a
+vasilopita			vasilopita|||vasilopita|||is_a
+lolly cake			lolly_cake|||lolly|||cake|||is_a
+pan de coco			pan|||de|||coco|||is_a
+farl	potato_bread#0.478199511766|boxty#0.416828274727	potato_bread#0.312576025724	farl|||farl|||is_a
+frosted mini-wheats	breakfast_cereal#0.510282099247	breakfast_cereal#0.172605708241	frosted|||mini|||wheats|||is_a
+crossing the bridge noodles	noodle#0.534752964973|noodle_soup#0.499160826206	noodle#0.0516470596194|noodle_soup#0.0498895049095	crossing_the_bridge_noodles|||crossing|||the|||bridge|||noodles|||is_a
+ciauscolo			ciauscolo|||ciauscolo|||is_a
+spice cake	fruit_cake#0.54258441925	fruit_cake#0.184909105301	spice_cake|||spice|||cake|||is_a
+kinnathappam	pathiri#0.487457513809	bebinca#0.344817757607	kinnathappam|||kinnathappam|||is_a
+michigan hot dog	hot_dog#0.564067065716	hot_dog#0.179196491838	michigan|||hot|||dog|||is_a
+steak sauce	barbecue_sauce#0.70176243782|brown_sauce#0.639509856701|mayonnaise#0.62167340517|ketchup#0.602626442909|cocktail_sauce#0.597027420998|salad_dressing#0.574705481529	barbecue_sauce#0.250409007072|brown_sauce#0.233565375209|mayonnaise#0.216460332274|cocktail_sauce#0.210791423917|salad_dressing#0.207429260015|ketchup#0.205226451159	steak_sauce|||steak|||sauce|||is_a
+crêpe	galette#0.489212334156|pancake#0.476861327887	galette#0.322560966015	crêpe|||crêpe|||is_a
+greek pizza			greek|||pizza|||is_a
+bolognese sauce	ragù#0.667751193047|spaghetti#0.576346039772|pesto#0.553015351295	ragù#0.245988756418|spaghetti#0.210361033678|pesto#0.200680524111	bolognese_sauce|||bolognese|||sauce|||is_a
+okroshka	sour_soup#0.463149011135|suaasat#0.449157834053	sour_soup#0.295658618212|suaasat#0.293181598186	okroshka|||okroshka|||is_a
+curry ketchup	barbecue_sauce#0.610968708992|sauce#0.589624106884|mayonnaise#0.589106559753	barbecue_sauce#0.215616315603|sauce#0.21515019238|mayonnaise#0.204531669617	curry_ketchup|||curry|||ketchup|||is_a
+salvitxada			salvitxada|||salvitxada|||is_a
+sausage making		crépinette#0.149311304092	sausage_making|||sausage|||making|||is_a
+kuchen			kuchen|||kuchen|||is_a
+empanada	pastry#0.506081044674|sancocho#0.493745654821	pastry#0.314957052469	empanada|||empanada|||is_a
+pie filling	pastry#0.690793991089|cake#0.542491674423	pastry#0.232718110085|cake#0.183534026146	pie_filling|||pie|||filling|||is_a
+popcorn			popcorn|||popcorn|||is_a
+tart	sweet#0.617719769478|caramel_tart#0.522760152817	sweet#0.382298588753|caramel_tart#0.335396975279	tart|||tart|||is_a
+saveloy	sausage#0.452498078346	sausage#0.292590647936	saveloy|||saveloy|||is_a
+horseradish root	mustard#0.544350802898|celery#0.509692907333|radish#0.490101873875	mustard#0.173000589013|celery#0.159134671092	horseradish_root|||horseradish|||root|||is_a
+sauce lyonnaise			sauce_lyonnaise|||sauce|||lyonnaise|||is_a
+kasha			kasha|||kasha|||is_a
+savore sanguino			savore|||sanguino|||is_a
+deli meat	beef#0.663765311241|pork#0.601777791977|sausage#0.586872518063	beef#0.222652390599|sausage#0.206683635712|pork#0.19672948122	deli_meat|||deli|||meat|||is_a
+cactus leaf	prickly_pear#0.626783549786	prickly_pear#0.201599165797	cactus_leaf|||cactus|||leaf|||is_a
+waffle			waffle|||waffle|||is_a
+pecel	peanut_sauce#0.546016395092		pecel|||pecel|||is_a
+tinned seafood		frozen_seafood#0.261628389359	tinned|||seafood|||is_a
+pho			pho|||pho|||is_a
+sorbet	frozen_dessert#0.578185141087|sherbet#0.571880578995|ice_cream#0.562820911407	frozen_dessert#0.362593621016|sherbet#0.342554062605|ice_cream#0.334962397814	sorbet|||sorbet|||is_a
+pine nut	walnut#0.630340516567|hazelnut#0.619405686855|almond#0.572826385498|pistachio#0.555283010006	walnut#0.218715086579|hazelnut#0.217388480902|almond#0.202582642436|pistachio#0.193350672722	pine_nut|||pine|||nut|||is_a
+detroit-style pizza			detroit|||style|||pizza|||is_a
+corn pops	cereal#0.468743890524	cereal#0.147282838821	corn_pops|||corn|||pops|||is_a
+trenette	linguine#0.446767479181|pesto#0.411531597376	linguine#0.297632426023	trenette|||trenette|||is_a
+potato doughnut	bebinca#0.549015760422	bebinca#0.196679592133	potato_doughnut|||potato|||doughnut|||is_a
+pastisset			is_a
+cherry	plum#0.699260175228|apple#0.691978037357|peach#0.638537108898|pear#0.627887248993	plum#0.41666868329|apple#0.410236090422|peach#0.373501718044	cherry|||cherry|||is_a
+vegetable		cold_borsch#0.289998292923	vegetable|||vegetable|||is_a
+loose tea leaf	berry#0.481825530529	berry#0.16741579771	loose|||tea|||leaf|||is_a
+opera cake	berlingozzo#0.480910986662|sponge_cake#0.479332000017	berlingozzo#0.162952512503	opera_cake|||opera|||cake|||is_a
+non-dairy frozen dessert			non|||dairy|||frozen|||dessert|||is_a
+ching bo leung			ching_bo_leung|||ching|||bo|||leung|||is_a
+mala sauce			mala_sauce|||mala|||sauce|||is_a
+noodle soup	rice_noodles#0.658832907677|chicken_soup#0.620880007744|rice_vermicelli#0.612230837345	rice_noodles#0.267239928246|chicken_soup#0.253990620375	noodle_soup|||noodle|||soup|||is_a
+timbits			timbits|||timbits|||is_a
+cudighi	kulen#0.444393485785		cudighi|||cudighi|||is_a
+foglie d'ulivo			foglie|||d|||ulivo|||is_a
+beef noodle soup	noodle_soup#0.791596353054|rice_noodles#0.637466490269|rice_vermicelli#0.629083037376	noodle_soup#0.210343584418|rice_noodles#0.150367766619|rice_vermicelli#0.143806681037	beef_noodle_soup|||beef|||noodle|||soup|||is_a
+aioli	sauce#0.506675601006|béchamel_sauce#0.465206980705	sauce#0.307355433702	aioli|||aioli|||is_a
+coconut doughnut	donut#0.522968888283|boston_cream_doughnut#0.509800970554|bebinca#0.475954115391	boston_cream_doughnut#0.177107751369|bebinca#0.166359066963|donut#0.165111005306	coconut_doughnut|||coconut|||doughnut|||is_a
+noodle with tomato egg sauce	soup#0.528533279896	soup#0.0386962406337	noodle_with_tomato_egg_sauce|||noodle|||with|||tomato|||egg|||sauce|||is_a
+cold borsch	borscht#0.556024134159|soup#0.529985964298	borscht#0.190414682031|soup#0.18390801549	cold_borsch|||cold|||borsch|||is_a
+bread crumb	sweet_roll#0.511694192886	sweet_roll#0.177274346352	bread_crumb|||bread|||crumb|||is_a
+potato pancake			potato_pancake|||potato|||pancake|||is_a
+pea soup	chicken_soup#0.611879646778|tomato_soup#0.517152786255|sour_soup#0.489159464836	chicken_soup#0.212831646204|tomato_soup#0.177534714341	pea_soup|||pea|||soup|||is_a
+jicama	papaya#0.510709106922		jicama|||jicama|||is_a
+otak-otak	pineapple_tart#0.520781934261		otak_otak|||otak|||otak|||is_a
+cupcake	wedding_cake#0.534182846546|lollipop#0.477310717106	wedding_cake#0.297855705023|chocolate_cake#0.287643998861	cupcake|||cupcake|||is_a
+caldo verde			caldo_verde|||caldo|||verde|||is_a
+rice vermicelli	noodle#0.672595322132|rice_noodles#0.661265015602|noodle_soup#0.592229425907	noodle#0.243193656206|rice_noodles#0.235428720713|noodle_soup#0.215123265982	rice_vermicelli|||rice|||vermicelli|||is_a
+kishka			kishka|||kishka|||is_a
+blush wine	dessert_wine#0.565689623356	dessert_wine#0.186655446887	blush_wine|||blush|||wine|||is_a
+dessert platter			dessert|||platter|||is_a
+khao poon			khao_poon|||khao|||poon|||is_a
+mint			mint|||mint|||is_a
+torte	chocolate_cake#0.537863731384|cake#0.50598102808	chocolate_cake#0.325713902712|cake#0.31402528286	torte|||torte|||is_a
+mustard	mayonnaise#0.542597830296|ketchup#0.542435407639|garlic#0.540781915188	garlic#0.32440534234	mustard|||mustard|||is_a
+fish tea	beverage#0.445515960455|coffee#0.425159305334|seafood#0.42298322916	beverage#0.139399379492	fish_tea|||fish|||tea|||is_a
+organic beef	seafood#0.49646705389|meat#0.482867658138	seafood#0.170070797205	organic_beef|||organic|||beef|||is_a
+bregenwurst			bregenwurst|||bregenwurst|||is_a
+jelly bean	sweet#0.52065217495|bean_paste#0.462513417006	sweet#0.179737836123|bean_paste#0.160165429115|bouneschlupp#0.154909819365	jelly_bean|||jelly|||bean|||is_a
+cumberland sauce	barbecue_sauce#0.472895801067|brown_sauce#0.448580443859		cumberland|||sauce|||is_a
+shoti			is_a
+parsley root	celery#0.717883110046|dill#0.627538383007|onion#0.605246245861|coriander#0.604551196098|parsnip#0.587419867516|garlic#0.584189474583	celery#0.243584439158|dill#0.206094101071|parsnip#0.204146802425|onion#0.202172517776|coriander#0.200576677918|garlic#0.196099713445	parsley_root|||parsley|||root|||is_a
+david eyre's pancake			david|||eyre|||s|||pancake|||is_a
+hogao			hogao|||hogao|||is_a
+olives and capers	garlic#0.594658076763	garlic#0.117498785257	olives_and_capers|||olives|||and|||capers|||is_a
+salt-rising bread	white_bread#0.521530866623|flour#0.518184959888|cornmeal#0.477903485298	flour#0.164083614945|white_bread#0.158035427332|cornmeal#0.154979392886	salt|||rising|||bread|||is_a
+millet	barley#0.634596645832	barley#0.360055476427	millet|||millet|||is_a
+soy product	beverage#0.481626212597	beverage#0.164875477552	soy_product|||soy|||product|||is_a
+doughnut	donut#0.705319523811	donut#0.417648583651	doughnut|||doughnut|||is_a
+rhubarb tart	sweet#0.49279204011	sweet#0.158074498177	rhubarb_tart|||rhubarb|||tart|||is_a
+meunière sauce	nataing#0.492699742317	nataing#0.176906168461	meunière_sauce|||meunière|||sauce|||is_a
+toffee brittle	caramel#0.575775444508|fudge#0.554167985916	caramel#0.30160933733|nougat#0.292852878571	toffee|||brittle|||is_a
+cucumber	cauliflower#0.549184978008|lettuce#0.541889548302|melon#0.541816115379	cauliflower#0.324590027332|melon#0.322158277035	cucumber|||cucumber|||is_a
+prickly pear	plum#0.605592191219		prickly_pear|||prickly|||pear|||is_a
+standing rib roast	beef#0.501462340355	beef#0.0924259573221	standing_rib_roast|||standing|||rib|||roast|||is_a
+sweet and sour pork			sweet_and_sour_pork|||sweet|||and|||sour|||pork|||is_a
+corn soup			corn_soup|||corn|||soup|||is_a
+gazpacho			gazpacho|||gazpacho|||is_a
+folar			folar|||folar|||is_a
+tallow			tallow|||tallow|||is_a
+manwich			manwich|||manwich|||is_a
+thuringian sausage	bratwurst#0.612875044346|boerewors#0.504942059517|mettwurst#0.495585143566	bratwurst#0.219339102507|boerewors#0.179771527648	thuringian_sausage|||thuringian|||sausage|||is_a
+peanut butter cups	fudge#0.546557128429|caramel#0.545949697495	caramel#0.109825961292	peanut_butter_cups|||peanut|||butter|||cups|||is_a
+goody			goody|||goody|||is_a
+houmous			houmous|||houmous|||is_a
+cottage cheese	cream_cheese#0.682474374771	cream_cheese#0.245857879519	cottage_cheese|||cottage|||cheese|||is_a
+frozen dinner			frozen_dinner|||frozen|||dinner|||is_a
+lardy cake	sponge_cake#0.506768524647		lardy_cake|||lardy|||cake|||is_a
+michetta			michetta|||michetta|||is_a
+nădlac sausage			nădlac_sausage|||nădlac|||sausage|||is_a
+æbleskiver	pancake#0.430189818144	pancake#0.277583241463	æbleskiver|||æbleskiver|||is_a
+nettle soup			nettle_soup|||nettle|||soup|||is_a
+waffle and pancake mix	crêpe#0.477014780045	crêpe#0.0908941924572	waffle|||and|||pancake|||mix|||is_a
+morteau sausage		nataing#0.297602266073	morteau|||sausage|||is_a
+steak and kidney pudding	black_pudding#0.526553988457|gravy#0.477841645479	black_pudding#0.0584429502487|gravy#0.0519255772233	steak_and_kidney_pudding|||steak|||and|||kidney|||pudding|||is_a
+candy cane	syrup#0.525418758392|toffee#0.497451603413|marshmallow#0.48681050539	syrup#0.17454521358|toffee#0.161091476679	candy_cane|||candy|||cane|||is_a
+pie	pastry#0.558546364307	pastry#0.344456672668	pie|||pie|||is_a
+watercress	greens#0.582223474979|spinach#0.538494646549|celery#0.515841305256|cabbage#0.508740901947|lettuce#0.502436876297|cucumber#0.489509224892	greens#0.319307535887|spinach#0.305484592915|celery#0.299349755049|cabbage#0.297840923071|cucumber#0.294338554144	watercress|||watercress|||is_a
+oatmeal	cornmeal#0.547647953033|flour#0.547314047813|oats#0.529217720032	cornmeal#0.31805896759|flour#0.311834692955|porridge#0.305810213089	oatmeal|||oatmeal|||is_a
+hard dough bread	white_bread#0.589444875717		hard_dough_bread|||hard|||dough|||bread|||is_a
+minestrone	soup#0.52637475729|goulash#0.46946528554	soup#0.324388504028|goulash#0.295003771782	minestrone|||minestrone|||is_a
+tinned soup	köttsoppa#0.499218314886	köttsoppa#0.268263250589	tinned|||soup|||is_a
+hoyha			hoyha|||hoyha|||is_a
+talau			talau|||talau|||is_a
+sherry	wine#0.53820091486|brandy#0.520478487015	wine#0.319000482559|brandy#0.3125423491	sherry|||sherry|||is_a
+pulla			pulla|||pulla|||is_a
+chocos			chocos|||chocos|||is_a
+bánh bó			bánh_bó|||bánh|||bó|||is_a
+vallée d'aoste lard d'arnad			vallée|||d|||aoste|||lard|||d|||arnad|||is_a
+bánh bò			bánh_bò|||bánh|||bò|||is_a
+smith & jones instant noodle			smith|||jones|||instant|||noodle|||is_a
+rotelle	rotini#0.59540617466|cavatelli#0.444481313229|fusilli#0.421033650637	rotini#0.334433138371|cavatelli#0.275934487581	rotelle|||rotelle|||is_a
+vortex ring			vortex_ring|||vortex|||ring|||is_a
+murtabak	roti_prata#0.51312571764		murtabak|||murtabak|||is_a
+pleşcoi sausages	sausage#0.699260354042|bratwurst#0.552825689316|mettwurst#0.540321707726	sausage#0.347136586905|bratwurst#0.293053030968|mettwurst#0.288393855095	pleşcoi|||sausages|||is_a
+gazpachuelo			gazpachuelo|||gazpachuelo|||is_a
+graham bread	brown_bread#0.483955800533|sabounee#0.465127378702	brown_bread#0.163515672088|sabounee#0.159456402063	graham_bread|||graham|||bread|||is_a
+pudding	spotted_dick#0.585044384003|christmas_pudding#0.539596199989	spotted_dick#0.357117533684	pudding|||pudding|||is_a
+brési			brési|||brési|||is_a
+post toasties			post_toasties|||post|||toasties|||is_a
+suprême sauce	brown_sauce#0.492585033178|barbecue_sauce#0.460799992085	brown_sauce#0.184672743082	suprême_sauce|||suprême|||sauce|||is_a
+corn tortilla			corn_tortilla|||corn|||tortilla|||is_a
+babi panggang			babi_panggang|||babi|||panggang|||is_a
+fruit-flavoured drink	beverage#0.640269875526|liqueur#0.572754144669	beverage#0.146699920297|liqueur#0.126021444798	fruit_flavoured_drink|||fruit|||flavoured|||drink|||is_a
+rice wine			rice_wine|||rice|||wine|||is_a
+occhi di lupo			occhi|||di|||lupo|||is_a
+touton			touton|||touton|||is_a
+himbasha			is_a
+macaroni	pasta#0.621675491333|spaghetti#0.564662873745|pasta_sauce#0.551178991795|cheese#0.490174561739	pasta#0.348007112741|pasta_sauce#0.325118690729|spaghetti#0.316852033138	macaroni|||macaroni|||is_a
+chocapic			chocapic|||chocapic|||is_a
+ladyfinger			ladyfinger|||ladyfinger|||is_a
+ice cream cone	ice_cream#0.682841300964|whipped_cream#0.578349947929|frozen_dessert#0.562646985054	ice_cream#0.15817579627|frozen_dessert#0.129404142499|whipped_cream#0.123887702823	ice_cream_cone|||ice|||cream|||cone|||is_a
+pain au chocolat	brioche#0.573503315449	brioche#0.117954038084	pain_au_chocolat|||pain|||au|||chocolat|||is_a
+greens	watercress#0.581323444843|cabbage#0.517247498035|kale#0.496564120054	watercress#0.318867176771|cabbage#0.301476031542	greens|||greens|||is_a
+raisin bran	breakfast_cereal#0.502892613411|cereal#0.500219941139	breakfast_cereal#0.172879368067|cereal#0.167230725288|smorz#0.164912328124	raisin_bran|||raisin|||bran|||is_a
+pasta sauce	pesto#0.602429986|spaghetti#0.589563429356|gravy#0.527659296989	pesto#0.226634055376|spaghetti#0.2228885144	pasta_sauce|||pasta|||sauce|||is_a
+raisin wheats	breakfast_cereal#0.457969725132	breakfast_cereal#0.254868447781	raisin|||wheats|||is_a
+soubise sauce			soubise|||sauce|||is_a
+angel food cake	chocolate_cake#0.490191042423		angel_food_cake|||angel|||food|||cake|||is_a
+challah	matzo#0.581651031971|nshkhar#0.517877578735|bread#0.516341149807	matzo#0.334268540144|nshkhar#0.321049004793|bread#0.30543410778	challah|||challah|||is_a
+sausage bread			sausage_bread|||sausage|||bread|||is_a
+mexican pizza			mexican|||pizza|||is_a
+sherbet	sorbet#0.610281944275	sorbet#0.362062931061|beverage#0.3032964468	sherbet|||sherbet|||is_a
+ciambella			is_a
+changzhou sesame cake			changzhou|||sesame|||cake|||is_a
+draw soup			draw_soup|||draw|||soup|||is_a
+pecan	walnut#0.564935982227	walnut#0.320329427719	pecan|||pecan|||is_a
+barm cake	sponge_cake#0.588235557079|sweet_roll#0.568980395794|spice_cake#0.53313267231|chocolate_cake#0.518506288528|layer_cake#0.518234074116	sweet_roll#0.208695396781|sponge_cake#0.206240043044|spice_cake#0.193288400769|layer_cake#0.183949664235|teacake#0.183830320835	barm_cake|||barm|||cake|||is_a
+khakhra			khakhra|||khakhra|||is_a
+matnakash			matnakash|||matnakash|||is_a
+floss sugar	syrup#0.489233791828	syrup#0.244247317314	floss|||sugar|||is_a
+sevai			sevai|||sevai|||is_a
+silver needle noodles	rice_noodles#0.513857245445|noodle#0.511630833149		silver_needle_noodles|||silver|||needle|||noodles|||is_a
+caruso sauce	barbecue_sauce#0.528663396835		caruso_sauce|||caruso|||sauce|||is_a
+fizzy drink	beverage#0.637609660625	beverage#0.226830139756	fizzy_drink|||fizzy|||drink|||is_a
+carrot	leek#0.592402875423|turnip#0.578380286694|celery#0.575578689575|potato#0.567230522633|onion#0.562750637531|cauliflower#0.560680806637|radish#0.554227530956	leek#0.336100578308|potato#0.333735942841|celery#0.324256449938|turnip#0.321269869804|onion#0.321133881807	carrot|||carrot|||is_a
+crumpet	spice_cake#0.432596772909	spice_cake#0.292551875114	crumpet|||crumpet|||is_a
+sauce ravigote	barbecue_sauce#0.556309700012|brown_sauce#0.543509781361	brown_sauce#0.298522979021|barbecue_sauce#0.29309284687	sauce|||ravigote|||is_a
+kugel	bebinca#0.511424422264	bebinca#0.342541664839	kugel|||kugel|||is_a
+rosette de lyon			rosette|||de|||lyon|||is_a
+spaghetti	pasta#0.597408652306|linguine#0.563354313374|penne#0.558836519718|pasta_sauce#0.503489255905|macaroni#0.501078426838	pasta#0.347866654396|linguine#0.338264495134|penne#0.321489572525|pasta_sauce#0.312825143337	spaghetti|||spaghetti|||is_a
+caramel	toffee#0.68702340126|nougat#0.631391048431	toffee#0.386639356613|nougat#0.36616781354	caramel|||caramel|||is_a
+eccles cake	bebinca#0.473987281322|sweet_roll#0.472068697214	bebinca#0.156464904547|sweet_roll#0.155002042651	eccles_cake|||eccles|||cake|||is_a
+chestnut			chestnut|||chestnut|||is_a
+bánh chuối			bánh_chuối|||bánh|||chuối|||is_a
+soup all'imperatrice	borscht#0.50040602684|solyanka#0.470579683781	solyanka#0.152685686946|borscht#0.152225404978	soup|||all|||imperatrice|||is_a
+coloured sugar	syrup#0.552358448505	syrup#0.17582128942	coloured_sugar|||coloured|||sugar|||is_a
+pol pani			pol|||pani|||is_a
+burebrot			burebrot|||burebrot|||is_a
+dutchie	doughnut#0.411953359842		dutchie|||dutchie|||is_a
+homli fruit	cherry#0.500496268272|apple#0.482385128736|berry#0.473982840776	cherry#0.441940695047|beverage#0.438564777374	fruit|||is_a
+baking mix	chocolate_cake#0.450805991888	chocolate_cake#0.148238375783	baking_mix|||baking|||mix|||is_a
+syrup	sugar#0.622150719166|corn_syrup#0.534845232964	sugar#0.353350281715	syrup|||syrup|||is_a
+filone			filone|||filone|||is_a
+cabanossi			cabanossi|||cabanossi|||is_a
+tom yum			tom_yum|||tom|||yum|||is_a
+infusion			infusion|||infusion|||is_a
+brioche	sweet_roll#0.596533238888|pastry#0.587012410164	sweet_roll#0.379074752331|pastry#0.359302222729	brioche|||brioche|||is_a
+tahini	olive_oil#0.480439335108		tahini|||tahini|||is_a
+berry	cherry#0.605867385864|peach#0.57819879055	cherry#0.37199267745|peach#0.343746721745	berry|||berry|||is_a
+fruit and nut snack	beverage#0.543800354004|almond#0.520164608955|hazelnut#0.489318102598|sweet#0.483540892601	beverage#0.117876946926|almond#0.105348214507|sweet#0.0988022834063|hazelnut#0.0961674153805	fruit|||and|||nut|||snack|||is_a
+bread sauce	brown_sauce#0.559625506401|gravy#0.514590620995	brown_sauce#0.193194076419	bread_sauce|||bread|||sauce|||is_a
+dandan noodles	noodle#0.641695916653|rice_noodles#0.588663816452|noodle_soup#0.542481720448	noodle#0.302282452583|rice_noodles#0.282788962126	dandan|||noodles|||is_a
+red velvet cake			red_velvet_cake|||red|||velvet|||cake|||is_a
+simit			simit|||simit|||is_a
+bean sprout	cucumber#0.476852506399		bean_sprout|||bean|||sprout|||is_a
+hot chocolate			hot_chocolate|||hot|||chocolate|||is_a
+chicago-style pizza			chicago|||style|||pizza|||is_a
+dosa	idli#0.736914217472|bhakri#0.594927728176	idli#0.40981093049	dosa|||dosa|||is_a
+pound cake	sponge_cake#0.58096665144|chocolate_cake#0.549707710743|fruit_cake#0.533658146858|sweet_roll#0.498535901308	sponge_cake#0.180587470531|chocolate_cake#0.172157347202|fruit_cake#0.165655329823|sweet_roll#0.164223238826	pound_cake|||pound|||cake|||is_a
+chipa guasu			chipa_guasu|||chipa|||guasu|||is_a
+kohlwurst			kohlwurst|||kohlwurst|||is_a
+corn	wheat#0.589731514454|millet#0.581179201603	wheat#0.34355571866|millet#0.337272167206	corn|||corn|||is_a
+debrecener	sausage#0.448358356953	sausage#0.297555625439	debrecener|||debrecener|||is_a
+chocolate cake	sponge_cake#0.673458576202|caramel#0.60460883379	sponge_cake#0.269597619772	chocolate_cake|||chocolate|||cake|||is_a
+kharcho			kharcho|||kharcho|||is_a
+pandan cake	spice_cake#0.5413595438|sweet#0.524200737476	spice_cake#0.189833164215|sweet#0.185699641705	pandan_cake|||pandan|||cake|||is_a
+mohnnudel			is_a
+garbure	sour_soup#0.465025514364	sour_soup#0.307799726725	garbure|||garbure|||is_a
+bouneschlupp	močnik#0.505729138851	močnik#0.346244364977	bouneschlupp|||bouneschlupp|||is_a
+welf pudding	spotted_dick#0.534021675587		welf|||pudding|||is_a
+chewing gum			chewing_gum|||chewing|||gum|||is_a
+rab cake	berlingozzo#0.537663698196	berlingozzo#0.293177932501	rab|||cake|||is_a
+uirō			uirō|||uirō|||is_a
+peach	cherry#0.715920388699|plum#0.692154467106|apricot#0.66612380743|berry#0.649068892002|apple#0.646104156971|nectarine#0.645461261272|orange#0.643587529659	cherry#0.415428847075|plum#0.397419005632|berry#0.380319654942|apricot#0.375244706869|apple#0.372389167547|orange#0.365516781807	peach|||peach|||is_a
+fritelli			fritelli|||fritelli|||is_a
+bulla cake	spice_cake#0.508794009686|sfouf#0.5041872859	sfouf#0.174036338925|spice_cake#0.172697350383	bulla_cake|||bulla|||cake|||is_a
+'nduja			_nduja|||nduja|||is_a
+dessert topping	sponge_cake#0.523418009281|spice_cake#0.517893612385|pastry#0.503054082394	spice_cake#0.196952909231|sponge_cake#0.19089871645	dessert_topping|||dessert|||topping|||is_a
+lung fung soup	noodle_soup#0.563365459442|chicken_soup#0.50389701128	noodle_soup#0.182487383485	lung|||fung|||soup|||is_a
+hazelnut	almond#0.687346994877|pistachio#0.569741249084|caramel#0.547888457775|walnut#0.545374751091	almond#0.403506487608|pistachio#0.335901498795|caramel#0.325657874346|walnut#0.323505371809	hazelnut|||hazelnut|||is_a
+goro			goro|||goro|||is_a
+ryynimakkara			ryynimakkara|||ryynimakkara|||is_a
+empal gentong	kinnathappam#0.503221035004	kinnathappam#0.175650820136	empal_gentong|||empal|||gentong|||is_a
+shortening and lard	vegetable_oil#0.544966936111	vegetable_oil#0.160214394331	shortening|||and|||lard|||is_a
+cullen skink			cullen_skink|||cullen|||skink|||is_a
+liverwurst	sausage#0.546790719032|kaszanka#0.463707029819	sausage#0.335420966148	liverwurst|||liverwurst|||is_a
+mykyrokka	pig_s_organ_soup#0.61242878437|svartsoppa#0.535774886608	pig_s_organ_soup#0.373740613461|svartsoppa#0.332021504641	mykyrokka|||mykyrokka|||is_a
+mamey	guava#0.635426163673|avocado#0.57183945179	guava#0.368462592363	mamey|||mamey|||is_a
+barley bread	rye#0.609144985676|wheat#0.595410466194|rye_bread#0.522288203239	rye#0.205935820937|wheat#0.201779350638|cornmeal#0.182411313057	barley_bread|||barley|||bread|||is_a
+shredded wheat	corn#0.505591869354|oats#0.481481850147	corn#0.156784057617	shredded_wheat|||shredded|||wheat|||is_a
+mofletta			mofletta|||mofletta|||is_a
+béchamel sauce	barbecue_sauce#0.551230728626|brown_sauce#0.541868805885|gravy#0.531111359596	brown_sauce#0.204649478197|barbecue_sauce#0.200626954436|gravy#0.195082575083	béchamel_sauce|||béchamel|||sauce|||is_a
+pitha			pitha|||pitha|||is_a
+coney island hot dog	hot_dog#0.57287222147|bun#0.477070450783	hot_dog#0.0672238171101|bun#0.0573422461748	coney_island_hot_dog|||coney|||island|||hot|||dog|||is_a
+lasagnette	pillus#0.905258715153|mafalde#0.901373028755|tripoline#0.89467972517|sagnarelli#0.880088269711|linguettine#0.635955870152|sacchettoni#0.575751364231	pillus#0.574426591396|mafalde#0.565779209137|tripoline#0.557169079781|sagnarelli#0.556211531162|linguettine#0.391595691442	lasagnette|||lasagnette|||is_a
+romesco			romesco|||romesco|||is_a
+vodka	schnapps#0.688254714012|liqueur#0.635925114155	schnapps#0.428067356348|liqueur#0.399982213974	vodka|||vodka|||is_a
+tomato	aubergine#0.568172752857|onion#0.55735874176|tomato_paste#0.50001001358|cucumber#0.49580603838	aubergine#0.354416042566|onion#0.330547899008	tomato|||tomato|||is_a
+taco shell			taco_shell|||taco|||shell|||is_a
+wagafi bread	flatbread#0.556910276413	flatbread#0.302066028118	wagafi|||bread|||is_a
+frankfurter würstchen			frankfurter|||würstchen|||is_a
+cracker			cracker|||cracker|||is_a
+christmas cake	fruit_cake#0.577420532703|pastry#0.570432841778|spice_cake#0.559264481068|sponge_cake#0.555734872818	spice_cake#0.217196404934|pastry#0.217079341412|fruit_cake#0.216272771358	christmas_cake|||christmas|||cake|||is_a
+kohlrabi	cauliflower#0.644143879414|cabbage#0.638292908669|kale#0.608667731285|broccoli#0.600547015667	cauliflower#0.361110806465|cabbage#0.3597202003|kale#0.348201841116	kohlrabi|||kohlrabi|||is_a
+cantonese seafood soup	noodle_soup#0.652041494846|sour_soup#0.570157051086	noodle_soup#0.23020593822|sour_soup#0.202504903078	cantonese|||seafood|||soup|||is_a
+port			port|||port|||is_a
+bratwurst	sausage#0.573662519455|hot_dog#0.548147797585|mettwurst#0.478904038668	sausage#0.356499910355|hot_dog#0.342566817999|mettwurst#0.309585899115	bratwurst|||bratwurst|||is_a
+laufabrauð			laufabrauð|||laufabrauð|||is_a
+berlingozzo			berlingozzo|||berlingozzo|||is_a
+torta alla monferrina			torta|||alla|||monferrina|||is_a
+funing big cake	chocolate_cake#0.466688871384		funing|||big|||cake|||is_a
+buttermilk koldskål			buttermilk_koldskål|||buttermilk|||koldskål|||is_a
+cornmeal	flour#0.735622107983|porridge#0.560309648514	flour#0.41521781683|porridge#0.339333981276	cornmeal|||cornmeal|||is_a
+hot milk cake			hot|||milk|||cake|||is_a
+kitchen bouquet			kitchen|||bouquet|||is_a
+mustamakkara			mustamakkara|||mustamakkara|||is_a
+sally lunn bun			sally|||bun|||is_a
+cervelat	snack_cake#0.43378970027	snack_cake#0.283680558205	cervelat|||cervelat|||is_a
+bara brith			bara_brith|||bara|||is_a
+fisherman's soup			fisherman_s_soup|||fisherman|||s|||soup|||is_a
+lai fun			lai_fun|||lai|||fun|||is_a
+onion powder	garlic_powder#0.671954631805|garlic#0.654928863049|salt#0.644962847233|coriander#0.618273079395	garlic#0.224051013589|garlic_powder#0.222643777728|salt#0.215311974287|paprika#0.212854027748	onion_powder|||onion|||powder|||is_a
+new york-style pizza			new|||york|||style|||pizza|||is_a
+tom kha kai			tom_kha_kai|||tom|||kha|||kai|||is_a
+hard sauce	sweet#0.54705619812	sweet#0.290578335524	hard|||sauce|||is_a
+merguez	sausage#0.520148456097|boerewors#0.507798433304|bierwurst#0.497743755579	sausage#0.321274995804|boerewors#0.314306020737	merguez|||merguez|||is_a
+aubergine	tomato#0.482877731323	tomato#0.312978297472	aubergine|||aubergine|||is_a
+non-dairy milk	powdered_milk#0.559633076191|dairy_product#0.557458758354	dairy_product#0.117115549743	non_dairy_milk|||non|||dairy|||milk|||is_a
+lotus root			lotus_root|||lotus|||root|||is_a
+es teler			es_teler|||es|||is_a
+bun	sweet_roll#0.52067232132	sweet_roll#0.341215699911	bun|||bun|||is_a
+bak kut teh	noodle_soup#0.57985407114|laksa#0.545924067497	noodle_soup#0.124266341329	bak_kut_teh|||bak|||kut|||teh|||is_a
+whipped cream			whipped_cream|||whipped|||cream|||is_a
+non-alcoholic beer	beverage#0.630553781986	beverage#0.163531139493	non_alcoholic_beer|||non|||alcoholic|||beer|||is_a
+afghan bread	flatbread#0.574470460415	flatbread#0.313341528177	afghan|||bread|||is_a
+fruit salad	sorbet#0.472415089607|pistachio_pudding#0.46843740344	pistachio_pudding#0.179607078433|sorbet#0.176420539618|sour_cherry_soup#0.175124809146	fruit_salad|||fruit|||salad|||is_a
+taro root	sweet_potato#0.591014444828|yam#0.576906979084	sweet_potato#0.210185855627|yam#0.200810328126	taro_root|||taro|||root|||is_a
+beef	pork#0.763425111771|meat#0.726235866547	pork#0.419949412346|meat#0.400699973106	beef|||beef|||is_a
+zwieback	pain_d_épices#0.472842752934		zwieback|||zwieback|||is_a
+cocoa krispies			cocoa|||krispies|||is_a
+dragonfruit			dragonfruit|||dragonfruit|||is_a
+upside-down cake		sesame_seed_cake#0.0833088308573	upside_down_cake|||upside|||down|||cake|||is_a
+beer			beer|||beer|||is_a
+tiramisu			tiramisu|||tiramisu|||is_a
+scotch broth	soup#0.626344144344|chicken_soup#0.528224408627|bouillon#0.5030798316	soup#0.195981994271|chicken_soup#0.170660704374	scotch_broth|||scotch|||broth|||is_a
+newmarket sausage			newmarket|||sausage|||is_a
+turrón	nougat#0.49535381794		turrón|||turrón|||is_a
+cruncheroos	smorz#0.535699188709	smorz#0.355533629656	cruncheroos|||cruncheroos|||is_a
+sorrel soup	borscht#0.552937805653|sour_soup#0.544532179832	sour_soup#0.182351559401|borscht#0.182060405612|solyanka#0.179400891066	sorrel_soup|||sorrel|||soup|||is_a
+longaniza			longaniza|||longaniza|||is_a
+instant noodle	instant_noodles#0.616171181202|noodle_soup#0.560049176216|instant_soup#0.542187213898	instant_noodles#0.217017889023|noodle_soup#0.204055637121|instant_soup#0.203395843506	instant_noodle|||instant|||noodle|||is_a
+st. honoré cake			st|||honoré|||cake|||is_a
+seafood			seafood|||seafood|||is_a
+pork	beef#0.801728904247|meat#0.734242856503	beef#0.441876471043|meat#0.39742821455|sausage#0.360684990883	pork|||pork|||is_a
+kale	cabbage#0.676619112492|broccoli#0.590704798698|kohlrabi#0.586436092854|spinach#0.563022196293|cauliflower#0.558867752552	cabbage#0.381895244122|kohlrabi#0.336996942759|broccoli#0.331354618073|cauliflower#0.326017171144	kale|||kale|||is_a
+granola	corn_flakes#0.520502150059|breakfast_cereal#0.511205852032	breakfast_cereal#0.304639279842|corn_flakes#0.30211430788	granola|||granola|||is_a
+hot dog	chili_dog#0.515961587429|sausage#0.511211752892|bratwurst#0.505649387836	sausage#0.183450683951|chili_dog#0.181151643395|bratwurst#0.180102691054	hot_dog|||hot|||dog|||is_a
+mortadella	salami#0.650037646294	salami#0.367588609457	mortadella|||mortadella|||is_a
+cinnamon roll	sweet_roll#0.560964226723|bun#0.543284893036	sweet_roll#0.192563965917|bun#0.177501067519	cinnamon_roll|||cinnamon|||roll|||is_a
+uncle sam cereal			uncle|||sam|||cereal|||is_a
+peach sauce	cherry#0.579215824604|plum#0.567950725555|sweet#0.541787445545|apple#0.537018299103	sweet#0.285676896572|cherry#0.284907639027|plum#0.279467612505|apple#0.269271880388	peach|||sauce|||is_a
+green sauce	barbecue_sauce#0.539136350155|chimichurri#0.535673797131|tomato#0.532659292221	tomato#0.188834831119|chimichurri#0.188317045569	green_sauce|||green|||sauce|||is_a
+galette			galette|||galette|||is_a
+banana	pineapple#0.637228548527|guava#0.611721396446|papaya#0.587157487869|passion_fruit#0.586943984032|mango#0.578125059605	pineapple#0.361559361219|guava#0.357939690351|passion_fruit#0.343834161758|coconut#0.339871734381|papaya#0.33912050724	banana|||banana|||is_a
+portuguese sweet bread	močnik#0.591247737408	močnik#0.211657702923	portuguese|||sweet|||bread|||is_a
+cheese puffs			cheese_puffs|||cheese|||puffs|||is_a
+blood soup		sour_soup#0.179814785719	blood_soup|||blood|||soup|||is_a
+misua	noodle_soup#0.503967881203	noodle_soup#0.309416353703	misua|||misua|||is_a
+hot sauce	barbecue_sauce#0.622535705566|ketchup#0.620530962944|worcestershire_sauce#0.615290343761|mayonnaise#0.608825206757|condiment#0.595598936081	barbecue_sauce#0.230927586555|condiment#0.22759257257|mayonnaise#0.224574774504|ketchup#0.22424402833|worcestershire_sauce#0.219296574593	hot_sauce|||hot|||sauce|||is_a
+quisp			quisp|||quisp|||is_a
+greenwich pizza			greenwich|||pizza|||is_a
+corn oil	soybean_oil#0.690140962601|peanut_oil#0.665170609951|canola_oil#0.662239909172|vegetable_oil#0.59341698885	soybean_oil#0.2334061414|canola_oil#0.223553612828|peanut_oil#0.21732275188	corn_oil|||corn|||oil|||is_a
+chocolate covered nut	caramel#0.725374102592|hazelnut#0.693235099316|toffee#0.64866566658	caramel#0.258597791195|hazelnut#0.251132130623|toffee#0.229133456945	chocolate|||covered|||nut|||is_a
+corzetti	semifreddo#0.420756012201		corzetti|||corzetti|||is_a
+somebody's mother's chocolate sauce			somebody|||s|||mother|||s|||chocolate|||sauce|||is_a
+chunchullo			chunchullo|||chunchullo|||is_a
+zuppa alla modenese			zuppa|||alla|||modenese|||is_a
+quick bread			quick_bread|||quick|||bread|||is_a
+amandine		crenvurșt#0.285354286432	amandine|||amandine|||is_a
+styrian sour soup	sweet#0.54094260931|sour_soup#0.539647161961		styrian|||sour|||soup|||is_a
+boerewors	sausage#0.564641356468|andouille#0.469825446606	sausage#0.351070195436	boerewors|||boerewors|||is_a
+bay leaf	thyme#0.534180104733|oregano#0.495805382729|parsley#0.494248360395	thyme#0.169313594699	bay_leaf|||bay|||leaf|||is_a
+lollipop			lollipop|||lollipop|||is_a
+baking chocolate	caramel#0.626947522163|toffee#0.623842597008|chocolate_cake#0.595462143421|fudge#0.594703316689	toffee#0.201697066426|chocolate_cake#0.19893284142|caramel#0.197200328112	baking_chocolate|||baking|||chocolate|||is_a
+sausage	salami#0.574973702431|bratwurst#0.569395780563|boerewors#0.555283784866	bratwurst#0.354340672493	sausage|||sausage|||is_a
+chinkiang pot cover noodles	noodle#0.536145746708	noodle#0.0936719849706	chinkiang|||pot|||cover|||noodles|||is_a
+aji			aji|||aji|||is_a
+satay sauce	peanut_sauce#0.657183587551|sambal#0.564916610718	peanut_sauce#0.22511036694|sambal#0.201021552086	satay_sauce|||satay|||sauce|||is_a
+cracklin' oat bran	cereal#0.557482481003|rye#0.537589371204|wheat#0.534330606461|breakfast_cereal#0.494095921516|oats#0.490115761757	cereal#0.179358929396|rye#0.170442834496|wheat#0.169787630439|weetabix#0.169461086392|breakfast_cereal#0.168697834015	cracklin|||oat|||bran|||is_a
+salsify			salsify|||salsify|||is_a
+hemp milk	powdered_milk#0.531828761101	powdered_milk#0.17143984139	hemp_milk|||hemp|||milk|||is_a
+tea loaf	bread#0.505843102932|caramel_tart#0.481384128332|cake#0.48044282198	caramel_tart#0.161883413792	tea_loaf|||tea|||loaf|||is_a
+henan braised noodle	noodle_soup#0.670120537281|rice_noodles#0.567688047886|soup#0.550222456455	noodle_soup#0.227524936199|soup#0.188937351108|rice_noodles#0.186495244503	henan|||braised|||noodle|||is_a
+soursops			soursops|||soursops|||is_a
+imoni			imoni|||imoni|||is_a
+pasta	pasta_sauce#0.596755862236|spaghetti#0.563371002674|pesto#0.560153365135|tagliatelle#0.550233125687|penne#0.541275799274	pasta_sauce#0.363215833902|spaghetti#0.330852001905|pesto#0.327120691538	pasta|||pasta|||is_a
+ukha	suaasat#0.436912149191	suaasat#0.28494694829	ukha|||ukha|||is_a
+rosã© wine	dessert_wine#0.481272608042		wine|||is_a
+harissa	garlic#0.484017312527|močnik#0.474447757006	močnik#0.313203781843	harissa|||harissa|||is_a
+potage			potage|||potage|||is_a
+hors d'oeuvre			hors_d_oeuvre|||d|||oeuvre|||is_a
+bún mắm	sour_soup#0.466439306736		bún_mắm|||bún|||mắm|||is_a
+cuban bread	rye_bread#0.537264764309|brown_bread#0.509774327278	brown_bread#0.177251219749|rye_bread#0.174066543579	cuban_bread|||cuban|||bread|||is_a
+sage			sage|||sage|||is_a
+pepper	paprika#0.682837665081|garlic#0.623386561871|coriander#0.604681909084	paprika#0.381859719753|garlic#0.352633774281	pepper|||pepper|||is_a
+kue keranjang	spekkoek#0.543124079704|pandan_cake#0.529569804668	spekkoek#0.308253437281|pandan_cake#0.305739194155	kue|||keranjang|||is_a
+ready brek	landjäger#0.456188201904	landjäger#0.250343352556	ready_brek|||ready|||is_a
+frozen meat	beef#0.556624174118|fresh_meat#0.530718684196|seafood#0.512043893337	beef#0.186573803425|seafood#0.180929377675|fresh_meat#0.17957405746	frozen_meat|||frozen|||meat|||is_a
+mămăligă			mămăligă|||mămăligă|||is_a
+parotta			parotta|||parotta|||is_a
+kalács			kalács|||kalács|||is_a
+vlaai			vlaai|||vlaai|||is_a
+kutia			kutia|||kutia|||is_a
+spotted dick			spotted_dick|||spotted|||dick|||is_a
+albert sauce	barbecue_sauce#0.504860937595		albert|||sauce|||is_a
+cocol			cocol|||cocol|||is_a
+longan	guava#0.638957262039|rambutan#0.605295062065|lychee#0.593550086021|mangosteen#0.587031781673	guava#0.364675015211	longan|||longan|||is_a
+chocolate mint	caramel#0.571831166744		chocolate_mint|||chocolate|||mint|||is_a
+kulen	sausage#0.526773035526|black_pudding#0.445986956358	sausage#0.324785500765	kulen|||kulen|||is_a
+kulajda	kyselo#0.482332617044	kyselo#0.306668847799	kulajda|||kulajda|||is_a
+barley	wheat#0.752830147743|rye#0.727600514889|oats#0.675892710686|millet#0.628347575665	wheat#0.420201152563|rye#0.402178615332|oats#0.361410170794|millet#0.356825709343	barley|||barley|||is_a
+yi mein			yi|||mein|||is_a
+glamorgan sausage	boerewors#0.533527672291	boerewors#0.293935030699	glamorgan|||sausage|||is_a
+kumquat	loquat#0.524676024914|cherry#0.524481892586|pomegranate#0.494377404451	cherry#0.316869735718|loquat#0.298962622881	kumquat|||kumquat|||is_a
+teacake	sponge_cake#0.504267156124|sweet_roll#0.494375258684	sweet_roll#0.324357032776|sponge_cake#0.31792062521	teacake|||teacake|||is_a
+simnel cake	pastry#0.502416193485|sponge_cake#0.497806429863|pudding#0.493650108576|spice_cake#0.49062538147|christmas_cake#0.482785522938	spice_cake#0.17326515913|sfouf#0.172956094146|pastry#0.172575235367|christmas_cake#0.172137111425|pudding#0.1714848876	simnel_cake|||simnel|||cake|||is_a
+jelly doughnut	donut#0.551454246044	donut#0.179635792971	jelly_doughnut|||jelly|||doughnut|||is_a
+pea			pea|||pea|||is_a
+puffed rice cake			puffed_rice_cake|||puffed|||rice|||cake|||is_a
+raisin bread	rye_bread#0.615306973457|white_bread#0.576021611691	rye_bread#0.209144786|white_bread#0.189530089498|brown_bread#0.185623377562	raisin_bread|||raisin|||bread|||is_a
+bhatoora			bhatoora|||bhatoora|||is_a
+carney's			carney|||s|||is_a
+sacchettoni	pillus#0.591287136078|mafalde#0.586864113808|sagnarelli#0.582266390324|lasagnette#0.557489693165|tripoline#0.55543833971	pillus#0.383290588856|mafalde#0.378075897694|sagnarelli#0.37769562006|lasagnette#0.360693752766|tripoline#0.359106093645	sacchettoni|||sacchettoni|||is_a
+frying pan dinner			frying|||pan|||dinner|||is_a
+sauce vierge			sauce_vierge|||sauce|||vierge|||is_a
+malawach			malawach|||malawach|||is_a
+ajoblanco	porra_antequerana#0.425060600042	porra_antequerana#0.27095913887	ajoblanco|||ajoblanco|||is_a
+soy nut	peanut#0.528421938419|hazelnut#0.473224759102	peanut#0.283023118973	soy|||nut|||is_a
+okonomiyaki			okonomiyaki|||okonomiyaki|||is_a
+bolillo			bolillo|||bolillo|||is_a
+semifreddo	potato_doughnut#0.418529301882	potato_doughnut#0.278886795044	semifreddo|||semifreddo|||is_a
+kreple			kreple|||kreple|||is_a
+escudella i carn d'olla			escudella_i_carn_d_olla|||escudella|||i|||carn|||d|||olla|||is_a
+anchovy essence	sauce#0.453372508287	sauce#0.149991750717	anchovy_essence|||anchovy|||essence|||is_a
+mujdei			mujdei|||mujdei|||is_a
+ho hos			ho|||hos|||is_a
+landjäger	močnik#0.48690199852	močnik#0.328816711903	landjäger|||landjäger|||is_a
+almond extract			almond_extract|||almond|||extract|||is_a
+chicken soup	noodle_soup#0.632920444012|sour_soup#0.575445950031	noodle_soup#0.252447932959|sour_soup#0.229058772326	chicken_soup|||chicken|||soup|||is_a
+ohaw			ohaw|||ohaw|||is_a
+torta tre monti			torta|||tre|||monti|||is_a
+moambe			moambe|||moambe|||is_a
+wow-wow sauce	barbecue_sauce#0.481356620789	barbecue_sauce#0.166684284806	wow|||wow|||sauce|||is_a
+janggukjuk			janggukjuk|||janggukjuk|||is_a
+powdered milk	condensed_milk#0.643802165985|buttermilk#0.579789042473|yoghurt#0.569902300835	condensed_milk#0.22896078229|yoghurt#0.212359145284|evaporated_milk#0.204752936959	powdered_milk|||powdered|||milk|||is_a
+fresh meat	beef#0.633200109005|pork#0.563892364502	beef#0.217050567269|seafood#0.190063074231	fresh_meat|||fresh|||meat|||is_a
+fruit snack	beverage#0.557399868965	beverage#0.195440292358	fruit_snack|||fruit|||snack|||is_a
+sancocho			sancocho|||sancocho|||is_a
+cocktail mix			cocktail_mix|||cocktail|||mix|||is_a
+arisa pitha			arisa|||pitha|||is_a
+bánh khoai mì			bánh|||khoai|||mì|||is_a
+fregula			fregula|||fregula|||is_a
+tomato soup	borscht#0.562208473682|chicken_soup#0.552536547184|gazpacho#0.523209869862	borscht#0.207042872906|chicken_soup#0.198407769203	tomato_soup|||tomato|||soup|||is_a
+tequeño			tequeño|||tequeño|||is_a
+panada			panada|||panada|||is_a
+goulash	soup#0.510279238224		goulash|||goulash|||is_a
+yam	sweet_potato#0.537682116032		yam|||yam|||is_a
+pretzel mix	yoghurt#0.490364611149	yoghurt#0.153646931052	pretzel_mix|||pretzel|||mix|||is_a
+gastrique	agrodolce#0.496193677187	agrodolce#0.304425060749	gastrique|||gastrique|||is_a
+jerusalem artichoke	chicory#0.541258394718|leek#0.523189783096|asparagus#0.514312028885|broccoli#0.501373589039|turnip#0.49102678895|cardoon#0.482839375734|parsnip#0.482155650854|spinach#0.477467268705	chicory#0.17132435739|leek#0.168912440538|asparagus#0.161546707153|parsnip#0.160332500935	jerusalem_artichoke|||jerusalem|||artichoke|||is_a
+black sesame rice cake	bean_paste#0.540001153946|sweet#0.527402997017	bean_paste#0.121818989515|sweet#0.121022820473	black|||sesame|||rice|||cake|||is_a
+naengguk			naengguk|||naengguk|||is_a
+supreme			supreme|||supreme|||is_a
+hodge-podge			hodge_podge|||hodge|||is_a
+egg drop soup	chicken_soup#0.498618602753|sour_soup#0.483269512653|noodle#0.482894957066	noodle#0.0884480178356	egg_drop_soup|||egg|||drop|||soup|||is_a
+neapolitan pizza			neapolitan_pizza|||neapolitan|||pizza|||is_a
+lychee	guava#0.728481829166|rambutan#0.686062037945|pineapple#0.684207737446|mango#0.671361863613|longan#0.665101051331|passion_fruit#0.64420902729|banana#0.641650736332	guava#0.393525481224|pineapple#0.364130556583|longan#0.363019347191|banana#0.359895408154|mango#0.356454819441|passion_fruit#0.352351248264|rambutan#0.352286726236	lychee|||lychee|||is_a
+kobe beef	pork#0.554730176926|seafood#0.459522038698	pork#0.172395646572|seafood#0.157499462366	kobe_beef|||kobe|||beef|||is_a
+candy bar	chocolate_bar#0.741859197617|toffee#0.647758483887|fudge#0.629793405533|caramel#0.613054513931	chocolate_bar#0.296861499548|toffee#0.248973682523	candy_bar|||candy|||bar|||is_a
+café de paris sauce			café|||de|||paris|||sauce|||is_a
+pain de mie			pain_de_mie|||pain|||de|||mie|||is_a
+fruit 'n fibre			fruit|||n|||fibre|||is_a
+siskonmakkara			siskonmakkara|||siskonmakkara|||is_a
+toast	bread#0.52197676897|french_toast#0.483447015285	bread#0.297692656517	toast|||toast|||is_a
+instant noodles	instant_noodle#0.66924905777|noodle#0.640973091125|instant_soup#0.595218479633|noodle_soup#0.54848575592	instant_noodle#0.238654792309|noodle#0.222502872348|instant_soup#0.215851262212|noodle_soup#0.194050103426	instant_noodles|||instant|||noodles|||is_a
+kola nut	coconut#0.543355345726|guava#0.478757500648|almond#0.471971005201	coconut#0.177440270782|guava#0.157526582479	kola_nut|||kola|||nut|||is_a
+butter cake	sponge_cake#0.656747937202|pudding#0.563879609108|pastry#0.560615599155	sponge_cake#0.217601820827|pudding#0.187209904194|pastry#0.185520768166	butter_cake|||butter|||cake|||is_a
+cooking spray			cooking_spray|||cooking|||spray|||is_a
+financier			financier|||financier|||is_a
+eggette	potato_bread#0.400768488646	potato_bread#0.275178641081	eggette|||eggette|||is_a
+suaasat			suaasat|||suaasat|||is_a
+saucisson	kohlwurst#0.462160915136	kohlwurst#0.294353693724	saucisson|||saucisson|||is_a
+nintendo cereal system	breakfast_cereal#0.554574251175|weetabix#0.486524641514	breakfast_cereal#0.18171878159|weetabix#0.171150639653	nintendo|||cereal|||system|||is_a
+miguelitos			miguelitos|||miguelitos|||is_a
+spring soup	chicken_soup#0.479406237602|solyanka#0.459467679262	solyanka#0.158565565944|chicken_soup#0.15586578846	spring_soup|||spring|||soup|||is_a
+rouille	sauce_lyonnaise#0.435001045465	sauce_lyonnaise#0.297115594149	rouille|||rouille|||is_a
+kitcha			kitcha|||kitcha|||is_a
+sapodillo			is_a
+pølser			pølser|||pølser|||is_a
+kladdkaka			is_a
+pork ribs	beef#0.737201750278|meat#0.652034640312	beef#0.288801491261|sausage#0.250675916672|meat#0.244401112199	pork_ribs|||pork|||ribs|||is_a
+magiritsa	köttsoppa#0.459206610918		magiritsa|||magiritsa|||is_a
+fusilli	penne#0.579011201859|rigatoni#0.535975515842|pasta#0.509367346764	penne#0.322801440954|rigatoni#0.314068675041|pasta#0.30140760541	fusilli|||fusilli|||is_a
+italian hot dog			italian|||hot|||dog|||is_a
+lucanica	sausage#0.464950799942	sausage#0.291198611259	lucanica|||lucanica|||is_a
+panfocaccia			panfocaccia|||panfocaccia|||is_a
+honeycomb			honeycomb|||honeycomb|||is_a
+conchiglie			conchiglie|||conchiglie|||is_a
+bakpia pathok			bakpia|||pathok|||is_a
+waffle			waffle|||waffle|||is_a
+tempeh	sambal#0.575578510761|tofu#0.50936961174	sambal#0.321660280228	tempeh|||tempeh|||is_a
+bull's-eye barbecue sauce	barbecue_sauce#0.496792912483		bull|||s|||eye|||barbecue|||sauce|||is_a
+milky			milky|||milky|||is_a
+idli	dosa#0.772034227848	dosa#0.429614275694	idli|||idli|||is_a
+tian mo			tian|||mo|||is_a
+beutelwurst	močnik#0.521685600281	močnik#0.353356450796	beutelwurst|||beutelwurst|||is_a
+secca de bœuf			secca|||de|||bœuf|||is_a
+canned and jarred vegetable	food#0.511563658714	food#0.10295240581	canned|||and|||jarred|||vegetable|||is_a
+sour cherry soup	sweet#0.620224535465|sour_soup#0.542322158813	sweet#0.152334779501|sour_soup#0.126684144139	sour_cherry_soup|||sour|||cherry|||soup|||is_a
+couque suisse	caramel_tart#0.498966604471	caramel_tart#0.195973068476	couque_suisse|||couque|||suisse|||is_a
+princess cake	dacquoise#0.499294340611|wedding_cake#0.492588698864	dacquoise#0.162473514676	princess_cake|||princess|||cake|||is_a
+bolo rei			bolo_rei|||bolo|||rei|||is_a
+cherimoya	atemoya#0.592968404293|guava#0.569378018379	atemoya#0.343363434076|guava#0.323183149099	cherimoya|||cherimoya|||is_a
+sucker			sucker|||sucker|||is_a
+special k			special|||k|||is_a
+vietnamese noodles	noodle_soup#0.726143598557|noodle#0.687307357788|rice_noodles#0.658169388771	noodle_soup#0.387420982122|noodle#0.357326745987|rice_noodles#0.343455970287	vietnamese|||noodles|||is_a
+slow bread	flatbread#0.467377632856		slow|||bread|||is_a
+lime	lemon#0.600300014019	lemon#0.348501771688	lime|||lime|||is_a
+barbecue sauce	ketchup#0.637047231197|mayonnaise#0.628149807453|hot_sauce#0.593597352505|brown_sauce#0.582790315151	mayonnaise#0.238010883331|ketchup#0.235138356686|hot_sauce#0.230259343982|brown_sauce#0.228514701128	barbecue_sauce|||barbecue|||sauce|||is_a
+cheese spread	cream_cheese#0.567697584629	cream_cheese#0.195023044944	cheese_spread|||cheese|||spread|||is_a
+marraqueta			marraqueta|||marraqueta|||is_a
+squash	pumpkin#0.510007858276|cucumber#0.496630966663		squash|||squash|||is_a
+marble cake	chocolate_cake#0.567228972912|sponge_cake#0.548100590706|layer_cake#0.531749010086|spice_cake#0.512376487255|fruit_cake#0.499886065722	chocolate_cake#0.187860444188|sponge_cake#0.180695950985|layer_cake#0.179004609585|spice_cake#0.175866186619	marble_cake|||marble|||cake|||is_a
+grilled pizza			grilled_pizza|||grilled|||pizza|||is_a
+nut butter	almond#0.534507274628|hazelnut#0.526685297489	almond#0.174645200372|hazelnut#0.167722761631	nut_butter|||nut|||butter|||is_a
+pique verde boricua			pique|||verde|||boricua|||is_a
+non-alcoholic wine			non_alcoholic_wine|||non|||alcoholic|||wine|||is_a
+borage			borage|||borage|||is_a
+salsa golf			salsa_golf|||salsa|||golf|||is_a
+potato	sweet_potato#0.617372691631	sweet_potato#0.368607491255	potato|||potato|||is_a
+stollen	christmas_cake#0.479986250401	christmas_cake#0.310668796301	stollen|||stollen|||is_a
+rumali roti	chapati#0.610799193382	chapati#0.200428426266	rumali_roti|||rumali|||roti|||is_a
+beer bread			beer_bread|||beer|||bread|||is_a
+all-bran			all|||bran|||is_a
+buckwheat	barley#0.571409344673|millet#0.558252394199	barley#0.332192152739|millet#0.325133770704	buckwheat|||buckwheat|||is_a
+pain aux raisins	brioche#0.518155813217	brioche#0.0939166620374	pain_aux_raisins|||pain|||aux|||raisins|||is_a
+bierwurst			bierwurst|||bierwurst|||is_a
+baumkuchen	layer_cake#0.415432870388|panforte#0.394031375647	layer_cake#0.266709327698	baumkuchen|||baumkuchen|||is_a
+sesame seed			sesame_seed|||sesame|||seed|||is_a
+schupfnudel			schupfnudel|||schupfnudel|||is_a
+purée mongole			purée|||mongole|||is_a
+bordelaise sauce	sauce_lyonnaise#0.552963554859|brown_sauce#0.523278832436	sauce_lyonnaise#0.215677455068	bordelaise_sauce|||bordelaise|||sauce|||is_a
+shreddies	breakfast_cereal#0.523931860924	breakfast_cereal#0.317511558533	shreddies|||shreddies|||is_a
+oatibix	weetabix#0.449699759483	weetabix#0.29574906826	oatibix|||oatibix|||is_a
+lamian			lamian|||lamian|||is_a
+kuzumochi			kuzumochi|||kuzumochi|||is_a
+petit salé			petit|||salé|||is_a
+tandoor bread	flatbread#0.693782150745	flatbread#0.247147291899	tandoor_bread|||tandoor|||bread|||is_a
+stasulli			stasulli|||stasulli|||is_a
+spinach	cabbage#0.67143958807|broccoli#0.643089532852|cauliflower#0.602094352245	cabbage#0.372656852007|broccoli#0.348488777876|kale#0.341432839632|cauliflower#0.339768022299	spinach|||spinach|||is_a
+rice noodle roll	rice_noodles#0.570769906044|noodle_soup#0.546512901783	rice_noodles#0.114673092961	rice_noodle_roll|||rice|||noodle|||roll|||is_a
+gemelli			gemelli|||gemelli|||is_a
+bottled water	beverage#0.628174126148	beverage#0.226660788059	bottled_water|||bottled|||water|||is_a
+morning funnies			morning_funnies|||morning|||is_a
+sobrassada			sobrassada|||sobrassada|||is_a
+cucumber soup	sour_soup#0.562105834484	sour_soup#0.202746450901	cucumber_soup|||cucumber|||soup|||is_a
+palappam			palappam|||palappam|||is_a
+papaya	guava#0.728367090225|pineapple#0.663809001446|mango#0.656756520271|passion_fruit#0.654442489147|banana#0.652065753937	guava#0.402260065079|banana#0.372456401587|passion_fruit#0.364350140095|pineapple#0.362585067749|mango#0.357371747494	papaya|||papaya|||is_a
+vienna bread	brown_bread#0.511209249496	brown_bread#0.288356423378	vienna|||bread|||is_a
+rambutan	lychee#0.694602906704|mangosteen#0.689184248447|longan#0.685844063759|mango#0.635184466839|guava#0.623539805412	mangosteen#0.373608529568|longan#0.370916366577|lychee#0.356717705727	rambutan|||rambutan|||is_a
+king cake	wedding_cake#0.556929528713	wedding_cake#0.165947809815	king_cake|||king|||cake|||is_a
+unni appam			unni|||appam|||is_a
+cozonac			cozonac|||cozonac|||is_a
+game cake	pie#0.497421890497	pie#0.260439515114	game|||cake|||is_a
+potato bread			potato_bread|||potato|||bread|||is_a
+pig's organ soup			pig_s_organ_soup|||pig|||s|||organ|||soup|||is_a
+sparkling wine	dessert_wine#0.612083494663	dessert_wine#0.238352239132	sparkling_wine|||sparkling|||wine|||is_a
+fresh seafood			fresh_seafood|||fresh|||seafood|||is_a
+louis dressing			louis|||dressing|||is_a
+sweet roll	caramel_tart#0.562744498253	caramel_tart#0.219737738371	sweet_roll|||sweet|||roll|||is_a
+vanilla extract	sugar#0.620706140995	sugar#0.210138440132	vanilla_extract|||vanilla|||extract|||is_a
+black pudding			black_pudding|||black|||pudding|||is_a
+isterband	fläskkorv#0.620431959629	fläskkorv#0.3621789217	isterband|||isterband|||is_a
+canola oil	soybean_oil#0.75959789753|peanut_oil#0.722328960896|vegetable_oil#0.649348914623	soybean_oil#0.281694144011|peanut_oil#0.256613492966|vegetable_oil#0.234580919147	canola_oil|||canola|||oil|||is_a
+passatelli			passatelli|||passatelli|||is_a
+chick pea	bean#0.536868453026	bean#0.173283234239	chick_pea|||chick|||pea|||is_a
+henan braised noodles	noodle_soup#0.65009790659|rice_noodles#0.602958381176|noodle#0.591983556747|soup#0.575480401516	noodle_soup#0.221260502934|soup#0.196516156197|rice_noodles#0.195610582829	henan|||braised|||noodles|||is_a
+spiced bun	sweet_roll#0.587674975395|caramel_tart#0.500931680202	sweet_roll#0.20857514441|caramel_tart#0.178930595517	spiced_bun|||spiced|||bun|||is_a
+passion fruit	guava#0.69257748127|peach#0.649371445179|mango#0.64349937439|berry#0.641080975533|pineapple#0.635702252388	guava#0.258048862219|berry#0.245943769813|peach#0.240960478783|cherry#0.235324576497|mango#0.231754913926	passion_fruit|||passion|||fruit|||is_a
+pan de pascua			pan|||de|||pascua|||is_a
+colston bun			colston|||bun|||is_a
+ficelle			ficelle|||ficelle|||is_a
+taiyaki			taiyaki|||taiyaki|||is_a
+soup alla canavese			soup|||alla|||canavese|||is_a
+flummadiddle			flummadiddle|||flummadiddle|||is_a
+plum	cherry#0.726680874825|apple#0.703718245029|pear#0.657144248486|apricot#0.648527860641|peach#0.641947627068|persimmon#0.628631293774	cherry#0.43211582303|apple#0.411002635956|pear#0.382594913244|apricot#0.375651746988|peach#0.370556056499|persimmon#0.368654340506	plum|||plum|||is_a
+weetabix	breakfast_cereal#0.504497528076|shredded_wheat#0.488088518381	breakfast_cereal#0.323109030724|beverage#0.317519724369	weetabix|||weetabix|||is_a
+bread soup	porridge#0.534867763519	porridge#0.185292482376	bread_soup|||bread|||soup|||is_a
+vegetable dip			vegetable|||dip|||is_a
+miso soup	noodle_soup#0.663023233414|chicken_soup#0.605377018452|dashi#0.597348690033|noodle#0.59731900692	noodle_soup#0.24245262146|chicken_soup#0.215437069535|noodle#0.213677659631|dashi#0.205609589815	miso_soup|||miso|||soup|||is_a
+cumin	coriander#0.741951167583	coriander#0.402988821268|paprika#0.365090489388	cumin|||cumin|||is_a
+wodzionka	flummadiddle#0.511292099953	flummadiddle#0.31718057394	wodzionka|||wodzionka|||is_a
+shredded coconut	coconut_milk#0.618469536304	coconut_milk#0.214706763625	shredded_coconut|||shredded|||coconut|||is_a
+she-crab soup	sour_soup#0.533292531967|borscht#0.506293118	sour_soup#0.102984115481|borscht#0.0968199148774	she_crab_soup|||she|||crab|||soup|||is_a
+tu			tu|||tu|||is_a
+miyeok guk			miyeok_guk|||miyeok|||guk|||is_a
+bouillon	soup#0.538858830929	soup#0.331140428782	bouillon|||bouillon|||is_a
+keftes			keftes|||keftes|||is_a
+cardoon	chicory#0.543806910515|parsnip#0.511555433273|artichoke#0.496666669846	chicory#0.312935709953|parsnip#0.302867084742|artichoke#0.291323810816	cardoon|||cardoon|||is_a
+tapioca pudding	kinnathappam#0.526268005371|porridge#0.519498467445|spotted_dick#0.500078260899	kinnathappam#0.188758134842|porridge#0.179860249162	tapioca_pudding|||tapioca|||pudding|||is_a
+flavoured water			flavoured_water|||flavoured|||water|||is_a
+kyselo	kulajda#0.45550942421	kulajda#0.294313758612	kyselo|||kyselo|||is_a
+grapefruit	lemon#0.580333888531|tangerine#0.579280912876	lemon#0.333228647709	grapefruit|||grapefruit|||is_a
+parsnip	leek#0.518539786339|celery#0.511168539524|carrot#0.462040424347	leek#0.315560251474|celery#0.308195322752	parsnip|||parsnip|||is_a
+frozen dessert	ice_cream#0.589104473591|sorbet#0.55080974102	ice_cream#0.216384664178|sorbet#0.207827210426	frozen_dessert|||frozen|||dessert|||is_a
+flavoured syrup	caramel#0.551876842976	caramel#0.191855803132|sweet#0.190693840384	flavoured_syrup|||flavoured|||syrup|||is_a
+pistou			pistou|||pistou|||is_a
+thukpa	thenthuk#0.487171709538	thenthuk#0.321897149086	thukpa|||thukpa|||is_a
+starter culture	yeast#0.503671705723	yeast#0.160708352923	starter_culture|||starter|||culture|||is_a
+pancake and maple syrup		sago_pudding#0.0890080109239	pancake|||and|||maple|||syrup|||is_a
+batchoy			batchoy|||batchoy|||is_a
+pesaha appam			pesaha|||appam|||is_a
+chicago-style hot dog	hot_dog#0.56213593483	hot_dog#0.124393008649	chicago|||style|||hot|||dog|||is_a
+fudge cake	chocolate_cake#0.703565299511|toffee#0.590147137642	chocolate_cake#0.249371230602|toffee#0.199526831508	fudge_cake|||fudge|||cake|||is_a
+dessert bar	frozen_dessert#0.542991876602	frozen_dessert#0.198892578483	dessert_bar|||dessert|||bar|||is_a
+reese's puffs			reese|||s|||puffs|||is_a
+farfel	nshkhar#0.474294424057	nshkhar#0.30341219902	farfel|||farfel|||is_a
+matzo	challah#0.548722684383|pita#0.48664984107	challah#0.318103134632|pita#0.296999335289	matzo|||matzo|||is_a
+carrot cake	chocolate_cake#0.599303781986|layer_cake#0.554924070835|sponge_cake#0.544866979122|spice_cake#0.530890583992|pudding#0.519507527351	chocolate_cake#0.189736664295|layer_cake#0.178951635957|spice_cake#0.176288232207|pudding#0.170663461089|sponge_cake#0.170581027865	carrot_cake|||carrot|||cake|||is_a
+zosui	knipp#0.447858005762	knipp#0.285491108894	zosui|||zosui|||is_a
+rassolnik	shchi#0.515054881573|suaasat#0.445002436638|sour_soup#0.424780279398	shchi#0.317675858736|suaasat#0.299800008535	rassolnik|||rassolnik|||is_a
+butter tart	sweet#0.557181596756|pastry#0.516130924225	sweet#0.185551553965|pastry#0.173937663436	butter_tart|||butter|||tart|||is_a
+liquor		beverage#0.343588411808	liquor|||liquor|||is_a
+kakara pitha			kakara|||pitha|||is_a
+shambar			shambar|||shambar|||is_a
+chorba			chorba|||chorba|||is_a
+tone bread	rye_bread#0.500608623028|brown_bread#0.498795628548|rugbrød#0.498324483633|white_bread#0.487826347351	rugbrød#0.265560418367|brown_bread#0.26441180706	tone|||bread|||is_a
+mollete	močnik#0.498107761145	močnik#0.334571510553	mollete|||mollete|||is_a
+kongguksu			kongguksu|||kongguksu|||is_a
+regensburger wurst			regensburger|||wurst|||is_a
+coconut milk	condensed_milk#0.65284204483|evaporated_milk#0.625591874123	condensed_milk#0.229217901826|evaporated_milk#0.221974611282	coconut_milk|||coconut|||milk|||is_a
+manjar branco			manjar_branco|||manjar|||branco|||is_a
+black noodles	močnik#0.533125638962|rice_noodles#0.525143146515|noodle#0.511528372765|juk#0.506389260292	močnik#0.178121164441|juk#0.16878940165	black_noodles|||black|||noodles|||is_a
+ladurée			ladurée|||ladurée|||is_a
+sagnarelli	pillus#0.873154580593|mafalde#0.873006880283|tripoline#0.859815776348|lasagnette#0.852229595184|linguettine#0.59204095602|sacchettoni#0.576699256897	pillus#0.560728430748|mafalde#0.554832220078|tripoline#0.542049348354|lasagnette#0.538113951683|sacchettoni#0.374820828438	sagnarelli|||sagnarelli|||is_a
+summer sausage	weisswurst#0.490749418736	weisswurst#0.154436975718	summer_sausage|||summer|||sausage|||is_a
+black bun			black_bun|||black|||bun|||is_a
+fruit cake	sponge_cake#0.606969237328|spice_cake#0.589951336384|pastry#0.558560907841|sweet#0.558101177216	spice_cake#0.209200367332|sponge_cake#0.208837404847|sweet#0.2010820508	fruit_cake|||fruit|||cake|||is_a
+gundel pancake			gundel_pancake|||gundel|||pancake|||is_a
+hochzeitssuppe	wedding_soup#0.526604533195	wedding_soup#0.35657081008	hochzeitssuppe|||hochzeitssuppe|||is_a
+porridge	cornmeal#0.549731075764	cornmeal#0.334103554487	porridge|||porridge|||is_a
+creamed corn	cornmeal#0.494346737862	cornmeal#0.162128165364	creamed_corn|||creamed|||corn|||is_a
+linguettine	lasagnette#0.682159721851|pillus#0.670603275299|mafalde#0.667462706566|sagnarelli#0.662039041519|tripoline#0.657494664192	lasagnette#0.416781038046|pillus#0.415375649929|mafalde#0.410336732864|sagnarelli#0.409908086061|tripoline#0.402536541224	linguettine|||linguettine|||is_a
+antidoron			antidoron|||antidoron|||is_a
+flour	cornmeal#0.775134265423	cornmeal#0.43766528368	flour|||flour|||is_a
+cooking oil	vegetable_oil#0.703059315681|coconut_oil#0.670798242092|peanut_oil#0.594326794147|soybean_oil#0.568587005138	vegetable_oil#0.230579942465|coconut_oil#0.215490221977|peanut_oil#0.18411372602|soybean_oil#0.180815711617	cooking_oil|||cooking|||oil|||is_a
+chipped beef	meat#0.578984677792|pork#0.572380423546|sausage#0.5563377738	sausage#0.168050304055|meat#0.159136131406	chipped_beef|||chipped|||beef|||is_a
+okra	sweet_potato#0.578561842442|aubergine#0.569615662098	aubergine#0.350391954184|sweet_potato#0.339341551065	okra|||okra|||is_a
+ahle wurst			ahle|||wurst|||is_a
+patacón			patacón|||patacón|||is_a
+barley gruel	porridge#0.617373883724|millet#0.511006891727|cornmeal#0.50882846117|wheat#0.480285555124	porridge#0.18420919776|cornmeal#0.154714778066|millet#0.148490175605	barley_gruel|||barley|||gruel|||is_a
+oille			oille|||oille|||is_a
+garlic	oregano#0.638971090317|onion#0.635650336742|paprika#0.63365149498|parsley#0.630525648594	paprika#0.36730542779|oregano#0.3667306602|onion#0.364281356335	garlic|||garlic|||is_a
+chocolate assortment			chocolate_assortment|||chocolate|||assortment|||is_a
+coconut oil	peanut_oil#0.649415791035|vegetable_oil#0.624903321266|soybean_oil#0.600255012512|cooking_oil#0.594023704529|canola_oil#0.587123155594	peanut_oil#0.215025797486|vegetable_oil#0.211976289749|cooking_oil#0.203167557716	coconut_oil|||coconut|||oil|||is_a
+daktyla			daktyla|||daktyla|||is_a
+génoise cake	sponge_cake#0.587100803852|spice_cake#0.558166861534|berlingozzo#0.532984495163|layer_cake#0.528918683529|pastry#0.515365302563	sponge_cake#0.184899970889|spice_cake#0.184244126081|berlingozzo#0.176787227392	génoise_cake|||génoise|||cake|||is_a
+rømmegrøt	močnik#0.568144619465	močnik#0.36322504282	rømmegrøt|||rømmegrøt|||is_a
+baking extract		rupjmaize#0.227318331599	baking|||extract|||is_a
+canadian white			canadian|||white|||is_a
+ok sauce			ok|||sauce|||is_a
+prinzregententorte			prinzregententorte|||prinzregententorte|||is_a
+xab momo			xab|||momo|||is_a
+gomguk			gomguk|||gomguk|||is_a
+beurre noisette			beurre_noisette|||beurre|||noisette|||is_a
+metworst			metworst|||metworst|||is_a
+leek soup	potage#0.54644048214|parsnip#0.528427124023|potato#0.510743796825	potage#0.20081397891|parsnip#0.188391074538|potato#0.186077818274	leek_soup|||leek|||soup|||is_a
+booyah			booyah|||booyah|||is_a
+gobo root	sweet_potato#0.498932749033	sweet_potato#0.256223410368	gobo|||root|||is_a
+corn flakes	cornmeal#0.513643264771|cereal#0.498719781637	cornmeal#0.17560878396	corn_flakes|||corn|||flakes|||is_a
+bucatini	linguine#0.520180046558|rigatoni#0.494736373425|pasta#0.48065340519|penne#0.478566467762|tagliatelle#0.458564460278	linguine#0.320271909237|rigatoni#0.30476629734|pasta#0.297341614962|suaasat#0.292611330748	bucatini|||bucatini|||is_a
+kc masterpiece			kc|||masterpiece|||is_a
+honey dew donut	doughnut#0.44091117382|syrup#0.426144242287		honey|||dew|||donut|||is_a
+honey bunches of oats	barley#0.534967720509|wheat#0.491935193539	barley#0.0813067704439|wheat#0.0744384005666	honey|||bunches|||of|||oats|||is_a
+shanghai fried noodles	noodle#0.688002645969|rice_noodles#0.6535820961|noodle_soup#0.599252641201	noodle#0.225489675999|rice_noodles#0.212685525417|noodle_soup#0.200380399823	shanghai|||fried|||noodles|||is_a
+focaccia	sweet_roll#0.487897962332	sweet_roll#0.310256689787	focaccia|||focaccia|||is_a
+ketwurst	schupfnudel#0.560167908669	schupfnudel#0.362261295319	ketwurst|||ketwurst|||is_a
+paio			paio|||paio|||is_a
+orecchiette	cavatelli#0.557281255722	cavatelli#0.331269353628	orecchiette|||orecchiette|||is_a
+bath bun	sweet_roll#0.587287902832	sweet_roll#0.212103500962	bath_bun|||bath|||bun|||is_a
+korovai			korovai|||korovai|||is_a
+krakowska			krakowska|||krakowska|||is_a
+kesme			kesme|||kesme|||is_a
+celery	parsley#0.662459135056|cauliflower#0.607536494732|dill#0.599499881268|onion#0.595267355442|cabbage#0.594987809658	parsley#0.360344260931|cauliflower#0.345024466515|onion#0.34151238203|cabbage#0.340562313795|garlic#0.338596343994	celery|||celery|||is_a
+pistachio	almond#0.684885323048|hazelnut#0.597683906555|walnut#0.553553760052|pomegranate#0.525752902031	almond#0.396449029446|hazelnut#0.349935114384|walnut#0.323136746883	pistachio|||pistachio|||is_a
+sopa de mondongo			sopa_de_mondongo|||sopa|||de|||mondongo|||is_a
+garlic bread	flatbread#0.507470965385	flatbread#0.163252308965	garlic_bread|||garlic|||bread|||is_a
+tangerine	orange#0.709454834461|peach#0.661081016064|lemon#0.659156680107|apricot#0.643645644188|grapefruit#0.641716659069|plum#0.621659994125	orange#0.380970180035|lemon#0.358086168766|peach#0.356435000896|apricot#0.350502669811	tangerine|||tangerine|||is_a
+national loaf	brown_bread#0.434399604797		national_loaf|||national|||loaf|||is_a
+sabounee			sabounee|||sabounee|||is_a
+garash cake	spice_cake#0.529531180859		garash|||cake|||is_a
+helmipuuro	vispipuuro#0.440021455288	vispipuuro#0.287248015404	helmipuuro|||helmipuuro|||is_a
+bresaola	salami#0.430353850126		bresaola|||bresaola|||is_a
+sufganiyah			sufganiyah|||sufganiyah|||is_a
+mahyawa			mahyawa|||mahyawa|||is_a
+panforte			panforte|||panforte|||is_a
+salad mix			salad_mix|||salad|||mix|||is_a
+wacky cake	chocolate_cake#0.484968304634|layer_cake#0.449590921402|sponge_cake#0.448878526688	chocolate_cake#0.14559417963	wacky_cake|||wacky|||cake|||is_a
+brussels sprout			brussels_sprout|||brussels|||sprout|||is_a
+plumcot			plumcot|||plumcot|||is_a
+tangelo			tangelo|||tangelo|||is_a
+jagdwurst			jagdwurst|||jagdwurst|||is_a
+oat milk	almond_milk#0.606863200665|soy_milk#0.572720825672|hemp_milk#0.567073225975	hemp_milk#0.204045891762|almond_milk#0.203978314996|soy_milk#0.18720048666	oat_milk|||oat|||milk|||is_a
+qingtang wanzi			qingtang|||wanzi|||is_a
+on choy	yu_choy#0.684677302837	yu_choy#0.217711105943	on_choy|||on|||choy|||is_a
+mbeju			mbeju|||mbeju|||is_a
+red bean cake	sweet#0.576777100563|močnik#0.547418892384|bean_paste#0.516844213009	sweet#0.117001451552|močnik#0.110432974994|bean_paste#0.101594515145	red_bean_cake|||red|||bean|||cake|||is_a
+pesto	pasta#0.605424284935|sauce#0.533736646175	pasta#0.349740475416|sauce#0.32285618782|trenette#0.320082426071	pesto|||pesto|||is_a
+aniseed	cinnamon#0.55569922924		aniseed|||aniseed|||is_a
+sushki			sushki|||sushki|||is_a
+kaszanka			kaszanka|||kaszanka|||is_a
+rum baba	liqueur#0.526636719704	liqueur#0.166947051883	rum_baba|||rum|||baba|||is_a
+leek	parsnip#0.53991907835|celery#0.531595349312|cauliflower#0.530427992344|carrot#0.530379831791|cabbage#0.529727876186|turnip#0.524313926697|artichoke#0.505500137806	parsnip#0.325872570276|cabbage#0.314921021461|cauliflower#0.314187914133|celery#0.314186573029	leek|||leek|||is_a
+boxty			boxty|||boxty|||is_a
+restructured steak			restructured_steak|||restructured|||steak|||is_a
+cookie crisp	marshmallow#0.529606997967	marshmallow#0.177719950676	cookie_crisp|||cookie|||crisp|||is_a
+chicory	artichoke#0.522861838341|cardoon#0.472549110651	artichoke#0.311902880669	chicory|||chicory|||is_a
+pomegranate	apricot#0.603297948837|fig#0.600926101208|guava#0.56000238657|plum#0.559963524342	fig#0.348641127348|apricot#0.34527027607	pomegranate|||pomegranate|||is_a
+velouté sauce	condiment#0.562286436558	condiment#0.209353730083	velouté_sauce|||velouté|||sauce|||is_a
+beverage			beverage|||beverage|||is_a
+hot dog	chili_dog#0.515961587429|sausage#0.511211752892|bratwurst#0.505649387836	sausage#0.183450683951|chili_dog#0.181151643395|bratwurst#0.180102691054	hot_dog|||hot|||dog|||is_a
+snow cone syrup	caramel#0.573335170746|toffee#0.545167088509	caramel#0.111939661205|toffee#0.106011971831	snow_cone_syrup|||snow|||cone|||syrup|||is_a
+food			food|||food|||is_a
+sprinkle spangles	corn_pops#0.421385973692|breakfast_cereal#0.41031318903		sprinkle_spangles|||sprinkle|||spangles|||is_a
+maull's barbecue sauce	barbecue_sauce#0.528722703457		maull|||s|||barbecue|||sauce|||is_a
+vori vori			is_a
+cheese dog	hot_dog#0.477945536375	sausage#0.16407123208|hot_dog#0.162413075566	cheese_dog|||cheese|||dog|||is_a
+under cover bears instant oatmeal	cereal#0.467332035303	cereal#0.0491819418967	under|||cover|||bears|||instant|||oatmeal|||is_a
+persimmon	plum#0.657813966274|apricot#0.598026692867|cherry#0.597023427486	plum#0.384067386389|cherry#0.358674168587	persimmon|||persimmon|||is_a
+okinawa soba	udon#0.488474518061|noodle#0.478401690722	noodle#0.269216835499	okinawa|||soba|||is_a
+roti prata	chapati#0.585555016994|flatbread#0.581577479839|murtabak#0.577435970306	flatbread#0.197215139866	roti_prata|||roti|||prata|||is_a
+taglierini			taglierini|||taglierini|||is_a
+liqueur	brandy#0.615377426147|vodka#0.607485949993	schnapps#0.386370927095	liqueur|||liqueur|||is_a
+crépinette			crépinette|||crépinette|||is_a
+dip			dip|||dip|||is_a
+meatcake			meatcake|||meatcake|||is_a
+chiffon cake	pastry#0.53475934267|sponge_cake#0.513103783131|chocolate_cake#0.498088419437	pastry#0.173172354698	chiffon_cake|||chiffon|||cake|||is_a
+faluche			faluche|||faluche|||is_a
+mafaldine			mafaldine|||mafaldine|||is_a
+paska			paska|||paska|||is_a
+casoncelli			casoncelli|||casoncelli|||is_a
+rewena bread	flatbread#0.510964155197		bread|||is_a
+porra antequerana			porra_antequerana|||is_a
+celery root	parsnip#0.63957798481|cabbage#0.586121499538|leek#0.565837979317	parsnip#0.227242052555|cabbage#0.202667251229|leek#0.196944415569	celery_root|||celery|||root|||is_a
+candy corn	popcorn#0.544556796551|toffee#0.505909204483	popcorn#0.179363027215	candy_corn|||candy|||corn|||is_a
+changua			changua|||changua|||is_a
+pan loaf	bread#0.55254483223|sweet_roll#0.538948774338	sweet_roll#0.200869888067|bread#0.191216334701	pan_loaf|||pan|||loaf|||is_a
