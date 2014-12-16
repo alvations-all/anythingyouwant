@@ -1,6 +1,7 @@
 #!/usr/bin/env python -*- coding: utf-8 -*-
 
-import random
+import random, itertools
+from collections import defaultdict
 random.seed(0)
 
 import numpy as np
@@ -14,6 +15,7 @@ texeval_corpus = TexEval2015()
 n=2
 sbcs = texeval_corpus.test_subcorpora
 sbc = sbcs[n] 
+print sbc
 terms = [row[1] for row in texeval_corpus.terms('test', sbc)]
 
 matrix = np.loadtxt(sbc+'.matrix')
@@ -26,7 +28,22 @@ model.fit(matrix)
 ii = itertools.count(matrix.shape[0])
 nodes = [{'node_id': next(ii), 'left': x[0], 'right':x[1]} for x in model.children_]
 
-for i in nodes
+nodes_to_hypernyms = defaultdict(list)
+
+for i in nodes:
+    right = i['right']
+    left = i['left']
+    hypernym = i['node_id']
+    nodes_to_hypernyms[right] = hypernym
+    nodes_to_hypernyms[left] = hypernym
+    
+    
+# Get clusters.
+for term, clusterid in zip(terms, model.labels_):
+    hypernym_chain = []
+    while nodes_to_hypernyms[clusterid]:
+        hypernym_chain.append(nodes_to_hypernyms[clusterid])
+    print clusterid, term, hypernym_chain
 
 #print n_clusters, len(terms)
 #print model.n_components_

@@ -101,7 +101,6 @@ def build_word_vector(n=0, mincount=1):
 
                 
 def build_taxo(n=3, mincount=1):
-    
     sbcs = texeval_corpus.test_subcorpora
     sbc = sbcs[n]
     fname = 'old-models/WIKI_'+sbc+'.100epochs.phrasal.singletok.min1.deep'
