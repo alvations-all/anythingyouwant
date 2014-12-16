@@ -27,4 +27,3 @@ for me, cr, nc  in product(methods, criterion, numclust):
     treename = "{}.{}.{}.png".format(me, cr, nc)
     plt.savefig('dendrograms/'+treename)
     z = fcluster(x,nc,cr)
-    

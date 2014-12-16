@@ -1,16 +1,14 @@
 #!/usr/bin/env python -*- coding: utf-8 -*-
 
-from sklearn.feature_extraction.image import grid_to_graph
-from sklearn.cluster import AgglomerativeClustering
-import matplotlib.pyplot as plt
+import random
+random.seed(0)
 
 import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.feature_extraction.image import grid_to_graph
+from sklearn.cluster import AgglomerativeClustering
+
 from texeval import TexEval2015
-
-import random
-
-random.seed(3)
-
 texeval_corpus = TexEval2015()
 
 n=2
@@ -25,25 +23,21 @@ model = AgglomerativeClustering(n_clusters=n_clusters,
                                 linkage="ward", affinity="euclidean")
 model.fit(matrix)
 
-print n_clusters, len(terms)
-'''
-print model.children_[500]
-print model.children_[520]
-print model.children_[1520]
-'''
-l = len(terms)
+ii = itertools.count(matrix.shape[0])
+nodes = [{'node_id': next(ii), 'left': x[0], 'right':x[1]} for x in model.children_]
 
+for i in nodes
+
+#print n_clusters, len(terms)
 #print model.n_components_
-
 #print model.n_leaves_
-
 #print len(model.children_)
 #print model.children_
 
 #for row in model.children_:
 #print row
 
-
+'''
 for row in model.children_:
     if int(row[0]) > l or int(row[1]) > l:
         print row
@@ -55,6 +49,7 @@ for row in model.children_:
             print row, t1, " ||| ", t2
         except:
             continue
+'''
 
 '''
 print n_clusters, len(terms), min(model.labels_), max(model.labels_)
@@ -64,13 +59,6 @@ print n_clusters, len(terms), min(model.labels_), max(model.labels_)
 for term, clusterid in zip(terms, model.labels_):
     print clusterid, term
 '''
-
-
-
-
-
-
-
 
 
 '''
