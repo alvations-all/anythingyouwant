@@ -1,736 +1,736 @@
 abo antibodies	immunoglobulin,antibody
 acaricide	insecticide
-acaroid resin	synthetic_resin
-acetal	nitrile,hemiacetal,organic_compound,ester
-acetaldehyde	acetic_acid,furfural,formic_acid,formaldehyde,acetone,acetamide
+acaroid resin	synthetic resin
+acetal	nitrile,hemiacetal,organic compound,ester
+acetaldehyde	acetic acid,furfural,formic acid,formaldehyde,acetone,acetamide
 acetamide	pyridine
-acetate	citrate,ester,acetic_acid
-acetic acid	hydrochloric_acid,phosphoric_acid,propionic_acid,butyric_acid,oxalic_acid
-acetic anhydride	acetic_acid,nitric_acid,hydrochloric_acid,ester,aniline,phosphoric_acid
-acetoacetic acid	butyric_acid,propionic_acid
-acetone	ethyl_acetate,toluene,acetic_acid
+acetate	citrate,ester,acetic acid
+acetic acid	hydrochloric acid,phosphoric acid,propionic acid,butyric acid,oxalic acid
+acetic anhydride	acetic acid,nitric acid,hydrochloric acid,ester,aniline,phosphoric acid
+acetoacetic acid	butyric acid,propionic acid
+acetone	ethyl acetate,toluene,acetic acid
 acetyl chloride	bromide
 acetylcholine	neurotransmitter,serotonin,dopamine,noradrenaline,histamine
-acetylene	ethylene,butane,ethane,calcium_carbide
-acrylamide	tetrafluoroethylene,polyvinyl_chloride
+acetylene	ethylene,butane,ethane,calcium carbide
+acrylamide	tetrafluoroethylene,polyvinyl chloride
 acrylic	polyurethane,polyester
 actin	myosin
 actomyosin	myosin,actin
-acyl anhydrides	carboxylic_acid,amide,ester,amine
-acyl halide	alkyl_halide,amine
+acyl anhydrides	carboxylic acid,amide,ester,amine
+acyl halide	alkyl halide,amine
 adenine	guanine,cytosine,thymine,uracil,pyrimidine,purine
-adenosine	nucleoside,adenosine_deaminase,inosine,adenosine_monophosphate
-adenosine deaminase	nucleoside,adenosine_monophosphate,purine
+adenosine	nucleoside,adenosine deaminase,inosine,adenosine monophosphate
+adenosine deaminase	nucleoside,adenosine monophosphate,purine
 adenosine diphosphate	pyrophosphate
 adenosine monophosphate	nucleoside,pyrophosphate
-adenosine triphosphate	nucleoside,pyrophosphate,adenosine_monophosphate,adenosine_diphosphate
+adenosine triphosphate	nucleoside,pyrophosphate,adenosine monophosphate,adenosine diphosphate
 agent orange	herbicide
 agglutinin	lectin
-alanine	valine,glutamic_acid,leucine,arginine,proline,glutamine,aspartic_acid,serine,glycine,isoleucine
-albumin	serum_albumin,transferrin,globulin
-aldehyde	ketone,carboxylic_acid,oxime
+alanine	valine,glutamic acid,leucine,arginine,proline,glutamine,aspartic acid,serine,glycine,isoleucine
+albumin	serum albumin,transferrin,globulin
+aldehyde	ketone,carboxylic acid,oxime
 aldohexose	ketose
 aldol	enamine
 aldose	ketose,hexose,monosaccharide,aldohexose
 aleurone	pectin,starch
-alicyclic compound	organic_compound,aromatic_compound
-aliphatic compound	organic_compound
-alkali	sodium_carbonate
-alkyd	acrylic,synthetic_resin,epoxy
+alicyclic compound	organic compound,aromatic compound
+aliphatic compound	organic compound
+alkali	sodium carbonate
+alkyd	acrylic,synthetic resin,epoxy
 alkyl halide	amine
-alkylbenzene	heterocyclic_compound,organic_compound
+alkylbenzene	heterocyclic compound,organic compound
 allyl resin	epoxy
-almond oil	sesame_oil,vegetable_oil,olive_oil,coconut_oil,peanut_oil
+almond oil	sesame oil,vegetable oil,olive oil,coconut oil,peanut oil
 alpha globulin	glycoprotein
-alpha linolenic acid	linoleic_acid
+alpha linolenic acid	linoleic acid
 aluminum chloride	hydroxide
 amber	copal
-amide	amine,ester,carboxylic_acid
+amide	amine,ester,carboxylic acid
 amine	amide,isocyanate
-amino acid	glutamic_acid,asparagine,aspartic_acid
-ammonia	urea,ammonium,hydrogen_chloride,hydrogen_sulfide
+amino acid	glutamic acid,asparagine,aspartic acid
+ammonia	urea,ammonium,hydrogen chloride,hydrogen sulfide
 ammonium	nitrate,sulfate
-ammonium carbamate	oxalate,carbamic_acid
-ammonium carbonate	hydroxide,sulfate,potassium_carbonate
+ammonium carbamate	oxalate,carbamic acid
+ammonium carbonate	hydroxide,sulfate,potassium carbonate
 ammonium chloride	hydroxide
-ammonium nitrate	potassium_nitrate,sodium_nitrate,chlorate,ammonium_chloride
+ammonium nitrate	potassium nitrate,sodium nitrate,chlorate,ammonium chloride
 amygdalin	alkaloid
 amylase	lipase,invertase
 androsterone	steroid,sterol
-anhydride	acid,organic_compound
-aniline	phthalic_anhydride,nitrobenzene,pyridine,acetic_anhydride
+anhydride	acid,organic compound
+aniline	phthalic anhydride,nitrobenzene,pyridine,acetic anhydride
 animal fat	lard
-anionic compound	organic_compound
-antibody	monoclonal_antibody,immunoglobulin
+anionic compound	organic compound
+antibody	monoclonal antibody,immunoglobulin
 antihemophilic factor	interleukin
-antitoxin	antibody,monoclonal_antibody
-antivenin	monoclonal_antibody
+antitoxin	antibody,monoclonal antibody
+antivenin	monoclonal antibody
 apoenzyme	enzyme
-arginine	alanine,lysine,serine,amino_acid,glutamine,glutamic_acid,cysteine,asparagine,leucine,valine
-aromatic compound	organic_compound
-aromatic hydrocarbon	organic_compound
+arginine	alanine,lysine,serine,amino acid,glutamine,glutamic acid,cysteine,asparagine,leucine,valine
+aromatic compound	organic compound
+aromatic hydrocarbon	organic compound
 arrowroot	sago
 arsenate	vanadate
 arsenic	arsenical
 arsenic acid	arsenical
-arsenical	arsenic,paris_green
-asparagine	glutamic_acid,serine,arginine,aspartic_acid,alanine,leucine,threonine,amino_acid,tyrosine,phenylalanine
-aspartic acid	glutamic_acid,asparagine,alanine,leucine,valine
-atomic warhead	high_explosive
+arsenical	arsenic,paris green
+asparagine	glutamic acid,serine,arginine,aspartic acid,alanine,leucine,threonine,amino acid,tyrosine,phenylalanine
+aspartic acid	glutamic acid,asparagine,alanine,leucine,valine
+atomic warhead	high explosive
 atrazine	herbicide,lindane
 atropine	scopolamine,physostigmine
-attar	attar_of_roses
+attar	attar of roses
 attar of roses	beeswax,myrrh,balsam,wax,copal
-autoantibody	antibody,monoclonal_antibody,immunoglobulin_e
+autoantibody	antibody,monoclonal antibody,immunoglobulin e
 azadirachtin	acaricide
 azide	isocyanate,amine,phosphine,amide
-babassu oil	coconut_oil,vegetable_oil,mineral_oil
-bagasse	wood_pulp
+babassu oil	coconut oil,vegetable oil,mineral oil
+bagasse	wood pulp
 balm	balsam
 balm of gilead	balsam,mastic,storax
 balsam	bdellium
-banana oil	sesame_oil
-bar soap	laundry_detergent,shampoo
-barbituric acid	ester,anhydride,sorbic_acid
+banana oil	sesame oil
+bar soap	laundry detergent,shampoo
+barbituric acid	ester,anhydride,sorbic acid
 base pair	cytosine,thymine,adenine,guanine
-bath water	lye,distilled_water
-bathroom cleaner	shampoo,detergent,laundry_detergent
+bath water	lye,distilled water
+bathroom cleaner	shampoo,detergent,laundry detergent
 bayberry wax	beeswax
 bdellium	balsam,storax,myrrh,benzoin
-beef tallow	lard,suet,animal_fat
-beeswax	wax,tallow,linseed_oil
-beet sugar	cane_sugar
-benzene	toluene,naphthalene,methylene_chloride,nitrobenzene,hexane
-benzoate	benzoic_acid
+beef tallow	lard,suet,animal fat
+beeswax	wax,tallow,linseed oil
+beet sugar	cane sugar
+benzene	toluene,naphthalene,methylene chloride,nitrobenzene,hexane
+benzoate	benzoic acid
 benzoate of soda	salt
-benzoic acid	hydroxybenzoic_acid,propionic_acid
+benzoic acid	hydroxybenzoic acid,propionic acid
 benzoin	balsam,camphor,bdellium,myrrh,storax
-benzoyl peroxide	boric_acid
+benzoyl peroxide	boric acid
 beta carotene	carotenoid,lycopene,zeaxanthin
 beta endorphin	enkephalin
 betaine	sarcosine
-bicarbonate	carbonic_acid,sodium_chloride
-bicarbonate of soda	salt,sodium_carbonate,vinegar,sodium_chloride
-bile salt	bile_acid
+bicarbonate	carbonic acid,sodium chloride
+bicarbonate of soda	salt,sodium carbonate,vinegar,sodium chloride
+bile salt	bile acid
 bitartrate	tartrate
 bitter principle	alkaloid
 bitumen	oil
 blasting gelatin	gelignite,nitroglycerin,cordite
 blood sugar	glucose
-borate	boric_acid
+borate	boric acid
 boron trifluoride	trichloride
-borosilicate	silicon_carbide
+borosilicate	silicon carbide
 bromide	chloride,iodide
 brucine	strychnine
 butadiene	styrene,ethylene
-butane	naphtha,liquefied_petroleum_gas,ethane
+butane	naphtha,liquefied petroleum gas,ethane
 butyl rubber	neoprene,nylon,polyurethane
-butyric acid	propionic_acid,succinic_acid,anhydride
+butyric acid	propionic acid,succinic acid,anhydride
 cadaverine	putrescine,tryptophan
-calcium bicarbonate	carbonate,sodium_chloride,calcium_carbonate
-calcium carbide	nitride,silicon_carbide
+calcium bicarbonate	carbonate,sodium chloride,calcium carbonate
+calcium carbide	nitride,silicon carbide
 calcium chloride	hydroxide
-calcium cyanamide	ammonium,calcium_nitrate,potassium_nitrate,nitrate
+calcium cyanamide	ammonium,calcium nitrate,potassium nitrate,nitrate
 calcium hydride	hydroxide
-calcium hydroxide	carbonate,magnesium_hydroxide
-calcium hypochlorite	sodium_hypochlorite,sodium_chloride,calcium_hydroxide,calcium_chloride,sodium_carbonate
-calcium lactate	calcium_phosphate
-calcium nitrate	potassium_nitrate,ammonium,sodium_nitrate
+calcium hydroxide	carbonate,magnesium hydroxide
+calcium hypochlorite	sodium hypochlorite,sodium chloride,calcium hydroxide,calcium chloride,sodium carbonate
+calcium lactate	calcium phosphate
+calcium nitrate	potassium nitrate,ammonium,sodium nitrate
 calcium phosphate	carbonate
 calcium sulphate	sulfate,carbonate
-calomel	magnesium_sulfate
-camphor	benzoin,essential_oil
-camphor oil	essential_oil,turpentine,mineral_oil
+calomel	magnesium sulfate
+camphor	benzoin,essential oil
+camphor oil	essential oil,turpentine,mineral oil
 canada balsam	bdellium
-candelilla wax	beeswax,spermaceti,whale_oil
-canola oil	soybean_oil,sunflower_oil,peanut_oil,vegetable_oil,corn_oil,coconut_oil,safflower_oil
-capric acid	stearic_acid,myristic_acid
-caproic acid	stearic_acid,myristic_acid
-caprylic acid	stearic_acid,myristic_acid
-carbamic acid	anhydride,ester,organic_compound
-carbide	silicon_carbide,nitride
+candelilla wax	beeswax,spermaceti,whale oil
+canola oil	soybean oil,sunflower oil,peanut oil,vegetable oil,corn oil,coconut oil,safflower oil
+capric acid	stearic acid,myristic acid
+caproic acid	stearic acid,myristic acid
+caprylic acid	stearic acid,myristic acid
+carbamic acid	anhydride,ester,organic compound
+carbide	silicon carbide,nitride
 carbohydrate	oligosaccharide,polysaccharide
-carbolic acid	salicylic_acid
-carbon dioxide	trioxide,monoxide,sulfur_dioxide
+carbolic acid	salicylic acid
+carbon dioxide	trioxide,monoxide,sulfur dioxide
 carbon disulfide	monoxide,oxide
 carbon monoxide	trioxide
 carbon tetrachloride	monoxide,trioxide,tetroxide
-carbon tetrahalide	binary_compound
+carbon tetrahalide	binary compound
 carbonate	hydroxide,silicate
-carbonic acid	anhydride,phosphoric_acid
+carbonic acid	anhydride,phosphoric acid
 carbonyl	alkene
-carboxylic acid	ester,anhydride,propionic_acid
+carboxylic acid	ester,anhydride,propionic acid
 carboxymethyl cellulose	pectin,polysaccharide
 cardiac glycoside	digitoxin
-carnauba wax	beeswax,lanolin,linseed_oil,paraffin,mineral_oil
-carotene	carotenoid,beta_carotene,lycopene,zeaxanthin
-carotenoid	carotene,beta_carotene,lycopene,zeaxanthin,xanthophyll
+carnauba wax	beeswax,lanolin,linseed oil,paraffin,mineral oil
+carotene	carotenoid,beta carotene,lycopene,zeaxanthin
+carotenoid	carotene,beta carotene,lycopene,zeaxanthin,xanthophyll
 casein	gelatin
-castile soap	bar_soap
+castile soap	bar soap
 catalase	oxidase,peroxidase
 catechin	glucoside,flavonoid
-cellulose	lignin,cellulose_acetate,chitin,polysaccharide,cellulose_nitrate
-cellulose acetate	cellulose_nitrate,cellulose_triacetate
-cellulose ester	cellulose_acetate
-cellulose nitrate	cellulose_acetate,cellulose_triacetate
-cellulose triacetate	cellulose_acetate,cellulose_nitrate
-cellulose xanthate	cellulose_acetate
+cellulose	lignin,cellulose acetate,chitin,polysaccharide,cellulose nitrate
+cellulose acetate	cellulose nitrate,cellulose triacetate
+cellulose ester	cellulose acetate
+cellulose nitrate	cellulose acetate,cellulose triacetate
+cellulose triacetate	cellulose acetate,cellulose nitrate
+cellulose xanthate	cellulose acetate
 cementite	carbide
 chabazite	natrolite,heulandite
-chaulmoogra oil	clove_oil
-cherry bomb	high_explosive
+chaulmoogra oil	clove oil
+cherry bomb	high explosive
 chian turpentine	balsam,mastic
-chitin	polysaccharide,hyaluronic_acid,cellulose
-chlorate	potassium_chlorate,nitrate,potassium_nitrate,fulminate
+chitin	polysaccharide,hyaluronic acid,cellulose
+chlorate	potassium chlorate,nitrate,potassium nitrate,fulminate
 chloric acid	anhydride
 chloride	bromide,iodide,trichloride
-chlorine dioxide	trioxide,hydrogen_chloride,sulfur_dioxide,hydrofluoric_acid,nitrogen_dioxide,monoxide
+chlorine dioxide	trioxide,hydrogen chloride,sulfur dioxide,hydrofluoric acid,nitrogen dioxide,monoxide
 chlorobenzene	nitrobenzene
 chlorofluorocarbon	freon,halocarbon
-chloroform	carbon_tetrachloride,methylene_chloride,toluene,hexane,acetone,ether,ethyl_acetate
-chloropicrin	methyl_bromide
+chloroform	carbon tetrachloride,methylene chloride,toluene,hexane,acetone,ether,ethyl acetate
+chloropicrin	methyl bromide
 chlorpyrifos	malathion,lindane,parathion,organophosphate
 cholesterol	lipid,lipoprotein,sterol
-cholic acid	bile_acid
-chromic acid	potassium_permanganate,potassium_dichromate,hydrochloric_acid,hydrobromic_acid
+cholic acid	bile acid
+chromic acid	potassium permanganate,potassium dichromate,hydrochloric acid,hydrobromic acid
 cinchonine	alkaloid
 citrate	oxalate,acetate,lactate,tartrate
-citric acid	tartaric_acid,lactic_acid,fumaric_acid,sorbic_acid
+citric acid	tartaric acid,lactic acid,fumaric acid,sorbic acid
 citrulline	ornithine,arginine,glutamine
 cleansing agent	conditioner
-clove oil	essential_oil
+clove oil	essential oil
 coagulation factor	thrombin,fibrinogen
 coal tar	naphtha,turpentine,oil,bitumen,petroleum
-cocoa butter	vegetable_oil
-coconut oil	vegetable_oil,sesame_oil,olive_oil,cooking_oil,sunflower_oil,peanut_oil,canola_oil
-cod liver oil	olive_oil,coconut_oil,lard,cooking_oil
-cod oil	olive_oil
-cohune nut oil	vegetable_oil
-collagen	elastin,fibrin,hyaluronic_acid
+cocoa butter	vegetable oil
+coconut oil	vegetable oil,sesame oil,olive oil,cooking oil,sunflower oil,peanut oil,canola oil
+cod liver oil	olive oil,coconut oil,lard,cooking oil
+cod oil	olive oil
+cohune nut oil	vegetable oil
+collagen	elastin,fibrin,hyaluronic acid
 collagenase	protease
 colophony	balsam
-complementary dna	nucleic_acid
-compound	organic_compound
+complementary dna	nucleic acid
+compound	organic compound
 conditioner	shampoo
-cooking oil	vegetable_oil,olive_oil,sesame_oil,coconut_oil,lard
+cooking oil	vegetable oil,olive oil,sesame oil,coconut oil,lard
 copaiba	oleoresin,balsam
 copal	storax,myrrh,mastic,balsam
 copolymer	polymer,styrene
 copper sulfate	sulfide
-cordite	smokeless_powder,gunpowder
-corn oil	vegetable_oil,soybean_oil,sunflower_oil,peanut_oil,sesame_oil,coconut_oil,canola_oil
-corn sugar	cane_sugar,cornstarch
+cordite	smokeless powder,gunpowder
+corn oil	vegetable oil,soybean oil,sunflower oil,peanut oil,sesame oil,coconut oil,canola oil
+corn sugar	cane sugar,cornstarch
 cornstarch	starch
 corrosive	caustic
 cortisone	steroid
-cottonseed oil	soybean_oil,coconut_oil,vegetable_oil,canola_oil,sunflower_oil,peanut_oil,corn_oil
+cottonseed oil	soybean oil,coconut oil,vegetable oil,canola oil,sunflower oil,peanut oil,corn oil
 courbaril copal	balsam
-cow manure	horse_manure
+cow manure	horse manure
 cracklings	lard
 cream of tartar	salt
 creatine	taurine
-creosote	coal_tar,turpentine,balsam
+creosote	coal tar,turpentine,balsam
 cresol	phenol
 cyanamide	cyanohydrin
-cyanic acid	tartaric_acid,oxalic_acid
-cyanide	potassium_cyanide,sodium_cyanide,hydrogen_cyanide,arsenic
+cyanic acid	tartaric acid,oxalic acid
+cyanide	potassium cyanide,sodium cyanide,hydrogen cyanide,arsenic
 cymene	thymol
-cysteine	serine,amino_acid,methionine,arginine,threonine,histidine,leucine,lysine,alanine
-cystine	cysteine,ornithine,methionine,serine,amino_acid,alanine,arginine,histidine,phenylalanine
-cytochrome	oxidase,reductase,cytochrome_c,flavin
+cysteine	serine,amino acid,methionine,arginine,threonine,histidine,leucine,lysine,alanine
+cystine	cysteine,ornithine,methionine,serine,amino acid,alanine,arginine,histidine,phenylalanine
+cytochrome	oxidase,reductase,cytochrome c,flavin
 cytochrome c	reductase,oxidase,oxidoreductase
 cytokine	interleukin
 cytosine	thymine,guanine,adenine,uracil,pyrimidine,purine
 dammar	balsam
-defoliant	agent_orange,insecticide,pesticide,dioxin,herbicide
+defoliant	agent orange,insecticide,pesticide,dioxin,herbicide
 dentifrice	toothpaste
 deoxyadenosine	deoxyguanosine,nucleoside,uracil
 deoxyadenosine monophosphate	deoxyguanosine,nucleoside
 deoxycytidine	nucleoside,deoxyguanosine
-deoxycytidine monophosphate	nucleoside,adenosine_monophosphate
+deoxycytidine monophosphate	nucleoside,adenosine monophosphate
 deoxyguanosine	nucleoside,deoxycytidine,deoxyadenosine,uracil
-deoxyguanosine monophosphate	adenosine_monophosphate,nucleoside,inosine,pyrophosphate
+deoxyguanosine monophosphate	adenosine monophosphate,nucleoside,inosine,pyrophosphate
 deoxyribose	ribose,nucleoside,deoxycytidine,uracil,nucleotide
 deoxythymidine	nucleoside
-deoxythymidine monophosphate	nucleoside,adenosine_diphosphate
-detergent	laundry_detergent,soap,shampoo
+deoxythymidine monophosphate	nucleoside,adenosine diphosphate
+detergent	laundry detergent,soap,shampoo
 dextrin	starch
-dextrose	sucrose,calcium_lactate
+dextrose	sucrose,calcium lactate
 diamine	imide
-dibasic salt	sodium_chloride
+dibasic salt	sodium chloride
 dichloride	chloride,trichloride
 digitalis	digoxin,digitoxin
-digitoxin	cardiac_glycoside,digitalis,digoxin
-digoxin	digitalis,cardiac_glycoside
+digitoxin	cardiac glycoside,digitalis,digoxin
+digoxin	digitalis,cardiac glycoside
 dimer	trimer
 dioxide	trioxide,monoxide,tetroxide,oxide,pentoxide
-dioxin	agent_orange
+dioxin	agent orange
 disaccharide	polysaccharide,galactose,maltose,monosaccharide,oligosaccharide
-dishwasher detergent	laundry_detergent,liquid_soap,shampoo
-disrupting explosive	high_explosive
-dna polymerase	endonuclease,reverse_transcriptase
-docosahexaenoic acid	eicosapentaenoic_acid
-dopa	l_dopa,decarboxylase
+dishwasher detergent	laundry detergent,liquid soap,shampoo
+disrupting explosive	high explosive
+dna polymerase	endonuclease,reverse transcriptase
+docosahexaenoic acid	eicosapentaenoic acid
+dopa	l dopa,decarboxylase
 dopamine	serotonin,noradrenaline,monoamine,neurotransmitter,acetylcholine
-double salt	sodium_chloride
-drying oil	linseed_oil,vegetable_oil,beeswax
+double salt	sodium chloride
+drying oil	linseed oil,vegetable oil,beeswax
 dynamite	gunpowder,gelignite
-eicosapentaenoic acid	linoleic_acid,docosahexaenoic_acid
-elaidic acid	stearic_acid,myristic_acid
+eicosapentaenoic acid	linoleic acid,docosahexaenoic acid
+elaidic acid	stearic acid,myristic acid
 elastase	trypsin,protease,trypsinogen
 elastin	collagen,fibrin
-enamine	enol,alkyl_halide
-endonuclease	nuclease,exonuclease,dna_polymerase
-endorphin	enkephalin,beta_endorphin,dopamine
-enol	enamine,ketone,alkyl_halide
+enamine	enol,alkyl halide
+endonuclease	nuclease,exonuclease,dna polymerase
+endorphin	enkephalin,beta endorphin,dopamine
+enol	enamine,ketone,alkyl halide
 ephedrine	pseudoephedrine,ergotamine
 epinephrine	noradrenaline,serotonin
 episome	transposon
 epoxy	polyurethane,urethane
-epsom salts	salt,sulfate,magnesium_sulfate
-ergonovine	lysergic_acid,ergotamine
+epsom salts	salt,sulfate,magnesium sulfate
+ergonovine	lysergic acid,ergotamine
 ergosterol	sterol,steroid
-ergotamine	lysergic_acid,ergonovine
+ergotamine	lysergic acid,ergonovine
 erythropoietin	interleukin
-essential amino acid	amino_acid,arginine
-ester	carboxylic_acid,organic_compound
+essential amino acid	amino acid,arginine
+ester	carboxylic acid,organic compound
 ethane	butane,methane
-ether	ethyl_acetate,hexane,chloroform
-ethyl acetate	acetic_acid,ester
+ether	ethyl acetate,hexane,chloroform
+ethyl acetate	acetic acid,ester
 ethylene	butadiene,styrene
-eucalyptus oil	essential_oil,camphor,turpentine
+eucalyptus oil	essential oil,camphor,turpentine
 exon	intron
-exonuclease	endonuclease,nuclease,dna_polymerase
-explosive	high_explosive,tnt,explosive_compound
-explosive compound	low_explosive,organic_compound
-explosive mixture	high_explosive,tnt,explosive_compound
-fatty acid	myristic_acid,oleic_acid,saturated_fatty_acid
+exonuclease	endonuclease,nuclease,dna polymerase
+explosive	high explosive,tnt,explosive compound
+explosive compound	low explosive,organic compound
+explosive mixture	high explosive,tnt,explosive compound
+fatty acid	myristic acid,oleic acid,saturated fatty acid
 ferricyanide	ferrocyanide
 ferritin	transferrin,globulin
 ferrocyanide	ferricyanide
 fertilizer	manure
 fibrin	fibrinogen,thrombin,collagen
-fibrinogen	fibrin,thrombin,prothrombin,coagulation_factor
+fibrinogen	fibrin,thrombin,prothrombin,coagulation factor
 firecracker	firework,squib,sparkler
 firework	firecracker,squib
 fixative	preservative
-fixed oil	mineral_oil
+fixed oil	mineral oil
 flavin	reductase,quinone,cytochrome
 flavone	flavonoid
 flavonoid	flavone,glycoside
 flint	chert
 flintstone	flint,chert
-fluoride	sodium_fluoride
-formaldehyde	formic_acid,acetaldehyde
+fluoride	sodium fluoride
+formaldehyde	formic acid,acetaldehyde
 freon	chlorofluorocarbon,hydrochlorofluorocarbon
 fresh water	seawater
 fructose	sucrose,glucose,galactose,lactose,maltose
-fuel oil	kerosene,naphtha,liquefied_petroleum_gas
-fulminate	chlorate,mercury_fulminate
-fumaric acid	maleic_acid,tartaric_acid
+fuel oil	kerosene,naphtha,liquefied petroleum gas
+fulminate	chlorate,mercury fulminate
+fumaric acid	maleic acid,tartaric acid
 fumigant	insecticide
-furan	organic_compound
+furan	organic compound
 furfural	acetaldehyde,aniline,resorcinol,furan,acetamide
 fusel oil	lanolin
 galactose	disaccharide,maltose,hexose,glucose,fructose
-gallic acid	hydroxybenzoic_acid
+gallic acid	hydroxybenzoic acid
 gamma globulin	immunoglobulin
-gas oil	naphtha,petroleum,fuel_oil,kerosene
+gas oil	naphtha,petroleum,fuel oil,kerosene
 gasohol	gasoline
-gasoline	unleaded_gasoline
+gasoline	unleaded gasoline
 gelatin	casein
 gelignite	cordite,gunpowder,dynamite
 ghedda wax	beeswax
 globin	hemoglobin
-globulin	transferrin,plasma_protein,albumin
+globulin	transferrin,plasma protein,albumin
 glucose	fructose,galactose,sucrose,glycogen,maltose,lactose
 glucoside	glycoside,flavone
-glutamate	glutamine,glycine,glutamic_acid
-glutamic acid	alanine,aspartic_acid,transaminase,asparagine
-glutamine	alanine,glutamic_acid,arginine,valine,glutamate,glycine,ornithine,aspartic_acid,proline
-glutathione peroxidase	superoxide_dismutase,oxidase,catalase
+glutamate	glutamine,glycine,glutamic acid
+glutamic acid	alanine,aspartic acid,transaminase,asparagine
+glutamine	alanine,glutamic acid,arginine,valine,glutamate,glycine,ornithine,aspartic acid,proline
+glutathione peroxidase	superoxide dismutase,oxidase,catalase
 glutelin	prolamine
-gluten	wheat_gluten
+gluten	wheat gluten
 glyceraldehyde	ketose,aldose
 glycerinated gelatin	cornstarch
-glycine	glutamic_acid,alanine,amino_acid,proline,leucine,valine,arginine,aspartic_acid,glutamine
+glycine	glutamic acid,alanine,amino acid,proline,leucine,valine,arginine,aspartic acid,glutamine
 glycogen	glucose,carbohydrate
-glycolic acid	lactic_acid,succinic_acid,phosphoric_acid
+glycolic acid	lactic acid,succinic acid,phosphoric acid
 glycoprotein	protein
 glycoside	flavone,glucoside,flavonoid
 gondang wax	beeswax
 goose grease	wax
-grease	motor_oil,wax
-green manure	chicken_manure,fertilizer
-ground water	seawater,fresh_water
-growth factor	nerve_growth_factor
+grease	motor oil,wax
+green manure	chicken manure,fertilizer
+ground water	seawater,fresh water
+growth factor	nerve growth factor
 guaiacum	balsam
 guanine	thymine,adenine,cytosine,uracil,purine,pyrimidine
-gum resin	balsam,mastic,oleoresin,essential_oil,benzoin
-gunpowder	cordite,smokeless_powder,dynamite
+gum resin	balsam,mastic,oleoresin,essential oil,benzoin
+gunpowder	cordite,smokeless powder,dynamite
 gypsum	halite
-halibut liver oil	vegetable_oil,cooking_oil
-halide	alkyl_halide,chloride,bromide
+halibut liver oil	vegetable oil,cooking oil
+halide	alkyl halide,chloride,bromide
 halite	gypsum
 halocarbon	chlorofluorocarbon,halon
 halon	halocarbon
 haptoglobin	hemoglobin
-hard water	soft_water
-hdl cholesterol	lipoprotein,ldl_cholesterol
+hard water	soft water
+hdl cholesterol	lipoprotein,ldl cholesterol
 hemiacetal	acetal,ester
 hemoglobin	myoglobin,haptoglobin
 heptane	hexane
 herbicide	insecticide,pesticide
-heterocyclic compound	organic_compound,aromatic_compound
-heterophil antibody	monoclonal_antibody
+heterocyclic compound	organic compound,aromatic compound
+heterophil antibody	monoclonal antibody
 heulandite	natrolite,phillipsite
-hexane	toluene,ethyl_acetate,benzene
-hexanedioic acid	organic_compound
+hexane	toluene,ethyl acetate,benzene
+hexanedioic acid	organic compound
 hexose	galactose,aldose
-high density lipoprotein	hdl_cholesterol
-high explosive	tnt,explosive_compound
+high density lipoprotein	hdl cholesterol
+high explosive	tnt,explosive compound
 histamine	serotonin,acetylcholine
-histidine	tyrosine,amino_acid,serine,leucine,phenylalanine,glutamic_acid,cysteine,lysine,threonine,tryptophan
+histidine	tyrosine,amino acid,serine,leucine,phenylalanine,glutamic acid,cysteine,lysine,threonine,tryptophan
 hmg coa reductase	oxidoreductase
 holy water	incense
-horse manure	cow_manure
-horseradish peroxidase	superoxide_dismutase,oxidase
+horse manure	cow manure
+horseradish peroxidase	superoxide dismutase,oxidase
 humic acid	organic
 hyaluronidase	lipase,streptokinase,enzyme,protease,invertase
-hydnocarpus oil	coconut_oil
+hydnocarpus oil	coconut oil
 hydrate	monohydrate
-hydrazoic acid	anhydride,hydrobromic_acid,perchloric_acid
-hydrobromic acid	hydrochloric_acid,anhydride,hydrofluoric_acid
-hydrochloric acid	nitric_acid,hydrobromic_acid
+hydrazoic acid	anhydride,hydrobromic acid,perchloric acid
+hydrobromic acid	hydrochloric acid,anhydride,hydrofluoric acid
+hydrochloric acid	nitric acid,hydrobromic acid
 hydrochlorofluorocarbon	freon
 hydrocyanic acid	anhydride
-hydrofluoric acid	hydrochloric_acid,hydrobromic_acid,hydrogen_fluoride
-hydrofluorocarbon	sulfur_hexafluoride
-hydrogen bromide	chloride,hydrobromic_acid,hydrogen_fluoride,iodide,hydrogen_chloride
-hydrogen chloride	hydrogen_fluoride,hydroxide,hydrochloric_acid,hydrobromic_acid
-hydrogen cyanide	hydrogen_sulfide,hydrogen_chloride,sodium_cyanide,carbon_monoxide
-hydrogen fluoride	hydrofluoric_acid
-hydrogen iodide	chloride,hydrogen_fluoride,hydroiodic_acid
-hydrogen sulfide	sulfur_dioxide,monoxide,hydrogen_chloride,hydroxide
-hydroiodic acid	hydrobromic_acid,anhydride
+hydrofluoric acid	hydrochloric acid,hydrobromic acid,hydrogen fluoride
+hydrofluorocarbon	sulfur hexafluoride
+hydrogen bromide	chloride,hydrobromic acid,hydrogen fluoride,iodide,hydrogen chloride
+hydrogen chloride	hydrogen fluoride,hydroxide,hydrochloric acid,hydrobromic acid
+hydrogen cyanide	hydrogen sulfide,hydrogen chloride,sodium cyanide,carbon monoxide
+hydrogen fluoride	hydrofluoric acid
+hydrogen iodide	chloride,hydrogen fluoride,hydroiodic acid
+hydrogen sulfide	sulfur dioxide,monoxide,hydrogen chloride,hydroxide
+hydroiodic acid	hydrobromic acid,anhydride
 hydrolysate	casein
-hydroxyproline	proline,amino_acid,leucine,glycine,glutamic_acid,serine,phenylalanine
+hydroxyproline	proline,amino acid,leucine,glycine,glutamic acid,serine,phenylalanine
 hyoscyamine	scopolamine,ergotamine
-hypochlorite	sodium_hypochlorite,hypochlorous_acid,calcium_hypochlorite,potassium_permanganate
+hypochlorite	sodium hypochlorite,hypochlorous acid,calcium hypochlorite,potassium permanganate
 hypochlorous acid	hypochlorite
 imidazole	pyridine
 imide	diamine
-immunoglobulin	immunoglobulin_g,antibody,immunoglobulin_m
-immunoglobulin e	antibody,immunoglobulin_m
+immunoglobulin	immunoglobulin g,antibody,immunoglobulin m
+immunoglobulin e	antibody,immunoglobulin m
 immunoglobulin g	glycoprotein,antibody
-immunoglobulin m	immunoglobulin_g
+immunoglobulin m	immunoglobulin g
 incense	myrrh
-infliximab	monoclonal_antibody
+infliximab	monoclonal antibody
 inosine	nucleoside
 insecticide	pesticide,acaricide,herbicide
-interleukin	cytokine,tumor_necrosis_factor
+interleukin	cytokine,tumor necrosis factor
 intron	exon
-inulin	polysaccharide,sucrose,starch,invert_sugar
-invert sugar	sucrose,cane_sugar,starch,dextrose
+inulin	polysaccharide,sucrose,starch,invert sugar
+invert sugar	sucrose,cane sugar,starch,dextrose
 invertase	amylase,hyaluronidase,lipase,lactase
 iodic acid	anhydride
-iodide	bromide,chloride,sodium_iodide
-iodoform	iodide,sodium_iodide
+iodide	bromide,chloride,sodium iodide
+iodoform	iodide,sodium iodide
 iron disulfide	sulfide
 isocyanate	amine,azide,nitrile
-isocyanic acid	tartaric_acid,oxalic_acid
-isoleucine	leucine,valine,phenylalanine,tyrosine,amino_acid,threonine,proline,aspartic_acid,tryptophan,alanine
+isocyanic acid	tartaric acid,oxalic acid
+isoleucine	leucine,valine,phenylalanine,tyrosine,amino acid,threonine,proline,aspartic acid,tryptophan,alanine
 japan wax	polish,beeswax,soap
 javelle water	seawater
 joss stick	incense
-junk dna	deoxyribonucleic_acid,nucleic_acid,endonuclease
-kerosene	fuel_oil,paraffin,naphtha
+junk dna	deoxyribonucleic acid,nucleic acid,endonuclease
+kerosene	fuel oil,paraffin,naphtha
 ketohexose	monosaccharide
-ketone	aldehyde,carboxylic_acid,enol,ester
+ketone	aldehyde,carboxylic acid,enol,ester
 ketose	aldose,monosaccharide,aldohexose,hexose
 l dopa	decarboxylase,phenylalanine
 labdanum	myrrh,benzoin,stacte,storax
 lactase	enzyme,amylase,invertase
-lactate	lactic_acid,citrate
-lactic acid	glycolic_acid,succinic_acid,oxalic_acid
+lactate	lactic acid,citrate
+lactic acid	glycolic acid,succinic acid,oxalic acid
 lactose	maltose,sucrose,galactose,fructose
-lanolin	carnauba_wax,beeswax
+lanolin	carnauba wax,beeswax
 lard	suet
-lard oil	vegetable_oil,cooking_oil,olive_oil,coconut_oil,tallow,cottonseed_oil,sesame_oil
+lard oil	vegetable oil,cooking oil,olive oil,coconut oil,tallow,cottonseed oil,sesame oil
 larvicide	insecticide
-laundry detergent	shampoo,soap,bar_soap
-lauric acid	oleic_acid,myristic_acid,linoleic_acid,palmitic_acid,stearic_acid
-ldl cholesterol	lipoprotein,hdl_cholesterol
+laundry detergent	shampoo,soap,bar soap
+lauric acid	oleic acid,myristic acid,linoleic acid,palmitic acid,stearic acid
+ldl cholesterol	lipoprotein,hdl cholesterol
 lead acetate	hydroxide
 lead arsenate	arsenic
-leaded gasoline	unleaded_gasoline,octane,motor_oil
-lecithin	cocoa_butter,soybean_oil
+leaded gasoline	unleaded gasoline,octane,motor oil
+lecithin	cocoa butter,soybean oil
 lectin	protein
-leucine	isoleucine,valine,threonine,phenylalanine,amino_acid,proline,tyrosine,alanine,tryptophan,glutamic_acid
+leucine	isoleucine,valine,threonine,phenylalanine,amino acid,proline,tyrosine,alanine,tryptophan,glutamic acid
 lignin	cellulose,pectin
-limewater	lye,sodium_carbonate,calcium_hydroxide,sodium_hydroxide,distilled_water
+limewater	lye,sodium carbonate,calcium hydroxide,sodium hydroxide,distilled water
 limonene	linalool
 linalool	limonene
 lindane	malathion,insecticide
-linoleic acid	oleic_acid
-linolenic acid	linoleic_acid,oleic_acid,eicosapentaenoic_acid
-linseed oil	vegetable_oil,tung_oil,walnut_oil
+linoleic acid	oleic acid
+linolenic acid	linoleic acid,oleic acid,eicosapentaenoic acid
+linseed oil	vegetable oil,tung oil,walnut oil
 lipase	protease,amylase,trypsin
 lipid	phospholipid,cholesterol
-liquefied petroleum gas	fuel_oil,naphtha
-liquid detergent	laundry_detergent,soap
-liquid soap	detergent,bar_soap,shampoo,laundry_detergent,grease
+liquefied petroleum gas	fuel oil,naphtha
+liquid detergent	laundry detergent,soap
+liquid soap	detergent,bar soap,shampoo,laundry detergent,grease
 lithium carbonate	hydroxide,chloride
-low density lipoprotein	hdl_cholesterol
-low explosive	explosive_compound,high_explosive,tnt
+low density lipoprotein	hdl cholesterol
+low explosive	explosive compound,high explosive,tnt
 lucite	acrylic,polyurethane
-lycopene	carotene,beta_carotene,zeaxanthin,carotenoid
-lye	sodium_hydroxide,limewater,sodium_hypochlorite,soap,sodium_carbonate
+lycopene	carotene,beta carotene,zeaxanthin,carotenoid
+lye	sodium hydroxide,limewater,sodium hypochlorite,soap,sodium carbonate
 lymphokine	cytokine,interleukin
-lysine	arginine,histidine,amino_acid,serine,cysteine,threonine,methionine,leucine,glutamic_acid,alanine
+lysine	arginine,histidine,amino acid,serine,cysteine,threonine,methionine,leucine,glutamic acid,alanine
 lysozyme	elastase,protease,amylase
 macromolecule	polymer
-magnesium bicarbonate	carbonate,sodium_chloride,hydroxide
+magnesium bicarbonate	carbonate,sodium chloride,hydroxide
 magnesium hydroxide	carbonate
 magnesium nitride	oxide
 magnesium sulfate	hydroxide
 malathion	organophosphate,insecticide,lindane
-maleic acid	anhydride,fumaric_acid,tartaric_acid
+maleic acid	anhydride,fumaric acid,tartaric acid
 maltose	sucrose,galactose,lactose,disaccharide,raffinose
 manganese tetroxide	oxide
-manure	fertilizer,chicken_manure,cow_manure
+manure	fertilizer,chicken manure,cow manure
 maple sugar	sago
 marbling	maroon
-marsh gas	fresh_water
+marsh gas	fresh water
 mastic	balsam,copal
-melamine	cyanuric_acid,corn_gluten
+melamine	cyanuric acid,corn gluten
 melamine resin	polyurethane,urethane
-menhaden oil	fish_meal,olive_oil
-menthol	camphor,methyl_salicylate
+menhaden oil	fish meal,olive oil
+menthol	camphor,methyl salicylate
 mercury fulminate	chlorate
-messenger rna	nucleic_acid,deoxyribonucleic_acid,endonuclease
-methane	ethane,carbon_dioxide
-methionine	cysteine,leucine,lysine,valine,tryptophan,amino_acid,phenylalanine,isoleucine,arginine
+messenger rna	nucleic acid,deoxyribonucleic acid,endonuclease
+methane	ethane,carbon dioxide
+methionine	cysteine,leucine,lysine,valine,tryptophan,amino acid,phenylalanine,isoleucine,arginine
 methyl bromide	chloride,iodide
-methyl salicylate	salicylic_acid
+methyl salicylate	salicylic acid
 methylene chloride	bromide
-microcosmic salt	magnesium_sulfate
-mineral oil	vegetable_oil,linseed_oil,paraffin
+microcosmic salt	magnesium sulfate
+mineral oil	vegetable oil,linseed oil,paraffin
 monoamine	serotonin,dopamine,neurotransmitter,noradrenaline
 monoamine neurotransmitter	serotonin,dopamine,noradrenaline,acetylcholine
-monohydrate	zinc_sulfate
+monohydrate	zinc sulfate
 monomer	copolymer,polymer,dimer
 monosaccharide	ketose,disaccharide,aldose,hexose,oligosaccharide
-monounsaturated fatty acid	linoleic_acid,oleic_acid,palmitic_acid,myristic_acid
+monounsaturated fatty acid	linoleic acid,oleic acid,palmitic acid,myristic acid
 monoxide	trioxide
 montan wax	beeswax
 motor oil	kerosene,gasoline
 mucin	glycoprotein
 mucoid	mucin
-muriatic acid	hydrochloric_acid
-mustard oil	sesame_oil,olive_oil,vegetable_oil,cooking_oil,vinegar
+muriatic acid	hydrochloric acid
+mustard oil	sesame oil,olive oil,vegetable oil,cooking oil,vinegar
 mutton tallow	lard,beeswax
 myoglobin	hemoglobin
 myosin	actin
-myristic acid	oleic_acid,linoleic_acid,palmitic_acid,stearic_acid
+myristic acid	oleic acid,linoleic acid,palmitic acid,stearic acid
 myrrh	storax,copal,stacte,labdanum,balsam
-napalm	high_explosive
-naphtha	fuel_oil,kerosene
+napalm	high explosive
+naphtha	fuel oil,kerosene
 naphthalene	benzene,toluene
-naphthol	benzoic_acid
+naphthol	benzoic acid
 natrolite	chabazite,heulandite,phillipsite
 neem cake	lemongrass
 neoprene	nylon,polyurethane,polyester
-nerve growth factor	growth_factor,cytokine
+nerve growth factor	growth factor,cytokine
 neurochemical	neurotransmitter
 neurotransmitter	acetylcholine,serotonin,dopamine,monoamine
 nicotine	caffeine
 night soil	manure
-nitrate	ammonium,potassium_nitrate,sodium_nitrate,chlorate
-nitric acid	hydrochloric_acid,phosphoric_acid
-nitride	oxide,carbide,silicon_carbide
+nitrate	ammonium,potassium nitrate,sodium nitrate,chlorate
+nitric acid	hydrochloric acid,phosphoric acid
+nitride	oxide,carbide,silicon carbide
 nitrile	acetal,diamine,isocyanate,imide
 nitrobenzene	benzene,toluene,aniline
-nitrogen dioxide	trioxide,sulfur_dioxide,monoxide,carbon_dioxide,nitrogen_oxide
-nitrogen oxide	monoxide,trioxide,nitrogen_dioxide
+nitrogen dioxide	trioxide,sulfur dioxide,monoxide,carbon dioxide,nitrogen oxide
+nitrogen oxide	monoxide,trioxide,nitrogen dioxide
 nitrogen trichloride	monoxide,pentoxide,trioxide
 nitrogenase	oxidase
-nitroglycerin	potassium_chlorate,tnt,explosive,ammonium_nitrate,dynamite
-nitrous acid	anhydride,nitric_acid,hydrochloric_acid,oxalic_acid,butyric_acid
+nitroglycerin	potassium chlorate,tnt,explosive,ammonium nitrate,dynamite
+nitrous acid	anhydride,nitric acid,hydrochloric acid,oxalic acid,butyric acid
 noradrenaline	serotonin,dopamine,monoamine
-nuclear rna	deoxyribonucleic_acid,endonuclease
+nuclear rna	deoxyribonucleic acid,endonuclease
 nuclease	endonuclease,exonuclease
-nucleic acid	deoxyribonucleic_acid,nucleoside
-nucleoprotein	polymerase,nucleic_acid
+nucleic acid	deoxyribonucleic acid,nucleoside
+nucleoprotein	polymerase,nucleic acid
 nucleoside	nucleotide,purine
-nucleotide	nucleoside,uracil,thymine,nucleic_acid
+nucleotide	nucleoside,uracil,thymine,nucleic acid
 nylon	polyester,neoprene,polyamide
 obidoxime chloride	bromide
-octane	gasoline,unleaded_gasoline
-oil	vegetable_oil,mineral_oil,coconut_oil,petroleum
-oleic acid	linoleic_acid,stearic_acid,palmitic_acid,linolenic_acid
-oleoresin	balsam,essential_oil
+octane	gasoline,unleaded gasoline
+oil	vegetable oil,mineral oil,coconut oil,petroleum
+oleic acid	linoleic acid,stearic acid,palmitic acid,linolenic acid
+oleoresin	balsam,essential oil
 oleoresin capiscum	balsam
 oligosaccharide	polysaccharide,disaccharide
-olive oil	sesame_oil,vegetable_oil,sunflower_oil,coconut_oil,cooking_oil,peanut_oil
-omega 3 fatty acid	fatty_acid,linoleic_acid
-omega 6 fatty acid	fatty_acid,linoleic_acid
-organic	humic_acid
-organic compound	aromatic_compound
+olive oil	sesame oil,vegetable oil,sunflower oil,coconut oil,cooking oil,peanut oil
+omega 3 fatty acid	fatty acid,linoleic acid
+omega 6 fatty acid	fatty acid,linoleic acid
+organic	humic acid
+organic compound	aromatic compound
 organophosphate	malathion,insecticide,parathion
 ornithine	citrulline,arginine,glutamine,alanine
-oxalate	oxalic_acid,citrate,thiocyanate
+oxalate	oxalic acid,citrate,thiocyanate
 oxalic acid	anhydride
 oxidase	reductase,oxidoreductase
 oxidized ldl cholesterol	lipoprotein
 oxidoreductase	reductase
-oxime	carboxylic_acid,aldehyde
-oxyacid	quaternary_ammonium_compound
+oxime	carboxylic acid,aldehyde
+oxyacid	quaternary ammonium compound
 oxygenase	decarboxylase,reductase
 oxyhemoglobin	hemoglobin
-palm oil	coconut_oil,vegetable_oil,sesame_oil,olive_oil,peanut_oil
-palmitic acid	oleic_acid,linoleic_acid,stearic_acid,myristic_acid
+palm oil	coconut oil,vegetable oil,sesame oil,olive oil,peanut oil
+palmitic acid	oleic acid,linoleic acid,stearic acid,myristic acid
 papain	trypsin,protease,pepsin
 paraffin	kerosene,oil,wax,beeswax
 paraquat	malathion,herbicide,parathion,pesticide
 parathion	organophosphate,malathion,lindane
-peanut oil	sunflower_oil,vegetable_oil,soybean_oil,sesame_oil,canola_oil,coconut_oil,corn_oil
+peanut oil	sunflower oil,vegetable oil,soybean oil,sesame oil,canola oil,coconut oil,corn oil
 pectin	starch,gelatin,polysaccharide,dextrin
-pennyroyal oil	essential_oil
+pennyroyal oil	essential oil
 pentose	ribose,hexose
 pentoxide	trioxide,tetroxide,monoxide,dioxide
 pepsin	trypsin,protease,pepsinogen,lipase
 pepsinogen	pepsin,trypsin
 peptide	polypeptide
 perchlorate	chlorate
-perchloric acid	anhydride,hydrochloric_acid,nitric_acid
-perchloride	iron_perchloride
-permanganate	potassium_permanganate,perchloric_acid,potassium_dichromate,hypochlorite
-peroxidase	glutathione_peroxidase,oxidase,catalase,superoxide_dismutase
+perchloric acid	anhydride,hydrochloric acid,nitric acid
+perchloride	iron perchloride
+permanganate	potassium permanganate,perchloric acid,potassium dichromate,hypochlorite
+peroxidase	glutathione peroxidase,oxidase,catalase,superoxide dismutase
 pesticide	insecticide,herbicide
 petroleum	petrochemical,oil
-phenol	benzoic_acid,carbolic_acid,cresol
-phenolic resin	synthetic_resin,epoxy
-phenylalanine	tyrosine,tryptophan,leucine,valine,isoleucine,amino_acid,histidine,proline,glutamic_acid,threonine
+phenol	benzoic acid,carbolic acid,cresol
+phenolic resin	synthetic resin,epoxy
+phenylalanine	tyrosine,tryptophan,leucine,valine,isoleucine,amino acid,histidine,proline,glutamic acid,threonine
 phillipsite	natrolite,heulandite
 phosphatase	kinase
 phosphate	pyrophosphate
 phosphine	azide,dichloride
-phosphocreatine	adenosine_triphosphate
-phospholipid	lipid,fatty_acid,cholesterol
+phosphocreatine	adenosine triphosphate
+phospholipid	lipid,fatty acid,cholesterol
 phosphoprotein	protein
-phosphoric acid	hydrochloric_acid
+phosphoric acid	hydrochloric acid
 phthalic acid	anhydride,ester
-phthalic anhydride	phthalic_acid,aniline,ester,sulfonic_acid
+phthalic anhydride	phthalic acid,aniline,ester,sulfonic acid
 physostigmine	pilocarpine,atropine
 phytochemical	flavonoid
-picric acid	nitric_acid,phosphoric_acid
+picric acid	nitric acid,phosphoric acid
 pilocarpine	physostigmine,atropine
 pine tar	turpentine,balsam,creosote,mastic
 plasma thromboplastin antecedent	prothrombin,thrombin
-plasmin	plasminogen,thrombin,plasminogen_activator
-plasminogen	plasmin,thrombin,plasminogen_activator,elastase
+plasmin	plasminogen,thrombin,plasminogen activator
+plasminogen	plasmin,thrombin,plasminogen activator,elastase
 plasminogen activator	plasmin,thrombin,streptokinase
 plaster of paris	wax,gesso,plasticine
-plastic explosive	high_explosive,tnt
-plasticine	plaster_of_paris
+plastic explosive	high explosive,tnt
+plasticine	plaster of paris
 plexiglas	styrofoam
 polyamide	polyester,polyurethane,nylon,polyethylene
 polyester	nylon,polyamide,polyurethane,polyethylene
 polyester fiber	polyamide,nylon
-polyethylene	polyvinyl_chloride,polyester,polyurethane
+polyethylene	polyvinyl chloride,polyester,polyurethane
 polymer	copolymer,polyamide,polystyrene
-polymerase	dna_polymerase,reverse_transcriptase
+polymerase	dna polymerase,reverse transcriptase
 polymethyl methacrylate	polystyrene,copolymer
 polypeptide	protein,peptide
 polyphosphoric acid	anhydride
 polysaccharide	disaccharide,oligosaccharide,chitin
-polystyrene	polyethylene,polyurethane,polyvinyl_chloride
-polyunsaturated fat	trans_fatty_acid
-polyunsaturated fatty acid	linoleic_acid,oleic_acid,fatty_acid
+polystyrene	polyethylene,polyurethane,polyvinyl chloride
+polyunsaturated fat	trans fatty acid
+polyunsaturated fatty acid	linoleic acid,oleic acid,fatty acid
 polyurethane	urethane,polyester
-polyvinyl acetate	polyvinyl_chloride
+polyvinyl acetate	polyvinyl chloride
 polyvinyl chloride	polyethylene
-potash	gypsum,sodium_nitrate
-potassium bicarbonate	sodium_chloride,sulfate,potassium_chloride,sodium_carbonate
+potash	gypsum,sodium nitrate
+potassium bicarbonate	sodium chloride,sulfate,potassium chloride,sodium carbonate
 potassium bromide	chloride,iodide
-potassium carbonate	hydroxide,sulfate,sodium_carbonate,sodium_chloride
-potassium chlorate	potassium_nitrate,nitrate,ammonium
-potassium chloride	sodium_chloride,bromide
-potassium cyanide	sodium_cyanide,hydroxide,copper_sulfate
-potassium dichromate	chromate,permanganate,potassium_permanganate,hydroxide,hypochlorite,silver_nitrate
+potassium carbonate	hydroxide,sulfate,sodium carbonate,sodium chloride
+potassium chlorate	potassium nitrate,nitrate,ammonium
+potassium chloride	sodium chloride,bromide
+potassium cyanide	sodium cyanide,hydroxide,copper sulfate
+potassium dichromate	chromate,permanganate,potassium permanganate,hydroxide,hypochlorite,silver nitrate
 potassium ferrocyanide	hydroxide,sulfate
-potassium iodide	sodium_iodide,bromide,chloride
-potassium nitrate	sodium_nitrate,ammonium,sulfate,chlorate
-potassium permanganate	potassium_dichromate,hypochlorite,hydroxide,perchloric_acid,ammonium
+potassium iodide	sodium iodide,bromide,chloride
+potassium nitrate	sodium nitrate,ammonium,sulfate,chlorate
+potassium permanganate	potassium dichromate,hypochlorite,hydroxide,perchloric acid,ammonium
 preservative	fixative
-proconvertin	coagulation_factor,thromboplastin,prothrombin
+proconvertin	coagulation factor,thromboplastin,prothrombin
 proenzyme	histaminase
 prolamine	protein
-proline	leucine,alanine,amino_acid,valine,serine,isoleucine,glutamic_acid,phenylalanine,histidine,threonine
-propellant explosive	high_explosive
-propionic acid	butyric_acid,acetic_acid,ester,carboxylic_acid
-prostate specific antigen	immunoglobulin,immunoglobulin_g,antibody
+proline	leucine,alanine,amino acid,valine,serine,isoleucine,glutamic acid,phenylalanine,histidine,threonine
+propellant explosive	high explosive
+propionic acid	butyric acid,acetic acid,ester,carboxylic acid
+prostate specific antigen	immunoglobulin,immunoglobulin g,antibody
 protamine	heparin
 protease	trypsin,elastase
-prothrombin	thrombin,fibrinogen,coagulation_factor
+prothrombin	thrombin,fibrinogen,coagulation factor
 prothrombinase	thrombin
 provirus	endonuclease,transposon
-provitamin	beta_carotene,carotene
+provitamin	beta carotene,carotene
 pseudoephedrine	ephedrine
 ptyalin	pepsin,amylase
-pulp	wood_pulp
+pulp	wood pulp
 purine	pyrimidine,nucleoside,thymine,cytosine,adenine,uracil
 pyrethrum	insecticide
 pyridine	acetamide,imidazole
 pyrimidine	purine,thymine,uracil,nucleoside,cytosine,adenine,guanine
 pyrites	gypsum
 pyrogallol	resorcinol
-quaternary ammonium compound	organic_compound
+quaternary ammonium compound	organic compound
 quinone	flavin
-racemic acid	tartaric_acid
+racemic acid	tartaric acid
 raffinose	maltose,galactose
-rape oil	coconut_oil,vegetable_oil
+rape oil	coconut oil,vegetable oil
 reactant	intermediate
 reductase	oxidoreductase
 residual oil	naphtha,petroleum
-resin	synthetic_resin,phenolic_resin
-resorcinol	benzoic_acid,phenol,aniline,hydroxybenzoic_acid
+resin	synthetic resin,phenolic resin
+resorcinol	benzoic acid,phenol,aniline,hydroxybenzoic acid
 restriction endonuclease	nuclease,exonuclease,ribonuclease
-reverse transcriptase	dna_polymerase,polymerase
-rh antibody	monoclonal_antibody
+reverse transcriptase	dna polymerase,polymerase
+rh antibody	monoclonal antibody
 rheumatoid factor	interleukin
 ribonuclease	endonuclease,protease
-ribonucleic acid	transfer_rna
+ribonucleic acid	transfer rna
 ribose	deoxyribose,nucleoside,monosaccharide,pyrophosphate
 ricin	strychnine
-ricinoleic acid	myristic_acid,stearic_acid,oleic_acid
-rochelle salt	sodium_chloride
+ricinoleic acid	myristic acid,stearic acid,oleic acid
+rochelle salt	sodium chloride
 roman candle	squib
 rotenone	insecticide,malathion
 rubber	neoprene,polyurethane
-saddle soap	shampoo,liquid_soap,bar_soap
-safflower oil	peanut_oil,sunflower_oil,soybean_oil,vegetable_oil,canola_oil,corn_oil,coconut_oil,sesame_oil
+saddle soap	shampoo,liquid soap,bar soap
+safflower oil	peanut oil,sunflower oil,soybean oil,vegetable oil,canola oil,corn oil,coconut oil,sesame oil
 sago	cassava
-salad oil	olive_oil,sesame_oil,vegetable_oil
-salicylate	salicylic_acid
-salicylic acid	hydroxybenzoic_acid
-salt	sodium_chloride
+salad oil	olive oil,sesame oil,vegetable oil
+salicylate	salicylic acid
+salicylic acid	hydroxybenzoic acid
+salt	sodium chloride
 sandarac	copal,mastic,bdellium
 saponin	glycoside,flavonoid,flavone
 sarcosine	betaine
-sardine oil	vegetable_oil
-sassafras oil	essential_oil,mineral_oil
-saturated fatty acid	fatty_acid,oleic_acid,palmitic_acid,myristic_acid
+sardine oil	vegetable oil
+sassafras oil	essential oil,mineral oil
+saturated fatty acid	fatty acid,oleic acid,palmitic acid,myristic acid
 scale wax	gesso
 scopolamine	hyoscyamine,atropine,ergotamine
-seal oil	grease,bitumen,wax,tallow,beeswax,whale_oil,paraffin
-seawater	water,fresh_water
+seal oil	grease,bitumen,wax,tallow,beeswax,whale oil,paraffin
+seawater	water,fresh water
 serine	threonine,cysteine,tyrosine,histidine,leucine,arginine,alanine,asparagine
 serotonin	noradrenaline,dopamine,monoamine,acetylcholine
 serum albumin	transferrin,globulin
-serum globulin	transferrin,plasma_protein,albumin,serum_albumin
-sesame oil	olive_oil,vegetable_oil
+serum globulin	transferrin,plasma protein,albumin,serum albumin
+sesame oil	olive oil,vegetable oil
 shale oil	petroleum
 shampoo	toothpaste
 shellac wax	beeswax
@@ -739,154 +739,154 @@ silex	flint,chert
 silica	silicate
 silicate	silica
 silicon carbide	nitride
-silicone	silicone_rubber,polyurethane,neoprene
+silicone	silicone rubber,polyurethane,neoprene
 silicone rubber	polyurethane,neoprene
 siloxane	polymer
-silver bromide	iodide,silver_chloride,chloride
+silver bromide	iodide,silver chloride,chloride
 silver chloride	bromide,iodide,hydroxide
-silver iodide	sodium_iodide,bromide,chloride
-silver nitrate	chromate,potassium_dichromate
+silver iodide	sodium iodide,bromide,chloride
+silver nitrate	chromate,potassium dichromate
 ski wax	beeswax,polish
 smokeless powder	cordite
-soap	bar_soap,castile_soap,detergent,liquid_soap,laundry_detergent
-soap flakes	bar_soap
-soap powder	bar_soap,laundry_detergent
-sodium carbonate	potassium_carbonate,hydroxide,sodium_chloride,sulfate
+soap	bar soap,castile soap,detergent,liquid soap,laundry detergent
+soap flakes	bar soap
+soap powder	bar soap,laundry detergent
+sodium carbonate	potassium carbonate,hydroxide,sodium chloride,sulfate
 sodium carboxymethyl cellulose	sulfate
-sodium chlorate	sodium_chloride,potassium_nitrate,potassium_chlorate,sodium_carbonate,sulfate,hypochlorite
-sodium chloride	potassium_chloride,sulfate
-sodium cyanide	chloride,potassium_cyanide,hydroxide
-sodium dichromate	hypochlorite,potassium_dichromate,chromate,potassium_permanganate,sodium_chloride,chloride,hydroxide
-sodium fluoride	sodium_chloride
+sodium chlorate	sodium chloride,potassium nitrate,potassium chlorate,sodium carbonate,sulfate,hypochlorite
+sodium chloride	potassium chloride,sulfate
+sodium cyanide	chloride,potassium cyanide,hydroxide
+sodium dichromate	hypochlorite,potassium dichromate,chromate,potassium permanganate,sodium chloride,chloride,hydroxide
+sodium fluoride	sodium chloride
 sodium hydride	hydroxide
-sodium hydroxide	sodium_carbonate,hypochlorite,sulfate
-sodium hypochlorite	calcium_hypochlorite,sodium_hydroxide,hypochlorous_acid,sodium_chloride,potassium_permanganate,sodium_carbonate
-sodium iodide	chloride,bromide,potassium_iodide
-sodium lauryl sulphate	magnesium_sulfate,sulfate
-sodium nitrate	potassium_nitrate,ammonium,sulfate,sodium_chloride,potassium_chloride
-sodium phosphate	sulfate,sodium_chloride
-sodium sulphate	sulfate,sodium_chloride,potassium_chloride,sodium_carbonate
-soft water	hard_water
-softener	detergent,liquid_soap
+sodium hydroxide	sodium carbonate,hypochlorite,sulfate
+sodium hypochlorite	calcium hypochlorite,sodium hydroxide,hypochlorous acid,sodium chloride,potassium permanganate,sodium carbonate
+sodium iodide	chloride,bromide,potassium iodide
+sodium lauryl sulphate	magnesium sulfate,sulfate
+sodium nitrate	potassium nitrate,ammonium,sulfate,sodium chloride,potassium chloride
+sodium phosphate	sulfate,sodium chloride
+sodium sulphate	sulfate,sodium chloride,potassium chloride,sodium carbonate
+soft water	hard water
+softener	detergent,liquid soap
 soil conditioner	manure,fertilizer,water,detergent
-sorbic acid	phosphoric_acid,citric_acid
-soybean oil	vegetable_oil,sunflower_oil,canola_oil,peanut_oil,cottonseed_oil,coconut_oil,corn_oil
+sorbic acid	phosphoric acid,citric acid
+soybean oil	vegetable oil,sunflower oil,canola oil,peanut oil,cottonseed oil,coconut oil,corn oil
 sparkler	squib,firecracker
-sperm oil	spermaceti,vegetable_oil,paraffin
-spermaceti	sperm_oil,tallow,wax,whale_oil,beeswax
-spike lavender oil	essential_oil
+sperm oil	spermaceti,vegetable oil,paraffin
+spermaceti	sperm oil,tallow,wax,whale oil,beeswax
+spike lavender oil	essential oil
 squib	firecracker,sparkler
 stachyose	raffinose
 stacte	myrrh,storax,labdanum
-stand oil	linseed_oil
-stannic chloride	trichloride,bromide,iodide,boron_trifluoride
-stannous fluoride	sodium_fluoride
+stand oil	linseed oil
+stannic chloride	trichloride,bromide,iodide,boron trifluoride
+stannous fluoride	sodium fluoride
 starch	dextrin,pectin,cornstarch
-stearic acid	oleic_acid,palmitic_acid,linoleic_acid,myristic_acid
-stearin	spermaceti,coconut_oil,cottonseed_oil,tallow_oil
+stearic acid	oleic acid,palmitic acid,linoleic acid,myristic acid
+stearin	spermaceti,coconut oil,cottonseed oil,tallow oil
 steroid	cortisone
 sterol	steroid,ergosterol,cholesterol
 storax	myrrh,balsam,copal,bdellium
 streptodornase	streptokinase,hyaluronidase
-streptokinase	plasminogen_activator
+streptokinase	plasminogen activator
 styrene	copolymer,butadiene
 styrofoam	polyurethane,polystyrene
 sucrose	fructose,maltose,dextrose,lactose,glucose,galactose
 suet	lard
-sulfonate	sulfonic_acid
-sulfonic acid	organic_compound,carboxylic_acid
-sulfur dioxide	monoxide,hydrogen_sulfide,sulfide,trioxide,nitrogen_dioxide
+sulfonate	sulfonic acid
+sulfonic acid	organic compound,carboxylic acid
+sulfur dioxide	monoxide,hydrogen sulfide,sulfide,trioxide,nitrogen dioxide
 sulfur hexafluoride	monoxide
 sulfur oxide	sulfide
-sunflower oil	vegetable_oil,soybean_oil,coconut_oil,peanut_oil,corn_oil,sesame_oil,canola_oil,olive_oil,safflower_oil
-superoxide dismutase	glutathione_peroxidase,peroxidase,catalase
-sweet oil	sesame_oil,cocoa_butter,mineral_oil
+sunflower oil	vegetable oil,soybean oil,coconut oil,peanut oil,corn oil,sesame oil,canola oil,olive oil,safflower oil
+superoxide dismutase	glutathione peroxidase,peroxidase,catalase
+sweet oil	sesame oil,cocoa butter,mineral oil
 synthetic resin	polyamide,polyurethane,polyester
-tallow	lard,beeswax,animal_fat
-tallow oil	vegetable_oil,olive_oil,lard,coconut_oil,linseed_oil,soybean_oil,peanut_oil,sesame_oil
-tap water	seawater,fresh_water,distilled_water
+tallow	lard,beeswax,animal fat
+tallow oil	vegetable oil,olive oil,lard,coconut oil,linseed oil,soybean oil,peanut oil,sesame oil
+tap water	seawater,fresh water,distilled water
 tartar emetic	tartrate
-tartaric acid	fumaric_acid
+tartaric acid	fumaric acid
 tartrate	maleate,hydrochloride
-taurine	citric_acid,creatine
-telomerase	transcriptase,reverse_transcriptase,enzyme
-tetanus immunoglobulin	immunoglobulin_g,tetanus_antitoxin
+taurine	citric acid,creatine
+telomerase	transcriptase,reverse transcriptase,enzyme
+tetanus immunoglobulin	immunoglobulin g,tetanus antitoxin
 tetrafluoroethylene	copolymer
-tetrahalide	binary_compound
+tetrahalide	binary compound
 tetrasaccharide	glycoside,polysaccharide,oligosaccharide
 tetrose	triose
 tetroxide	trioxide,oxide,pentoxide
-tetryl	tnt,picric_acid,explosive,high_explosive
+tetryl	tnt,picric acid,explosive,high explosive
 thiocyanate	iodide,chloride,oxalate,bromide
-threonine	serine,leucine,tyrosine,valine,isoleucine,cysteine,histidine,phenylalanine,aspartic_acid,alanine
+threonine	serine,leucine,tyrosine,valine,isoleucine,cysteine,histidine,phenylalanine,aspartic acid,alanine
 thrombin	plasmin,prothrombin,fibrinogen
-thromboplastin	prothrombin,coagulation_factor
-thymine	cytosine,guanine,uracil,adenine,pyrimidine,purine,base_pair
+thromboplastin	prothrombin,coagulation factor
+thymine	cytosine,guanine,uracil,adenine,pyrimidine,purine,base pair
 thymol	linalool,cymene
-thyroglobulin	plasminogen_activator
-titanium dioxide	oxide,zinc_oxide
-tnt	explosive,tetryl,picric_acid,high_explosive,ammonium_nitrate
-toilet soap	laundry_detergent,shampoo,toothpaste,bar_soap,liquid_soap
+thyroglobulin	plasminogen activator
+titanium dioxide	oxide,zinc oxide
+tnt	explosive,tetryl,picric acid,high explosive,ammonium nitrate
+toilet soap	laundry detergent,shampoo,toothpaste,bar soap,liquid soap
 tolu	benzoin,balsam
-toluene	benzene,hexane,methylene_chloride
+toluene	benzene,hexane,methylene chloride
 tooth powder	toothpaste
 toothpaste	shampoo
-trans fatty acid	fatty_acid,linoleic_acid,oleic_acid,linolenic_acid
-transcriptase	reverse_transcriptase,telomerase,polymerase
-transfer rna	deoxyribonucleic_acid,ribonucleic_acid,endonuclease
-transferrin	globulin,ferritin,albumin,serum_albumin
-triazine	organic_compound
-trichloride	inorganic_compound,chloride
-trichloroacetic acid	oxalic_acid
-trichloroethylene	methylene_chloride,carbon_tetrachloride
-triglyceride	fatty_acid,cholesterol
+trans fatty acid	fatty acid,linoleic acid,oleic acid,linolenic acid
+transcriptase	reverse transcriptase,telomerase,polymerase
+transfer rna	deoxyribonucleic acid,ribonucleic acid,endonuclease
+transferrin	globulin,ferritin,albumin,serum albumin
+triazine	organic compound
+trichloride	inorganic compound,chloride
+trichloroacetic acid	oxalic acid
+trichloroethylene	methylene chloride,carbon tetrachloride
+triglyceride	fatty acid,cholesterol
 trimer	dimer
 triose	tetrose,ketose,monosaccharide,hexose
 trioxide	tetroxide,pentoxide,monoxide,dioxide
 trisaccharide	disaccharide,oligosaccharide,prolamine
 trypsin	protease,elastase,pepsin,lipase
 trypsinogen	elastase,trypsin,protease
-tryptophan	phenylalanine,tyrosine,amino_acid,leucine,essential_amino_acid,isoleucine,histidine,valine
+tryptophan	phenylalanine,tyrosine,amino acid,leucine,essential amino acid,isoleucine,histidine,valine
 tubocurarine	physostigmine
-tumor necrosis factor	interleukin,cytokine,growth_factor
-tuna oil	olive_oil,sesame_oil
-tung oil	linseed_oil,vegetable_oil
-turpentine	linseed_oil,beeswax
+tumor necrosis factor	interleukin,cytokine,growth factor
+tuna oil	olive oil,sesame oil
+tung oil	linseed oil,vegetable oil
+turpentine	linseed oil,beeswax
 tyramine	histamine
-tyrosine	phenylalanine,threonine,leucine,tryptophan,serine,histidine,isoleucine,amino_acid,valine
+tyrosine	phenylalanine,threonine,leucine,tryptophan,serine,histidine,isoleucine,amino acid,valine
 ubiquinone	quinone
 unleaded gasoline	octane
-unsaturated fatty acid	fatty_acid,oleic_acid,myristic_acid
+unsaturated fatty acid	fatty acid,oleic acid,myristic acid
 uracil	thymine,cytosine,adenine,guanine,pyrimidine,nucleoside,purine
 uranyl nitrate	ammonium
 uranyl oxalate	hydroxide
-urate	uric_acid,urea,oxalate,xanthine
-urea	uric_acid,ammonia,urease,urate
-urea formaldehyde resin	melamine_resin,formic_acid
+urate	uric acid,urea,oxalate,xanthine
+urea	uric acid,ammonia,urease,urate
+urea formaldehyde resin	melamine resin,formic acid
 urease	catalase,oxidase
 urethane	polyurethane,epoxy,silicone
-uric acid	oxalic_acid
-urobilinogen	uric_acid
-valine	isoleucine,leucine,alanine,phenylalanine,glutamic_acid,aspartic_acid,threonine,proline,amino_acid,tyrosine
+uric acid	oxalic acid
+urobilinogen	uric acid
+valine	isoleucine,leucine,alanine,phenylalanine,glutamic acid,aspartic acid,threonine,proline,amino acid,tyrosine
 vanadium pentoxide	oxide,trioxide
-vanillin	hydroxybenzoic_acid,tartaric_acid,benzoic_acid
-vegetable oil	coconut_oil,cooking_oil,sesame_oil,olive_oil,soybean_oil
+vanillin	hydroxybenzoic acid,tartaric acid,benzoic acid
+vegetable oil	coconut oil,cooking oil,sesame oil,olive oil,soybean oil
 vegetable wax	beeswax,lanolin
-very low density lipoprotein	hdl_cholesterol
-vinyl polymer	copolymer,polyamide,polystyrene,synthetic_resin,polyethylene
-walnut oil	linseed_oil,vegetable_oil,sesame_oil,sunflower_oil,olive_oil
-warhead	high_explosive
-water	seawater,fresh_water,distilled_water
-water of crystallization	distilled_water
-water softener	detergent,liquid_soap
+very low density lipoprotein	hdl cholesterol
+vinyl polymer	copolymer,polyamide,polystyrene,synthetic resin,polyethylene
+walnut oil	linseed oil,vegetable oil,sesame oil,sunflower oil,olive oil
+warhead	high explosive
+water	seawater,fresh water,distilled water
+water of crystallization	distilled water
+water softener	detergent,liquid soap
 wax	beeswax
-whale oil	spermaceti,sperm_oil,paraffin,tallow,kerosene,wax,lard
+whale oil	spermaceti,sperm oil,paraffin,tallow,kerosene,wax,lard
 wood tar	turpentine,beeswax,creosote
-wool oil	lanolin,tallow,beeswax,vegetable_oil,linseed_oil
+wool oil	lanolin,tallow,beeswax,vegetable oil,linseed oil
 xanthine	purine,uracil,nucleoside,pyrimidine
 xanthophyll	carotenoid,zeaxanthin
 zanzibar copal	myrrh,storax,mastic,balsam
-zeaxanthin	lycopene,carotene,beta_carotene,carotenoid
+zeaxanthin	lycopene,carotene,beta carotene,carotenoid
 zeolite	silicate,silica
-zinc sulfate	hydroxide,copper_sulfate
+zinc sulfate	hydroxide,copper sulfate
 zymase	ptyalin

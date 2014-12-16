@@ -1,45 +1,45 @@
-abnormal psychology	developmental_psychology,social_psychology,psychopharmacology
+abnormal psychology	developmental psychology,social psychology,psychopharmacology
 aerology	meteorology
 aeronautics	acoustics
 agronomy	forestry,pomology
-analytic geometry	projective_geometry
-anatomy	physiology,comparative_anatomy,embryology,gross_anatomy
-anesthesiology	internal_medicine,pediatrics,emergency_medicine,obstetrics
+analytic geometry	projective geometry
+anatomy	physiology,comparative anatomy,embryology,gross anatomy
+anesthesiology	internal medicine,pediatrics,emergency medicine,obstetrics
 angiology	orthopedics
-anthropology	social_anthropology,ethnology,sociology,physical_anthropology
+anthropology	social anthropology,ethnology,sociology,physical anthropology
 applied mathematics	statistics,physics
-applied psychology	social_psychology,social_science,developmental_psychology,clinical_psychology,cognitive_psychology,cognitive_science
+applied psychology	social psychology,social science,developmental psychology,clinical psychology,cognitive psychology,cognitive science
 archeology	ethnology
 assyriology	linguistics
-astrodynamics	celestial_mechanics,astrometry
-astronomy	astrophysics,solar_physics,astrometry
-astrophysics	plasma_physics,astronomy,solar_physics,physics,particle_physics,nuclear_physics
+astrodynamics	celestial mechanics,astrometry
+astronomy	astrophysics,solar physics,astrometry
+astrophysics	plasma physics,astronomy,solar physics,physics,particle physics,nuclear physics
 audiology	podiatry
 bacteriology	microbiology,mycology,biochemistry,virology,immunology
-biochemistry	molecular_biology,microbiology,immunology,biophysics,molecular_genetics
+biochemistry	molecular biology,microbiology,immunology,biophysics,molecular genetics
 biogeography	systematics,ecology
-biology	molecular_biology,ecology
-biomedical science	biomedicine,biotechnology,medical_science
+biology	molecular biology,ecology
+biomedical science	biomedicine,biotechnology,medical science
 biomedicine	biotechnology,biology
-biophysics	biochemistry,biology,chemistry,molecular_biology
+biophysics	biochemistry,biology,chemistry,molecular biology
 biosystematics	systematics
 biotechnology	biomedicine
 botany	zoology,entomology,mammalogy,ichthyology,paleontology,geology
-brain science	neuroscience,cognitive_science,cognitive_neuroscience
-calculus	differential_calculus
+brain science	neuroscience,cognitive science,cognitive neuroscience
+calculus	differential calculus
 cardiology	orthopedics,gastroenterology,rheumatology,urology,oncology
-celestial mechanics	astronomy,fluid_mechanics
-chemistry	physical_chemistry,inorganic_chemistry,electrochemistry,organic_chemistry
-classical mechanics	quantum_mechanics,statistical_mechanics
+celestial mechanics	astronomy,fluid mechanics
+chemistry	physical chemistry,inorganic chemistry,electrochemistry,organic chemistry
+classical mechanics	quantum mechanics,statistical mechanics
 climatology	meteorology,limnology,oceanography,hydrology
 clinical anatomy	pathology,physiology,pharmacology
-clinical psychology	developmental_psychology,social_psychology,psychopharmacology,psychotherapy
-cognitive neuroscience	cognitive_science,cognitive_psychology,psychophysics
-cognitive psychology	cognitive_science,developmental_psychology,cognitive_neuroscience,social_psychology
-cognitive science	cognitive_psychology,cognitive_neuroscience,neuroscience,psychology
+clinical psychology	developmental psychology,social psychology,psychopharmacology,psychotherapy
+cognitive neuroscience	cognitive science,cognitive psychology,psychophysics
+cognitive psychology	cognitive science,developmental psychology,cognitive neuroscience,social psychology
+cognitive science	cognitive psychology,cognitive neuroscience,neuroscience,psychology
 comparative anatomy	embryology,physiology,zoology
-comparative psychology	developmental_psychology,ethology,cognitive_science,cognitive_psychology,social_psychology
-computational linguistics	cognitive_science
+comparative psychology	developmental psychology,ethology,cognitive science,cognitive psychology,social psychology
+computational linguistics	cognitive science
 cosmetic dentistry	orthodontics,periodontics,prosthodontics
 cosmology	astrophysics
 craniometry	paleoanthropology
@@ -47,215 +47,215 @@ criminology	sociology
 cryobiology	cryonics,cryogenics
 cryogenics	cryonics
 cryonics	cryptanalysis
-cytogenetics	cytology,molecular_genetics,genetics
+cytogenetics	cytology,molecular genetics,genetics
 cytology	cytogenetics
 demography	geography
 dental anatomy	dentistry,orthodontics,endodontics
 dental surgery	dentistry,orthodontics,urology
 dentistry	orthodontics,podiatry,medicine,periodontics,endodontics
-derivational morphology	inflectional_morphology,phonology
-descriptive linguistics	historical_linguistics,sociolinguistics
+derivational morphology	inflectional morphology,phonology
+descriptive linguistics	historical linguistics,sociolinguistics
 developmental anatomy	embryology,neurobiology,physiology
-developmental psychology	cognitive_psychology,social_psychology,cognitive_neuroscience,cognitive_science,clinical_psychology
+developmental psychology	cognitive psychology,social psychology,cognitive neuroscience,cognitive science,clinical psychology
 dietetics	podiatry,audiology
-differential calculus	integral_calculus,analytic_geometry
+differential calculus	integral calculus,analytic geometry
 earth science	geophysics,astronomy,meteorology
 ecology	limnology,biogeography
 econometrics	economics,microeconomics
 economic geography	economics,demography
-economic geology	petrology,geography,physical_geography,mineralogy
-economics	microeconomics,econometrics,economic_geography,sociology
+economic geology	petrology,geography,physical geography,mineralogy
+economics	microeconomics,econometrics,economic geography,sociology
 egyptology	ethnology,ethnography
-electrochemistry	physical_chemistry
+electrochemistry	physical chemistry
 electromagnetism	electrostatics
 electrostatics	electromagnetism
-elementary geometry	projective_geometry,plane_geometry,spherical_geometry,hyperbolic_geometry,analytic_geometry
-embryology	anatomy,comparative_anatomy,physiology,teratology
-emergency medicine	internal_medicine,pediatrics,orthopedics
+elementary geometry	projective geometry,plane geometry,spherical geometry,hyperbolic geometry,analytic geometry
+embryology	anatomy,comparative anatomy,physiology,teratology
+emergency medicine	internal medicine,pediatrics,orthopedics
 endocrinology	oncology,rheumatology,nephrology,geriatrics,urology,gastroenterology,neurology
 endodontics	orthodontics,prosthodontics,periodontics
-entomology	botany,ichthyology,zoology,herpetology,mammalogy,malacology,natural_history
+entomology	botany,ichthyology,zoology,herpetology,mammalogy,malacology,natural history
 ethnography	ethnology,archeology
 ethnology	ethnography,archeology,anthropology
-ethology	comparative_psychology,sociobiology
-exobiology	solar_physics
-experimental psychology	cognitive_psychology,social_psychology,physiological_psychology,developmental_psychology,cognitive_science,clinical_psychology,cognitive_neuroscience
+ethology	comparative psychology,sociobiology
+exobiology	solar physics
+experimental psychology	cognitive psychology,social psychology,physiological psychology,developmental psychology,cognitive science,clinical psychology,cognitive neuroscience
 fluid mechanics	hydrodynamics
 forensic medicine	pathology,anesthesiology
 forestry	silviculture
 formal semantics	syntax
-fourier analysis	numerical_analysis
-fractal geometry	hyperbolic_geometry
+fourier analysis	numerical analysis
+fractal geometry	hyperbolic geometry
 functional anatomy	morphology
 gastroenterology	urology,cardiology,oncology,orthopedics,nephrology,rheumatology
 genetic engineering	genomics,biotechnology
-genetics	molecular_genetics,genomics,molecular_biology,immunology
-genomics	proteomics,molecular_genetics,genetics
-geochemistry	petrology,economic_geology,petroleum_geology
+genetics	molecular genetics,genomics,molecular biology,immunology
+genomics	proteomics,molecular genetics,genetics
+geochemistry	petrology,economic geology,petroleum geology
 geodesy	seismology,geophysics,meteorology
-geography	physical_geography,geology,economic_geography
-geology	mineralogy,physical_geography,petrology,economic_geology
-geometry	hyperbolic_geometry,spherical_geometry,projective_geometry
+geography	physical geography,geology,economic geography
+geology	mineralogy,physical geography,petrology,economic geology
+geometry	hyperbolic geometry,spherical geometry,projective geometry
 geophysics	seismology,oceanography,geodesy,meteorology
 geopolitics	politics
 geriatrics	orthopedics,rheumatology,urology,endocrinology,oncology
 grammar	syntax
-gross anatomy	physiology,microscopic_anatomy,embryology,pathology
-gynecology	obstetrics,internal_medicine,urology,pediatrics,ophthalmology
+gross anatomy	physiology,microscopic anatomy,embryology,pathology
+gynecology	obstetrics,internal medicine,urology,pediatrics,ophthalmology
 hematology	oncology,pathology,immunology,rheumatology
 herpetology	ichthyology,entomology,mammalogy,malacology
 historical linguistics	sociolinguistics
-hydrodynamics	fluid_mechanics,mechanics
+hydrodynamics	fluid mechanics,mechanics
 hydrostatics	hydrodynamics,statics
-hyperbolic geometry	projective_geometry,spherical_geometry,plane_geometry
+hyperbolic geometry	projective geometry,spherical geometry,plane geometry
 ichthyology	herpetology,entomology,botany,mammalogy,malacology,zoology
-immunology	molecular_biology,molecular_genetics,virology,microbiology,biochemistry
+immunology	molecular biology,molecular genetics,virology,microbiology,biochemistry
 immunopathology	immunology
-inflectional morphology	derivational_morphology,phonology
-information science	social_science
-inorganic chemistry	physical_chemistry,organic_chemistry,electrochemistry
-integral calculus	differential_calculus,analytic_geometry
-internal medicine	emergency_medicine,anesthesiology,pediatrics
-jungian psychology	psychotherapy,developmental_psychology
+inflectional morphology	derivational morphology,phonology
+information science	social science
+inorganic chemistry	physical chemistry,organic chemistry,electrochemistry
+integral calculus	differential calculus,analytic geometry
+internal medicine	emergency medicine,anesthesiology,pediatrics
+jungian psychology	psychotherapy,developmental psychology
 kinematics	dynamics,statics
 kinesiology	dietetics
-lexical semantics	syntax,pragmatics,formal_semantics
+lexical semantics	syntax,pragmatics,formal semantics
 life science	biotechnology
 limnology	ecology
-linear programming	linear_algebra
-linguistics	sociolinguistics,historical_linguistics
-malacology	mammalogy,entomology,herpetology,natural_history,ichthyology
-mammalogy	malacology,natural_history,entomology,paleontology
+linear programming	linear algebra
+linguistics	sociolinguistics,historical linguistics
+malacology	mammalogy,entomology,herpetology,natural history,ichthyology
+mammalogy	malacology,natural history,entomology,paleontology
 marine archeology	oceanography
-mathematics	applied_mathematics
-matrix algebra	linear_algebra
-mechanics	fluid_mechanics
-medical science	biomedical_science
-medicine	podiatry,internal_medicine,pediatrics
-metamathematics	set_theory
+mathematics	applied mathematics
+matrix algebra	linear algebra
+mechanics	fluid mechanics
+medical science	biomedical science
+medicine	podiatry,internal medicine,pediatrics
+metamathematics	set theory
 meteorology	oceanography,climatology,geophysics,geodesy,aerology
-microbiology	biochemistry,molecular_biology,virology,immunology,molecular_genetics
+microbiology	biochemistry,molecular biology,virology,immunology,molecular genetics
 microeconomics	economics,econometrics
-microscopic anatomy	embryology,physiology,comparative_anatomy,gross_anatomy
-mineralogy	geology,petrology,economic_geology
-molecular biology	molecular_genetics,biochemistry,biophysics
-molecular genetics	molecular_biology,genomics,immunology
+microscopic anatomy	embryology,physiology,comparative anatomy,gross anatomy
+mineralogy	geology,petrology,economic geology
+molecular biology	molecular genetics,biochemistry,biophysics
+molecular genetics	molecular biology,genomics,immunology
 mycology	entomology,pteridology,bacteriology
-natural history	natural_science,geography
-natural science	social_science,earth_science,geography
-negative correlation	positive_correlation
+natural history	natural science,geography
+natural science	social science,earth science,geography
+negative correlation	positive correlation
 neonatology	orthopedics,oncology,cardiology,urology
 nephrology	urology,gastroenterology,rheumatology
 neuroanatomy	neurophysiology,neurobiology,neuroscience
 neurobiology	neuroscience,neurophysiology,neuroanatomy
-neurolinguistics	cognitive_science,cognitive_neuroscience,cognitive_psychology,psychophysics
-neurology	pediatrics,urology,internal_medicine,rheumatology,cardiology,psychiatry,nephrology
-neurophysiology	neuroscience,neurobiology,neuroanatomy,psychophysics,neuropsychiatry,cognitive_neuroscience
+neurolinguistics	cognitive science,cognitive neuroscience,cognitive psychology,psychophysics
+neurology	pediatrics,urology,internal medicine,rheumatology,cardiology,psychiatry,nephrology
+neurophysiology	neuroscience,neurobiology,neuroanatomy,psychophysics,neuropsychiatry,cognitive neuroscience
 neuropsychiatry	neurology,neuroscience,psychopharmacology,psychiatry,neurophysiology
-neuroscience	neurobiology,cognitive_science,cognitive_neuroscience,neurophysiology,cognitive_psychology
-non euclidean geometry	hyperbolic_geometry
+neuroscience	neurobiology,cognitive science,cognitive neuroscience,neurophysiology,cognitive psychology
+non euclidean geometry	hyperbolic geometry
 nonparametric statistics	econometrics,analysis
 nuclear medicine	radiology
-nuclear physics	plasma_physics,particle_physics,solid_state_physics,astrophysics
-obstetrics	gynecology,urology,pediatrics,internal_medicine,ophthalmology
+nuclear physics	plasma physics,particle physics,solid state physics,astrophysics
+obstetrics	gynecology,urology,pediatrics,internal medicine,ophthalmology
 oceanography	meteorology,geophysics
 oncology	urology,gastroenterology,rheumatology
 ophthalmology	urology,obstetrics,gynecology,neurology,oncology
-organic chemistry	inorganic_chemistry,physical_chemistry,electrochemistry
+organic chemistry	inorganic chemistry,physical chemistry,electrochemistry
 orthodontics	periodontics,endodontics,prosthodontics
 orthopedics	urology,cardiology
 otology	ophthalmology
-paleoanthropology	paleontology,paleobiology,paleobotany,vertebrate_paleontology,paleopathology,ethology
+paleoanthropology	paleontology,paleobiology,paleobotany,vertebrate paleontology,paleopathology,ethology
 paleobiology	paleontology,paleoanthropology,paleoecology,paleobotany,paleogeography
-paleobotany	paleontology,paleoecology,vertebrate_paleontology,paleobiology,paleoanthropology,limnology
+paleobotany	paleontology,paleoecology,vertebrate paleontology,paleobiology,paleoanthropology,limnology
 paleoclimatology	paleobiology,paleontology
 paleoecology	paleobotany,paleobiology,paleontology,paleogeography,biogeography
 paleogeography	paleoecology,paleobiology,stratigraphy,paleontology,paleoclimatology
-paleogeology	economic_geology
+paleogeology	economic geology
 paleontology	paleobotany,paleobiology,paleoanthropology,geology
-paleopathology	paleoanthropology,paleontology,vertebrate_paleontology,paleobotany
+paleopathology	paleoanthropology,paleontology,vertebrate paleontology,paleobotany
 paleozoology	paleoanthropology,paleobotany
-particle physics	nuclear_physics,plasma_physics,astrophysics
+particle physics	nuclear physics,plasma physics,astrophysics
 pathology	radiology,hematology,pharmacology
-pediatrics	internal_medicine,orthopedics,neurology,urology,obstetrics,anesthesiology
+pediatrics	internal medicine,orthopedics,neurology,urology,obstetrics,anesthesiology
 perinatology	neonatology,urology,orthopedics
 periodontics	orthodontics,prosthodontics,endodontics
-petroleum geology	petrology,geochemistry,economic_geology
-petrology	geochemistry,economic_geology,petroleum_geology,geology
+petroleum geology	petrology,geochemistry,economic geology
+petrology	geochemistry,economic geology,petroleum geology,geology
 pharmacogenetics	pharmacokinetics
 pharmacology	toxicology,biochemistry,pathology,physiology
-photochemistry	electrochemistry,physical_chemistry
-physical anthropology	ethnology,social_anthropology
-physical chemistry	inorganic_chemistry,electrochemistry,organic_chemistry
+photochemistry	electrochemistry,physical chemistry
+physical anthropology	ethnology,social anthropology
+physical chemistry	inorganic chemistry,electrochemistry,organic chemistry
 physical geography	geology,geodesy,climatology
-physics	plasma_physics,nuclear_physics,astrophysics,particle_physics
-physiological psychology	developmental_psychology,social_psychology,cognitive_psychology,cognitive_neuroscience,abnormal_psychology
+physics	plasma physics,nuclear physics,astrophysics,particle physics
+physiological psychology	developmental psychology,social psychology,cognitive psychology,cognitive neuroscience,abnormal psychology
 physiology	anatomy,neurobiology,biology,pathology,biochemistry,pharmacology
-plane geometry	hyperbolic_geometry,spherical_geometry,projective_geometry
-plasma physics	nuclear_physics,astrophysics,particle_physics,solid_state_physics
+plane geometry	hyperbolic geometry,spherical geometry,projective geometry
+plasma physics	nuclear physics,astrophysics,particle physics,solid state physics
 podiatry	audiology
 politics	geopolitics
-positive correlation	negative_correlation
+positive correlation	negative correlation
 pragmatics	sociolinguistics,phonology,semantics
 prescriptive linguistics	pragmatics,sociolinguistics
-problem solving	linear_programming
-proctology	emergency_medicine,internal_medicine,anesthesiology,urology
-projective geometry	hyperbolic_geometry,spherical_geometry
+problem solving	linear programming
+proctology	emergency medicine,internal medicine,anesthesiology,urology
+projective geometry	hyperbolic geometry,spherical geometry
 prosthodontics	orthodontics,periodontics,endodontics
 proteomics	genomics
 protohistory	ethnology
 protozoology	bacteriology
 psychiatry	neurology,pediatrics,neuropsychiatry
-psychology	social_psychology,developmental_psychology,clinical_psychology,cognitive_psychology
+psychology	social psychology,developmental psychology,clinical psychology,cognitive psychology
 psychopharmacology	psychotherapy,neuropsychiatry,neuroscience,psychology
-psychophysics	cognitive_neuroscience,cognitive_psychology,cognitive_science,neuroscience,neurophysiology
+psychophysics	cognitive neuroscience,cognitive psychology,cognitive science,neuroscience,neurophysiology
 pteridology	mycology
-pure mathematics	applied_mathematics,physics
-quantum electrodynamics	quantum_field_theory,statistical_mechanics,quantum_mechanics
-quantum field theory	statistical_mechanics,quantum_mechanics
-quantum mechanics	statistical_mechanics,quantum_physics,classical_mechanics
-quantum physics	statistical_mechanics,quantum_mechanics
+pure mathematics	applied mathematics,physics
+quantum electrodynamics	quantum field theory,statistical mechanics,quantum mechanics
+quantum field theory	statistical mechanics,quantum mechanics
+quantum mechanics	statistical mechanics,quantum physics,classical mechanics
+quantum physics	statistical mechanics,quantum mechanics
 radio astronomy	astrophysics,astrometry
-radiobiology	radiochemistry,biophysics,molecular_biology
-radiochemistry	radiobiology,radio_astronomy
+radiobiology	radiochemistry,biophysics,molecular biology
+radiochemistry	radiobiology,radio astronomy
 radiology	urology,orthopedics,cardiology
 realpolitik	ritualism
-regional anatomy	embryology,gross_anatomy,comparative_anatomy
+regional anatomy	embryology,gross anatomy,comparative anatomy
 rheumatology	cardiology,oncology,orthopedics,geriatrics,urology
 ritualism	realpolitik
 seismology	geophysics,geodesy
-semantics	formal_semantics,syntax
+semantics	formal semantics,syntax
 silviculture	forestry
-social anthropology	sociology,social_psychology
-social psychology	developmental_psychology,sociology,cognitive_psychology
+social anthropology	sociology,social psychology
+social psychology	developmental psychology,sociology,cognitive psychology
 social science	sociology,psychology
-sociobiology	ethology,comparative_psychology
-sociolinguistics	linguistics,pragmatics,historical_linguistics
-sociology	anthropology,social_science,economics,psychology
-solar physics	astrophysics,plasma_physics,astronomy,nuclear_physics,particle_physics
-solid geometry	spherical_geometry,plane_geometry,hyperbolic_geometry,projective_geometry
-solid state physics	plasma_physics,nuclear_physics
-space medicine	sports_medicine
-spherical geometry	hyperbolic_geometry,projective_geometry
+sociobiology	ethology,comparative psychology
+sociolinguistics	linguistics,pragmatics,historical linguistics
+sociology	anthropology,social science,economics,psychology
+solar physics	astrophysics,plasma physics,astronomy,nuclear physics,particle physics
+solid geometry	spherical geometry,plane geometry,hyperbolic geometry,projective geometry
+solid state physics	plasma physics,nuclear physics
+space medicine	sports medicine
+spherical geometry	hyperbolic geometry,projective geometry
 sports medicine	podiatry,orthopedics,dietetics
-statics	hydrostatics,kinematics,statistical_mechanics
-statistical mechanics	fluid_mechanics
+statics	hydrostatics,kinematics,statistical mechanics
+statistical mechanics	fluid mechanics
 statistics	econometrics
 structural genomics	proteomics
-synchronic linguistics	sociolinguistics,historical_linguistics,pragmatics
+synchronic linguistics	sociolinguistics,historical linguistics,pragmatics
 syntax	semantics
 systematics	biogeography,taxonomy
 teratology	embryology,anatomy
 thermochemistry	thermodynamics
-thermodynamics	statistical_mechanics
+thermodynamics	statistical mechanics
 thoracic medicine	urology,orthopedics
 toxicology	pharmacology,microbiology
-traumatology	urology,orthopedics,pediatrics,internal_medicine,anesthesiology
-trigonometry	geometry,analytic_geometry,spherical_geometry,mathematics
-tropical medicine	veterinary_medicine,epidemiology,mycology
+traumatology	urology,orthopedics,pediatrics,internal medicine,anesthesiology
+trigonometry	geometry,analytic geometry,spherical geometry,mathematics
+tropical medicine	veterinary medicine,epidemiology,mycology
 urology	orthopedics
-vector algebra	linear_algebra
+vector algebra	linear algebra
 vertebrate paleontology	paleobotany,paleoecology,paleoanthropology
 veterinary medicine	dentistry,podiatry
-virology	molecular_biology,immunology,microbiology,molecular_genetics,biochemistry,epidemiology,genetics
-zoology	botany,entomology,paleontology,mammalogy,comparative_anatomy,natural_history,ichthyology
+virology	molecular biology,immunology,microbiology,molecular genetics,biochemistry,epidemiology,genetics
+zoology	botany,entomology,paleontology,mammalogy,comparative anatomy,natural history,ichthyology
