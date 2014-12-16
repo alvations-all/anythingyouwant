@@ -1,0 +1,166 @@
+astronomy satellite	communications_satellite
+atomic pile	pressurized_water_reactor
+badminton equipment	sports_equipment
+ballistic pendulum	foucault_pendulum
+barbell	dumbbell
+baseball	softball,football,volleyball,basketball
+baseball equipment	sports_equipment
+baseball glove	baseball_bat,softball,catcher_s_mask
+basketball	volleyball,football,racquetball,handball
+basketball equipment	volleyball
+bathyscaphe	bathysphere,submersible
+bathysphere	bathyscaphe,submersible
+batting glove	baseball
+batting helmet	catcher_s_mask
+billiard ball	eight_ball
+black	white
+black box	blister_pack
+bocce ball	football
+bowling ball	candlepin
+bowling equipment	sports_equipment,sporting_goods
+box camera	digital_camera
+boxing equipment	sports_equipment
+breeder reactor	fast_reactor,nuclear_reactor
+bubble jet printer	purifier
+bunsen burner	gas_burner
+burner	gas_burner
+cage	burner
+camera	digital_camera
+candid camera	film,motion_picture_camera,digital_camera
+candlepin	duckpin
+cassette deck	cassette_recorder,cassette_player,tape_recorder,tape_deck
+cassette player	cassette_recorder,tape_recorder,cassette_deck,cd_player
+cassette recorder	recording_system,tape_recorder,reel
+catcher's mask	man,baseball
+cd player	tape_recorder
+chemical reactor	nuclear_reactor
+circuitry	chip
+clock pendulum	foucault_pendulum
+computer keyboard	joystick
+condenser	cooling_system
+cricket ball	tennis_ball,cricket_bat
+cricket equipment	sports_equipment
+cue ball	object_ball
+curb	snaffle,pelham
+desk phone	handset,telephone
+dictaphone	tape_recorder
+discus	javelin
+diving bell	submersible
+drogue	drogue_parachute
+duckpin	candlepin
+dumbbell	drogue,barbell
+duplicator	dumbbell
+electronic equipment	test_equipment
+equipment	electronic_equipment,test_equipment
+fast reactor	nuclear_reactor
+field hockey ball	football
+first base	third_base
+football	volleyball,basketball
+foucault pendulum	simple_pendulum
+fuel system	cooling_system
+golf ball	football
+golf club	football,volleyball
+golf equipment	sports_equipment
+gymnastic apparatus	trampoline
+halter	bridle
+handball	volleyball,basketball,football
+hectograph	mimeograph
+heterodyne receiver	radio_receiver
+home plate	third_base
+javelin	discus
+king	queen
+knight	queen,king,pawn
+life jacket	life_preserver,man,mae_west
+life preserver	mae_west
+magnetic recorder	recording_system
+medicine ball	volleyball
+microfiche	microfilm
+microfilm	microfiche
+mimeograph	hectograph
+multichannel recorder	recording_system
+naval radar	air_search_radar,surface_search_radar
+negative	positive
+ninepin ball	duckpin
+nuclear reactor	pressurized_water_reactor,fast_reactor
+object ball	cue_ball
+optical bench	goniometer
+orthochromatic film	roll_film,panchromatic_film,motion_picture_film
+oscilloscope	output_device
+panchromatic film	roll_film
+parallel bars	horizontal_bar,pommel_horse,balance_beam
+pelham	snaffle
+pendulum	foucault_pendulum,simple_pendulum
+photocopier	photographic_paper,xerox
+photographic equipment	electronic_equipment
+physical pendulum	simple_pendulum
+pine tar rag	wood
+pitching wedge	sand_wedge
+point and shoot camera	digital_camera
+polaroid camera	digital_camera,film
+pommel horse	horizontal_bar
+pool ball	eight_ball
+portrait camera	digital_camera
+positive	negative
+pressurized water reactor	nuclear_reactor
+punching bag	man
+queen	king
+racquetball	volleyball,basketball
+radio receiver	radio_transmitter,radiotelephone
+radio transmitter	television_transmitter
+radiotelephone	radio_transmitter,radio_receiver,cellular_telephone
+receiver	radio_transmitter,radio_receiver
+recorder	recording_system
+recording system	cassette_recorder
+reel	recording_system,tape_recorder
+rigging	rig
+roll	rocker
+roulette ball	roulette_wheel
+rugby ball	football,eight_ball
+saddle blanket	bridle,cinch
+salyut	space_station
+sand wedge	pitching_wedge
+satellite	communications_satellite
+satellite receiver	communications_satellite,radio_transmitter
+satellite transmitter	radio_transmitter,communications_satellite
+scanner	scrambler
+scrambler	scanner
+second base	third_base,first_base
+sewing kit	first_aid_kit
+ship towed long range acoustic detection system	surface_search_radar
+simple pendulum	foucault_pendulum
+skylab	salyut
+snaffle	pelham
+soccer ball	football
+softball	volleyball,baseball,football,basketball
+sound camera	recording_system,digital_camera
+space capsule	space_station
+space shuttle	space_station,space_capsule
+space station	salyut,space_shuttle
+spark transmitter	radio_transmitter
+sporting goods	sports_equipment
+sports equipment	sporting_goods
+sputnik	communications_satellite
+spy satellite	communications_satellite,weather_satellite
+surface search radar	air_search_radar
+tape deck	tape_recorder,reel,cassette_recorder,recording_system
+tape player	tape_recorder,reel,tape_deck,cassette_recorder,recording_system,recorder
+tape recorder	recording_system,reel,cassette_recorder
+tee	taw
+telegraph	telephone
+telephone	telegraph
+television camera	motion_picture_camera,film
+television receiver	television_transmitter,radio_transmitter
+television transmitter	radio_transmitter
+test equipment	electronic_equipment
+thermal reactor	nuclear_reactor,fast_reactor,pressurized_water_reactor
+third base	first_base,second_base
+transmitter	radio_transmitter
+ultracentrifuge	catalytic_cracker
+uneven parallel bars	parallel_bars,horizontal_bar,balance_beam
+vaulting horse	horizontal_bar
+videocassette recorder	recording_system,cassette_recorder
+volleyball	basketball,football,handball
+walkman	webcam,tape_recorder
+weather satellite	communications_satellite
+white	black
+wire recorder	recording_system,tape_recorder

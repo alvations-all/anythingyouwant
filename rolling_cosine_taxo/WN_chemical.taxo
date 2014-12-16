@@ -1,0 +1,892 @@
+abo antibodies	immunoglobulin,antibody
+acaricide	insecticide
+acaroid resin	synthetic_resin
+acetal	nitrile,hemiacetal,organic_compound,ester
+acetaldehyde	acetic_acid,furfural,formic_acid,formaldehyde,acetone,acetamide
+acetamide	pyridine
+acetate	citrate,ester,acetic_acid
+acetic acid	hydrochloric_acid,phosphoric_acid,propionic_acid,butyric_acid,oxalic_acid
+acetic anhydride	acetic_acid,nitric_acid,hydrochloric_acid,ester,aniline,phosphoric_acid
+acetoacetic acid	butyric_acid,propionic_acid
+acetone	ethyl_acetate,toluene,acetic_acid
+acetyl chloride	bromide
+acetylcholine	neurotransmitter,serotonin,dopamine,noradrenaline,histamine
+acetylene	ethylene,butane,ethane,calcium_carbide
+acrylamide	tetrafluoroethylene,polyvinyl_chloride
+acrylic	polyurethane,polyester
+actin	myosin
+actomyosin	myosin,actin
+acyl anhydrides	carboxylic_acid,amide,ester,amine
+acyl halide	alkyl_halide,amine
+adenine	guanine,cytosine,thymine,uracil,pyrimidine,purine
+adenosine	nucleoside,adenosine_deaminase,inosine,adenosine_monophosphate
+adenosine deaminase	nucleoside,adenosine_monophosphate,purine
+adenosine diphosphate	pyrophosphate
+adenosine monophosphate	nucleoside,pyrophosphate
+adenosine triphosphate	nucleoside,pyrophosphate,adenosine_monophosphate,adenosine_diphosphate
+agent orange	herbicide
+agglutinin	lectin
+alanine	valine,glutamic_acid,leucine,arginine,proline,glutamine,aspartic_acid,serine,glycine,isoleucine
+albumin	serum_albumin,transferrin,globulin
+aldehyde	ketone,carboxylic_acid,oxime
+aldohexose	ketose
+aldol	enamine
+aldose	ketose,hexose,monosaccharide,aldohexose
+aleurone	pectin,starch
+alicyclic compound	organic_compound,aromatic_compound
+aliphatic compound	organic_compound
+alkali	sodium_carbonate
+alkyd	acrylic,synthetic_resin,epoxy
+alkyl halide	amine
+alkylbenzene	heterocyclic_compound,organic_compound
+allyl resin	epoxy
+almond oil	sesame_oil,vegetable_oil,olive_oil,coconut_oil,peanut_oil
+alpha globulin	glycoprotein
+alpha linolenic acid	linoleic_acid
+aluminum chloride	hydroxide
+amber	copal
+amide	amine,ester,carboxylic_acid
+amine	amide,isocyanate
+amino acid	glutamic_acid,asparagine,aspartic_acid
+ammonia	urea,ammonium,hydrogen_chloride,hydrogen_sulfide
+ammonium	nitrate,sulfate
+ammonium carbamate	oxalate,carbamic_acid
+ammonium carbonate	hydroxide,sulfate,potassium_carbonate
+ammonium chloride	hydroxide
+ammonium nitrate	potassium_nitrate,sodium_nitrate,chlorate,ammonium_chloride
+amygdalin	alkaloid
+amylase	lipase,invertase
+androsterone	steroid,sterol
+anhydride	acid,organic_compound
+aniline	phthalic_anhydride,nitrobenzene,pyridine,acetic_anhydride
+animal fat	lard
+anionic compound	organic_compound
+antibody	monoclonal_antibody,immunoglobulin
+antihemophilic factor	interleukin
+antitoxin	antibody,monoclonal_antibody
+antivenin	monoclonal_antibody
+apoenzyme	enzyme
+arginine	alanine,lysine,serine,amino_acid,glutamine,glutamic_acid,cysteine,asparagine,leucine,valine
+aromatic compound	organic_compound
+aromatic hydrocarbon	organic_compound
+arrowroot	sago
+arsenate	vanadate
+arsenic	arsenical
+arsenic acid	arsenical
+arsenical	arsenic,paris_green
+asparagine	glutamic_acid,serine,arginine,aspartic_acid,alanine,leucine,threonine,amino_acid,tyrosine,phenylalanine
+aspartic acid	glutamic_acid,asparagine,alanine,leucine,valine
+atomic warhead	high_explosive
+atrazine	herbicide,lindane
+atropine	scopolamine,physostigmine
+attar	attar_of_roses
+attar of roses	beeswax,myrrh,balsam,wax,copal
+autoantibody	antibody,monoclonal_antibody,immunoglobulin_e
+azadirachtin	acaricide
+azide	isocyanate,amine,phosphine,amide
+babassu oil	coconut_oil,vegetable_oil,mineral_oil
+bagasse	wood_pulp
+balm	balsam
+balm of gilead	balsam,mastic,storax
+balsam	bdellium
+banana oil	sesame_oil
+bar soap	laundry_detergent,shampoo
+barbituric acid	ester,anhydride,sorbic_acid
+base pair	cytosine,thymine,adenine,guanine
+bath water	lye,distilled_water
+bathroom cleaner	shampoo,detergent,laundry_detergent
+bayberry wax	beeswax
+bdellium	balsam,storax,myrrh,benzoin
+beef tallow	lard,suet,animal_fat
+beeswax	wax,tallow,linseed_oil
+beet sugar	cane_sugar
+benzene	toluene,naphthalene,methylene_chloride,nitrobenzene,hexane
+benzoate	benzoic_acid
+benzoate of soda	salt
+benzoic acid	hydroxybenzoic_acid,propionic_acid
+benzoin	balsam,camphor,bdellium,myrrh,storax
+benzoyl peroxide	boric_acid
+beta carotene	carotenoid,lycopene,zeaxanthin
+beta endorphin	enkephalin
+betaine	sarcosine
+bicarbonate	carbonic_acid,sodium_chloride
+bicarbonate of soda	salt,sodium_carbonate,vinegar,sodium_chloride
+bile salt	bile_acid
+bitartrate	tartrate
+bitter principle	alkaloid
+bitumen	oil
+blasting gelatin	gelignite,nitroglycerin,cordite
+blood sugar	glucose
+borate	boric_acid
+boron trifluoride	trichloride
+borosilicate	silicon_carbide
+bromide	chloride,iodide
+brucine	strychnine
+butadiene	styrene,ethylene
+butane	naphtha,liquefied_petroleum_gas,ethane
+butyl rubber	neoprene,nylon,polyurethane
+butyric acid	propionic_acid,succinic_acid,anhydride
+cadaverine	putrescine,tryptophan
+calcium bicarbonate	carbonate,sodium_chloride,calcium_carbonate
+calcium carbide	nitride,silicon_carbide
+calcium chloride	hydroxide
+calcium cyanamide	ammonium,calcium_nitrate,potassium_nitrate,nitrate
+calcium hydride	hydroxide
+calcium hydroxide	carbonate,magnesium_hydroxide
+calcium hypochlorite	sodium_hypochlorite,sodium_chloride,calcium_hydroxide,calcium_chloride,sodium_carbonate
+calcium lactate	calcium_phosphate
+calcium nitrate	potassium_nitrate,ammonium,sodium_nitrate
+calcium phosphate	carbonate
+calcium sulphate	sulfate,carbonate
+calomel	magnesium_sulfate
+camphor	benzoin,essential_oil
+camphor oil	essential_oil,turpentine,mineral_oil
+canada balsam	bdellium
+candelilla wax	beeswax,spermaceti,whale_oil
+canola oil	soybean_oil,sunflower_oil,peanut_oil,vegetable_oil,corn_oil,coconut_oil,safflower_oil
+capric acid	stearic_acid,myristic_acid
+caproic acid	stearic_acid,myristic_acid
+caprylic acid	stearic_acid,myristic_acid
+carbamic acid	anhydride,ester,organic_compound
+carbide	silicon_carbide,nitride
+carbohydrate	oligosaccharide,polysaccharide
+carbolic acid	salicylic_acid
+carbon dioxide	trioxide,monoxide,sulfur_dioxide
+carbon disulfide	monoxide,oxide
+carbon monoxide	trioxide
+carbon tetrachloride	monoxide,trioxide,tetroxide
+carbon tetrahalide	binary_compound
+carbonate	hydroxide,silicate
+carbonic acid	anhydride,phosphoric_acid
+carbonyl	alkene
+carboxylic acid	ester,anhydride,propionic_acid
+carboxymethyl cellulose	pectin,polysaccharide
+cardiac glycoside	digitoxin
+carnauba wax	beeswax,lanolin,linseed_oil,paraffin,mineral_oil
+carotene	carotenoid,beta_carotene,lycopene,zeaxanthin
+carotenoid	carotene,beta_carotene,lycopene,zeaxanthin,xanthophyll
+casein	gelatin
+castile soap	bar_soap
+catalase	oxidase,peroxidase
+catechin	glucoside,flavonoid
+cellulose	lignin,cellulose_acetate,chitin,polysaccharide,cellulose_nitrate
+cellulose acetate	cellulose_nitrate,cellulose_triacetate
+cellulose ester	cellulose_acetate
+cellulose nitrate	cellulose_acetate,cellulose_triacetate
+cellulose triacetate	cellulose_acetate,cellulose_nitrate
+cellulose xanthate	cellulose_acetate
+cementite	carbide
+chabazite	natrolite,heulandite
+chaulmoogra oil	clove_oil
+cherry bomb	high_explosive
+chian turpentine	balsam,mastic
+chitin	polysaccharide,hyaluronic_acid,cellulose
+chlorate	potassium_chlorate,nitrate,potassium_nitrate,fulminate
+chloric acid	anhydride
+chloride	bromide,iodide,trichloride
+chlorine dioxide	trioxide,hydrogen_chloride,sulfur_dioxide,hydrofluoric_acid,nitrogen_dioxide,monoxide
+chlorobenzene	nitrobenzene
+chlorofluorocarbon	freon,halocarbon
+chloroform	carbon_tetrachloride,methylene_chloride,toluene,hexane,acetone,ether,ethyl_acetate
+chloropicrin	methyl_bromide
+chlorpyrifos	malathion,lindane,parathion,organophosphate
+cholesterol	lipid,lipoprotein,sterol
+cholic acid	bile_acid
+chromic acid	potassium_permanganate,potassium_dichromate,hydrochloric_acid,hydrobromic_acid
+cinchonine	alkaloid
+citrate	oxalate,acetate,lactate,tartrate
+citric acid	tartaric_acid,lactic_acid,fumaric_acid,sorbic_acid
+citrulline	ornithine,arginine,glutamine
+cleansing agent	conditioner
+clove oil	essential_oil
+coagulation factor	thrombin,fibrinogen
+coal tar	naphtha,turpentine,oil,bitumen,petroleum
+cocoa butter	vegetable_oil
+coconut oil	vegetable_oil,sesame_oil,olive_oil,cooking_oil,sunflower_oil,peanut_oil,canola_oil
+cod liver oil	olive_oil,coconut_oil,lard,cooking_oil
+cod oil	olive_oil
+cohune nut oil	vegetable_oil
+collagen	elastin,fibrin,hyaluronic_acid
+collagenase	protease
+colophony	balsam
+complementary dna	nucleic_acid
+compound	organic_compound
+conditioner	shampoo
+cooking oil	vegetable_oil,olive_oil,sesame_oil,coconut_oil,lard
+copaiba	oleoresin,balsam
+copal	storax,myrrh,mastic,balsam
+copolymer	polymer,styrene
+copper sulfate	sulfide
+cordite	smokeless_powder,gunpowder
+corn oil	vegetable_oil,soybean_oil,sunflower_oil,peanut_oil,sesame_oil,coconut_oil,canola_oil
+corn sugar	cane_sugar,cornstarch
+cornstarch	starch
+corrosive	caustic
+cortisone	steroid
+cottonseed oil	soybean_oil,coconut_oil,vegetable_oil,canola_oil,sunflower_oil,peanut_oil,corn_oil
+courbaril copal	balsam
+cow manure	horse_manure
+cracklings	lard
+cream of tartar	salt
+creatine	taurine
+creosote	coal_tar,turpentine,balsam
+cresol	phenol
+cyanamide	cyanohydrin
+cyanic acid	tartaric_acid,oxalic_acid
+cyanide	potassium_cyanide,sodium_cyanide,hydrogen_cyanide,arsenic
+cymene	thymol
+cysteine	serine,amino_acid,methionine,arginine,threonine,histidine,leucine,lysine,alanine
+cystine	cysteine,ornithine,methionine,serine,amino_acid,alanine,arginine,histidine,phenylalanine
+cytochrome	oxidase,reductase,cytochrome_c,flavin
+cytochrome c	reductase,oxidase,oxidoreductase
+cytokine	interleukin
+cytosine	thymine,guanine,adenine,uracil,pyrimidine,purine
+dammar	balsam
+defoliant	agent_orange,insecticide,pesticide,dioxin,herbicide
+dentifrice	toothpaste
+deoxyadenosine	deoxyguanosine,nucleoside,uracil
+deoxyadenosine monophosphate	deoxyguanosine,nucleoside
+deoxycytidine	nucleoside,deoxyguanosine
+deoxycytidine monophosphate	nucleoside,adenosine_monophosphate
+deoxyguanosine	nucleoside,deoxycytidine,deoxyadenosine,uracil
+deoxyguanosine monophosphate	adenosine_monophosphate,nucleoside,inosine,pyrophosphate
+deoxyribose	ribose,nucleoside,deoxycytidine,uracil,nucleotide
+deoxythymidine	nucleoside
+deoxythymidine monophosphate	nucleoside,adenosine_diphosphate
+detergent	laundry_detergent,soap,shampoo
+dextrin	starch
+dextrose	sucrose,calcium_lactate
+diamine	imide
+dibasic salt	sodium_chloride
+dichloride	chloride,trichloride
+digitalis	digoxin,digitoxin
+digitoxin	cardiac_glycoside,digitalis,digoxin
+digoxin	digitalis,cardiac_glycoside
+dimer	trimer
+dioxide	trioxide,monoxide,tetroxide,oxide,pentoxide
+dioxin	agent_orange
+disaccharide	polysaccharide,galactose,maltose,monosaccharide,oligosaccharide
+dishwasher detergent	laundry_detergent,liquid_soap,shampoo
+disrupting explosive	high_explosive
+dna polymerase	endonuclease,reverse_transcriptase
+docosahexaenoic acid	eicosapentaenoic_acid
+dopa	l_dopa,decarboxylase
+dopamine	serotonin,noradrenaline,monoamine,neurotransmitter,acetylcholine
+double salt	sodium_chloride
+drying oil	linseed_oil,vegetable_oil,beeswax
+dynamite	gunpowder,gelignite
+eicosapentaenoic acid	linoleic_acid,docosahexaenoic_acid
+elaidic acid	stearic_acid,myristic_acid
+elastase	trypsin,protease,trypsinogen
+elastin	collagen,fibrin
+enamine	enol,alkyl_halide
+endonuclease	nuclease,exonuclease,dna_polymerase
+endorphin	enkephalin,beta_endorphin,dopamine
+enol	enamine,ketone,alkyl_halide
+ephedrine	pseudoephedrine,ergotamine
+epinephrine	noradrenaline,serotonin
+episome	transposon
+epoxy	polyurethane,urethane
+epsom salts	salt,sulfate,magnesium_sulfate
+ergonovine	lysergic_acid,ergotamine
+ergosterol	sterol,steroid
+ergotamine	lysergic_acid,ergonovine
+erythropoietin	interleukin
+essential amino acid	amino_acid,arginine
+ester	carboxylic_acid,organic_compound
+ethane	butane,methane
+ether	ethyl_acetate,hexane,chloroform
+ethyl acetate	acetic_acid,ester
+ethylene	butadiene,styrene
+eucalyptus oil	essential_oil,camphor,turpentine
+exon	intron
+exonuclease	endonuclease,nuclease,dna_polymerase
+explosive	high_explosive,tnt,explosive_compound
+explosive compound	low_explosive,organic_compound
+explosive mixture	high_explosive,tnt,explosive_compound
+fatty acid	myristic_acid,oleic_acid,saturated_fatty_acid
+ferricyanide	ferrocyanide
+ferritin	transferrin,globulin
+ferrocyanide	ferricyanide
+fertilizer	manure
+fibrin	fibrinogen,thrombin,collagen
+fibrinogen	fibrin,thrombin,prothrombin,coagulation_factor
+firecracker	firework,squib,sparkler
+firework	firecracker,squib
+fixative	preservative
+fixed oil	mineral_oil
+flavin	reductase,quinone,cytochrome
+flavone	flavonoid
+flavonoid	flavone,glycoside
+flint	chert
+flintstone	flint,chert
+fluoride	sodium_fluoride
+formaldehyde	formic_acid,acetaldehyde
+freon	chlorofluorocarbon,hydrochlorofluorocarbon
+fresh water	seawater
+fructose	sucrose,glucose,galactose,lactose,maltose
+fuel oil	kerosene,naphtha,liquefied_petroleum_gas
+fulminate	chlorate,mercury_fulminate
+fumaric acid	maleic_acid,tartaric_acid
+fumigant	insecticide
+furan	organic_compound
+furfural	acetaldehyde,aniline,resorcinol,furan,acetamide
+fusel oil	lanolin
+galactose	disaccharide,maltose,hexose,glucose,fructose
+gallic acid	hydroxybenzoic_acid
+gamma globulin	immunoglobulin
+gas oil	naphtha,petroleum,fuel_oil,kerosene
+gasohol	gasoline
+gasoline	unleaded_gasoline
+gelatin	casein
+gelignite	cordite,gunpowder,dynamite
+ghedda wax	beeswax
+globin	hemoglobin
+globulin	transferrin,plasma_protein,albumin
+glucose	fructose,galactose,sucrose,glycogen,maltose,lactose
+glucoside	glycoside,flavone
+glutamate	glutamine,glycine,glutamic_acid
+glutamic acid	alanine,aspartic_acid,transaminase,asparagine
+glutamine	alanine,glutamic_acid,arginine,valine,glutamate,glycine,ornithine,aspartic_acid,proline
+glutathione peroxidase	superoxide_dismutase,oxidase,catalase
+glutelin	prolamine
+gluten	wheat_gluten
+glyceraldehyde	ketose,aldose
+glycerinated gelatin	cornstarch
+glycine	glutamic_acid,alanine,amino_acid,proline,leucine,valine,arginine,aspartic_acid,glutamine
+glycogen	glucose,carbohydrate
+glycolic acid	lactic_acid,succinic_acid,phosphoric_acid
+glycoprotein	protein
+glycoside	flavone,glucoside,flavonoid
+gondang wax	beeswax
+goose grease	wax
+grease	motor_oil,wax
+green manure	chicken_manure,fertilizer
+ground water	seawater,fresh_water
+growth factor	nerve_growth_factor
+guaiacum	balsam
+guanine	thymine,adenine,cytosine,uracil,purine,pyrimidine
+gum resin	balsam,mastic,oleoresin,essential_oil,benzoin
+gunpowder	cordite,smokeless_powder,dynamite
+gypsum	halite
+halibut liver oil	vegetable_oil,cooking_oil
+halide	alkyl_halide,chloride,bromide
+halite	gypsum
+halocarbon	chlorofluorocarbon,halon
+halon	halocarbon
+haptoglobin	hemoglobin
+hard water	soft_water
+hdl cholesterol	lipoprotein,ldl_cholesterol
+hemiacetal	acetal,ester
+hemoglobin	myoglobin,haptoglobin
+heptane	hexane
+herbicide	insecticide,pesticide
+heterocyclic compound	organic_compound,aromatic_compound
+heterophil antibody	monoclonal_antibody
+heulandite	natrolite,phillipsite
+hexane	toluene,ethyl_acetate,benzene
+hexanedioic acid	organic_compound
+hexose	galactose,aldose
+high density lipoprotein	hdl_cholesterol
+high explosive	tnt,explosive_compound
+histamine	serotonin,acetylcholine
+histidine	tyrosine,amino_acid,serine,leucine,phenylalanine,glutamic_acid,cysteine,lysine,threonine,tryptophan
+hmg coa reductase	oxidoreductase
+holy water	incense
+horse manure	cow_manure
+horseradish peroxidase	superoxide_dismutase,oxidase
+humic acid	organic
+hyaluronidase	lipase,streptokinase,enzyme,protease,invertase
+hydnocarpus oil	coconut_oil
+hydrate	monohydrate
+hydrazoic acid	anhydride,hydrobromic_acid,perchloric_acid
+hydrobromic acid	hydrochloric_acid,anhydride,hydrofluoric_acid
+hydrochloric acid	nitric_acid,hydrobromic_acid
+hydrochlorofluorocarbon	freon
+hydrocyanic acid	anhydride
+hydrofluoric acid	hydrochloric_acid,hydrobromic_acid,hydrogen_fluoride
+hydrofluorocarbon	sulfur_hexafluoride
+hydrogen bromide	chloride,hydrobromic_acid,hydrogen_fluoride,iodide,hydrogen_chloride
+hydrogen chloride	hydrogen_fluoride,hydroxide,hydrochloric_acid,hydrobromic_acid
+hydrogen cyanide	hydrogen_sulfide,hydrogen_chloride,sodium_cyanide,carbon_monoxide
+hydrogen fluoride	hydrofluoric_acid
+hydrogen iodide	chloride,hydrogen_fluoride,hydroiodic_acid
+hydrogen sulfide	sulfur_dioxide,monoxide,hydrogen_chloride,hydroxide
+hydroiodic acid	hydrobromic_acid,anhydride
+hydrolysate	casein
+hydroxyproline	proline,amino_acid,leucine,glycine,glutamic_acid,serine,phenylalanine
+hyoscyamine	scopolamine,ergotamine
+hypochlorite	sodium_hypochlorite,hypochlorous_acid,calcium_hypochlorite,potassium_permanganate
+hypochlorous acid	hypochlorite
+imidazole	pyridine
+imide	diamine
+immunoglobulin	immunoglobulin_g,antibody,immunoglobulin_m
+immunoglobulin e	antibody,immunoglobulin_m
+immunoglobulin g	glycoprotein,antibody
+immunoglobulin m	immunoglobulin_g
+incense	myrrh
+infliximab	monoclonal_antibody
+inosine	nucleoside
+insecticide	pesticide,acaricide,herbicide
+interleukin	cytokine,tumor_necrosis_factor
+intron	exon
+inulin	polysaccharide,sucrose,starch,invert_sugar
+invert sugar	sucrose,cane_sugar,starch,dextrose
+invertase	amylase,hyaluronidase,lipase,lactase
+iodic acid	anhydride
+iodide	bromide,chloride,sodium_iodide
+iodoform	iodide,sodium_iodide
+iron disulfide	sulfide
+isocyanate	amine,azide,nitrile
+isocyanic acid	tartaric_acid,oxalic_acid
+isoleucine	leucine,valine,phenylalanine,tyrosine,amino_acid,threonine,proline,aspartic_acid,tryptophan,alanine
+japan wax	polish,beeswax,soap
+javelle water	seawater
+joss stick	incense
+junk dna	deoxyribonucleic_acid,nucleic_acid,endonuclease
+kerosene	fuel_oil,paraffin,naphtha
+ketohexose	monosaccharide
+ketone	aldehyde,carboxylic_acid,enol,ester
+ketose	aldose,monosaccharide,aldohexose,hexose
+l dopa	decarboxylase,phenylalanine
+labdanum	myrrh,benzoin,stacte,storax
+lactase	enzyme,amylase,invertase
+lactate	lactic_acid,citrate
+lactic acid	glycolic_acid,succinic_acid,oxalic_acid
+lactose	maltose,sucrose,galactose,fructose
+lanolin	carnauba_wax,beeswax
+lard	suet
+lard oil	vegetable_oil,cooking_oil,olive_oil,coconut_oil,tallow,cottonseed_oil,sesame_oil
+larvicide	insecticide
+laundry detergent	shampoo,soap,bar_soap
+lauric acid	oleic_acid,myristic_acid,linoleic_acid,palmitic_acid,stearic_acid
+ldl cholesterol	lipoprotein,hdl_cholesterol
+lead acetate	hydroxide
+lead arsenate	arsenic
+leaded gasoline	unleaded_gasoline,octane,motor_oil
+lecithin	cocoa_butter,soybean_oil
+lectin	protein
+leucine	isoleucine,valine,threonine,phenylalanine,amino_acid,proline,tyrosine,alanine,tryptophan,glutamic_acid
+lignin	cellulose,pectin
+limewater	lye,sodium_carbonate,calcium_hydroxide,sodium_hydroxide,distilled_water
+limonene	linalool
+linalool	limonene
+lindane	malathion,insecticide
+linoleic acid	oleic_acid
+linolenic acid	linoleic_acid,oleic_acid,eicosapentaenoic_acid
+linseed oil	vegetable_oil,tung_oil,walnut_oil
+lipase	protease,amylase,trypsin
+lipid	phospholipid,cholesterol
+liquefied petroleum gas	fuel_oil,naphtha
+liquid detergent	laundry_detergent,soap
+liquid soap	detergent,bar_soap,shampoo,laundry_detergent,grease
+lithium carbonate	hydroxide,chloride
+low density lipoprotein	hdl_cholesterol
+low explosive	explosive_compound,high_explosive,tnt
+lucite	acrylic,polyurethane
+lycopene	carotene,beta_carotene,zeaxanthin,carotenoid
+lye	sodium_hydroxide,limewater,sodium_hypochlorite,soap,sodium_carbonate
+lymphokine	cytokine,interleukin
+lysine	arginine,histidine,amino_acid,serine,cysteine,threonine,methionine,leucine,glutamic_acid,alanine
+lysozyme	elastase,protease,amylase
+macromolecule	polymer
+magnesium bicarbonate	carbonate,sodium_chloride,hydroxide
+magnesium hydroxide	carbonate
+magnesium nitride	oxide
+magnesium sulfate	hydroxide
+malathion	organophosphate,insecticide,lindane
+maleic acid	anhydride,fumaric_acid,tartaric_acid
+maltose	sucrose,galactose,lactose,disaccharide,raffinose
+manganese tetroxide	oxide
+manure	fertilizer,chicken_manure,cow_manure
+maple sugar	sago
+marbling	maroon
+marsh gas	fresh_water
+mastic	balsam,copal
+melamine	cyanuric_acid,corn_gluten
+melamine resin	polyurethane,urethane
+menhaden oil	fish_meal,olive_oil
+menthol	camphor,methyl_salicylate
+mercury fulminate	chlorate
+messenger rna	nucleic_acid,deoxyribonucleic_acid,endonuclease
+methane	ethane,carbon_dioxide
+methionine	cysteine,leucine,lysine,valine,tryptophan,amino_acid,phenylalanine,isoleucine,arginine
+methyl bromide	chloride,iodide
+methyl salicylate	salicylic_acid
+methylene chloride	bromide
+microcosmic salt	magnesium_sulfate
+mineral oil	vegetable_oil,linseed_oil,paraffin
+monoamine	serotonin,dopamine,neurotransmitter,noradrenaline
+monoamine neurotransmitter	serotonin,dopamine,noradrenaline,acetylcholine
+monohydrate	zinc_sulfate
+monomer	copolymer,polymer,dimer
+monosaccharide	ketose,disaccharide,aldose,hexose,oligosaccharide
+monounsaturated fatty acid	linoleic_acid,oleic_acid,palmitic_acid,myristic_acid
+monoxide	trioxide
+montan wax	beeswax
+motor oil	kerosene,gasoline
+mucin	glycoprotein
+mucoid	mucin
+muriatic acid	hydrochloric_acid
+mustard oil	sesame_oil,olive_oil,vegetable_oil,cooking_oil,vinegar
+mutton tallow	lard,beeswax
+myoglobin	hemoglobin
+myosin	actin
+myristic acid	oleic_acid,linoleic_acid,palmitic_acid,stearic_acid
+myrrh	storax,copal,stacte,labdanum,balsam
+napalm	high_explosive
+naphtha	fuel_oil,kerosene
+naphthalene	benzene,toluene
+naphthol	benzoic_acid
+natrolite	chabazite,heulandite,phillipsite
+neem cake	lemongrass
+neoprene	nylon,polyurethane,polyester
+nerve growth factor	growth_factor,cytokine
+neurochemical	neurotransmitter
+neurotransmitter	acetylcholine,serotonin,dopamine,monoamine
+nicotine	caffeine
+night soil	manure
+nitrate	ammonium,potassium_nitrate,sodium_nitrate,chlorate
+nitric acid	hydrochloric_acid,phosphoric_acid
+nitride	oxide,carbide,silicon_carbide
+nitrile	acetal,diamine,isocyanate,imide
+nitrobenzene	benzene,toluene,aniline
+nitrogen dioxide	trioxide,sulfur_dioxide,monoxide,carbon_dioxide,nitrogen_oxide
+nitrogen oxide	monoxide,trioxide,nitrogen_dioxide
+nitrogen trichloride	monoxide,pentoxide,trioxide
+nitrogenase	oxidase
+nitroglycerin	potassium_chlorate,tnt,explosive,ammonium_nitrate,dynamite
+nitrous acid	anhydride,nitric_acid,hydrochloric_acid,oxalic_acid,butyric_acid
+noradrenaline	serotonin,dopamine,monoamine
+nuclear rna	deoxyribonucleic_acid,endonuclease
+nuclease	endonuclease,exonuclease
+nucleic acid	deoxyribonucleic_acid,nucleoside
+nucleoprotein	polymerase,nucleic_acid
+nucleoside	nucleotide,purine
+nucleotide	nucleoside,uracil,thymine,nucleic_acid
+nylon	polyester,neoprene,polyamide
+obidoxime chloride	bromide
+octane	gasoline,unleaded_gasoline
+oil	vegetable_oil,mineral_oil,coconut_oil,petroleum
+oleic acid	linoleic_acid,stearic_acid,palmitic_acid,linolenic_acid
+oleoresin	balsam,essential_oil
+oleoresin capiscum	balsam
+oligosaccharide	polysaccharide,disaccharide
+olive oil	sesame_oil,vegetable_oil,sunflower_oil,coconut_oil,cooking_oil,peanut_oil
+omega 3 fatty acid	fatty_acid,linoleic_acid
+omega 6 fatty acid	fatty_acid,linoleic_acid
+organic	humic_acid
+organic compound	aromatic_compound
+organophosphate	malathion,insecticide,parathion
+ornithine	citrulline,arginine,glutamine,alanine
+oxalate	oxalic_acid,citrate,thiocyanate
+oxalic acid	anhydride
+oxidase	reductase,oxidoreductase
+oxidized ldl cholesterol	lipoprotein
+oxidoreductase	reductase
+oxime	carboxylic_acid,aldehyde
+oxyacid	quaternary_ammonium_compound
+oxygenase	decarboxylase,reductase
+oxyhemoglobin	hemoglobin
+palm oil	coconut_oil,vegetable_oil,sesame_oil,olive_oil,peanut_oil
+palmitic acid	oleic_acid,linoleic_acid,stearic_acid,myristic_acid
+papain	trypsin,protease,pepsin
+paraffin	kerosene,oil,wax,beeswax
+paraquat	malathion,herbicide,parathion,pesticide
+parathion	organophosphate,malathion,lindane
+peanut oil	sunflower_oil,vegetable_oil,soybean_oil,sesame_oil,canola_oil,coconut_oil,corn_oil
+pectin	starch,gelatin,polysaccharide,dextrin
+pennyroyal oil	essential_oil
+pentose	ribose,hexose
+pentoxide	trioxide,tetroxide,monoxide,dioxide
+pepsin	trypsin,protease,pepsinogen,lipase
+pepsinogen	pepsin,trypsin
+peptide	polypeptide
+perchlorate	chlorate
+perchloric acid	anhydride,hydrochloric_acid,nitric_acid
+perchloride	iron_perchloride
+permanganate	potassium_permanganate,perchloric_acid,potassium_dichromate,hypochlorite
+peroxidase	glutathione_peroxidase,oxidase,catalase,superoxide_dismutase
+pesticide	insecticide,herbicide
+petroleum	petrochemical,oil
+phenol	benzoic_acid,carbolic_acid,cresol
+phenolic resin	synthetic_resin,epoxy
+phenylalanine	tyrosine,tryptophan,leucine,valine,isoleucine,amino_acid,histidine,proline,glutamic_acid,threonine
+phillipsite	natrolite,heulandite
+phosphatase	kinase
+phosphate	pyrophosphate
+phosphine	azide,dichloride
+phosphocreatine	adenosine_triphosphate
+phospholipid	lipid,fatty_acid,cholesterol
+phosphoprotein	protein
+phosphoric acid	hydrochloric_acid
+phthalic acid	anhydride,ester
+phthalic anhydride	phthalic_acid,aniline,ester,sulfonic_acid
+physostigmine	pilocarpine,atropine
+phytochemical	flavonoid
+picric acid	nitric_acid,phosphoric_acid
+pilocarpine	physostigmine,atropine
+pine tar	turpentine,balsam,creosote,mastic
+plasma thromboplastin antecedent	prothrombin,thrombin
+plasmin	plasminogen,thrombin,plasminogen_activator
+plasminogen	plasmin,thrombin,plasminogen_activator,elastase
+plasminogen activator	plasmin,thrombin,streptokinase
+plaster of paris	wax,gesso,plasticine
+plastic explosive	high_explosive,tnt
+plasticine	plaster_of_paris
+plexiglas	styrofoam
+polyamide	polyester,polyurethane,nylon,polyethylene
+polyester	nylon,polyamide,polyurethane,polyethylene
+polyester fiber	polyamide,nylon
+polyethylene	polyvinyl_chloride,polyester,polyurethane
+polymer	copolymer,polyamide,polystyrene
+polymerase	dna_polymerase,reverse_transcriptase
+polymethyl methacrylate	polystyrene,copolymer
+polypeptide	protein,peptide
+polyphosphoric acid	anhydride
+polysaccharide	disaccharide,oligosaccharide,chitin
+polystyrene	polyethylene,polyurethane,polyvinyl_chloride
+polyunsaturated fat	trans_fatty_acid
+polyunsaturated fatty acid	linoleic_acid,oleic_acid,fatty_acid
+polyurethane	urethane,polyester
+polyvinyl acetate	polyvinyl_chloride
+polyvinyl chloride	polyethylene
+potash	gypsum,sodium_nitrate
+potassium bicarbonate	sodium_chloride,sulfate,potassium_chloride,sodium_carbonate
+potassium bromide	chloride,iodide
+potassium carbonate	hydroxide,sulfate,sodium_carbonate,sodium_chloride
+potassium chlorate	potassium_nitrate,nitrate,ammonium
+potassium chloride	sodium_chloride,bromide
+potassium cyanide	sodium_cyanide,hydroxide,copper_sulfate
+potassium dichromate	chromate,permanganate,potassium_permanganate,hydroxide,hypochlorite,silver_nitrate
+potassium ferrocyanide	hydroxide,sulfate
+potassium iodide	sodium_iodide,bromide,chloride
+potassium nitrate	sodium_nitrate,ammonium,sulfate,chlorate
+potassium permanganate	potassium_dichromate,hypochlorite,hydroxide,perchloric_acid,ammonium
+preservative	fixative
+proconvertin	coagulation_factor,thromboplastin,prothrombin
+proenzyme	histaminase
+prolamine	protein
+proline	leucine,alanine,amino_acid,valine,serine,isoleucine,glutamic_acid,phenylalanine,histidine,threonine
+propellant explosive	high_explosive
+propionic acid	butyric_acid,acetic_acid,ester,carboxylic_acid
+prostate specific antigen	immunoglobulin,immunoglobulin_g,antibody
+protamine	heparin
+protease	trypsin,elastase
+prothrombin	thrombin,fibrinogen,coagulation_factor
+prothrombinase	thrombin
+provirus	endonuclease,transposon
+provitamin	beta_carotene,carotene
+pseudoephedrine	ephedrine
+ptyalin	pepsin,amylase
+pulp	wood_pulp
+purine	pyrimidine,nucleoside,thymine,cytosine,adenine,uracil
+pyrethrum	insecticide
+pyridine	acetamide,imidazole
+pyrimidine	purine,thymine,uracil,nucleoside,cytosine,adenine,guanine
+pyrites	gypsum
+pyrogallol	resorcinol
+quaternary ammonium compound	organic_compound
+quinone	flavin
+racemic acid	tartaric_acid
+raffinose	maltose,galactose
+rape oil	coconut_oil,vegetable_oil
+reactant	intermediate
+reductase	oxidoreductase
+residual oil	naphtha,petroleum
+resin	synthetic_resin,phenolic_resin
+resorcinol	benzoic_acid,phenol,aniline,hydroxybenzoic_acid
+restriction endonuclease	nuclease,exonuclease,ribonuclease
+reverse transcriptase	dna_polymerase,polymerase
+rh antibody	monoclonal_antibody
+rheumatoid factor	interleukin
+ribonuclease	endonuclease,protease
+ribonucleic acid	transfer_rna
+ribose	deoxyribose,nucleoside,monosaccharide,pyrophosphate
+ricin	strychnine
+ricinoleic acid	myristic_acid,stearic_acid,oleic_acid
+rochelle salt	sodium_chloride
+roman candle	squib
+rotenone	insecticide,malathion
+rubber	neoprene,polyurethane
+saddle soap	shampoo,liquid_soap,bar_soap
+safflower oil	peanut_oil,sunflower_oil,soybean_oil,vegetable_oil,canola_oil,corn_oil,coconut_oil,sesame_oil
+sago	cassava
+salad oil	olive_oil,sesame_oil,vegetable_oil
+salicylate	salicylic_acid
+salicylic acid	hydroxybenzoic_acid
+salt	sodium_chloride
+sandarac	copal,mastic,bdellium
+saponin	glycoside,flavonoid,flavone
+sarcosine	betaine
+sardine oil	vegetable_oil
+sassafras oil	essential_oil,mineral_oil
+saturated fatty acid	fatty_acid,oleic_acid,palmitic_acid,myristic_acid
+scale wax	gesso
+scopolamine	hyoscyamine,atropine,ergotamine
+seal oil	grease,bitumen,wax,tallow,beeswax,whale_oil,paraffin
+seawater	water,fresh_water
+serine	threonine,cysteine,tyrosine,histidine,leucine,arginine,alanine,asparagine
+serotonin	noradrenaline,dopamine,monoamine,acetylcholine
+serum albumin	transferrin,globulin
+serum globulin	transferrin,plasma_protein,albumin,serum_albumin
+sesame oil	olive_oil,vegetable_oil
+shale oil	petroleum
+shampoo	toothpaste
+shellac wax	beeswax
+shoe polish	soap,shampoo
+silex	flint,chert
+silica	silicate
+silicate	silica
+silicon carbide	nitride
+silicone	silicone_rubber,polyurethane,neoprene
+silicone rubber	polyurethane,neoprene
+siloxane	polymer
+silver bromide	iodide,silver_chloride,chloride
+silver chloride	bromide,iodide,hydroxide
+silver iodide	sodium_iodide,bromide,chloride
+silver nitrate	chromate,potassium_dichromate
+ski wax	beeswax,polish
+smokeless powder	cordite
+soap	bar_soap,castile_soap,detergent,liquid_soap,laundry_detergent
+soap flakes	bar_soap
+soap powder	bar_soap,laundry_detergent
+sodium carbonate	potassium_carbonate,hydroxide,sodium_chloride,sulfate
+sodium carboxymethyl cellulose	sulfate
+sodium chlorate	sodium_chloride,potassium_nitrate,potassium_chlorate,sodium_carbonate,sulfate,hypochlorite
+sodium chloride	potassium_chloride,sulfate
+sodium cyanide	chloride,potassium_cyanide,hydroxide
+sodium dichromate	hypochlorite,potassium_dichromate,chromate,potassium_permanganate,sodium_chloride,chloride,hydroxide
+sodium fluoride	sodium_chloride
+sodium hydride	hydroxide
+sodium hydroxide	sodium_carbonate,hypochlorite,sulfate
+sodium hypochlorite	calcium_hypochlorite,sodium_hydroxide,hypochlorous_acid,sodium_chloride,potassium_permanganate,sodium_carbonate
+sodium iodide	chloride,bromide,potassium_iodide
+sodium lauryl sulphate	magnesium_sulfate,sulfate
+sodium nitrate	potassium_nitrate,ammonium,sulfate,sodium_chloride,potassium_chloride
+sodium phosphate	sulfate,sodium_chloride
+sodium sulphate	sulfate,sodium_chloride,potassium_chloride,sodium_carbonate
+soft water	hard_water
+softener	detergent,liquid_soap
+soil conditioner	manure,fertilizer,water,detergent
+sorbic acid	phosphoric_acid,citric_acid
+soybean oil	vegetable_oil,sunflower_oil,canola_oil,peanut_oil,cottonseed_oil,coconut_oil,corn_oil
+sparkler	squib,firecracker
+sperm oil	spermaceti,vegetable_oil,paraffin
+spermaceti	sperm_oil,tallow,wax,whale_oil,beeswax
+spike lavender oil	essential_oil
+squib	firecracker,sparkler
+stachyose	raffinose
+stacte	myrrh,storax,labdanum
+stand oil	linseed_oil
+stannic chloride	trichloride,bromide,iodide,boron_trifluoride
+stannous fluoride	sodium_fluoride
+starch	dextrin,pectin,cornstarch
+stearic acid	oleic_acid,palmitic_acid,linoleic_acid,myristic_acid
+stearin	spermaceti,coconut_oil,cottonseed_oil,tallow_oil
+steroid	cortisone
+sterol	steroid,ergosterol,cholesterol
+storax	myrrh,balsam,copal,bdellium
+streptodornase	streptokinase,hyaluronidase
+streptokinase	plasminogen_activator
+styrene	copolymer,butadiene
+styrofoam	polyurethane,polystyrene
+sucrose	fructose,maltose,dextrose,lactose,glucose,galactose
+suet	lard
+sulfonate	sulfonic_acid
+sulfonic acid	organic_compound,carboxylic_acid
+sulfur dioxide	monoxide,hydrogen_sulfide,sulfide,trioxide,nitrogen_dioxide
+sulfur hexafluoride	monoxide
+sulfur oxide	sulfide
+sunflower oil	vegetable_oil,soybean_oil,coconut_oil,peanut_oil,corn_oil,sesame_oil,canola_oil,olive_oil,safflower_oil
+superoxide dismutase	glutathione_peroxidase,peroxidase,catalase
+sweet oil	sesame_oil,cocoa_butter,mineral_oil
+synthetic resin	polyamide,polyurethane,polyester
+tallow	lard,beeswax,animal_fat
+tallow oil	vegetable_oil,olive_oil,lard,coconut_oil,linseed_oil,soybean_oil,peanut_oil,sesame_oil
+tap water	seawater,fresh_water,distilled_water
+tartar emetic	tartrate
+tartaric acid	fumaric_acid
+tartrate	maleate,hydrochloride
+taurine	citric_acid,creatine
+telomerase	transcriptase,reverse_transcriptase,enzyme
+tetanus immunoglobulin	immunoglobulin_g,tetanus_antitoxin
+tetrafluoroethylene	copolymer
+tetrahalide	binary_compound
+tetrasaccharide	glycoside,polysaccharide,oligosaccharide
+tetrose	triose
+tetroxide	trioxide,oxide,pentoxide
+tetryl	tnt,picric_acid,explosive,high_explosive
+thiocyanate	iodide,chloride,oxalate,bromide
+threonine	serine,leucine,tyrosine,valine,isoleucine,cysteine,histidine,phenylalanine,aspartic_acid,alanine
+thrombin	plasmin,prothrombin,fibrinogen
+thromboplastin	prothrombin,coagulation_factor
+thymine	cytosine,guanine,uracil,adenine,pyrimidine,purine,base_pair
+thymol	linalool,cymene
+thyroglobulin	plasminogen_activator
+titanium dioxide	oxide,zinc_oxide
+tnt	explosive,tetryl,picric_acid,high_explosive,ammonium_nitrate
+toilet soap	laundry_detergent,shampoo,toothpaste,bar_soap,liquid_soap
+tolu	benzoin,balsam
+toluene	benzene,hexane,methylene_chloride
+tooth powder	toothpaste
+toothpaste	shampoo
+trans fatty acid	fatty_acid,linoleic_acid,oleic_acid,linolenic_acid
+transcriptase	reverse_transcriptase,telomerase,polymerase
+transfer rna	deoxyribonucleic_acid,ribonucleic_acid,endonuclease
+transferrin	globulin,ferritin,albumin,serum_albumin
+triazine	organic_compound
+trichloride	inorganic_compound,chloride
+trichloroacetic acid	oxalic_acid
+trichloroethylene	methylene_chloride,carbon_tetrachloride
+triglyceride	fatty_acid,cholesterol
+trimer	dimer
+triose	tetrose,ketose,monosaccharide,hexose
+trioxide	tetroxide,pentoxide,monoxide,dioxide
+trisaccharide	disaccharide,oligosaccharide,prolamine
+trypsin	protease,elastase,pepsin,lipase
+trypsinogen	elastase,trypsin,protease
+tryptophan	phenylalanine,tyrosine,amino_acid,leucine,essential_amino_acid,isoleucine,histidine,valine
+tubocurarine	physostigmine
+tumor necrosis factor	interleukin,cytokine,growth_factor
+tuna oil	olive_oil,sesame_oil
+tung oil	linseed_oil,vegetable_oil
+turpentine	linseed_oil,beeswax
+tyramine	histamine
+tyrosine	phenylalanine,threonine,leucine,tryptophan,serine,histidine,isoleucine,amino_acid,valine
+ubiquinone	quinone
+unleaded gasoline	octane
+unsaturated fatty acid	fatty_acid,oleic_acid,myristic_acid
+uracil	thymine,cytosine,adenine,guanine,pyrimidine,nucleoside,purine
+uranyl nitrate	ammonium
+uranyl oxalate	hydroxide
+urate	uric_acid,urea,oxalate,xanthine
+urea	uric_acid,ammonia,urease,urate
+urea formaldehyde resin	melamine_resin,formic_acid
+urease	catalase,oxidase
+urethane	polyurethane,epoxy,silicone
+uric acid	oxalic_acid
+urobilinogen	uric_acid
+valine	isoleucine,leucine,alanine,phenylalanine,glutamic_acid,aspartic_acid,threonine,proline,amino_acid,tyrosine
+vanadium pentoxide	oxide,trioxide
+vanillin	hydroxybenzoic_acid,tartaric_acid,benzoic_acid
+vegetable oil	coconut_oil,cooking_oil,sesame_oil,olive_oil,soybean_oil
+vegetable wax	beeswax,lanolin
+very low density lipoprotein	hdl_cholesterol
+vinyl polymer	copolymer,polyamide,polystyrene,synthetic_resin,polyethylene
+walnut oil	linseed_oil,vegetable_oil,sesame_oil,sunflower_oil,olive_oil
+warhead	high_explosive
+water	seawater,fresh_water,distilled_water
+water of crystallization	distilled_water
+water softener	detergent,liquid_soap
+wax	beeswax
+whale oil	spermaceti,sperm_oil,paraffin,tallow,kerosene,wax,lard
+wood tar	turpentine,beeswax,creosote
+wool oil	lanolin,tallow,beeswax,vegetable_oil,linseed_oil
+xanthine	purine,uracil,nucleoside,pyrimidine
+xanthophyll	carotenoid,zeaxanthin
+zanzibar copal	myrrh,storax,mastic,balsam
+zeaxanthin	lycopene,carotene,beta_carotene,carotenoid
+zeolite	silicate,silica
+zinc sulfate	hydroxide,copper_sulfate
+zymase	ptyalin

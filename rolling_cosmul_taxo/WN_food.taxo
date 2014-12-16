@@ -1,0 +1,871 @@
+absinth	anisette,sambuca,pastis
+acidophilus milk	yogurt
+agar	blood_agar
+aioli	sauce,mayonnaise,brown_sauce
+ale	pale_ale,lager
+alfalfa	wheat,sorghum
+allergy diet	dietary
+allspice	bay_leaf,black_pepper,pepper,coriander,ginger
+alphabet soup	ragout
+altar wine	table_wine,straw_wine
+amaretto	liqueur,triple_sec,coffee_liqueur,cocktail
+ambrosia	elixir
+amontillado	manzanilla,sherry
+anadama bread	sweet_roll
+anchovy butter	heavy_cream,sauce
+anchovy dressing	sauce,vinegar,mustard
+anchovy paste	sauce,puree
+anchovy sauce	soy_sauce,plum_sauce
+anise	anisette,liqueur
+anisette	liqueur,vodka,brandy,triple_sec,grappa
+antipasto	appetizer
+aperitif	liqueur,pastis
+appetizer	side_dish,aperitif
+apple butter	honey,sweet,marmalade,jam,cream_cheese
+apple dumpling	sweet
+apple juice	fruit_juice
+applejack	liqueur,cocktail,vodka,brandy,rum,schnapps
+applesauce	puree,cream_cheese
+apricot sauce	sweet
+aquavit	brandy,anisette,vodka
+armagnac	cognac,brandy,sherry,grappa
+arrack	grappa,neutral_spirits,liquor
+arroz con pollo	paella
+aspartame	saccharin
+aspic	casserole,ragout,soup
+bacon and eggs	scrambled_eggs,mashed_potato
+bacon lettuce tomato sandwich	mayonnaise
+bagel	pastry
+baked alaska	dessert
+baked potato	casserole
+baking powder biscuit	pastry,dough
+balanced diet	dietary,micronutrient
+banana bread	shawnee_cake,french_toast
+banana split	fudge
+banquet	potluck,dinner
+barbecue sauce	mustard_sauce,brown_sauce
+barley	wheat,rye,millet,oat,sorghum,buckwheat
+barley sugar	wheat,flour,molasses,oat,wheat_flour
+barley water	rye,wheat
+basil	parsley,thyme,marjoram,rosemary,garlic,tarragon,coriander
+bathtub gin	vodka,cocktail,moonshine,rum,mixed_drink,vermouth
+bavarian cream	dessert
+bay leaf	rosemary,thyme,allspice
+beaujolais	bordeaux
+beef broth	soup,stew,chicken_broth
+beef goulash	stew
+beef stew	soup,chicken_stew
+beer	lager,ale,light_beer,pilsner
+beet sugar	cane_sugar,molasses,syrup,maple_syrup
+beverage	soft_drink
+bialy	johnnycake
+birch beer	root_beer
+bitter lemon	cola,ginger_ale
+bitters	liqueur,schnapps,vodka,triple_sec,anisette,cocktail
+black bread	rye_bread
+black pepper	paprika,ginger,coriander,turmeric,allspice
+black tea	oolong,green_tea
+blanc	riesling
+blancmange	pudding,dessert
+blended whiskey	bourbon,neutral_spirits
+blood agar	culture_medium
+bloody mary	cocktail,collins
+blue cheese dressing	sauce,italian_dressing,mayonnaise
+blush wine	burgundy,bordeaux
+bock	lager,pilsner
+boiled dinner	dish,side_dish,meal,stew,pilaf,casserole
+bolognese pasta sauce	tomato_sauce,carbonara,spaghetti,pesto
+bordeaux	beaujolais
+bordelaise	bordeaux
+boston baked beans	shawnee_cake
+bottled water	spring_water,mineral_water,fruit_juice,beverage
+bouillabaisse	fish_stew
+bouillon	beef_broth,soup,ragout
+bouillon cube	ragout
+bourbon	whiskey,blended_whiskey
+bran	wheat_germ,rye
+bran muffin	bread
+brandy	cognac,vodka,liqueur,rum,anisette,sherry
+brandy sling	cognac,vodka,madeira,schnapps,sherry,slivovitz
+bread	white_bread,flatbread,rye_bread
+bread and butter pickle	yogurt,white_bread
+bread dough	pastry,flatbread
+bread sauce	white_sauce
+breakfast	meal,brunch
+brew	beer,lager,ale
+brick cheese	goat_cheese
+brie	gouda,camembert
+brioche	pastry
+broth	soup,chicken_broth,beef_broth,stew
+brown bread	rye_bread,white_bread
+brown rice	white_rice
+brown sauce	mustard,chili_sauce
+brown sugar	syrup,molasses,sugar_syrup,cream,butter
+brunch	dinner,breakfast,supper,lunch,buffet
+brunswick stew	fish_stew,casserole
+bubble gum	candy,hard_candy,chewing_gum
+buckwheat	barley,rye,wheat,oat
+buffet	brunch
+bulgur	couscous
+bun	sweet_roll
+burgoo	dish,fish_stew
+burgundy	bordeaux,white_wine,beaujolais,red_wine
+burrito	taco
+business lunch	dinner
+butter	margarine,heavy_cream,buttermilk
+buttermilk	yogurt,cottage_cheese,milk,skim_milk,butter,whole_milk
+butterscotch	caramel,nougat
+c ration	field_ration,k_ration
+cabernet	merlot,riesling,pinot_noir,varietal,bordeaux
+cachou	cough_drop
+caesar salad	green_salad,tossed_salad,appetizer
+caffe latte	espresso,cappuccino
+cake mix	dessert
+california wine	bordeaux
+calvados	cognac,armagnac,brandy,grappa
+camembert	gouda,brie,cheese
+canary wine	madeira,muscat
+candied apple	sweet
+candied fruit	sweet
+candy	hard_candy,confectionery,candy_bar,sugar_candy
+candy bar	hard_candy
+candy cane	hard_candy,sugar_candy,lollipop
+candy corn	hard_candy,candy_bar
+candy egg	hard_candy
+cane sugar	molasses,syrup,corn_syrup,brown_sugar,beet_sugar
+canned food	frozen_food
+caper sauce	marinade
+cappuccino	espresso,iced_coffee,turkish_coffee
+caramel	nougat,fudge
+caraway	caraway_seed,fennel,coriander
+caraway seed	fennel,ginger,coriander,fenugreek,allspice,cardamom
+caraway seed bread	caraway_seed,barley,wheat,allspice
+carbonara	pasta
+cardamom	ginger,black_pepper,cinnamon,allspice,pepper
+carrot juice	puree,fruit_juice
+carrot pudding	potato,soup
+casserole	stew,dish,soup,ragout,chicken_stew
+cat food	dog_food,kibble
+catsup	brown_sauce,italian_dressing,vinegar
+cayenne	pepper,bay_leaf,allspice,black_pepper,paprika
+celery salt	garlic,bay_leaf,paprika,pepper
+celery seed	parsley,pepper,bay_leaf
+chablis	table_wine,burgundy,bordeaux,beaujolais
+champagne	sparkling_wine,wine,cognac
+chardonnay	pinot_noir,riesling,sauvignon_blanc,merlot
+cheddar	cheese,gouda
+cheese	goat_cheese
+cheese dip	cheese_spread,mayonnaise,swiss_cheese,italian_dressing
+cheese fondue	rat_cheese,goat_cheese
+cheese pizza	mozzarella,quesadilla
+cheese sauce	mayonnaise,sour_cream,tomato_sauce
+cheese souffle	rat_cheese
+cheese spread	rat_cheese,cream_cheese
+cheeseburger	hamburger,sandwich,chicken_sandwich,ham_sandwich
+chenin blanc	riesling,pinot_noir,sauvignon_blanc
+chervil	tarragon
+cheshire cheese	gouda,goat_cheese,cheddar
+chewing gum	hard_candy,bubble_gum
+chianti	bordeaux,fortified_wine
+chicken broth	soup,beef_broth,stew
+chicken cacciatore	chicken_stew,fish_stew,stew
+chicken casserole	stew,soup,dish,chicken_stew
+chicken feed	fish_meal
+chicken kiev	fish_stew
+chicken paprika	chicken_stew
+chicken sandwich	hamburger,patty
+chicken soup	stew,dish,chicken_stew
+chicken stew	dish,soup,fish_stew,ragout
+chicken tetrazzini	dish
+chili	pepper_sauce,hot_sauce,chili_sauce
+chili dog	burrito
+chili powder	pepper
+chili sauce	hot_sauce,mustard,brown_sauce
+chili vinegar	sauce,soy_sauce,hot_sauce
+chinese brown sauce	brown_sauce
+chives	garlic,parsley
+chocolate egg	fudge,custard
+chocolate fondue	dessert,mousse
+chocolate fudge	caramel,nougat,vanilla_ice_cream
+chocolate ice cream	vanilla_ice_cream,ice_cream
+chocolate kiss	fudge
+chocolate milk	skim_milk,yogurt,condensed_milk,whole_milk,evaporated_milk
+chocolate mousse	fudge,custard
+chocolate pudding	dessert,custard
+chocolate sauce	vanilla_ice_cream,caramel
+choline	vitamin_d,vitamin_k
+chow mein	fried_rice
+chowder	soup,clam_chowder,casserole,stew
+chutney	raita
+cider	hard_cider,perry,scrumpy
+cider vinegar	wine_vinegar,lemon_juice,mead
+cinnamon	ginger,cardamom,anise,allspice,vanilla
+cinnamon bread	sweet_roll,white_bread
+cinnamon roll	sweet_roll
+cinnamon toast	clotted_cream,jam,strawberry_jam
+clam chowder	casserole
+claret	burgundy
+clarified butter	ghee,milk,skim_milk,buttermilk,semolina
+clotted cream	cream_cheese,strawberry_jam,jam,sour_cream
+clove	ginger,cardamom,cinnamon,black_pepper,allspice,pepper,nutmeg
+club sandwich	hamburger,chicken_sandwich
+coca cola	soft_drink,beverage,pepsi
+cocktail	mixed_drink,vodka,bloody_mary,liqueur,dry_vermouth,triple_sec
+cocktail sauce	brown_sauce,plum_sauce
+cocoa	coffee
+coconut milk	evaporated_milk,condensed_milk
+coffee	espresso,cocoa,turkish_coffee
+coffee break	espresso,tea,high_tea
+coffee liqueur	amaretto,triple_sec,vodka,cognac,grand_marnier,galliano
+coffee substitute	beverage
+cognac	brandy,liqueur,vodka,sherry,grappa,armagnac,rum,vermouth
+cola	soft_drink
+coleslaw	potato_salad,russian_dressing,french_fries
+compote	dessert,fruit_salad
+concentrate	fruit_juice
+condensed milk	skim_milk,evaporated_milk,whole_milk,powdered_milk
+condiment	sauce,brown_sauce
+congee	fried_rice
+continental breakfast	comfort_food
+cookout	brunch,picnic
+coriander	black_pepper,ginger,bay_leaf
+corn	wheat,sorghum,barley,cornmeal
+corn cake	cornmeal
+corn chip	tortilla_chip
+corn chowder	soup,stew
+corn gluten feed	soybean_meal,wheat,cornmeal
+corn muffin	hominy
+corn pudding	cornmeal,porridge
+corn sugar	molasses,corn_syrup,cornmeal,flour
+corn syrup	sugar,cornmeal
+corn whiskey	bourbon,blended_whiskey
+cornbread	cornmeal,hominy
+cornmeal	wheat_flour,flour,corn,hominy,semolina
+cottage cheese	sour_cream,goat_cheese,rat_cheese
+cottage pie	dessert,rat_cheese
+cotton candy	hard_candy,sugar_candy,candy_corn
+couscous	bulgur,pasta
+cows' milk	pasteurized_milk,whole_milk
+crab cocktail	appetizer
+cracked wheat	barley,rye,flour,grain
+cracked wheat bread	rye,barley,flour,cornmeal,oat
+cracker	soda_cracker
+cranberry juice	orange_juice,fruit_juice,triple_sec,lemonade
+cranberry sauce	sweet,plum_sauce
+cream	cream_cheese,vanilla_ice_cream,custard
+cream cheese	sour_cream,cottage_cheese,butter,yogurt
+cream sauce	white_sauce,wine_sauce,mayonnaise,tomato_sauce,sour_cream
+cream soda	birch_beer,lemonade,fruit_punch
+creep feed	kibble,grain
+creme caramel	nougat
+creme de cacao	liqueur
+crescent roll	soda_cracker
+crystallized ginger	cinnamon
+culture medium	blood_agar,agar
+curacao	triple_sec,anisette
+curd	buttermilk
+curry	raita,dish
+curry powder	chili_powder
+curry sauce	dish,gravy
+custard	dessert
+daiquiri	cocktail,triple_sec,whiskey_sour,liqueur,grenadine,vodka
+dairy product	beverage
+dark bread	rye_bread
+decaffeinated coffee	espresso,instant_coffee,drip_coffee
+demiglace	sauce
+dessert	frozen_dessert
+dessert wine	straw_wine,fortified_wine,madeira
+deviled egg	dish
+diabetic diet	dietary
+diet	dietary
+dietary	micronutrient
+dietary supplement	vitamin,micronutrient,multivitamin
+dill	garlic,parsley,coriander,tarragon,caraway
+dill pickle	mustard
+dill seed	caraway,coriander,fennel,parsley,ginger
+dinner	brunch,lunch,supper
+dog food	cat_food,kibble
+double cream	vanilla_ice_cream
+dough	pastry
+draft beer	lager,light_beer,pilsner
+dragee	dessert_wine
+drambuie	liqueur
+dressing	italian_dressing,blue_cheese_dressing,mayonnaise
+drinking water	spring_water,mineral_water
+drip coffee	espresso,turkish_coffee
+dry vermouth	vodka,mixed_drink,cocktail,liqueur,gin
+duck sauce	plum_sauce,brown_sauce,cream_sauce
+dumpling	dish
+easter egg	egg_cream
+edam	gouda,gorgonzola
+egg	easter_egg,egg_yolk
+egg cream	egg_white,custard
+egg roll	schnitzel
+egg white	egg_yolk,cream
+egg yolk	egg_white
+eggnog	cocktail,rum
+elixir	elixir_of_life
+english muffin	soda_cracker,irish
+espresso	cappuccino,coffee,drip_coffee
+evaporated milk	whole_milk,condensed_milk,skim_milk,whey,powdered_milk
+falafel	hummus
+farina	brown_rice
+fast food	snack_food
+feed grain	wheat,hay
+fennel	caraway,anise,marjoram,caraway_seed
+fennel seed	caraway_seed,ginger,caraway,allspice,coriander,fenugreek
+fenugreek	black_pepper,coriander
+field ration	k_ration
+filling	pastry
+fines herbes	poulette
+finger food	appetizer,fast_food
+fish chowder	soup,stew,fish_stew,casserole,clam_chowder
+fish fry	chicken_stew
+fish stew	soup,chicken_stew,dish
+fish stick	stew
+five spice powder	chili_powder
+fizz	cocktail,mixed_drink,harvey_wallbanger
+flan	dessert,pudding
+flatbread	bread
+flour	wheat_flour,semolina,cornmeal,whole_wheat_flour
+fluffy omelet	dumpling
+foie gras	parfait
+fondant	nougat,caramel
+fondue	rat_cheese,appetizer
+food	foodstuff
+foodstuff	food,frozen_food
+fortified wine	sherry,dessert_wine,table_wine,madeira
+frankfurter bun	sandwich
+french toast	bread,madeira
+fricassee	ragout,stew
+fried rice	white_rice
+frittata	dish
+frozen custard	ice_cream,dessert,frozen_dessert
+frozen dessert	ice_cream
+frozen orange juice	fruit_juice,orange_juice,apple_juice,smoothie,lemonade
+frozen pudding	dessert,frozen_dessert
+frozen yogurt	ice_cream,frozen_dessert,smoothie
+fruit cocktail	sweet,liqueur,fruit_juice,triple_sec
+fruit custard	sweet,dessert
+fruit drink	beverage,fruit_juice,juice
+fruit juice	apple_juice,orange_juice
+fruit punch	puree
+fruit salad	compote,dessert,sweet
+fudge	caramel,nougat,vanilla_ice_cream
+galliano	liqueur,cocktail,vodka,triple_sec,vermouth
+garlic bread	grated_cheese,white_bread,rye_bread
+garlic chive	parsley
+garlic salt	vinegar,bay_leaf,paprika,black_pepper
+gazpacho	stew,soup
+gelatin dessert	jelly,custard,frozen_dessert,pudding
+geneva	marc
+ghee	clarified_butter
+gimlet	cocktail,gin
+gin	vodka,cocktail,mixed_drink,vermouth,dry_vermouth,brandy,liqueur,gin_and_tonic,sweet_vermouth,schnapps
+gin and tonic	vodka,gimlet,vermouth,dry_vermouth
+gin rickey	cocktail,mixed_drink,vodka,highball,triple_sec,dry_vermouth,vermouth
+gin sling	gimlet,cocktail,mixed_drink
+ginger	coriander,black_pepper,pepper
+ginger ale	ginger_beer
+ginger beer	vodka
+gluten bread	white_bread,wheat_flour,whole_wheat_flour,flour
+gluten free diet	dietary
+gorgonzola	gouda,ricotta,goat_cheese
+gouda	cheese,edam
+goulash	stew,stuffed_peppers
+graham bread	white_bread,graham_cracker
+graham cracker	biscuit
+grain	wheat,barley,rye,oat
+grand marnier	triple_sec,liqueur
+granulated sugar	syrup,brown_sugar,powdered_sugar,molasses,corn_syrup
+grape jelly	juice
+grape juice	fruit_juice,apple_juice
+grapefruit juice	fruit_juice,orange_juice,cranberry_juice
+grappa	slivovitz,liqueur,cognac
+grated cheese	sour_cream
+gravy	sauce,stew,tomato_sauce,brown_sauce,white_sauce
+green mayonnaise	mustard,sauce
+green salad	fruit_salad
+green tea	oolong,black_tea
+grenadine	triple_sec,pineapple_juice,cocktail,orange_juice,grand_marnier,vodka
+grog	mixed_drink,gin
+gruel	porridge
+gruyere	cheese,gouda
+guacamole	refried_beans
+guinness	lager
+gumbo	jambalaya,stew
+haggis	burgoo,dish,rat_cheese
+ham sandwich	chicken_sandwich
+hamburger	cheeseburger,sandwich,chicken_sandwich
+hamburger bun	sandwich,cheeseburger,patty
+hard candy	taffy,rock_candy,sugar_candy,nougat
+hard cider	perry,soda_cracker
+hard roll	soda_cracker
+hard sauce	sweet
+hardtack	bread,white_bread
+hasty pudding	dessert
+hay	silage,fodder
+heavy cream	butter
+high vitamin diet	micronutrient,dietary
+highball	mixed_drink,cocktail,vodka,triple_sec
+hoecake	tipsy_cake
+home fries	potato_salad,french_fries
+hominy	cornmeal,corn
+homogenized milk	whole_milk,skim_milk,pasteurized_milk,dairy_product,whey
+honey	syrup,sweet,sugar,molasses,brown_sugar,maple_syrup
+honey bun	sweet_roll
+honey crisp	sweet
+hooch	moonshine
+horseradish	mustard,horseradish_sauce,wasabi
+horseradish sauce	mustard,brown_sauce,mayonnaise,plum_sauce
+hot fudge sauce	vanilla_ice_cream,custard
+hot pot	dish,casserole
+hot sauce	chili_sauce,mustard
+hummus	stuffed_peppers,salad
+ice cream	vanilla_ice_cream,frozen_dessert
+ice cream cake	custard,dessert,vanilla_ice_cream
+ice cream cone	vanilla_ice_cream,ice_cream,frozen_dessert
+ice cream sundae	vanilla_ice_cream,ice_cream
+ice lolly	seltzer,ice_tea
+ice milk	frozen_dessert
+ice tea	black_tea,beverage,green_tea
+ice water	spring_water
+iced coffee	espresso,beverage,cappuccino
+icing sugar	powdered_sugar,syrup,brown_sugar
+instant coffee	iced_coffee,espresso
+irish soda bread	soda_cracker
+jam	jelly,strawberry_jam,marmalade
+jamaica rum	liqueur,vodka,brandy
+jambalaya	gumbo,paella,stew
+jello	jelly,gelatin_dessert
+jelly	jam,hard_candy
+jelly bean	hard_candy
+jewish rye bread	rye_bread
+johnnycake	shawnee_cake
+jug wine	table_wine,dessert_wine,fortified_wine,sherry
+juice	fruit_juice,apple_juice,orange_juice,grape_juice
+juniper berries	marjoram
+k ration	field_ration,c_ration
+kaiser roll	sandwich,bun,english_muffin,schnitzel
+kava	slivovitz
+kirsch	slivovitz,grappa,liqueur
+kvass	beverage
+lager	pilsner,light_beer,ale
+lamb curry	stew
+lasagna	pasta
+lekvar	sweet
+lemon curd	yogurt,cottage_cheese
+lemon juice	orange_juice,fruit_juice,lime_juice,cranberry_juice
+lemon oil	vinegar,lemon_juice
+lemonade	triple_sec,soda_water,cola
+lemonade mix	mixed_drink
+lentil soup	stew,dish
+licorice	peppermint
+liebfraumilch	dessert_wine,madeira
+light beer	lager,pilsner,ale
+limburger	gouda
+lime juice	orange_juice,grenadine,pineapple_juice,cranberry_juice,lemon_juice
+limeade	soft_drink,lemonade,cola
+liqueur	amaretto,vodka,anisette,triple_sec
+liquid diet	micronutrient
+liquor	liqueur
+lithia water	spring_water,mineral_water,ice
+loaf of bread	white_bread
+lobster stew	fish_stew,soup,chicken_stew,dish
+lobster thermidor	fish_stew,dish
+lollipop	lozenge
+lovage	angelica
+low calorie diet	dietary
+low fat milk	whole_milk
+low sodium diet	dietary
+lump sugar	syrup,granulated_sugar,brown_sugar
+lunch	dinner,breakfast,brunch
+lye hominy	cornmeal,corn
+lyonnaise sauce	brown_sauce
+macaroni salad	potato_salad,pasta,pasta_salad
+macrobiotic diet	dietary
+madeira	sherry,fortified_wine
+malted milk	whole_milk
+manhattan	cocktail,sweet_vermouth
+manhattan clam chowder	clam_chowder,cocktail
+manzanilla	madeira
+maple syrup	sugar,honey,molasses,caramel,sugar_syrup,brown_sugar
+maraschino	liqueur,triple_sec,bitters,vermouth
+margarine	butter
+margarita	martini
+marinade	sauce,vinegar
+marinara	carbonara
+marjoram	rosemary,thyme,coriander,bay_leaf
+marmalade	jam,sweet,strawberry_jam
+marmite	madeira,rat_cheese
+marsala	sherry
+marshmallow	nougat,fudge,candy
+marshmallow fluff	fudge,candy
+martini	cocktail,margarita
+marzipan	nougat,candied_fruit
+mascarpone	ricotta
+mash	malt
+matzo	matzo_meal,bread
+matzo meal	bread
+may wine	table_wine
+mayonnaise	sauce,italian_dressing,sour_cream
+mead	schnapps
+meal	breakfast
+meat loaf	stew
+meatball	dish,ragout
+melba toast	zwieback,bread,peach_melba
+merlot	riesling,pinot_noir,sauvignon_blanc
+meuniere butter	sauce
+micronutrient	vitamin,vitamin_d
+milk	whole_milk,skim_milk,yogurt
+milk punch	eggnog
+millet	sorghum,wheat,barley,rice
+mineral water	spring_water
+mint	peppermint
+mint sauce	tartare_sauce,chili_sauce,mustard,garlic
+miso	soy_sauce
+mixed drink	cocktail,vodka
+mock turtle soup	chicken_soup
+molasses	sugar,brown_sugar,honey,syrup,rum
+molasses kiss	slivovitz
+molasses taffy	syrup,sugar,brown_sugar,sweet
+moonshine	whiskey,schnapps
+mornay sauce	brown_sauce
+mousse	custard
+mozzarella	cheese,ricotta,parmesan
+muffin	quick_bread
+mulled cider	spritzer,hard_cider
+mulled wine	madeira,grappa,table_wine,sherry
+mulligan stew	dish
+multivitamin	vitamin_c,vitamin
+munich beer	lager,pilsner
+muscadet	riesling,pinot_noir
+muscat	riesling,dessert_wine
+mushroom sauce	cream_sauce,brown_sauce
+mustard	chili_sauce,sauce,brown_sauce,plum_sauce,horseradish
+mustard sauce	brown_sauce,chili_sauce,barbecue_sauce,mayonnaise
+mustard seed	pepper,allspice,black_pepper,ginger
+nada daiquiri	liqueur
+neapolitan ice cream	vanilla_ice_cream
+near beer	mineral_water,spring_water,lager
+neutral spirits	liqueur,grappa
+new england clam chowder	clam_chowder
+niacin	vitamin_c,vitamin_e,vitamin,vitamin_d
+nonfat dry milk	whole_milk,whey,skim_milk,yogurt
+nougat	caramel,marzipan
+nut bar	hard_candy
+nut bread	sweet
+nutmeg	ginger,cardamom,black_pepper,allspice,pepper
+oat	wheat,rye,barley,oatmeal
+oatcake	irish
+oatmeal	oat,cornmeal
+oil meal	wheat_germ,soybean_meal
+oktoberfest	bock
+onion butter	garlic
+onion salt	garlic,pepper,chili_powder
+oolong	tea,black_tea
+orange juice	fruit_juice,cranberry_juice,triple_sec,grenadine
+orange liqueur	triple_sec,amaretto,grand_marnier,cocktail
+orange marmalade	sweet
+orange soda	lemonade,cola
+orangeade	cola
+ouzo	grappa,pastis,sambuca,liqueur,anisette
+oxtail soup	dish,stew,chicken_soup,fish_stew,ragout
+oyster stew	soup,chowder,beef_stew
+paella	stew
+pale ale	lager
+pancake batter	pastry,dough,bread_dough
+paprika	pepper,black_pepper,bay_leaf
+parmesan	mozzarella,cheese,ricotta
+parsley	garlic,tarragon,paprika
+pasta salad	chicken_salad
+pasteurized milk	whole_milk,raw_milk,whey
+pastis	sambuca,aperitif,liqueur,anisette,pernod
+pastry	sweet_roll
+pavlova	dessert,pastry
+pea flour	wheat_flour,barley,wheat,rye,cornmeal
+pea soup	stew,chicken_soup,casserole
+peach ice cream	vanilla_ice_cream
+peach sauce	sweet
+peanut bar	fudge
+peanut brittle	hard_candy,candy
+pearl barley	wheat,millet,corn,rye,sorghum,buckwheat,oat
+pearl hominy	corn,cornmeal
+pepper	black_pepper,paprika
+pepper pot	paprika
+pepper sauce	chili,chili_sauce,mustard
+pepper steak	sauce,chili,rat_cheese
+peppermint	licorice
+peppermint patty	soubise
+pepperoni pizza	taco
+pepsi	soft_drink,coca_cola,cola
+pernod	liqueur,pastis,anisette,sambuca,grappa
+perry	cider,scrumpy,mead
+pesto	carbonara
+petite marmite	madeira
+phyllo	pastry
+pickle	chutney
+pickle relish	mustard,chutney,mayonnaise,chili_sauce
+pilaf	dish
+pilsner	lager
+pineapple juice	orange_juice,triple_sec
+pinot blanc	riesling,pinot_noir
+pinot noir	riesling,sauvignon_blanc,chardonnay,merlot
+pita	flatbread,souvlaki
+plain flour	wheat_flour,semolina,cornmeal
+ploughman's lunch	dinner
+plum pudding	dessert,compote
+plum sauce	sweet,sour,chili_sauce
+poached egg	fried_egg,ragout
+popcorn	pop,snack_food
+poppy seed	corn
+porridge	gruel
+porter	ale,lager,pale_ale
+potato salad	sauerkraut
+poteen	irish,whiskey
+potion	elixir
+powdered milk	skim_milk,whole_milk,evaporated_milk,whey
+powdered mustard	chili_powder,ginger
+powdered sugar	syrup,granulated_sugar,brown_sugar,icing_sugar
+praline	nougat
+pretzel	candy_bar
+proof spirit	vodka,blended_whiskey
+pudding	dessert,spotted_dick
+pulque	tequila
+puree	sweet
+quark cheese	cottage_cheese,sour_cream,ricotta,cream_cheese
+quesadilla	rat_cheese
+quick bread	sweet_roll
+ragout	dish,stew,chicken_stew
+raisin bread	white_bread,rye_bread,flatbread
+raita	chutney
+rat cheese	goat_cheese
+ratatouille	dish
+ration	k_ration,field_ration
+raw milk	whole_milk,pasteurized_milk,skim_milk
+ready mix	gelatin_dessert
+red wine	white_wine,burgundy,bordeaux,table_wine
+reducing diet	dietary
+refried beans	guacamole
+remoulade sauce	brown_sauce,white_sauce,mayonnaise,italian_dressing
+retsina	fortified_wine
+rhine wine	table_wine,bordeaux
+rhone wine	table_wine,bordeaux,varietal
+rice	millet,white_rice
+rickey	cocktail,highball,collins,mixed_drink
+ricotta	mozzarella,cheese,gorgonzola,mascarpone
+riesling	pinot_noir,sauvignon_blanc,merlot,chardonnay
+risotto	pasta,paella
+rock candy	hard_candy,taffy,cotton_candy,bubble_gum
+rollmops	herring_salad
+root beer	cola,lager,weissbier
+roquefort	cheese,stilton,goat_cheese,gouda
+rosemary	marjoram,thyme,herb
+rotgut	mixed_drink,vodka
+roughage	micronutrient
+roux	white_sauce
+rum	vodka,brandy,liqueur,cognac,anisette
+rum sling	vodka,brandy,cognac,mixed_drink,madeira
+rye	wheat,barley,oat
+rye bread	white_bread
+saccharin	aspartame
+saffron	turmeric,cardamom
+salad	chicken_salad
+salad cream	mayonnaise,sauce,sour_cream
+salisbury steak	rat_cheese,taco
+salmon loaf	sweet_roll
+salt	vinegar
+salt rising bread	white_bread,wheat_flour,flour
+saltine	soda_cracker
+sambuca	pastis,liqueur,anisette,aperitif
+sandwich	chicken_sandwich,hamburger
+sarsaparilla	cola,birch_beer
+sashimi	sushi,tempura
+sauce	brown_sauce,chili_sauce,white_sauce
+sauerbraten	coq_au_vin
+sauerkraut	potato_salad
+sausage pizza	sloppy_joe,taco
+sauvignon blanc	riesling,pinot_noir,merlot
+savory	sweet
+sazerac	cocktail
+scalded milk	whole_milk,whey,dairy_product
+schnapps	vodka,triple_sec,liqueur,brandy
+schnitzel	rat_cheese
+scone	biscuit,french_toast
+scotch	whiskey,irish
+scotch and soda	schnapps
+scotch broth	casserole,soup,ragout
+scotch kiss	slivovitz
+scotch woodcock	madeira,irish
+scrambled eggs	mashed_potato
+scrapple	rat_cheese
+screwdriver	gimlet
+scrumpy	perry,cider
+seasoned salt	vinegar,chili_powder
+seltzer	lemonade
+semi skimmed milk	whole_milk
+semolina	wheat_flour,flour
+sherry	madeira,cognac,brandy,fortified_wine,wine,white_wine
+shrimp cocktail	molded_salad
+side dish	appetizer
+silage	hay
+simnel	irish
+skillet bread	hoecake
+skillet corn bread	cornmeal,flour,white_bread,flatbread
+skim milk	whole_milk,whey,buttermilk
+slivovitz	grappa,kirsch
+sloe gin	vodka,liqueur,brandy,schnapps,cocktail,rum
+slop	sling
+smoothie	fruit_juice
+snail butter	sweet_roll
+soda water	lemonade,fruit_juice,seltzer
+soft diet	sweet
+soft drink	beverage
+soft pretzel	pastry
+sorghum	millet,wheat,barley
+soup	stew,dish,chicken_soup
+sour	sweet,sour_milk
+sour bread	sweet,white_bread
+sour cream	sweet,cream_cheese,yogurt,sauce
+sour mash	whiskey,bourbon
+sour milk	yogurt,cottage_cheese,buttermilk
+sour salt	vinegar
+souvlaki	pita
+soy sauce	vinegar
+soya milk	yogurt,skim_milk,buttermilk
+soybean meal	wheat_germ
+spaghetti	carbonara,pasta
+spaghetti and meatballs	lasagna,pasta
+spaghetti sauce	tomato_sauce,carbonara,italian_dressing,brown_sauce
+sparkling wine	table_wine,champagne,bordeaux,dessert_wine
+split pea soup	stew,dish
+spoon bread	sweet_roll
+spring water	mineral_water
+spritzer	mixed_drink
+spruce beer	ale,guinness,pale_ale
+steak sauce	brown_sauce,italian_dressing,chili_sauce,barbecue_sauce
+steak tartare	fricassee
+steamed pudding	dessert,casserole,porridge
+stew	soup,fish_stew,dish,chicken_stew,ragout
+stick cinnamon	hard_candy
+stilton	roquefort,gouda,gorgonzola,goat_cheese,cheese
+stinger	stick
+stover	silage
+straw wine	table_wine
+strawberry daiquiri	triple_sec,cocktail,bloody_mary,lemonade
+strawberry ice cream	vanilla_ice_cream,ice_cream,syrup
+strawberry jam	vanilla_ice_cream
+string cheese	soda_cracker
+stuffed cabbage	stuffed_peppers
+stuffing	suds
+suet pudding	spotted_dick
+sugar	brown_sugar,syrup,molasses,corn_syrup,cane_sugar
+sugar candy	hard_candy,syrup,confectionery
+sugar syrup	brown_sugar,honey,powdered_sugar,molasses,corn_syrup
+sugar water	syrup,sugar_syrup,corn_syrup,brown_sugar,molasses
+summer savory	sweet,herb
+supper	dinner,meal
+sushi	sashimi
+swedish rye bread	rye_bread,danish
+sweet	sour
+sweet cider	sour
+sweet corn	rice
+sweet pickle	sour
+sweet vermouth	liqueur,cocktail,dry_vermouth,vodka,amaretto
+swiss cheese	gouda,cheddar,goat_cheese
+swiss steak	rat_cheese,schnitzel
+swizzle	liqueur
+syrup	sugar_syrup,sugar,sweet
+tabasco	hot_sauce
+table wine	bordeaux,straw_wine
+taco	burrito
+taco sauce	chili_sauce,chili,hot_sauce,teriyaki,guacamole
+taffy	rock_candy,candy,hard_candy,candy_bar
+tamale	taco
+tamale pie	dish
+tapioca	paddy
+tapioca pudding	dessert
+tarragon	chervil,parsley,bay_leaf,thyme,rosemary
+tartare sauce	brown_sauce,mayonnaise,tomato_sauce
+tea	oolong,black_tea,green_tea
+tea bread	sweet_roll
+tempura	sukiyaki,sushi,sashimi
+tequila	vodka,cognac,rum,brandy,whiskey
+teriyaki	sukiyaki,fried_rice
+terrine	galantine
+thyme	marjoram,bay_leaf,rosemary,tarragon,allspice,parsley,basil
+tipsy cake	dessert
+toast	french_toast,bread
+tokay	dessert_wine,muscat,straw_wine
+tomato concentrate	tomato_paste,fruit_juice
+tomato juice	fruit_juice,orange_juice,lemon_juice,tomato_paste,cranberry_juice
+tomato paste	garlic
+tomato sauce	mayonnaise,white_sauce,mustard
+tortilla chip	corn_chip,quesadilla
+tossed salad	mayonnaise,fried_egg
+treacle	trifle
+triple sec	liqueur,grenadine,coffee_liqueur,grand_marnier
+turkey stew	fish_stew,dish,goulash,chicken_stew
+turkish delight	dessert
+turmeric	coriander,ginger,fenugreek,black_pepper
+turtle soup	chicken_soup
+vanilla ice cream	custard
+vanilla pudding	custard
+varietal	pinot_noir
+velveeta	rat_cheese,cheddar,cheese
+verdicchio	pinot_noir,riesling
+vermouth	dry_vermouth,liqueur,cocktail,cognac,vodka,gin
+vichy water	spring_water,mineral_water
+vichyssoise	peach_melba
+vinegar	wine_vinegar,soy_sauce,lemon_juice,marinade,sauce
+vitamin	vitamin_d,vitamin_c,vitamin_e,micronutrient
+vitamin a	vitamin_d
+vitamin a1	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin a2	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin b1	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin b12	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin b2	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin b6	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin bc	vitamin_c,vitamin_d,vitamin_e
+vitamin c	vitamin_d,vitamin_e
+vitamin d	vitamin_c,vitamin_e,vitamin_k
+vitamin e	vitamin_c
+vitamin k	vitamin_d,vitamin_c,vitamin_e
+vitamin k1	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin k3	vitamin_d,vitamin_c,micronutrient,vitamin_e
+vitamin p	biotin
+vitamin pill	vitamin_c,vitamin_e,vitamin_d,niacin
+vodka	triple_sec,liqueur,schnapps,brandy,cocktail
+vodka martini	cocktail,triple_sec,mixed_drink,gin,schnapps,coffee_liqueur,dry_vermouth,highball
+waldorf salad	molded_salad
+wasabi	soy_sauce,horseradish
+wassail	mulled_wine
+water	spring_water,ice
+water ice	spring_water
+welsh rarebit	irish,soda_cracker
+wheat	barley,rye,oat,millet,sorghum
+wheat flour	whole_wheat_flour,cornmeal,semolina
+wheat germ	oat,bran,rye,barley
+whey	skim_milk,whole_milk,milk
+whipping cream	cream_cheese,heavy_cream,strawberry_jam
+whiskey	bourbon,vodka
+whiskey sour	vodka,cocktail,schnapps,mixed_drink,bourbon,triple_sec,brandy
+white bread	rye_bread,sweet_roll
+white pepper	paprika,black_pepper,mustard
+white rice	brown_rice
+white sauce	wine_sauce,brown_sauce,tomato_sauce
+white wine	red_wine,burgundy,table_wine,bordeaux,beaujolais
+whole milk	skim_milk,butter,whey
+whole wheat flour	wheat_flour,cornmeal,semolina
+wild rice	wheat,sorghum
+wine	table_wine,bordeaux,fortified_wine
+wine sauce	white_wine,madeira,marinade,wine_vinegar,sherry
+wine vinegar	white_wine,red_wine,sherry,soy_sauce
+winter savory	sweet,herb
+worcester sauce	brown_sauce,chili_sauce,soy_sauce
+yak butter	milk,clarified_butter,whole_milk
+yak's milk	skim_milk
+yogurt	buttermilk,sour_cream,milk,cottage_cheese
+yorkshire pudding	spotted_dick
+yquem	bordeaux
+zinfandel	pinot_noir,riesling,varietal,merlot
